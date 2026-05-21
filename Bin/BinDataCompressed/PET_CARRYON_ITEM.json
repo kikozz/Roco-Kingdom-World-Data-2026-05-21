@@ -1,0 +1,336 @@
+{
+  "RocoDataRows": {
+    "100211": {
+      "id": 100211,
+      "can_cost": 1,
+      "carryon_skill_type": 1,
+      "skill": [
+        200026
+      ]
+    },
+    "100212": {
+      "id": 100212,
+      "can_cost": 1,
+      "carryon_skill_type": 1,
+      "skill": [
+        200026
+      ]
+    },
+    "100213": {
+      "id": 100213,
+      "can_cost": 1,
+      "carryon_skill_type": 1,
+      "skill": [
+        200026
+      ]
+    },
+    "100502": {
+      "id": 100502,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 1,
+          "param2": 100
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100503": {
+      "id": 100503,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 6,
+          "param2": 200
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100504": {
+      "id": 100504,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 40,
+          "param2": 200
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100505": {
+      "id": 100505,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 41,
+          "param2": 100
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100506": {
+      "id": 100506,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 42,
+          "param2": 100
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100507": {
+      "id": 100507,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 88,
+          "param2": 100
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100508": {
+      "id": 100508,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 89,
+          "param2": 100
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100509": {
+      "id": 100509,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 80,
+          "param2": 1000
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100510": {
+      "id": 100510,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 1,
+          "param2": 2000
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100511": {
+      "id": 100511,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 84,
+          "param2": 1000
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100512": {
+      "id": 100512,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 81,
+          "param2": 1000
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100513": {
+      "id": 100513,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 81,
+          "param2": 1000
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100514": {
+      "id": 100514,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 80,
+          "param2": 300
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100515": {
+      "id": 100515,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 79,
+          "param2": 300
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100516": {
+      "id": 100516,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 84,
+          "param2": 300
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100517": {
+      "id": 100517,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 81,
+          "param2": 300
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100518": {
+      "id": 100518,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 82,
+          "param2": 300
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100519": {
+      "id": 100519,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 83,
+          "param2": 300
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100520": {
+      "id": 100520,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 87,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100521": {
+      "id": 100521,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 87,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100522": {
+      "id": 100522,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 87,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100523": {
+      "id": 100523,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 87,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100524": {
+      "id": 100524,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 86,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100525": {
+      "id": 100525,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 87,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100526": {
+      "id": 100526,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 86,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100527": {
+      "id": 100527,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 87,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100528": {
+      "id": 100528,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 86,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    },
+    "100529": {
+      "id": 100529,
+      "carryon_effect": [
+        {
+          "sequence_desc": 1,
+          "param1": 86,
+          "param2": 5
+        }
+      ],
+      "carryon_skill_type": 2
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "name": [
+        124
+      ],
+      "area_handbook_type": 1,
+      "enter_ban_id": 1,
+      "topic_red_point_id": [
+        124
+      ],
+      "count_reward_handbook_red_point_id": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "icon": "412",
+      "bg_name": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_tujian_shijie_png.img_tujian_shijie_png'",
+      "cover_res": "WORLD",
+      "cover_open_btn": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_shulan_bg.img_shulan_bg'",
+      "cover_open_btn_bg": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_lan3_png.img_kaiqi_lan3_png'",
+      "inside_open_btn": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_lan_png.img_kaiqi_lan_png'",
+      "collect_reward_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_lan2_png.img_kaiqi_lan2_png'",
+      "not_collect_node_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/img_chengjiu1_hong.img_chengjiu1_hong'",
+      "not_collect_node_bar": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_nengling_huang_png.img_nengling_huang_png'",
+      "collect_node_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_sitiao_lv_png.img_sitiao_lv_png'",
+      "bottom_cover_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_yilingqu_huang_png.img_yilingqu_huang_png'",
+      "trophy_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_neiye_lan_png.img_neiye_lan_png'",
+      "book_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_chengjiu_hong_png.img_chengjiu_hong_png'",
+      "fruit_tree_wakeup": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Bg/Frames/img_shu_lan_png.img_shu_lan_png'"
+    },
+    "2": {
+      "id": 2,
+      "name": "412",
+      "area_handbook_type": 2,
+      "enter_ban_id": 2,
+      "collected_red_point_id": [
+        1701863760,
+        1919964018,
+        660960361,
+        1835091759,
+        1699622757,
+        1668239991,
+        1867329391,
+        1701606756,
+        2035494771,
+        1835365491,
+        1851869231,
+        1869570660,
+        1632776043,
+        1866674039,
+        1852796269,
+        1634552111,
+        796091751,
+        1835102790,
+        1764717413,
+        1801414509,
+        1769040225,
+        1601596511,
+        778530416,
+        1600613737,
+        1902731627,
+        1986813801,
+        1735290975
+      ],
+      "topic_red_point_id": [
+        360
+      ],
+      "count_reward_handbook_red_point_id": [
+        356,
+        357,
+        358,
+        359
+      ],
+      "icon": "413",
+      "bg_name": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_tujian_qingfeng_png.img_tujian_qingfeng_png'",
+      "cover_res": "WINDREST",
+      "cover_open_btn": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_shulv_bg.img_shulv_bg'",
+      "cover_open_btn_bg": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_lv3_png.img_kaiqi_lv3_png'",
+      "inside_open_btn": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_lv_png.img_kaiqi_lv_png'",
+      "collect_reward_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_lv2_png.img_kaiqi_lv2_png'",
+      "not_collect_node_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/img_chengjiu1_hong.img_chengjiu1_hong'",
+      "not_collect_node_bar": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_nengling_lv_png.img_nengling_lv_png'",
+      "collect_node_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_sitiao_lv_png.img_sitiao_lv_png'",
+      "bottom_cover_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_yilingqu_lv_png.img_yilingqu_lv_png'",
+      "trophy_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_neiye_lv_png.img_neiye_lv_png'",
+      "book_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_chengjiu_hong_png.img_chengjiu_hong_png'",
+      "fruit_tree_wakeup": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Bg/Frames/img_shu_lv_png.img_shu_lv_png'"
+    },
+    "3": {
+      "id": 3,
+      "name": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_tujian_shijie_png.img_tujian_shijie_png'",
+      "area_handbook_type": 3,
+      "enter_ban_id": 3,
+      "collected_red_point_id": [
+        1701863760,
+        1919964018,
+        660960361,
+        1835091759,
+        1699622757,
+        1668239991,
+        1867329391,
+        1701606756,
+        2035494771,
+        1835365491,
+        1851869231,
+        1869570660,
+        1632776043,
+        1866674039,
+        1852796269,
+        1634552111,
+        796091751,
+        1835102790,
+        1764717413,
+        1801414509,
+        1769040225,
+        846621791,
+        1735290975,
+        1735223598,
+        1767992159,
+        1818192241,
+        1885287030
+      ],
+      "topic_red_point_id": [
+        365
+      ],
+      "count_reward_handbook_red_point_id": [
+        361,
+        362,
+        363,
+        364
+      ],
+      "icon": "414",
+      "bg_name": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_tujian_wangguo_png.img_tujian_wangguo_png'",
+      "cover_res": "ROCARIAN",
+      "cover_open_btn": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_shuhong_bg.img_shuhong_bg'",
+      "cover_open_btn_bg": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_hong3_png.img_kaiqi_hong3_png'",
+      "inside_open_btn": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_hong_png.img_kaiqi_hong_png'",
+      "collect_reward_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_kaiqi_hong2_png.img_kaiqi_hong2_png'",
+      "not_collect_node_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/img_chengjiu1_hong.img_chengjiu1_hong'",
+      "not_collect_node_bar": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_nengling_hong_png.img_nengling_hong_png'",
+      "collect_node_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_sitiao_lv_png.img_sitiao_lv_png'",
+      "bottom_cover_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_yilingqu_hong_png.img_yilingqu_hong_png'",
+      "trophy_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_neiye_hong_png.img_neiye_hong_png'",
+      "book_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_chengjiu_hong_png.img_chengjiu_hong_png'",
+      "fruit_tree_wakeup": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Bg/Frames/img_shu_hong_png.img_shu_hong_png'"
+    }
+  }
+}

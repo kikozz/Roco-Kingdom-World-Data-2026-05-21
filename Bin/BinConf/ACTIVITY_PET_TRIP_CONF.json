@@ -1,0 +1,158 @@
+{
+    "Name": "ACTIVITY_PET_TRIP_CONF",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EUint32",
+            "Offset": 0,
+            "Size": 4
+        },
+        {
+            "Name": "stop_time",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "draw_time",
+            "Type": "EString",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "pet_num",
+            "Type": "EUint32",
+            "Offset": 12,
+            "Size": 4
+        },
+        {
+            "Name": "pet_max",
+            "Type": "EUint32",
+            "Offset": 16,
+            "Size": 4
+        },
+        {
+            "Name": "condition",
+            "Type": "EUint32",
+            "Offset": 20,
+            "Size": 4
+        },
+        {
+            "Name": "initial_quota",
+            "Type": "EUint32",
+            "Offset": 24,
+            "Size": 4
+        },
+        {
+            "Name": "happiness_value",
+            "Type": "EUint32",
+            "Offset": 28,
+            "Size": 4
+        },
+        {
+            "Name": "playtime",
+            "Type": "EUint32",
+            "Offset": 32,
+            "Size": 4
+        },
+        {
+            "Name": "chose_max",
+            "Type": "EUint32",
+            "Offset": 36,
+            "Size": 4
+        },
+        {
+            "Name": "change_time",
+            "Type": "EUint32",
+            "Offset": 40,
+            "Size": 4
+        },
+        {
+            "Name": "mail_id",
+            "Type": "EUint32",
+            "Offset": 44,
+            "Size": 4
+        },
+        {
+            "Name": "bgm",
+            "Type": "EString",
+            "Offset": 48,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "award_id",
+            "Type": "EUint32",
+            "Offset": 52,
+            "Size": 4
+        },
+        {
+            "Name": "condition_group1",
+            "Type": "EStruct",
+            "Offset": 56,
+            "Size": 4,
+            "CompressedSize": 4,
+            "ArrayDim": 10,
+            "Struct": {
+                "Name": "ACTIVITY_PET_TRIP_CONF.condition_group1",
+                "Type": "EStruct",
+                "Properties": [
+                    {
+                        "Name": "happiness_num",
+                        "Type": "EUint32",
+                        "Offset": 0,
+                        "Size": 4
+                    },
+                    {
+                        "Name": "add_quota",
+                        "Type": "EUint32",
+                        "Offset": 4,
+                        "Size": 4
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "condition_group2",
+            "Type": "EStruct",
+            "Offset": 60,
+            "Size": 4,
+            "CompressedSize": 4,
+            "ArrayDim": 24,
+            "Struct": {
+                "Name": "ACTIVITY_PET_TRIP_CONF.condition_group2",
+                "Type": "EStruct",
+                "Properties": [
+                    {
+                        "Name": "happiness_stage",
+                        "Type": "EUint32",
+                        "Offset": 0,
+                        "Size": 4
+                    },
+                    {
+                        "Name": "goods_type",
+                        "Type": "EInt32",
+                        "Offset": 4,
+                        "Size": 4
+                    },
+                    {
+                        "Name": "goods_id",
+                        "Type": "EUint32",
+                        "Offset": 8,
+                        "Size": 4
+                    },
+                    {
+                        "Name": "stage_num",
+                        "Type": "EUint32",
+                        "Offset": 12,
+                        "Size": 4
+                    }
+                ]
+            }
+        }
+    ]
+}

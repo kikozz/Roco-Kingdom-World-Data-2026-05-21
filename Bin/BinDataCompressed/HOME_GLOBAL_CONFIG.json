@@ -1,0 +1,847 @@
+{
+  "RocoDataRows": {
+    "door_open_distance": {
+      "id": 13,
+      "key": "door_open_distance",
+      "editor_name": "200",
+      "is_svr_ctl": 2
+    },
+    "door_close_time": {
+      "id": 14,
+      "key": "door_close_time",
+      "editor_name": "15000",
+      "is_svr_ctl": 2
+    },
+    "home_furni_world_map_id": {
+      "id": 20,
+      "key": "home_furni_world_map_id",
+      "editor_name": "10003",
+      "is_svr_ctl": 2
+    },
+    "enter_home_tips_show_time": {
+      "id": 23,
+      "key": "enter_home_tips_show_time",
+      "editor_name": "home_edit_FOV_initial",
+      "is_svr_ctl": 2
+    },
+    "home_edit_FOV_initial": {
+      "id": 24,
+      "key": "home_edit_FOV_initial",
+      "editor_name": "plant_rise_height",
+      "is_svr_ctl": 2
+    },
+    "home_edit_FOV_change_max": {
+      "id": 25,
+      "key": "home_edit_FOV_change_max",
+      "editor_name": "12000",
+      "is_svr_ctl": 2
+    },
+    "home_edit_FOV_change_min": {
+      "id": 26,
+      "key": "home_edit_FOV_change_min",
+      "editor_name": "8000",
+      "is_svr_ctl": 2
+    },
+    "furniture_num_max": {
+      "id": 27,
+      "key": "furniture_num_max",
+      "editor_name": "200",
+      "is_svr_ctl": 2
+    },
+    "room_name_text_length": {
+      "id": 28,
+      "key": "room_name_text_length",
+      "editor_name": [
+        1,
+        4,
+        8
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_reloading_auto_confirm_time": {
+      "id": 29,
+      "key": "home_reloading_auto_confirm_time",
+      "editor_name": "home_edit_FOV_change_min",
+      "is_svr_ctl": 2
+    },
+    "home_visitor_num_max": {
+      "id": 30,
+      "key": "home_visitor_num_max",
+      "num": 12,
+      "is_svr_ctl": 2
+    },
+    "home_not_approved_times": {
+      "id": 31,
+      "key": "home_not_approved_times",
+      "editor_name": "home_edit_FOV_initial",
+      "is_svr_ctl": 2
+    },
+    "offline_visit_information_save_num": {
+      "id": 32,
+      "key": "offline_visit_information_save_num",
+      "editor_name": "furniture_probability",
+      "is_svr_ctl": 2
+    },
+    "offline_visit_information_save_time": {
+      "id": 33,
+      "key": "offline_visit_information_save_time",
+      "editor_name": "invite_visit_home_break_team_show_time",
+      "is_svr_ctl": 2
+    },
+    "home_edit_guest_tips_showtime": {
+      "id": 34,
+      "key": "home_edit_guest_tips_showtime",
+      "editor_name": "home_reloading_auto_confirm_time",
+      "is_svr_ctl": 2
+    },
+    "Furniture_ding_number": {
+      "id": 35,
+      "key": "Furniture_ding_number",
+      "editor_name": "home_edit_FOV_change_max",
+      "is_svr_ctl": 2
+    },
+    "Funiture_ding_switch": {
+      "id": 36,
+      "key": "Funiture_ding_switch",
+      "editor_name": "door_open_distance",
+      "is_svr_ctl": 2
+    },
+    "Funiture_ding_refresh_time": {
+      "id": 37,
+      "key": "Funiture_ding_refresh_time",
+      "editor_name": "10080",
+      "is_svr_ctl": 2
+    },
+    "Funiture_ding_Begin_time": {
+      "id": 38,
+      "key": "Funiture_ding_Begin_time",
+      "num": 21,
+      "numList": [
+        1919905636,
+        1701867359,
+        1768185710,
+        1851880563
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_house_flag_change_taskparagraph": {
+      "id": 40,
+      "key": "home_house_flag_change_taskparagraph",
+      "editor_name": "60115",
+      "is_svr_ctl": 1
+    },
+    "room_name": {
+      "id": 41,
+      "key": "room_name",
+      "numList": [
+        1919905636,
+        1869374303,
+        1952408947
+      ],
+      "is_svr_ctl": 1
+    },
+    "scene_magic_ban": {
+      "id": 53,
+      "key": "scene_magic_ban",
+      "numList": [
+        1701670760,
+        1920296543,
+        2002741614,
+        1684828783,
+        1885433183
+      ],
+      "is_svr_ctl": 2
+    },
+    "scene_magic_ban_plant": {
+      "id": 54,
+      "key": "scene_magic_ban_plant",
+      "numList": [
+        1702129253,
+        1869111154,
+        1952408941,
+        1601400937,
+        2003789939,
+        1835627615
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_decoration_cd": {
+      "id": 57,
+      "key": "home_decoration_cd",
+      "editor_name": "home_reloading_auto_confirm_time",
+      "is_svr_ctl": 1
+    },
+    "online_visit_tag_retain_time": {
+      "id": 58,
+      "key": "online_visit_tag_retain_time",
+      "editor_name": "home_plant_steal_attack_low",
+      "is_svr_ctl": 2
+    },
+    "enter_home_from_friend_list": {
+      "id": 59,
+      "key": "enter_home_from_friend_list",
+      "editor_name": "1057",
+      "is_svr_ctl": 2
+    },
+    "online_visit_home_enter_CD": {
+      "id": 60,
+      "key": "online_visit_home_enter_CD",
+      "editor_name": "home_edit_FOV_initial",
+      "is_svr_ctl": 2
+    },
+    "invite_visit_home_break_team_show_time": {
+      "id": 61,
+      "key": "invite_visit_home_break_team_show_time",
+      "editor_name": "home_edit_FOV_initial",
+      "is_svr_ctl": 2
+    },
+    "home_steal_reward_ratio": {
+      "id": 101,
+      "key": "home_steal_reward_ratio",
+      "num": 32,
+      "is_svr_ctl": 2
+    },
+    "home_daily_steal_reward_max": {
+      "id": 102,
+      "key": "home_daily_steal_reward_max",
+      "editor_name": "99999",
+      "is_svr_ctl": 2
+    },
+    "home_pet_left_steal_max": {
+      "id": 103,
+      "key": "home_pet_left_steal_max",
+      "editor_name": "6000",
+      "is_svr_ctl": 2
+    },
+    "home_reward_visible_distance": {
+      "id": 104,
+      "key": "home_reward_visible_distance",
+      "editor_name": "150",
+      "is_svr_ctl": 2
+    },
+    "home_steal_attack_low": {
+      "id": 105,
+      "key": "home_steal_attack_low",
+      "editor_name": "1000",
+      "num": 37,
+      "is_svr_ctl": 2
+    },
+    "home_steal_attack_middle": {
+      "id": 106,
+      "key": "home_steal_attack_middle",
+      "editor_name": "1000",
+      "num": 39,
+      "is_svr_ctl": 2
+    },
+    "home_steal_attack_high": {
+      "id": 107,
+      "key": "home_steal_attack_high",
+      "editor_name": "1000",
+      "num": 41,
+      "is_svr_ctl": 2
+    },
+    "home_steal_attack_param": {
+      "id": 108,
+      "key": "home_steal_attack_param",
+      "editor_name": "door_open_distance",
+      "is_svr_ctl": 2
+    },
+    "home_pet_bed_icon_distance": {
+      "id": 109,
+      "key": "home_pet_bed_icon_distance",
+      "editor_name": "300",
+      "is_svr_ctl": 2
+    },
+    "home_owner_visible_distance": {
+      "id": 110,
+      "key": "home_owner_visible_distance",
+      "editor_name": "300",
+      "is_svr_ctl": 2
+    },
+    "home_highlight_visible_distance": {
+      "id": 111,
+      "key": "home_highlight_visible_distance",
+      "editor_name": "300",
+      "is_svr_ctl": 2
+    },
+    "home_world_map_id": {
+      "id": 112,
+      "key": "home_world_map_id",
+      "editor_name": "10002",
+      "is_svr_ctl": 2
+    },
+    "home_call_pet_radius": {
+      "id": 113,
+      "key": "home_call_pet_radius",
+      "editor_name": "5000",
+      "is_svr_ctl": 2
+    },
+    "home_pet_feed_distance": {
+      "id": 114,
+      "key": "home_pet_feed_distance",
+      "editor_name": "1500",
+      "is_svr_ctl": 2
+    },
+    "home_pet_feed_reward_distance": {
+      "id": 115,
+      "key": "home_pet_feed_reward_distance",
+      "editor_name": "1500",
+      "is_svr_ctl": 2
+    },
+    "furniture_probability": {
+      "id": 116,
+      "key": "furniture_probability",
+      "editor_name": "5000",
+      "is_svr_ctl": 2
+    },
+    "special_furniture_probability": {
+      "id": 117,
+      "key": "special_furniture_probability",
+      "editor_name": "5000",
+      "is_svr_ctl": 2
+    },
+    "get_new_normal_furniture_times": {
+      "id": 118,
+      "key": "get_new_normal_furniture_times",
+      "editor_name": "home_edit_FOV_change_max",
+      "is_svr_ctl": 2
+    },
+    "emote_resource_path_m": {
+      "id": 119,
+      "key": "emote_resource_path_m",
+      "numList": [
+        1701670760,
+        1768187231,
+        1330012020,
+        1852399446,
+        1634301033
+      ],
+      "is_svr_ctl": 2
+    },
+    "emote_resource_path_w": {
+      "id": 120,
+      "key": "emote_resource_path_w",
+      "numList": [
+        1701670760,
+        1768187231,
+        1330012020,
+        1751342934,
+        1701277281,
+        2019650911
+      ],
+      "is_svr_ctl": 2
+    },
+    "call_resource_path": {
+      "id": 121,
+      "key": "call_resource_path",
+      "numList": [
+        1701670760,
+        1768187231,
+        1330012020,
+        1751342934,
+        1701277281,
+        1852403039
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_steal_fix_value_friend": {
+      "id": 122,
+      "key": "home_steal_fix_value_friend",
+      "is_svr_ctl": 2
+    },
+    "home_steal_fix_value_guest": {
+      "id": 123,
+      "key": "home_steal_fix_value_guest",
+      "is_svr_ctl": 2
+    },
+    "get_furniture_cd": {
+      "id": 124,
+      "key": "get_furniture_cd",
+      "editor_name": "door_open_distance",
+      "is_svr_ctl": 2
+    },
+    "pet_steal_forbidding_time": {
+      "id": 125,
+      "key": "pet_steal_forbidding_time",
+      "num": 60,
+      "is_svr_ctl": 2
+    },
+    "home_pet_feed_mail_id": {
+      "id": 126,
+      "key": "home_pet_feed_mail_id",
+      "editor_name": "900006",
+      "is_svr_ctl": 2
+    },
+    "home_feed_icon_visible_distance": {
+      "id": 127,
+      "key": "home_feed_icon_visible_distance",
+      "editor_name": "150",
+      "is_svr_ctl": 2
+    },
+    "home_feed_resource_path": {
+      "id": 128,
+      "key": "home_feed_resource_path",
+      "numList": [
+        1852994918,
+        1920300137,
+        1970167653,
+        1634557805
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_steal_reward_resource_path": {
+      "id": 129,
+      "key": "home_steal_reward_resource_path",
+      "numList": [
+        1836019570,
+        1835101791,
+        1702125413,
+        1818195064,
+        1952935525
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_petbed_camera_param": {
+      "id": 130,
+      "key": "home_petbed_camera_param",
+      "num": 66,
+      "is_svr_ctl": 2
+    },
+    "home_pet_feed_cd_distance": {
+      "id": 131,
+      "key": "home_pet_feed_cd_distance",
+      "editor_name": "150",
+      "is_svr_ctl": 2
+    },
+    "home_pet_bed_none_distance": {
+      "id": 132,
+      "key": "home_pet_bed_none_distance",
+      "editor_name": "1500",
+      "is_svr_ctl": 2
+    },
+    "plant_initial_coord": {
+      "id": 201,
+      "key": "plant_initial_coord",
+      "editor_name": "73010008",
+      "is_svr_ctl": 2
+    },
+    "plant_length_side": {
+      "id": 202,
+      "key": "plant_length_side",
+      "editor_name": "160",
+      "is_svr_ctl": 2
+    },
+    "plant_seed_bagitem_id": {
+      "id": 203,
+      "key": "plant_seed_bagitem_id",
+      "editor_name": "331000",
+      "is_svr_ctl": 2
+    },
+    "plant_seed_harvestimg_path": {
+      "id": 204,
+      "key": "plant_seed_harvestimg_path",
+      "numList": [
+        1701670760,
+        1818587743,
+        1768186223,
+        1633642350,
+        1601139829,
+        1718513507,
+        1601008233,
+        1701669236
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_coord_noticeboard": {
+      "id": 205,
+      "key": "plant_coord_noticeboard",
+      "editor_name": "701129",
+      "is_svr_ctl": 2
+    },
+    "plant_coord_role_select_length": {
+      "id": 206,
+      "key": "plant_coord_role_select_length",
+      "editor_name": "160",
+      "is_svr_ctl": 2
+    },
+    "plant_coord_role_select_high": {
+      "id": 207,
+      "key": "plant_coord_role_select_high",
+      "editor_name": "150",
+      "is_svr_ctl": 2
+    },
+    "plant_coord_noticeboard_rotate": {
+      "id": 208,
+      "key": "plant_coord_noticeboard_rotate",
+      "editor_name": "73010005",
+      "is_svr_ctl": 2
+    },
+    "plant_seed_rotate": {
+      "id": 209,
+      "key": "plant_seed_rotate",
+      "editor_name": "73010005",
+      "is_svr_ctl": 2
+    },
+    "plant_steal_forbidding_time": {
+      "id": 210,
+      "key": "plant_steal_forbidding_time",
+      "num": 60,
+      "is_svr_ctl": 2
+    },
+    "plant_steal_same_plant_role_max": {
+      "id": 211,
+      "key": "plant_steal_same_plant_role_max",
+      "editor_name": "door_close_time",
+      "is_svr_ctl": 2
+    },
+    "plant_rise_height": {
+      "id": 212,
+      "key": "plant_rise_height",
+      "editor_name": "invite_visit_home_break_team_show_time",
+      "is_svr_ctl": 2
+    },
+    "plant_guard_pet_birth_point": {
+      "id": 218,
+      "key": "plant_guard_pet_birth_point",
+      "editor_name": "73010013",
+      "is_svr_ctl": 2
+    },
+    "plant_steal_num_max": {
+      "id": 219,
+      "key": "plant_steal_num_max",
+      "editor_name": "home_plant_steal_attack_low",
+      "is_svr_ctl": 2
+    },
+    "plant_water_path": {
+      "id": 220,
+      "key": "plant_water_path",
+      "numList": [
+        1701670760,
+        1936291423,
+        1919906921,
+        1836412511,
+        2019650911
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_manure_path": {
+      "id": 221,
+      "key": "plant_manure_path",
+      "numList": [
+        1,
+        4,
+        8
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_get_path": {
+      "id": 222,
+      "key": "plant_get_path",
+      "numList": [
+        1701670760,
+        1953459807,
+        1886413151,
+        1702260594,
+        1769234276
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_guard_pet_birth_num": {
+      "id": 223,
+      "key": "plant_guard_pet_birth_num",
+      "editor_name": "door_open_distance",
+      "is_svr_ctl": 2
+    },
+    "plant_coord_noticeboard_head_icon": {
+      "id": 224,
+      "key": "plant_coord_noticeboard_head_icon",
+      "numList": [
+        1818650223,
+        1600482921,
+        1769171318,
+        1852399476,
+        1836216166,
+        1869182049,
+        1634951022,
+        1851745654
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_pet_water_distance": {
+      "id": 225,
+      "key": "plant_pet_water_distance",
+      "editor_name": "8000",
+      "is_svr_ctl": 2
+    },
+    "plant_pet_manure_distance": {
+      "id": 226,
+      "key": "plant_pet_manure_distance",
+      "editor_name": "8000",
+      "is_svr_ctl": 2
+    },
+    "plant_pet_pick_distance": {
+      "id": 227,
+      "key": "plant_pet_pick_distance",
+      "editor_name": "8000",
+      "is_svr_ctl": 2
+    },
+    "home_check_in_spawn_offset_z": {
+      "id": 228,
+      "key": "home_check_in_spawn_offset_z",
+      "editor_name": [
+        0,
+        8
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_initiative_behavior_probabilities": {
+      "id": 229,
+      "key": "home_initiative_behavior_probabilities",
+      "num": 93,
+      "is_svr_ctl": 2
+    },
+    "home_pet_init_hallway_pos": {
+      "id": 230,
+      "key": "home_pet_init_hallway_pos",
+      "num": 95,
+      "is_svr_ctl": 2
+    },
+    "home_plant_chat_multi_interflow": {
+      "id": 231,
+      "key": "home_plant_chat_multi_interflow",
+      "is_svr_ctl": 2
+    },
+    "home_room_expand_select": {
+      "id": 232,
+      "key": "home_room_expand_select",
+      "num": 98,
+      "is_svr_ctl": 2
+    },
+    "home_visit_level": {
+      "id": 233,
+      "key": "home_visit_level",
+      "editor_name": "home_furni_world_map_id",
+      "is_svr_ctl": 2
+    },
+    "home_bigworld_level_0": {
+      "id": 234,
+      "key": "home_bigworld_level_0",
+      "numList": [
+        1818650223,
+        1600482921,
+        1769171318,
+        1852399476,
+        1836216166,
+        1869182049,
+        1634951022,
+        1952408950
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_bigworld_level_1": {
+      "id": 235,
+      "key": "home_bigworld_level_1",
+      "numList": [
+        1701670760,
+        1768187231,
+        1969708916,
+        1601467237,
+        1936746868,
+        1869116255,
+        1835627639
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_bigworld_level_2": {
+      "id": 236,
+      "key": "home_bigworld_level_2",
+      "numList": [
+        1852994886,
+        1920300137,
+        1768185701,
+        1851746158,
+        1700949365
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_bigworld_level_3": {
+      "id": 237,
+      "key": "home_bigworld_level_3",
+      "numList": [
+        1768846662,
+        1701999988,
+        1852400735,
+        2004049767,
+        1751348329
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_bigworld_level_4": {
+      "id": 238,
+      "key": "home_bigworld_level_4",
+      "numList": [
+        1768846662,
+        1701999988,
+        1852400735,
+        1701994343,
+        1936028262,
+        1769234280
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_bigworld_level_5": {
+      "id": 239,
+      "key": "home_bigworld_level_5",
+      "numList": [
+        1768846662,
+        1701999988,
+        1852400735,
+        1698848615,
+        1601071463,
+        1701669236
+      ],
+      "is_svr_ctl": 2
+    },
+    "home_visit_cd": {
+      "id": 240,
+      "key": "home_visit_cd",
+      "editor_name": "door_open_distance",
+      "is_svr_ctl": 2
+    },
+    "home_plant_sell_press": {
+      "id": 241,
+      "key": "home_plant_sell_press",
+      "num": 108,
+      "is_svr_ctl": 2
+    },
+    "home_plant_sell_press_start": {
+      "id": 242,
+      "key": "home_plant_sell_press_start",
+      "editor_name": "3000",
+      "is_svr_ctl": 2
+    },
+    "HOME_EDITTING_SHOW_NPCS": {
+      "id": 243,
+      "key": "HOME_EDITTING_SHOW_NPCS",
+      "num": 111,
+      "is_svr_ctl": 2
+    },
+    "home_layout_release_CD": {
+      "id": 244,
+      "key": "home_layout_release_CD",
+      "editor_name": "invite_visit_home_break_team_show_time",
+      "is_svr_ctl": 2
+    },
+    "home_visit_reload_time": {
+      "id": 245,
+      "key": "home_visit_reload_time",
+      "editor_name": "210",
+      "is_svr_ctl": 2
+    },
+    "plant_empty_plant": {
+      "id": 301,
+      "key": "plant_empty_plant",
+      "editor_name": "701128",
+      "is_svr_ctl": 2
+    },
+    "enter_plant_from_friend_list": {
+      "id": 302,
+      "key": "enter_plant_from_friend_list",
+      "editor_name": "1072",
+      "is_svr_ctl": 2
+    },
+    "home_main_UI": {
+      "id": 303,
+      "key": "home_main_UI",
+      "numList": [
+        0
+      ],
+      "is_svr_ctl": 2
+    },
+    "visit_home_main_UI": {
+      "id": 304,
+      "key": "visit_home_main_UI",
+      "numList": [
+        1701670760,
+        1970235487,
+        1717527923,
+        1600610668,
+        1851877475,
+        1952408935,
+        1886090081,
+        1734439521,
+        1752195442
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_main_UI": {
+      "id": 305,
+      "key": "plant_main_UI",
+      "numList": [
+        1836019570,
+        1835101791
+      ],
+      "is_svr_ctl": 2
+    },
+    "plant_guard_pet_random_point": {
+      "id": 306,
+      "key": "plant_guard_pet_random_point",
+      "editor_name": "73010029",
+      "is_svr_ctl": 2
+    },
+    "home_plant_steal_attack_low": {
+      "id": 307,
+      "key": "home_plant_steal_attack_low",
+      "editor_name": "10000",
+      "is_svr_ctl": 2
+    },
+    "home_plant_steal_attack_middle": {
+      "id": 308,
+      "key": "home_plant_steal_attack_middle",
+      "editor_name": "10000",
+      "is_svr_ctl": 2
+    },
+    "home_plant_steal_attack_high": {
+      "id": 309,
+      "key": "home_plant_steal_attack_high",
+      "editor_name": "10000",
+      "is_svr_ctl": 2
+    },
+    "home_plant_steal_attack_CD": {
+      "id": 310,
+      "key": "home_plant_steal_attack_CD",
+      "editor_name": "1800",
+      "is_svr_ctl": 2
+    },
+    "plant_water_tips_height_born": {
+      "id": 311,
+      "key": "plant_water_tips_height_born",
+      "editor_name": "255",
+      "is_svr_ctl": 2
+    },
+    "plant_water_no_tips_dist": {
+      "id": 312,
+      "key": "plant_water_no_tips_dist",
+      "editor_name": "2000",
+      "is_svr_ctl": 2
+    },
+    "furniture_handbook_friendinformation_num": {
+      "id": 313,
+      "key": "furniture_handbook_friendinformation_num",
+      "editor_name": "furniture_probability",
+      "is_svr_ctl": 2
+    },
+    "invite_home_owner_timeout": {
+      "id": 314,
+      "key": "invite_home_owner_timeout",
+      "editor_name": "1800",
+      "is_svr_ctl": 2
+    },
+    "furniture_craftable_friend_list_pagination_threshold": {
+      "id": 315,
+      "key": "furniture_craftable_friend_list_pagination_threshold",
+      "editor_name": "500",
+      "is_svr_ctl": 2
+    }
+  }
+}

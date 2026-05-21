@@ -1,0 +1,300 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "scene_id": 103,
+      "scene_res_id": 10010,
+      "enter_content": 1,
+      "exit_content": 2
+    },
+    "2": {
+      "id": 2,
+      "scene_id": 210,
+      "scene_res_id": 20010,
+      "enter_content": 3
+    },
+    "3": {
+      "id": 3,
+      "scene_id": 211,
+      "scene_res_id": 20011,
+      "enter_content": 4
+    },
+    "4": {
+      "id": 4,
+      "scene_id": 113,
+      "scene_res_id": 10013,
+      "enter_content": 5
+    },
+    "5": {
+      "id": 5,
+      "scene_id": 103,
+      "scene_res_id": 10022,
+      "enter_content": 6,
+      "exit_content": 7
+    },
+    "6": {
+      "id": 6,
+      "scene_id": 103,
+      "scene_res_id": 10026,
+      "enter_content": 8,
+      "exit_content": 9
+    },
+    "7": {
+      "id": 7,
+      "scene_id": 103,
+      "scene_res_id": 10027,
+      "enter_content": 10,
+      "exit_content": 11,
+      "task_enter_exit": [
+        {
+          "story_flag_id": 8704,
+          "task_enter_content": 73,
+          "task_exit_content": 74
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "scene_id": 131,
+      "scene_res_id": 10031,
+      "enter_content": 13
+    },
+    "9": {
+      "id": 9,
+      "scene_id": 103,
+      "scene_res_id": 10028,
+      "enter_content": 14,
+      "exit_content": 15
+    },
+    "10": {
+      "id": 10,
+      "scene_id": 129,
+      "scene_res_id": 10029,
+      "enter_content": 16,
+      "exit_content": 11
+    },
+    "11": {
+      "id": 11,
+      "scene_id": 103,
+      "scene_res_id": 10017,
+      "enter_content": 17,
+      "exit_content": 18
+    },
+    "12": {
+      "id": 12,
+      "scene_id": 132,
+      "scene_res_id": 10032,
+      "enter_content": 19,
+      "exit_content": 20
+    },
+    "13": {
+      "id": 13,
+      "scene_id": 103,
+      "scene_res_id": 10034,
+      "enter_content": 21,
+      "exit_content": 22
+    },
+    "14": {
+      "id": 14,
+      "scene_id": 201,
+      "scene_res_id": 20001,
+      "enter_content": 23
+    },
+    "15": {
+      "id": 15,
+      "scene_id": 202,
+      "scene_res_id": 20002,
+      "enter_content": 24
+    },
+    "16": {
+      "id": 16,
+      "scene_id": 203,
+      "scene_res_id": 20003,
+      "enter_content": 25
+    },
+    "17": {
+      "id": 17,
+      "scene_id": 204,
+      "scene_res_id": 20004,
+      "enter_content": 26
+    },
+    "18": {
+      "id": 18,
+      "scene_id": 205,
+      "scene_res_id": 20005,
+      "enter_content": 27
+    },
+    "19": {
+      "id": 19,
+      "scene_id": 206,
+      "scene_res_id": 20006,
+      "enter_content": 28
+    },
+    "20": {
+      "id": 20,
+      "scene_id": 207,
+      "scene_res_id": 20007,
+      "enter_content": 29
+    },
+    "21": {
+      "id": 21,
+      "scene_id": 209,
+      "scene_res_id": 20009,
+      "enter_content": 30
+    },
+    "22": {
+      "id": 22,
+      "scene_id": 214,
+      "scene_res_id": 20014,
+      "enter_content": 31
+    },
+    "23": {
+      "id": 23,
+      "scene_id": 215,
+      "scene_res_id": 20015,
+      "enter_content": 32
+    },
+    "24": {
+      "id": 24,
+      "scene_id": 233,
+      "scene_res_id": 20033,
+      "enter_content": 33
+    },
+    "25": {
+      "id": 25,
+      "scene_id": 243,
+      "scene_res_id": 20043,
+      "enter_content": 34,
+      "exit_content": 35
+    },
+    "26": {
+      "id": 26,
+      "scene_id": 103,
+      "scene_res_id": 10019,
+      "enter_content": 36,
+      "exit_content": 37
+    },
+    "27": {
+      "id": 27,
+      "scene_id": 103,
+      "scene_res_id": 10020,
+      "enter_content": 38,
+      "exit_content": 39
+    },
+    "32": {
+      "id": 32,
+      "scene_id": 103,
+      "scene_res_id": 10036,
+      "enter_content": 40,
+      "exit_content": 41
+    },
+    "33": {
+      "id": 33,
+      "scene_id": 103,
+      "scene_res_id": 10037,
+      "enter_content": 42,
+      "exit_content": 43
+    },
+    "34": {
+      "id": 34,
+      "scene_id": 301,
+      "scene_res_id": 30001,
+      "enter_content": 44,
+      "exit_content": 45
+    },
+    "35": {
+      "id": 35,
+      "scene_id": 301,
+      "scene_res_id": 30002,
+      "enter_content": 46,
+      "exit_content": 47
+    },
+    "36": {
+      "id": 36,
+      "scene_id": 133,
+      "scene_res_id": 10033,
+      "enter_content": 48
+    },
+    "37": {
+      "id": 37,
+      "scene_id": 103,
+      "scene_res_id": 50001,
+      "enter_content": 49
+    },
+    "38": {
+      "id": 38,
+      "scene_id": 103,
+      "scene_res_id": 10035,
+      "enter_content": 50,
+      "exit_content": 51
+    },
+    "39": {
+      "id": 39,
+      "scene_id": 103,
+      "scene_res_id": 10039,
+      "enter_content": 52,
+      "exit_content": 53
+    },
+    "40": {
+      "id": 40,
+      "scene_id": 103,
+      "scene_res_id": 10047,
+      "enter_content": 54,
+      "exit_content": 55
+    },
+    "41": {
+      "id": 41,
+      "scene_id": 103,
+      "scene_res_id": 10043,
+      "enter_content": 56,
+      "exit_content": 57,
+      "task_enter_exit": [
+        {
+          "task_enter_content": 75,
+          "task_exit_content": 76
+        }
+      ]
+    },
+    "42": {
+      "id": 42,
+      "scene_id": 103,
+      "scene_res_id": 10044,
+      "enter_content": 59,
+      "exit_content": 60
+    },
+    "43": {
+      "id": 43,
+      "scene_id": 103,
+      "scene_res_id": 10045,
+      "enter_content": 61,
+      "exit_content": 62
+    },
+    "44": {
+      "id": 44,
+      "scene_id": 103,
+      "scene_res_id": 10046,
+      "enter_content": 63,
+      "exit_content": 64
+    },
+    "45": {
+      "id": 45,
+      "scene_id": 103,
+      "scene_res_id": 10038,
+      "enter_content": 65,
+      "exit_content": 66,
+      "task_enter_exit": [
+        {
+          "task_enter_content": 77,
+          "task_exit_content": 78
+        }
+      ]
+    },
+    "46": {
+      "id": 46,
+      "scene_id": 103,
+      "scene_res_id": 50002,
+      "enter_content": 68,
+      "exit_content": 69
+    }
+  }
+}

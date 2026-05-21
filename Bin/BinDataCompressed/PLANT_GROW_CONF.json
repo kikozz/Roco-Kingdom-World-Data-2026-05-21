@@ -1,0 +1,5500 @@
+{
+  "RocoDataRows": {
+    "330001": {
+      "id": 330001,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100604,
+      "home_lv": 1,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 99,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 104,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 108,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330002": {
+      "id": 330002,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100605,
+      "home_lv": 7,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 112,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 113,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 114,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330003": {
+      "id": 330003,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100606,
+      "home_lv": 19,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 115,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 116,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 117,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330004": {
+      "id": 330004,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100607,
+      "home_lv": 13,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 118,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 119,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 120,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330005": {
+      "id": 330005,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100608,
+      "home_lv": 9,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 121,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 122,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 123,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330006": {
+      "id": 330006,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100622,
+      "home_lv": 6,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 124,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 125,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 126,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330007": {
+      "id": 330007,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100623,
+      "home_lv": 2,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 127,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 128,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 129,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330008": {
+      "id": 330008,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100624,
+      "home_lv": 5,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 130,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 131,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 132,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330009": {
+      "id": 330009,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100627,
+      "home_lv": 4,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 133,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 134,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 135,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330010": {
+      "id": 330010,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100661,
+      "home_lv": 3,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 136,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 137,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 138,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330011": {
+      "id": 330011,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100662,
+      "home_lv": 12,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 139,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 140,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 141,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330012": {
+      "id": 330012,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100664,
+      "home_lv": 20,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 142,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 143,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 144,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330013": {
+      "id": 330013,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100665,
+      "home_lv": 17,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 145,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 146,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 147,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330014": {
+      "id": 330014,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100666,
+      "home_lv": 10,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 148,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 149,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 150,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330015": {
+      "id": 330015,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100667,
+      "home_lv": 21,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 151,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 152,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 153,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330016": {
+      "id": 330016,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100668,
+      "home_lv": 18,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 154,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 155,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 156,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330017": {
+      "id": 330017,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100669,
+      "home_lv": 14,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 157,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 158,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 159,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330018": {
+      "id": 330018,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100670,
+      "home_lv": 23,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 160,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 161,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 162,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330019": {
+      "id": 330019,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100674,
+      "home_lv": 22,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 163,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 164,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 165,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330020": {
+      "id": 330020,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100840,
+      "home_lv": 15,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 166,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 167,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 168,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330021": {
+      "id": 330021,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100841,
+      "home_lv": 24,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 169,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 170,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 171,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330022": {
+      "id": 330022,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100844,
+      "home_lv": 8,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 172,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 173,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 174,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330023": {
+      "id": 330023,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100846,
+      "home_lv": 11,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 175,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 176,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 177,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    },
+    "330024": {
+      "id": 330024,
+      "plant_tab": [
+        1,
+        2,
+        3
+      ],
+      "plant_harvest": 100850,
+      "home_lv": 16,
+      "plant_grow_grade": [
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 1000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 60,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 60,
+          "get_star_light_value_owner": 111667,
+          "get_star_light_value_visitor": 2238806,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 21600,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 178,
+          "model_scale": 100,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            50,
+            51,
+            52
+          ],
+          "plant_reap_percent": [
+            26,
+            27,
+            28
+          ],
+          "plant_harvest_standard": 102,
+          "steal_same_plant_num_max": 4,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 2,
+              "steal_plant_num_per": 7000
+            },
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 1500
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 375
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 12,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 2000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 120,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 120,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 43200,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 179,
+          "model_scale": 105,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            80,
+            81,
+            82
+          ],
+          "plant_reap_percent": [
+            32,
+            33,
+            34
+          ],
+          "plant_harvest_standard": 106,
+          "steal_same_plant_num_max": 8,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 3,
+              "steal_plant_num_per": 6000
+            },
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 2100
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 1120
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 16,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        },
+        {
+          "plant_vitem_type": 1,
+          "plant_vitem_value": 3000,
+          "vitem_type_get": 45,
+          "vitem_type_get_value": 240,
+          "harvest_vitem_type_get": 45,
+          "harvest_vitem_type_get_value": 240,
+          "get_star_light_value_owner": 83334,
+          "get_star_light_value_visitor": 4000000,
+          "water_reduce_plant_grow_time_para": 300000,
+          "water_continue_max_time_para": 98,
+          "water_reduce_limit_percent_para": 86400,
+          "manure_add_harvest_percent": [
+            6,
+            12
+          ],
+          "manure_cd": 180,
+          "model_scale": 109,
+          "plant_grow": [
+            {
+              "plant_npc_refresh_id": 1207959552
+            },
+            {}
+          ],
+          "plant_reap_num": [
+            33423359,
+            -805306368,
+            754974727,
+            2013265920,
+            754974720,
+            2013265920,
+            -2046820352,
+            325,
+            -536855287,
+            1644168339,
+            -1073741824,
+            1677721768,
+            1895825408,
+            1761607680,
+            1694498816,
+            335544320,
+            67108864,
+            1778384896,
+            134217728,
+            1795162112,
+            268435456,
+            67108864
+          ],
+          "plant_reap_percent": [
+            38,
+            39,
+            40
+          ],
+          "plant_harvest_standard": 110,
+          "steal_same_plant_num_max": 12,
+          "steal_plant_expectation": [
+            {
+              "steal_plant_num": 4,
+              "steal_plant_num_per": 3700
+            },
+            {
+              "steal_plant_num": 5,
+              "steal_plant_num_per": 6400
+            },
+            {
+              "steal_plant_num": 6,
+              "steal_plant_num_per": 200
+            }
+          ],
+          "steal_same_plant_harvest_num_max": 20,
+          "steal_plant_harvest_expectation": [
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 65536000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 131072000
+            },
+            {
+              "steal_plant_harvest_num": 130559,
+              "steal_plant_harvest_num_per": 196608000
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

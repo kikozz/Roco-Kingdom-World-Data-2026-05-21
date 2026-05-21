@@ -1,0 +1,291 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "model_conf": 15043,
+      "editor_name": "透明的npc",
+      "max_size": 20,
+      "life_time": 40
+    },
+    "2": {
+      "id": 2,
+      "model_conf": 17008,
+      "editor_name": "透明NPC带碰撞",
+      "max_size": 20,
+      "life_time": 40
+    },
+    "3": {
+      "id": 3,
+      "model_conf": 15060,
+      "editor_name": "光点测试",
+      "max_size": 20,
+      "life_time": 40
+    },
+    "4": {
+      "id": 4,
+      "model_conf": 17009,
+      "editor_name": "星星魔法",
+      "max_size": 10,
+      "life_time": 20
+    },
+    "5": {
+      "id": 5,
+      "model_conf": 15282,
+      "editor_name": "留痕羽毛笔",
+      "max_size": 20,
+      "life_time": 60
+    },
+    "6": {
+      "id": 6,
+      "model_conf": 15290,
+      "editor_name": "留影沙漏",
+      "max_size": 20,
+      "life_time": 60
+    },
+    "7": {
+      "id": 7,
+      "model_conf": 15169,
+      "editor_name": "黄石榴石-小",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "8": {
+      "id": 8,
+      "model_conf": 15170,
+      "editor_name": "黄石榴石-中",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "9": {
+      "id": 9,
+      "model_conf": 15171,
+      "editor_name": "黄石榴石-大",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "10": {
+      "id": 10,
+      "model_conf": 15177,
+      "editor_name": "蓝晶碧玺-小",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "11": {
+      "id": 11,
+      "model_conf": 15178,
+      "editor_name": "蓝晶碧玺-中",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "12": {
+      "id": 12,
+      "model_conf": 15179,
+      "editor_name": "蓝晶碧玺-大",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "13": {
+      "id": 13,
+      "model_conf": 15185,
+      "editor_name": "紫莲刚玉-小",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "14": {
+      "id": 14,
+      "model_conf": 15186,
+      "editor_name": "紫莲刚玉-中",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "15": {
+      "id": 15,
+      "model_conf": 15187,
+      "editor_name": "紫莲刚玉-大",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "16": {
+      "id": 16,
+      "model_conf": 15193,
+      "editor_name": "冰晶锥矿-小",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "17": {
+      "id": 17,
+      "model_conf": 15194,
+      "editor_name": "冰晶锥矿-中",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "18": {
+      "id": 18,
+      "model_conf": 15195,
+      "editor_name": "冰晶锥矿-大",
+      "max_size": 8,
+      "life_time": 20
+    },
+    "19": {
+      "id": 19,
+      "model_conf": 20044,
+      "editor_name": "藻羽花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "20": {
+      "id": 20,
+      "model_conf": 20045,
+      "editor_name": "彩玉花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "21": {
+      "id": 21,
+      "model_conf": 20046,
+      "editor_name": "象牙花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "22": {
+      "id": 22,
+      "model_conf": 20047,
+      "editor_name": "风卷草",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "23": {
+      "id": 23,
+      "model_conf": 20048,
+      "editor_name": "紫雀花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "24": {
+      "id": 24,
+      "model_conf": 20049,
+      "editor_name": "海神花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "25": {
+      "id": 25,
+      "model_conf": 20050,
+      "editor_name": "幽幽鬼火",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "26": {
+      "id": 26,
+      "model_conf": 20051,
+      "editor_name": "海珊瑚",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "27": {
+      "id": 27,
+      "model_conf": 20007,
+      "editor_name": "鸟巢",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "28": {
+      "id": 28,
+      "model_conf": 20008,
+      "editor_name": "星霜花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "29": {
+      "id": 29,
+      "model_conf": 20009,
+      "editor_name": "雪菇",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "30": {
+      "id": 30,
+      "model_conf": 20010,
+      "editor_name": "骨片",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "31": {
+      "id": 31,
+      "model_conf": 20011,
+      "editor_name": "花星角",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "32": {
+      "id": 32,
+      "model_conf": 20012,
+      "editor_name": "荧光兰",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "33": {
+      "id": 33,
+      "model_conf": 20013,
+      "editor_name": "大嘴花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "34": {
+      "id": 34,
+      "model_conf": 20014,
+      "editor_name": "流星兰",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "35": {
+      "id": 35,
+      "model_conf": 20015,
+      "editor_name": "紫晶菇",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "36": {
+      "id": 36,
+      "model_conf": 20016,
+      "editor_name": "海桑花",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "37": {
+      "id": 37,
+      "model_conf": 20017,
+      "editor_name": "恶魔雪茄",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "38": {
+      "id": 38,
+      "model_conf": 20018,
+      "editor_name": "海星石",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "39": {
+      "id": 39,
+      "model_conf": 20019,
+      "editor_name": "毒笼草",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "40": {
+      "id": 40,
+      "model_conf": 20020,
+      "editor_name": "火焰石",
+      "max_size": 20,
+      "life_time": 30
+    },
+    "41": {
+      "id": 41,
+      "model_conf": 20021,
+      "editor_name": "火焰花",
+      "max_size": 20,
+      "life_time": 30
+    }
+  }
+}

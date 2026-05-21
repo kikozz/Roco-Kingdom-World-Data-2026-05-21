@@ -1,0 +1,16 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "name": "默认",
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100956.100956'",
+      "is_initial": true
+    },
+    "2": {
+      "id": 2,
+      "name": "狂欢夜",
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100955.100955'",
+      "skin_path": "MaterialInstanceConstant'/Game/ArtRes/Asset/Environment/SAnimation/SM_Game_Camera_01/MI_Game_Camera_02.MI_Game_Camera_02'"
+    }
+  }
+}

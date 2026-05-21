@@ -1,0 +1,424 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "box_npc_id": 292001,
+      "box_face_number": 1,
+      "text": "BP",
+      "box_icon_type": 1,
+      "param": [
+        3531,
+        3572
+      ]
+    },
+    "2": {
+      "id": 2,
+      "box_npc_id": 292001,
+      "box_face_number": 2,
+      "text": "稀有赛季",
+      "box_icon_type": 1,
+      "param": [
+        3487,
+        3677,
+        3736
+      ]
+    },
+    "3": {
+      "id": 3,
+      "box_npc_id": 292001,
+      "box_face_number": 3,
+      "text": "赛季",
+      "box_icon_type": 1,
+      "param": [
+        3729,
+        3659,
+        3683,
+        3708,
+        3234
+      ]
+    },
+    "4": {
+      "id": 4,
+      "box_npc_id": 292001,
+      "box_face_number": 4,
+      "text": "稀有常驻",
+      "box_icon_type": 1,
+      "param": [
+        3398,
+        3118
+      ]
+    },
+    "5": {
+      "id": 5,
+      "box_npc_id": 292001,
+      "box_face_number": 5
+    },
+    "6": {
+      "id": 6,
+      "box_npc_id": 292001,
+      "box_face_number": 6,
+      "text": "噩梦",
+      "box_icon_type": 2,
+      "param": [
+        1
+      ]
+    },
+    "7": {
+      "id": 7,
+      "box_npc_id": 292001,
+      "box_face_number": 7,
+      "text": "异色",
+      "box_icon_type": 3,
+      "param": [
+        2
+      ]
+    },
+    "8": {
+      "id": 8,
+      "box_npc_id": 292001,
+      "box_face_number": 8,
+      "text": "奇异血脉",
+      "box_icon_type": 4,
+      "param": [
+        3
+      ]
+    },
+    "9": {
+      "id": 9,
+      "box_npc_id": 292001,
+      "box_face_number": 9,
+      "text": "混血血脉",
+      "box_icon_type": 5,
+      "param": [
+        4
+      ]
+    },
+    "10": {
+      "id": 10,
+      "box_npc_id": 292001,
+      "box_face_number": 10
+    },
+    "11": {
+      "id": 11,
+      "box_npc_id": 292001,
+      "box_face_number": 11,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "12": {
+      "id": 12,
+      "box_npc_id": 292001,
+      "box_face_number": 12,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "13": {
+      "id": 13,
+      "box_npc_id": 292001,
+      "box_face_number": 13,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "14": {
+      "id": 14,
+      "box_npc_id": 292001,
+      "box_face_number": 14,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "15": {
+      "id": 15,
+      "box_npc_id": 292001,
+      "box_face_number": 15,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "16": {
+      "id": 16,
+      "box_npc_id": 292001,
+      "box_face_number": 16,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "17": {
+      "id": 17,
+      "box_npc_id": 292002,
+      "box_face_number": 1,
+      "text": "BP",
+      "box_icon_type": 1,
+      "param": [
+        3531,
+        3572
+      ]
+    },
+    "18": {
+      "id": 18,
+      "box_npc_id": 292002,
+      "box_face_number": 2,
+      "text": "稀有赛季",
+      "box_icon_type": 1,
+      "param": [
+        3487,
+        3677,
+        3736
+      ]
+    },
+    "19": {
+      "id": 19,
+      "box_npc_id": 292002,
+      "box_face_number": 3,
+      "text": "赛季",
+      "box_icon_type": 1,
+      "param": [
+        3729,
+        3659,
+        3683,
+        3708,
+        3234
+      ]
+    },
+    "20": {
+      "id": 20,
+      "box_npc_id": 292002,
+      "box_face_number": 4,
+      "text": "稀有常驻",
+      "box_icon_type": 1,
+      "param": [
+        3398,
+        3118
+      ]
+    },
+    "21": {
+      "id": 21,
+      "box_npc_id": 292002,
+      "box_face_number": 5
+    },
+    "22": {
+      "id": 22,
+      "box_npc_id": 292002,
+      "box_face_number": 6,
+      "text": "噩梦",
+      "box_icon_type": 2,
+      "param": [
+        1
+      ]
+    },
+    "23": {
+      "id": 23,
+      "box_npc_id": 292002,
+      "box_face_number": 7,
+      "text": "异色",
+      "box_icon_type": 3,
+      "param": [
+        2
+      ]
+    },
+    "24": {
+      "id": 24,
+      "box_npc_id": 292002,
+      "box_face_number": 8,
+      "text": "奇异血脉",
+      "box_icon_type": 4,
+      "param": [
+        3
+      ]
+    },
+    "25": {
+      "id": 25,
+      "box_npc_id": 292002,
+      "box_face_number": 9,
+      "text": "混血血脉",
+      "box_icon_type": 5,
+      "param": [
+        4
+      ]
+    },
+    "26": {
+      "id": 26,
+      "box_npc_id": 292002,
+      "box_face_number": 10
+    },
+    "27": {
+      "id": 27,
+      "box_npc_id": 292002,
+      "box_face_number": 11,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "28": {
+      "id": 28,
+      "box_npc_id": 292002,
+      "box_face_number": 12,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "29": {
+      "id": 29,
+      "box_npc_id": 292002,
+      "box_face_number": 13,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "30": {
+      "id": 30,
+      "box_npc_id": 292002,
+      "box_face_number": 14,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "31": {
+      "id": 31,
+      "box_npc_id": 292002,
+      "box_face_number": 15,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "32": {
+      "id": 32,
+      "box_npc_id": 292002,
+      "box_face_number": 16,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "33": {
+      "id": 33,
+      "box_npc_id": 292003,
+      "box_face_number": 1,
+      "text": "BP",
+      "box_icon_type": 1,
+      "param": [
+        3531,
+        3572
+      ]
+    },
+    "34": {
+      "id": 34,
+      "box_npc_id": 292003,
+      "box_face_number": 2,
+      "text": "稀有赛季",
+      "box_icon_type": 1,
+      "param": [
+        3487,
+        3677,
+        3736
+      ]
+    },
+    "35": {
+      "id": 35,
+      "box_npc_id": 292003,
+      "box_face_number": 3,
+      "text": "赛季",
+      "box_icon_type": 1,
+      "param": [
+        3729,
+        3659,
+        3683,
+        3708,
+        3234
+      ]
+    },
+    "36": {
+      "id": 36,
+      "box_npc_id": 292003,
+      "box_face_number": 4,
+      "text": "稀有常驻",
+      "box_icon_type": 1,
+      "param": [
+        3398,
+        3118
+      ]
+    },
+    "37": {
+      "id": 37,
+      "box_npc_id": 292003,
+      "box_face_number": 5
+    },
+    "38": {
+      "id": 38,
+      "box_npc_id": 292003,
+      "box_face_number": 6,
+      "text": "噩梦",
+      "box_icon_type": 2,
+      "param": [
+        1
+      ]
+    },
+    "39": {
+      "id": 39,
+      "box_npc_id": 292003,
+      "box_face_number": 7,
+      "text": "异色",
+      "box_icon_type": 3,
+      "param": [
+        2
+      ]
+    },
+    "40": {
+      "id": 40,
+      "box_npc_id": 292003,
+      "box_face_number": 8,
+      "text": "奇异血脉",
+      "box_icon_type": 4,
+      "param": [
+        3
+      ]
+    },
+    "41": {
+      "id": 41,
+      "box_npc_id": 292003,
+      "box_face_number": 9,
+      "text": "混血血脉",
+      "box_icon_type": 5,
+      "param": [
+        4
+      ]
+    },
+    "42": {
+      "id": 42,
+      "box_npc_id": 292003,
+      "box_face_number": 10
+    },
+    "43": {
+      "id": 43,
+      "box_npc_id": 292003,
+      "box_face_number": 11,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "44": {
+      "id": 44,
+      "box_npc_id": 292003,
+      "box_face_number": 12,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "45": {
+      "id": 45,
+      "box_npc_id": 292003,
+      "box_face_number": 13,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "46": {
+      "id": 46,
+      "box_npc_id": 292003,
+      "box_face_number": 14,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "47": {
+      "id": 47,
+      "box_npc_id": 292003,
+      "box_face_number": 15,
+      "text": "性格增益",
+      "box_icon_type": 6
+    },
+    "48": {
+      "id": 48,
+      "box_npc_id": 292003,
+      "box_face_number": 16,
+      "text": "性格增益",
+      "box_icon_type": 6
+    }
+  }
+}

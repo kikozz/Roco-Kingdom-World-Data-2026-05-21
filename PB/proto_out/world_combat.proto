@@ -1,0 +1,357 @@
+package Next;
+
+import "com_base_types.proto";
+import "com_rpc.proto";
+
+enum SkillActionType {
+  WorldCombatDotsSkillJump = 1;
+  WorldCombatDotsSkillRcd = 2;
+  WorldCombatDotsSkillMissile = 3;
+  WorldCombatDotsSkillCrush = 4;
+  WorldCombatDotsSkillShowHide = 5;
+}
+
+enum SkillHitType {
+  NORMAL = 1;
+  BULLET_EXPLODE = 2;
+}
+
+enum BlockType {
+  BLOCK_NONE = 1;
+  BLOCK_FAIL = 2;
+  BLOCK_AND_RECYCLE = 3;
+  BLOCK_AND_STUN = 4;
+  BLOCK_OBSTACLE = 5;
+  BLOCK_WITH_ACTOR = 6;
+}
+
+message Snapshoot_WorldCombatSkillActionJump {
+  Next.Position begin_pos = 1;
+  Next.Position target_pos = 2;
+  Next.Position apex_pos = 3;
+}
+
+message Snapshoot_WorldCombatSkillActionRcd {
+  Next.Position begin_pos = 1;
+  Next.Position target_pos = 2;
+  float cur_ray_length = 3;
+  Next.Position ex_target_pos = 4;
+  uint64 ex_target_id = 5;
+}
+
+message WorldCombatDotsSkillMissileLaunchInfo_Curve {
+  Next.Position launch_pos = 1;
+  float curve_fly_time = 2;
+}
+
+message WorldCombatDotsSkillMissileLaunchInfo_Trace {
+  float accelerate_speed = 6;
+  float max_speed = 7;
+  float angle_speed = 8;
+  float cancel_trace_dist = 9;
+  float trace_dur_time = 10;
+  bool is_keep_land_height = 11;
+  int32 land_height = 12;
+}
+
+message WorldCombatDotsSkillMissileLaunchInfo_Normal {
+  float accelerate_speed = 6;
+  float max_speed = 7;
+  bool is_keep_land_height = 11;
+  int32 land_height = 12;
+}
+
+message Snapshoot_WorldCombatSkillActionMissile {
+  uint64 master_id = 1;
+  float cur_speed = 2;
+  float accelerate_speed = 3;
+  float max_speed = 4;
+  float angle_speed = 5;
+  float cancel_trace_dist = 6;
+  float trace_dur_time = 7;
+  bool is_keep_land_height = 8;
+  int32 land_height = 9;
+  float cur_launch_time = 10;
+  Next.Position target_pos = 11;
+  uint64 target_id = 12;
+  int32 missile_type = 20;
+  Next.WorldCombatDotsSkillMissileLaunchInfo_Curve curve_bullet = 21;
+  Next.WorldCombatDotsSkillMissileLaunchInfo_Trace trace_bullet = 22;
+  Next.WorldCombatDotsSkillMissileLaunchInfo_Normal normal_bullet = 23;
+}
+
+message Snapshoot_WorldCombatSkillActionCrush {
+  Next.Position begin_pos = 1;
+  Next.Position target_pos = 2;
+}
+
+message Snapshoot_WorldCombatSkillActionShowHide {
+  Next.WorldCombatDotsSkillShowHideInfo show_hide_info = 1;
+}
+
+message ActorInfo_WorldCombatSkillAction {
+  string GUID = 1;
+  float skill_begin_time = 2;
+  Next.SkillActionType skill_action_type = 10;
+  Next.Snapshoot_WorldCombatSkillActionJump jump_snapshoot = 11;
+  Next.Snapshoot_WorldCombatSkillActionRcd rcd_snapshoot = 12;
+  Next.Snapshoot_WorldCombatSkillActionMissile missile_snapshoot = 13;
+  Next.Snapshoot_WorldCombatSkillActionCrush crush_snapshoot = 14;
+  Next.Snapshoot_WorldCombatSkillActionShowHide show_hide_snapshoot = 15;
+}
+
+message WorldCombatDotsSkillCastInfo {
+  int32 skill_id = 1;
+  uint64 target_id = 2;
+  Next.Point target_pos = 3;
+}
+
+message WorldCombatDotsSkillEndInfo {
+  int32 skill_id = 1;
+  int32 end_reason = 2;
+}
+
+message WorldCombatDotsSkillCrushInfo {
+  int32 skill_id = 1;
+  Next.Position rotator = 2;
+  float crush_duration = 3;
+  string GUID = 4;
+  Next.Position crush_final_pos = 5;
+  int64 time_stamp = 6;
+}
+
+message WorldCombatDotsSkillCrushEndInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  Next.Point stop_point = 3;
+  float action_time = 4;
+  int64 time_stamp = 5;
+}
+
+message WorldCombatDotsSkillHitInfo {
+  int32 skill_id = 1;
+  uint64 target_id = 2;
+  Next.Point hit_point = 3;
+  string GUID = 4;
+  Next.BlockType block_type = 5;
+  Next.SkillHitType hit_type = 6;
+  int32 hit_perform_type = 7;
+}
+
+message WorldCombatDotsSkillRotateInfo {
+  int32 skill_id = 1;
+  Next.Position rotator = 2;
+  string GUID = 3;
+}
+
+message WorldCombatDotsSkillLookAtInfo {
+  int32 skill_id = 1;
+  uint64 target_id = 2;
+  int32 attach_point_type = 3;
+  string GUID = 4;
+  Next.Position target_pos = 5;
+}
+
+message WorldCombatDotsSkillMissileLaunchInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  uint64 launch_bullet_id = 3;
+  uint64 target_id = 4;
+  float speed = 5;
+  float accelerate_speed = 6;
+  float max_speed = 7;
+  float angle_speed = 8;
+  float cancel_trace_dist = 9;
+  float trace_dur_time = 10;
+  bool is_keep_land_height = 11;
+  int32 land_height = 12;
+  float cur_launch_time = 13;
+  Next.Position target_pos = 14;
+  int32 missile_type = 15;
+  Next.WorldCombatDotsSkillMissileLaunchInfo_Curve curve_bullet = 21;
+  Next.WorldCombatDotsSkillMissileLaunchInfo_Trace trace_bullet = 22;
+  Next.WorldCombatDotsSkillMissileLaunchInfo_Normal normal_bullet = 23;
+}
+
+message WorldCombatDotsSkillMissileStopTraceInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  Next.Point pt = 3;
+  float cur_launch_time = 4;
+  uint64 launch_bullet_id = 5;
+}
+
+message WorldCombatDotsSkillMissileDestroyInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  uint64 launch_bullet_id = 3;
+}
+
+message WorldCombatDotsSkillJumpInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  Next.Position target_pos = 3;
+  Next.Position apex_pos = 4;
+}
+
+message WorldCombatDotsSkillJumpCancelInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  Next.Position cur_pos = 3;
+  Next.Position falling_pos = 4;
+}
+
+message WorldCombatDotsSkillJumpEndInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+}
+
+message WorldCombatDotsSkillRcdInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  uint64 target_id = 3;
+  Next.Position target_pos = 4;
+  bool ray_end_need_move = 5;
+  uint64 ex_target_id = 6;
+  Next.Position ex_target_pos = 7;
+}
+
+message WorldCombatDotsSkillRcdEndInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+}
+
+message WorldCombatDotsSkillSelectPosInfo {
+  message SelectPosInfo {
+    int32 point_idx = 1;
+    Next.Position target_pos = 2;
+  }
+  int32 skill_id = 1;
+  string GUID = 2;
+  repeated Next.WorldCombatDotsSkillSelectPosInfo.SelectPosInfo select_pos = 3;
+}
+
+message WorldCombatDotsSkillHiddenInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  bool show_state = 3;
+}
+
+message WorldCombatDotsSkillHiddenEndInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  bool show_state = 3;
+}
+
+message WorldCombatDotsSkillShowHideCompInfo {
+  string comp_name = 1;
+  bool show_state = 2;
+  bool propagate_to_children = 3;
+}
+
+message WorldCombatDotsSkillShowHideInfo {
+  bool show_state = 1;
+  repeated Next.WorldCombatDotsSkillShowHideCompInfo comp_list = 2;
+}
+
+message WorldCombatDotsSkillPosLerpSyncInfo {
+  enum Type {
+    Skill = 0;
+    Action = 1;
+  }
+  Next.WorldCombatDotsSkillPosLerpSyncInfo.Type type = 1;
+  int32 node_index = 2;
+  int32 skill_id = 3;
+  string GUID = 4;
+  Next.Point cast_point = 5;
+  int32 lerp_duration = 6;
+  float pos_threshold = 7;
+  float dir_threshold = 8;
+  string lerp_animation_name = 9;
+}
+
+message WorldCombatDotsSkillAnimCancelInfo {
+  int32 skill_id = 1;
+  string GUID = 2;
+  Next.Point anim_cancel_pos = 3;
+}
+
+message WorldCombatSkillCastInfo {
+  int32 skill_id = 1;
+}
+
+message WorldCombatSkillSpawnNpcInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  int32 content_id = 3;
+  Next.Position init_pos = 4;
+  Next.Position init_dir = 5;
+  int32 refresh_type = 6;
+}
+
+message WorldCombatSkillSpawnBulletInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  uint64 caster_id = 3;
+  Next.Position init_pos = 4;
+  Next.Position init_dir = 5;
+  uint64 target_id = 6;
+  Next.Position target_pos = 7;
+  uint64 bullet_id = 10;
+}
+
+message WorldCombatSkillFireBulletInfo {
+  int32 skill_id = 1;
+  uint64 bullet_id = 2;
+}
+
+message WorldCombatSkillBuffInfo {
+  int32 skill_id = 1;
+  int32 operate_type = 2;
+  int32 buff_id = 3;
+  int32 action_idx = 4;
+  uint64 caster_id = 5;
+  uint64 target_id = 6;
+  float duration_change = 7;
+  float duration = 8;
+  float effect_tick_interval = 9;
+}
+
+message WorldCombatSkillEndInfo {
+  int32 skill_id = 1;
+  bool end_reason = 2;
+}
+
+message WorldCombatHitInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  uint64 attacker_id = 3;
+  Next.Position hit_dir = 4;
+  int32 impact_force = 5;
+  Next.BlockType block_type = 6;
+}
+
+message WorldCombatSkillJumpInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  uint64 caster_id = 3;
+}
+
+message WorldCombatSkillJumpEndInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  uint64 caster_id = 3;
+  Next.Point pos = 4;
+}
+
+message WorldCombatSkillRcdInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  uint64 caster_id = 3;
+}
+
+message WorldCombatSkillPetCollisionInfo {
+  int32 skill_id = 1;
+  int32 action_idx = 2;
+  int32 block_skill_id = 3;
+}

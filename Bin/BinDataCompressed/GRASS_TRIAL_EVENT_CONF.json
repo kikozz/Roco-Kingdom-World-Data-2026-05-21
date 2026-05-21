@@ -1,0 +1,100 @@
+{
+  "RocoDataRows": {
+    "1000": {
+      "id": 1000,
+      "name": "蹦床松鼠",
+      "param1": 300101,
+      "param2": 3100,
+      "param3": 4,
+      "coin": 50,
+      "refresh_cost": [
+        100,
+        25
+      ],
+      "reset_cost": [
+        200,
+        50
+      ]
+    },
+    "1001": {
+      "id": 1001,
+      "name": "岚鸟",
+      "param1": 300287,
+      "param2": 3286,
+      "param3": 4,
+      "coin": 50,
+      "refresh_cost": [
+        100,
+        25
+      ],
+      "reset_cost": [
+        200,
+        50
+      ]
+    },
+    "1002": {
+      "id": 1002,
+      "name": "蹦蹦花",
+      "param1": 300305,
+      "param2": 3303,
+      "param3": 4,
+      "coin": 50,
+      "refresh_cost": [
+        100,
+        25
+      ],
+      "reset_cost": [
+        200,
+        50
+      ]
+    },
+    "1003": {
+      "id": 1003,
+      "name": "卷胡巨獭",
+      "param1": 300319,
+      "param2": 3317,
+      "param3": 2,
+      "coin": 50,
+      "refresh_cost": [
+        100,
+        25
+      ],
+      "reset_cost": [
+        200,
+        50
+      ]
+    },
+    "1004": {
+      "id": 1004,
+      "name": "红绒十字",
+      "param1": 300352,
+      "param2": 3350,
+      "param3": 4,
+      "coin": 50,
+      "refresh_cost": [
+        100,
+        25
+      ],
+      "reset_cost": [
+        200,
+        50
+      ]
+    },
+    "2000": {
+      "id": 2000,
+      "name": "易西",
+      "type": 2,
+      "param1": 318002,
+      "param3": 1,
+      "coin": 200
+    },
+    "2002": {
+      "id": 2002,
+      "name": "卡普",
+      "type": 2,
+      "param1": 318004,
+      "param3": 1,
+      "coin": 200
+    }
+  }
+}

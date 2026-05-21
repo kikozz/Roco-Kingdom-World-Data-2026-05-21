@@ -1,0 +1,11 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "from_state": 1001,
+      "to_state": 1001,
+      "via_state": 1001,
+      "interruptible": true
+    }
+  }
+}

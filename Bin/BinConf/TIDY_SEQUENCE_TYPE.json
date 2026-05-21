@@ -1,0 +1,39 @@
+{
+    "Name": "TIDY_SEQUENCE_TYPE",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+        },
+        {
+            "Name": "sequence_name",
+            "Type": "ELocalizedString",
+            "Offset": 4,
+            "Size": 4
+        },
+        {
+            "Name": "tip_text",
+            "Type": "EString",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "sequence_type",
+            "Type": "EInt32",
+            "Offset": 12,
+            "Size": 4
+        },
+        {
+            "Name": "sequence_icon",
+            "Type": "EString",
+            "Offset": 16,
+            "Size": 4,
+            "CompressedSize": 4
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Name": "MESSAGE_CONF",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EUint32",
+            "Offset": 0,
+            "Size": 4
+        },
+        {
+            "Name": "icon",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "envelop_icon",
+            "Type": "EString",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "letter_icon",
+            "Type": "EString",
+            "Offset": 12,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "myname",
+            "Type": "ELocalizedString",
+            "Offset": 16,
+            "Size": 4
+        },
+        {
+            "Name": "sender",
+            "Type": "ELocalizedString",
+            "Offset": 20,
+            "Size": 4
+        },
+        {
+            "Name": "text",
+            "Type": "ELocalizedString",
+            "Offset": 24,
+            "Size": 4
+        },
+        {
+            "Name": "envelop_style",
+            "Type": "EInt32",
+            "Offset": 28,
+            "Size": 4
+        },
+        {
+            "Name": "receive_style",
+            "Type": "EInt32",
+            "Offset": 32,
+            "Size": 4
+        },
+        {
+            "Name": "page_style",
+            "Type": "EInt32",
+            "Offset": 36,
+            "Size": 4
+        },
+        {
+            "Name": "receive_des",
+            "Type": "ELocalizedString",
+            "Offset": 40,
+            "Size": 4
+        }
+    ]
+}

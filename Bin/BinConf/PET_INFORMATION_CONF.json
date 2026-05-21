@@ -1,0 +1,226 @@
+{
+    "Name": "PET_INFORMATION_CONF",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EUint32",
+            "Offset": 0,
+            "Size": 4
+        },
+        {
+            "Name": "group_id",
+            "Type": "EUint32",
+            "Offset": 4,
+            "Size": 4
+        },
+        {
+            "Name": "petbase_id",
+            "Type": "EUint32",
+            "Offset": 8,
+            "Size": 4
+        },
+        {
+            "Name": "if_open",
+            "Type": "EBool",
+            "Offset": 12,
+            "Size": 1
+        },
+        {
+            "Name": "appear_time",
+            "Type": "EString",
+            "Offset": 13,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "disappear_time",
+            "Type": "EString",
+            "Offset": 17,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "title",
+            "Type": "EString",
+            "Offset": 21,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "task_id",
+            "Type": "EUint32",
+            "Offset": 25,
+            "Size": 4
+        },
+        {
+            "Name": "story_page_group",
+            "Type": "EStruct",
+            "Offset": 29,
+            "Size": 4,
+            "CompressedSize": 4,
+            "ArrayDim": 3,
+            "Struct": {
+                "Name": "PET_INFORMATION_CONF.story_page_group",
+                "Type": "EStruct",
+                "Properties": [
+                    {
+                        "Name": "story_page_type",
+                        "Type": "EInt32",
+                        "Offset": 0,
+                        "Size": 4
+                    },
+                    {
+                        "Name": "story_title",
+                        "Type": "EString",
+                        "Offset": 4,
+                        "Size": 4,
+                        "CompressedSize": 4
+                    },
+                    {
+                        "Name": "story_txt",
+                        "Type": "EString",
+                        "Offset": 8,
+                        "Size": 4,
+                        "CompressedSize": 4
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "bagitem_id",
+            "Type": "EUint32",
+            "Offset": 33,
+            "Size": 4
+        },
+        {
+            "Name": "animal_name",
+            "Type": "EString",
+            "Offset": 37,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "animal_rarity_level",
+            "Type": "EInt32",
+            "Offset": 41,
+            "Size": 4
+        },
+        {
+            "Name": "txt1",
+            "Type": "EString",
+            "Offset": 45,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "txt2",
+            "Type": "EString",
+            "Offset": 49,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "txt3",
+            "Type": "EString",
+            "Offset": 53,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "picture_information_group",
+            "Type": "EStruct",
+            "Offset": 57,
+            "Size": 4,
+            "CompressedSize": 4,
+            "ArrayDim": 3,
+            "Struct": {
+                "Name": "PET_INFORMATION_CONF.picture_information_group",
+                "Type": "EStruct",
+                "Properties": [
+                    {
+                        "Name": "animal_picture",
+                        "Type": "EString",
+                        "Offset": 0,
+                        "Size": 4,
+                        "CompressedSize": 4
+                    },
+                    {
+                        "Name": "picture_information",
+                        "Type": "EString",
+                        "Offset": 4,
+                        "Size": 4,
+                        "CompressedSize": 4
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "pet_backgroung_image",
+            "Type": "EString",
+            "Offset": 61,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "egg_image",
+            "Type": "EString",
+            "Offset": 65,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "left_picture_position",
+            "Type": "EInt32",
+            "Offset": 69,
+            "Size": 4
+        },
+        {
+            "Name": "left_picture_image",
+            "Type": "EString",
+            "Offset": 73,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "left_txt_position",
+            "Type": "EInt32",
+            "Offset": 77,
+            "Size": 4
+        },
+        {
+            "Name": "left_txt",
+            "Type": "EString",
+            "Offset": 81,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "right_picture_position",
+            "Type": "EInt32",
+            "Offset": 85,
+            "Size": 4
+        },
+        {
+            "Name": "right_picture_image",
+            "Type": "EString",
+            "Offset": 89,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "right_txt_position",
+            "Type": "EInt32",
+            "Offset": 93,
+            "Size": 4
+        },
+        {
+            "Name": "right_txt",
+            "Type": "EString",
+            "Offset": 97,
+            "Size": 4,
+            "CompressedSize": 4
+        }
+    ]
+}

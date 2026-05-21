@@ -1,0 +1,54 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "fashion_tops_tag": 2,
+      "fashion_rings_tag": 2
+    },
+    "2": {
+      "id": 2,
+      "fashion_bottoms_tag": 2,
+      "fashion_shoes_tag": 4
+    },
+    "3": {
+      "id": 3,
+      "fashion_bottoms_tag": 3,
+      "fashion_shoes_tag": 2
+    },
+    "4": {
+      "id": 4,
+      "fashion_bottoms_tag": 3,
+      "fashion_shoes_tag": 4
+    },
+    "5": {
+      "id": 5,
+      "fashion_bottoms_tag": 4,
+      "fashion_shoes_tag": 2
+    },
+    "6": {
+      "id": 6,
+      "fashion_bottoms_tag": 4,
+      "fashion_shoes_tag": 3
+    },
+    "7": {
+      "id": 7,
+      "fashion_bottoms_tag": 4,
+      "fashion_shoes_tag": 4
+    },
+    "8": {
+      "id": 8,
+      "fashion_bottoms_tag": 4,
+      "fashion_socks_tag": 2
+    },
+    "9": {
+      "id": 9,
+      "fashion_bottoms_tag": 3,
+      "fashion_socks_tag": 2
+    },
+    "10": {
+      "id": 10,
+      "fashion_bottoms_tag": 2,
+      "fashion_socks_tag": 2
+    }
+  }
+}

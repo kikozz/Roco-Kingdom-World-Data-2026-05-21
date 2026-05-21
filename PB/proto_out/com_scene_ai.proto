@@ -1,0 +1,35 @@
+package Next;
+
+import "com_base_types.proto";
+
+message ClientAiCommandInfo {
+  uint64 actor_id = 1;
+  uint64 action_id = 2;
+  Next.Position pos = 3;
+  int32 command_param = 4;
+  string string_param = 5;
+}
+
+message SceneAiReportInfo {
+  uint64 npc_obj_id = 1;
+  int32 report_type = 2;
+  int32 ai_seq_id = 3;
+  Next.Point client_point = 4;
+  uint64 attack_obj_id = 10;
+  int32 dialog_id = 11;
+}
+
+message LLM_PETS_FollowPetInfo {
+  uint64 npc_actor_id = 1;
+  Next.Position pos = 2;
+}
+
+message LLM_PETS_BehaviorReportInfo {
+  uint64 npc_actor_id = 1;
+  bool succ = 2;
+}
+
+message AvatarAbnormalStatusInfo {
+  uint32 abnormal_status_id = 1;
+  uint64 abnormal_status_duration = 2;
+}

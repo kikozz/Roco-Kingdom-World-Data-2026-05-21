@@ -1,0 +1,220 @@
+{
+  "RocoDataRows": {
+    "1001": {
+      "id": 1001,
+      "group_id": 10001,
+      "petbase_id": 3740,
+      "appear_time": "2026-01-01 04:00:00",
+      "title": "宝藏小狐",
+      "task_id": 110000249,
+      "story_page_group": [
+        {
+          "story_page_type": 1,
+          "story_title": "狐主任的小科普"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "圆滚滚与面瘫",
+          "story_txt": "宝藏小狐长得圆滚滚的，特别可爱，一看就没什么坏心思。而宝藏沙狐则气质独特，总是顶着一张面瘫脸，眼神里写满了“不屑”。它俩完全不怕洛克，经常大摇大摆地靠近聚居地找吃的。要是被洛克盯着看，宝藏沙狐就会停下动作，淡定地斜眼回瞅你，然后才不紧不慢地走开。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "谁是好奇宝宝？",
+          "story_txt": "遇到危险时，逃跑到一半会回头张望，这个习性使得宝藏小狐经常被抓！同时，对狭窄空间有执念，一有机会就钻缝，最爱的地方是岩石缝。"
+        }
+      ],
+      "bagitem_id": 320031,
+      "animal_rarity_level": 7,
+      "txt1": "藏狐现已被列入中国《国家重点保护野生动物名录》，为二级保护动物。 [14]同时也被中国列入《国家保护的有益的或者有重要经济、科学研究价值的陆生野生动物名录》中",
+      "picture_information_group": [
+        {
+          "animal_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FireHorseBg1_png.img_FireHorseBg1_png'",
+          "picture_information": "你是谁"
+        }
+      ],
+      "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
+      "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_005_png.img_dantiezhi_005_png'",
+      "left_picture_position": 2,
+      "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0005.img_0005'",
+      "right_picture_position": 1,
+      "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0011.img_0011'",
+      "right_txt_position": 2,
+      "right_txt": "宝藏小狐"
+    },
+    "1002": {
+      "id": 1002,
+      "group_id": 10001,
+      "petbase_id": 3490,
+      "appear_time": "2026-01-01 04:00:00",
+      "title": "吸泥鸥",
+      "story_page_group": [
+        {
+          "story_page_type": 1,
+          "story_title": "狐主任的小科普",
+          "story_txt": "吸泥鸥日常在岸边吸食淤泥，如有另一只吸泥鸥相随，则可能聚在一起奏乐跳舞。\n常见于河岸，喜好阴雨天。\n精灵研究员观测地点：恶水沼泽；黑水峡。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "慢吞吞飞行家",
+          "story_txt": "吸泥鸥平时出行主要靠走路，情绪那叫一个稳定，天塌下来似乎都不慌。虽然天生有翅膀而且能飞，但极少展示这个本领，以至于很多洛克都以为它不会飞。更让人意外的是，它居然还会游泳！只不过它性子太懒，不爱动弹，宁愿慢悠悠地散步，也不想费力气飞一下或游一会儿。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "谁都不能阻止我干饭！",
+          "story_txt": "进食的时候，总是不慌不忙地把长嘴戳进淤泥里，仔细探索，直到把肚子吃得圆鼓鼓。无论身边发生多热闹的争吵或打斗，它都完全无视，自顾自地找吃的，一副“与世无争”的哲学家模样。"
+        }
+      ],
+      "bagitem_id": 320032,
+      "animal_rarity_level": 7,
+      "txt1": "蓝脚鲣鸟是鹈形目鲣鸟科鲣鸟属鸟类，又叫结巴鸟。\n蓝脚鲣鸟的长相非常滑稽，乍看之下就像小丑一样，极具特色，是加拉帕戈斯群岛色彩最丰富的鸟类之一。 已成为濒危鸟类，被列为中国国家二级保护动物。",
+      "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
+      "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_006_png.img_dantiezhi_006_png'",
+      "left_picture_position": 1,
+      "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0006.img_0006'",
+      "right_picture_position": 1,
+      "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0012.img_0012'",
+      "right_txt_position": 2,
+      "right_txt": "泥吼牙"
+    },
+    "1003": {
+      "id": 1003,
+      "group_id": 10001,
+      "petbase_id": 3237,
+      "appear_time": "2026-01-01 04:00:00",
+      "title": "小怂猫",
+      "story_page_group": [
+        {
+          "story_page_type": 1,
+          "story_title": "狐主任的小科普",
+          "story_txt": "小怂猫胆子较小，遇到小洛克时会躲到怒目怂猫身后寻求庇护。\n常见于山林。\n精灵研究员观测地点：咕嘟咕嘟浅滩；港口驻地；拾荒港口；甜水农庄；二叠山丘；望风半岛。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "吓唬谁呢",
+          "story_txt": "小怂猫平时习惯四脚着地走路，但胆子特别小。遇到小洛克时，会猛地用后腿站起来，竭力张开两只前臂，摆出一副“我超凶”的架势，想吓退对方。但这其实就是虚张声势，它自己心里也发虚。这突如其来的举动，常常把只是路过、毫无恶意的洛克搞得一愣，莫名其妙地看着它，场面一度十分尴尬。有时也会躲到怒目怂猫身后寻求庇护。"
+        },
+        {
+          "story_page_type": 1,
+          "story_txt": "怒目怂猫胸脯处长着结构独特的气囊，能够迅速膨起至数倍大，形状像是血盆大口，可以吓退敌人。想回到正常姿势需要排出胸脯中的气体，排气的时候会发出非常可爱的声音，一般会在没有其他生物看到的时候偷偷排气。"
+        }
+      ],
+      "bagitem_id": 320033,
+      "animal_rarity_level": 4,
+      "txt1": "小熊猫（学名：Ailurus fulgens）：是小熊猫科、小熊猫属的一种动物。\n濒危（EN）IUCN标准、《中国国家重点保护野生动物名录》二级",
+      "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MountainForest.img_MountainForest'",
+      "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_002_png.img_dantiezhi_002_png'",
+      "left_picture_position": 1,
+      "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0003.img_0003'",
+      "right_picture_position": 1,
+      "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0009.img_0009'",
+      "right_txt_position": 2,
+      "right_txt": "怒目怂猫"
+    },
+    "1004": {
+      "id": 1004,
+      "group_id": 10001,
+      "petbase_id": 3736,
+      "appear_time": "2026-01-01 04:00:00",
+      "title": "炫光迪迪",
+      "story_page_group": [
+        {
+          "story_page_type": 1,
+          "story_title": "狐主任的小科普"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "山洞舞蹈家",
+          "story_txt": "金属外壳亮晶晶的，反起光来就像迪斯科灯球。平时喜欢住在安静的山洞，却超爱热闹，周围如果有精灵开音乐会时，就兴奋地团成球旋转弹跳，自带灯光特效！"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "滚球突击",
+          "story_txt": "一旦感知到有危险，能立马团成球，用铠甲护住自己。平时行动起来非常缓慢，但变成球后滚起来速度超快，特别敏捷！可惜团成球后啥也看不见，经常滚歪撞到树上。"
+        }
+      ],
+      "bagitem_id": 320034,
+      "animal_rarity_level": 7,
+      "txt1": "犰狳（qiú yú）（拉丁学名：Priodontes maximus），别称铠鼠[1]，贫齿目犰狳科，入围全新编制的《国家重点保护野生动物名录》，是一种小哺乳动物",
+      "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
+      "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_004_png.img_dantiezhi_004_png'",
+      "left_picture_position": 1,
+      "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0004.img_0004'",
+      "right_picture_position": 1,
+      "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0010.img_0010'",
+      "right_txt_position": 2,
+      "right_txt": "霹雳迪迪"
+    },
+    "1005": {
+      "id": 1005,
+      "group_id": 10001,
+      "petbase_id": 3382,
+      "appear_time": "2026-01-01 04:00:00",
+      "title": "双灯鱼",
+      "story_page_group": [
+        {
+          "story_page_type": 1,
+          "story_title": "狐主任的小科普",
+          "story_txt": "双灯鱼在游水过程中会偶尔亮灯；\n利灯鱼喜欢搞“伏击”，会悄悄潜游到其他海洋精灵下方将其顶起。\n暂未有相关研究记载。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "浅水生活家",
+          "story_txt": "有谁会知道，头上的灯其实是双灯鱼的鼻孔呢！这决定了它无法长时间潜入深水，不然会憋死，所以只在浅海面活动。\n头上的灯也是情绪指示灯：当它心情愉悦、感到安全时，灯光就会变得明亮；而当它情绪低落、害怕或生气时，灯光则会明显变暗，甚至闪烁不定。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "笨笨的灯",
+          "story_txt": "双灯鱼们用头上灯光的明暗变化来聊天。可惜它们脑子不太灵光，\n有时候游着游着，看到自己倒影里发光的灯，会傻乎乎地以为发现了什么好吃的，猛地一口咬上去……结果当然是被自己“烫”得生疼，灯光瞬间就暗淡了，委屈地沉到水底，半天缓不过来。"
+        }
+      ],
+      "bagitem_id": 320035,
+      "animal_rarity_level": 1,
+      "txt1": "栖息于500-5000米海底，头部具发光拟饵器官，由第一背鳍特化形成，其腺细胞分泌光素经氧化反应发光，用于诱捕趋光性猎物。",
+      "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
+      "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_001_png.img_dantiezhi_001_png'",
+      "left_picture_position": 1,
+      "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0002.img_0002'",
+      "right_picture_position": 1,
+      "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0008.img_0008'",
+      "right_txt_position": 2,
+      "right_txt": "利灯鱼"
+    },
+    "1006": {
+      "id": 1006,
+      "group_id": 10001,
+      "petbase_id": 3330,
+      "appear_time": "2026-01-01 04:00:00",
+      "title": "海盔虫",
+      "story_page_group": [
+        {
+          "story_page_type": 1,
+          "story_title": "狐主任的小科普",
+          "story_txt": "日常潜游，感知到小洛克接近时会进入防御状态，并利用身上的针刺发起攻击。\n常见于海洋。\n精灵研究员观测地点：月牙湖岸；咸水湾；沉船漩涡；商店街周边。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "疯狂的石头",
+          "story_txt": "海盔虫平时喜欢呆在水边或浅水里。当它完全放松、感到安全时，全身的尖刺都会服帖地收拢起来，这时它看起来就像一块深色的、不起眼的石头。在这种状态下，即使有生物从它身边经过，它也往往懒得动弹，安静得仿佛真的是一块石头。但这只是一种安静的假象，一旦受到打扰，它就会立刻展现出防御姿态。"
+        },
+        {
+          "story_page_type": 1,
+          "story_title": "小心石头！",
+          "story_txt": "刺上会卡着贝壳，木片，海藻。长长的棘刺有大量感光细胞，对光线非常敏感，具有负趋光性，为了逃避光线会在日间抓着各种东西为自己遮挡光线。\n普通的刺盔虫因为棘刺太长，容易被海草缠住，而被磨损了的刺盔虫，它们的短刺既能保护自己，又能减少移动阻力。"
+        }
+      ],
+      "bagitem_id": 320036,
+      "animal_rarity_level": 5,
+      "txt1": "是棘皮动物门海胆纲动物的统称。\n\n评估等级为濒危（EN） [7]；除此之外，在《世界自然保护联盟（IUCN）濒危物种红色名录》中，欧洲食用海胆被列为近危（NT）物种",
+      "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
+      "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_003_png.img_dantiezhi_003_png'",
+      "left_picture_position": 1,
+      "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0001.img_0001'",
+      "left_txt_position": 2,
+      "left_txt": "千棘盔",
+      "right_picture_position": 1,
+      "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0007.img_0007'",
+      "right_txt_position": 1,
+      "right_txt": "刺盔虫"
+    }
+  }
+}

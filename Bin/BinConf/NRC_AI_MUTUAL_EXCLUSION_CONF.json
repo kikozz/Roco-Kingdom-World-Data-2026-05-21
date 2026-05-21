@@ -1,0 +1,13 @@
+{
+    "Name": "NRC_AI_MUTUAL_EXCLUSION_CONF",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+        }
+    ]
+}

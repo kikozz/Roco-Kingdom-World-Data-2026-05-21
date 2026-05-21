@@ -1,0 +1,19 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "panel_name": "BattlePassAwardMain",
+      "panel_widget_conf_name": "BALLTLEPASS_AWARDMAIN_CONF"
+    },
+    "2": {
+      "id": 2,
+      "panel_name": "BattlePurchasePanel",
+      "panel_widget_conf_name": "BATTLEPASS_PURCHASE_CONF"
+    },
+    "3": {
+      "id": 3,
+      "panel_name": "UMG_Dialog",
+      "panel_widget_conf_name": "UMG_DIALOG_CONF"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+package Next;
+
+import "com_battle_enum.proto";
+import "xls_enum.proto";
+
+message BoxMonsterInfo {
+  Next.BoxType box_type = 1;
+  bool is_shiny = 2;
+  bool is_fantastic = 3;
+  uint32 box_conf_id = 4;
+  int32 pet_content_id = 5;
+  bool is_nightmare = 6;
+  int32 belong_season = 7;
+  bytes name = 8;
+  uint32 monster_id = 9;
+  Next.PetRarityType pet_rarity_type = 10;
+  Next.PetMutationType pet_mutation_type = 11;
+  int32 pet_nature = 12;
+  uint32 gender = 13;
+  int32 height = 14;
+  int32 weight = 15;
+  int32 voice = 16;
+  uint64 refresh_batch_id = 30;
+}
+
+message SeasonPetInfo {
+  bool is_nightmare = 1;
+  bool is_shiny = 2;
+  bool is_fantastic = 3;
+  int32 mix_blood = 4;
+  uint64 refresh_batch_id = 20;
+}
+
+message SeasonBattleInfo {
+  Next.BoxMonsterInfo box_info = 1;
+  Next.SeasonPetInfo season_pet_info = 10;
+}

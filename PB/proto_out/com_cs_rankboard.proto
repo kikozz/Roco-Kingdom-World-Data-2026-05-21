@@ -1,0 +1,66 @@
+package Next;
+
+import "xls_enum.proto";
+import "com_player_data.proto";
+
+enum RankboardConst {
+  RANKBOARD_CONST_NONE = 0;
+  RANKBOARD_CONST_MAX_QUERY_COUNT = 100;
+}
+
+message RankboardKey {
+  dataconfig.RankListType rank_type = 1;
+  uint32 rank_id = 2;
+}
+
+message CSRankUser {
+  uint32 rank = 1;
+  Next.RankUserInfo user_info = 2;
+  Next.RankEstimatedData estimated = 3;
+}
+
+message RankUserInfo {
+  uint64 info_id = 1;
+  uint32 score = 2;
+  uint32 sort_field1 = 3;
+  uint32 sort_field2 = 4;
+  uint32 sort_field3 = 5;
+  uint32 sort_field4 = 6;
+  uint32 sort_field5 = 7;
+  Next.RankExtData ext_data = 8;
+}
+
+message RankEstimatedData {
+  int32 total_count = 1;
+  int32 rank = 2;
+}
+
+message RankExtData {
+  Next.BaseRankExtData base_data = 1;
+  Next.PvpRankExtData pvp_data = 2;
+  Next.PhotoContestRankExtData photo_contest = 3;
+}
+
+message BaseRankExtData {
+  string game_app_id = 1;
+  Next.PlatInfo plat_info = 2;
+  string openid = 3;
+  string name = 4;
+  int32 level = 5;
+  uint32 card_icon_selected = 6;
+}
+
+message PvpRankExtData {
+  int32 rd = 1;
+  double vol = 2;
+  double r = 3;
+}
+
+message PhotoContestRankExtData {
+  string photo_url = 1;
+  string photo_md5 = 2;
+  string mini_photo_url = 3;
+  string mini_photo_md5 = 4;
+  uint32 activity_id = 5;
+  uint32 like_count = 6;
+}

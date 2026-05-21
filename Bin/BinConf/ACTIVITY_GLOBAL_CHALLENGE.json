@@ -1,0 +1,86 @@
+{
+    "Name": "ACTIVITY_GLOBAL_CHALLENGE",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EUint32",
+            "Offset": 0,
+            "Size": 4
+        },
+        {
+            "Name": "global_count_type",
+            "Type": "EInt32",
+            "Offset": 4,
+            "Size": 4
+        },
+        {
+            "Name": "global_count_type_param",
+            "Type": "EUint32",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+        },
+        {
+            "Name": "is_show_count",
+            "Type": "EBool",
+            "Offset": 12,
+            "Size": 1
+        },
+        {
+            "Name": "img",
+            "Type": "EString",
+            "Offset": 13,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "img_des",
+            "Type": "EString",
+            "Offset": 17,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "tab_icon",
+            "Type": "EString",
+            "Offset": 21,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "tab_icon_2",
+            "Type": "EString",
+            "Offset": 25,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "belong_sign",
+            "Type": "EUint32",
+            "Offset": 29,
+            "Size": 4
+        },
+        {
+            "Name": "des",
+            "Type": "EString",
+            "Offset": 33,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "require_count",
+            "Type": "EInt32",
+            "Offset": 37,
+            "Size": 4
+        },
+        {
+            "Name": "reward_id",
+            "Type": "EUint32",
+            "Offset": 41,
+            "Size": 4
+        }
+    ]
+}

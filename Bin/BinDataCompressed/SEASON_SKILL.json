@@ -1,0 +1,124 @@
+{
+  "RocoDataRows": {
+    "7021220": {
+      "id": 7021220,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7040680": {
+      "id": 7040680,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7050510": {
+      "id": 7050510,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7060270": {
+      "id": 7060270,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7070240": {
+      "id": 7070240,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7070250": {
+      "id": 7070250,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7070260": {
+      "id": 7070260,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7070270": {
+      "id": 7070270,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7070280": {
+      "id": 7070280,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7090430": {
+      "id": 7090430,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7090440": {
+      "id": 7090440,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7100320": {
+      "id": 7100320,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7110460": {
+      "id": 7110460,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7120290": {
+      "id": 7120290,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7120300": {
+      "id": 7120300,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7150380": {
+      "id": 7150380,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7150390": {
+      "id": 7150390,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7160380": {
+      "id": 7160380,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7170290": {
+      "id": 7170290,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7170300": {
+      "id": 7170300,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7180430": {
+      "id": 7180430,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7180440": {
+      "id": 7180440,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7190430": {
+      "id": 7190430,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    },
+    "7190440": {
+      "id": 7190440,
+      "season": 2,
+      "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    }
+  }
+}

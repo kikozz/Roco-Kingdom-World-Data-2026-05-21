@@ -1,0 +1,202 @@
+package Next;
+
+import "com_base_types.proto";
+
+enum DEBUG_DRAW_CALL_TYPE {
+  POINT = 1;
+  LINE = 2;
+  SPHERE = 3;
+  BOX = 4;
+  CAPSULE = 5;
+  MESH = 6;
+  WIRE_FRAME = 7;
+  POINT_SET = 8;
+  NAV_MESH = 9;
+  CYLINDER = 10;
+  CIRCLE = 11;
+  TEXT = 12;
+}
+
+enum ServerDebugDrawType {
+  DRAW_MOVE_POS = 0;
+  DRAW_WORLD_COMBAT_SKILL_HIT_BOX = 1;
+  DRAW_DOTS_LABEL = 2;
+  DRAW_BATTLE_FIELD = 3;
+  DRAW_NAV_MESH = 4;
+  DRAW_ANTI_CHEATING = 5;
+  DRAW_AIR_WALL = 6;
+  DRAW_PERCEPTION = 7;
+  DRAW_MFBT_TASK_NODE = 8;
+  DRAW_SELECT_POINT = 9;
+  DRAW_MOVER = 10;
+  DRAW_GM = 11;
+  DRAW_FIX_POS = 12;
+  DRAW_RANDOM_POS = 13;
+  DRAW_TELEPORT_POS = 14;
+  DRAW_STAND_POS = 15;
+  DRAW_MAP_MARK = 16;
+  DRAW_BONUS_CATCH_RANDOM_POS = 17;
+}
+
+message DebugDrawParams {
+  uint32 owner_uin = 1;
+  uint64 zone_buspp_inst_id = 2;
+}
+
+message DebugDrawColor {
+  uint32 R = 1;
+  uint32 G = 2;
+  uint32 B = 3;
+  uint32 A = 4;
+}
+
+message DebugDrawRotator {
+  float x = 1;
+  float y = 2;
+  float z = 3;
+  float w = 4;
+}
+
+message DebugDrawPointData {
+  Next.Position point_pos = 1;
+  int32 point_size = 2;
+  Next.DebugDrawColor color = 3;
+  float show_time = 4;
+}
+
+message DebugDrawLineData {
+  Next.Position start_pos = 1;
+  Next.Position end_pos = 2;
+  Next.DebugDrawColor color = 3;
+  float show_time = 4;
+  int32 thickness = 5;
+  int32 arrow_size = 6;
+}
+
+message DebugDrawSphereData {
+  Next.Position center = 1;
+  int32 radius = 2;
+  int32 segments = 3;
+  Next.DebugDrawColor color = 4;
+  float show_time = 5;
+  int32 thickness = 6;
+}
+
+message DebugDrawBoxData {
+  Next.Position center = 1;
+  Next.Position extent = 2;
+  Next.DebugDrawColor color = 3;
+  Next.DebugDrawRotator rotator = 4;
+  float show_time = 5;
+  int32 thickness = 6;
+}
+
+message DebugDrawCapsuleData {
+  Next.Position center = 1;
+  float half_height = 2;
+  float radius = 3;
+  Next.DebugDrawRotator rotator = 4;
+  Next.DebugDrawColor color = 5;
+  float show_time = 6;
+  int32 thickness = 7;
+}
+
+message DebugDrawMeshData {
+  repeated Next.Position verts = 1;
+  repeated int32 indices = 2;
+  Next.DebugDrawColor color = 3;
+  float show_time = 4;
+}
+
+message DebugDrawWireFrame {
+  Next.Position start_pos = 1;
+  Next.Position end_pos = 2;
+}
+
+message DebugDrawWireFrameData {
+  repeated Next.DebugDrawWireFrame lines = 1;
+  Next.DebugDrawColor color = 2;
+  float show_time = 3;
+  int32 thickness = 4;
+  int32 arrow_size = 5;
+}
+
+message DebugDrawPointSetData {
+  repeated Next.Position verts = 1;
+  int32 point_size = 2;
+  Next.DebugDrawColor color = 3;
+  float show_time = 4;
+}
+
+message NavMeshDebugDraw {
+  message NavMeshBoundary {
+    Next.Position begin_pos = 1;
+    Next.Position end_pos = 2;
+  }
+  message NavMeshPoly {
+    int32 flag = 1;
+    Next.DebugDrawColor color = 2;
+    repeated Next.Position verts = 3;
+  }
+  message NavMeshTile {
+    repeated Next.NavMeshDebugDraw.NavMeshPoly polys = 1;
+    repeated Next.NavMeshDebugDraw.NavMeshBoundary inner_boundaries = 2;
+    Next.DebugDrawColor inner_color = 3;
+    repeated Next.NavMeshDebugDraw.NavMeshBoundary outer_boundaries = 4;
+    Next.DebugDrawColor outer_color = 5;
+  }
+  repeated Next.NavMeshDebugDraw.NavMeshTile tiles = 1;
+}
+
+message DebugDrawNavMeshData {
+  Next.NavMeshDebugDraw raw_data = 1;
+  int32 inner_line_thickness = 2;
+  int32 outer_line_thickness = 3;
+  float show_time = 4;
+}
+
+message DebugDrawCylinderData {
+  Next.Position center_pos = 1;
+  int32 half_height = 2;
+  int32 radius = 3;
+  int32 segments = 4;
+  Next.DebugDrawColor color = 5;
+  float show_time = 6;
+  int32 thickness = 7;
+}
+
+message DebugDrawCircleData {
+  Next.Position center_pos = 1;
+  int32 radius = 2;
+  int32 segments = 3;
+  Next.DebugDrawColor color = 4;
+  float show_time = 5;
+  int32 thickness = 6;
+}
+
+message DebugDrawTextData {
+  Next.Position pos = 1;
+  bytes text = 2;
+  Next.DebugDrawColor color = 3;
+  float show_time = 4;
+}
+
+message SceneGmDebugDrawCall {
+  Next.DEBUG_DRAW_CALL_TYPE type = 1;
+  Next.DebugDrawPointData point_data = 2;
+  Next.DebugDrawLineData line_data = 3;
+  Next.DebugDrawSphereData sphere_data = 4;
+  Next.DebugDrawBoxData box_data = 5;
+  Next.DebugDrawCapsuleData capsule_data = 6;
+  Next.DebugDrawMeshData mesh_data = 7;
+  Next.DebugDrawWireFrameData wire_frame_data = 8;
+  Next.DebugDrawPointSetData point_set_data = 9;
+  Next.DebugDrawNavMeshData nav_mesh_data = 10;
+  Next.DebugDrawCylinderData cylinder_data = 11;
+  Next.DebugDrawCircleData circle_data = 12;
+  Next.DebugDrawTextData text_data = 13;
+}
+
+message ZoneSceneGmDebugDrawCall {
+  repeated Next.SceneGmDebugDrawCall draws = 1;
+}

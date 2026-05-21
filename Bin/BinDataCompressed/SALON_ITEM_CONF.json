@@ -1,0 +1,4535 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "icon": "11000001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "2": {
+      "id": 2,
+      "name": "235",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "icon": "11000001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "3": {
+      "id": 3,
+      "name": "236",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "icon": "11000001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "4": {
+      "id": 4,
+      "name": "237",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "icon": "11000001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "5": {
+      "id": 5,
+      "name": "238",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "icon": "11000001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "6": {
+      "id": 6,
+      "name": "239",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "icon": "11002003",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "7": {
+      "id": 7,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "icon": "11002003",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "8": {
+      "id": 8,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "icon": "11002003",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "9": {
+      "id": 9,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11005006.11005006'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "icon": "11002003",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "10": {
+      "id": 10,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100502.10100502'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "icon": "11002003",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "11": {
+      "id": 11,
+      "name": [
+        240,
+        241
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "icon": "11003004",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "12": {
+      "id": 12,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100503.10100503'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "icon": "11003004",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "13": {
+      "id": 13,
+      "name": [
+        242,
+        243
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "icon": "11003004",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "14": {
+      "id": 14,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100504.10100504'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "icon": "11003004",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "15": {
+      "id": 15,
+      "name": [
+        244,
+        245
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "icon": "11003004",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3824550145
+    },
+    "16": {
+      "id": 16,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11012013.11012013'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11005006.11005006'",
+      "icon": "11005006",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 1130691
+    },
+    "17": {
+      "id": 17,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101202.10101202'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100502.10100502'",
+      "icon": "11005006",
+      "avatar_id": 2,
+      "colour_type": 11,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "18": {
+      "id": 18,
+      "name": [
+        246,
+        247
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100503.10100503'",
+      "icon": "11005006",
+      "avatar_id": 2,
+      "colour_type": 13,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "19": {
+      "id": 19,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101203.10101203'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100504.10100504'",
+      "icon": "11005006",
+      "avatar_id": 2,
+      "colour_type": 15,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "20": {
+      "id": 20,
+      "name": [
+        248,
+        249
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11012013.11012013'",
+      "icon": "11012013",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 1392835
+    },
+    "21": {
+      "id": 21,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101204.10101204'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101202.10101202'",
+      "icon": "11012013",
+      "avatar_id": 1,
+      "colour_type": 18,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "22": {
+      "id": 22,
+      "name": [
+        250,
+        251
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101203.10101203'",
+      "icon": "11012013",
+      "avatar_id": 2,
+      "colour_type": 20,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "23": {
+      "id": 23,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11013014.11013014'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101204.10101204'",
+      "icon": "11012013",
+      "avatar_id": 1,
+      "colour_type": 22,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "24": {
+      "id": 24,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101302.10101302'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11013014.11013014'",
+      "icon": "11013014",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 1654979
+    },
+    "25": {
+      "id": 25,
+      "name": [
+        252,
+        253
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101302.10101302'",
+      "icon": "11013014",
+      "avatar_id": 2,
+      "colour_type": 25,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "26": {
+      "id": 26,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101303.10101303'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101303.10101303'",
+      "icon": "11013014",
+      "avatar_id": 2,
+      "colour_type": 27,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "27": {
+      "id": 27,
+      "name": [
+        254,
+        255
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101304.10101304'",
+      "icon": "11013014",
+      "avatar_id": 2,
+      "colour_type": 29,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "28": {
+      "id": 28,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101304.10101304'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11004005.11004005'",
+      "icon": "11004005",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "4144038144",
+      "item_quality": 1917123
+    },
+    "29": {
+      "id": 29,
+      "name": [
+        256,
+        257
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100402.10100402'",
+      "icon": "11004005",
+      "avatar_id": 1,
+      "colour_type": 32,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "30": {
+      "id": 30,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11004005.11004005'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100403.10100403'",
+      "icon": "11004005",
+      "avatar_id": 1,
+      "colour_type": 34,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "31": {
+      "id": 31,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100402.10100402'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100404.10100404'",
+      "icon": "11004005",
+      "avatar_id": 1,
+      "colour_type": 36,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "32": {
+      "id": 32,
+      "name": [
+        258,
+        259
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100405.10100405'",
+      "icon": "11004005",
+      "avatar_id": 1,
+      "colour_type": 38,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3556114689
+    },
+    "33": {
+      "id": 33,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100403.10100403'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "icon": "12000001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "34": {
+      "id": 34,
+      "name": [
+        260,
+        261
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "icon": "12000001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "35": {
+      "id": 35,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100404.10100404'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "icon": "12000001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "36": {
+      "id": 36,
+      "name": [
+        262,
+        263
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "icon": "12000001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "37": {
+      "id": 37,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100405.10100405'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "icon": "12000001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "38": {
+      "id": 38,
+      "name": [
+        264,
+        265
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "icon": "12001001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "39": {
+      "id": 39,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "icon": "12001001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "40": {
+      "id": 40,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "icon": "12001001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "41": {
+      "id": 41,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "icon": "12001001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "42": {
+      "id": 42,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "icon": "12001001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "43": {
+      "id": 43,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "icon": "12002001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "44": {
+      "id": 44,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13000000.13000000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "icon": "12002001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "45": {
+      "id": 45,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13001000.13001000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "icon": "12002001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "46": {
+      "id": 46,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13002000.13002000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "icon": "12002001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "47": {
+      "id": 47,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13003000.13003000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "icon": "12002001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "48": {
+      "id": 48,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13004000.13004000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "icon": "12003001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "49": {
+      "id": 49,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13005000.13005000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "icon": "12003001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "50": {
+      "id": 50,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000001.15000001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "icon": "12003001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "51": {
+      "id": 51,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000002.15000002'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "icon": "12003001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "52": {
+      "id": 52,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000004.15000004'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "icon": "12003001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "53": {
+      "id": 53,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000005.15000005'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "icon": "12004001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "54": {
+      "id": 54,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000006.15000006'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "icon": "12004001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "55": {
+      "id": 55,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000007.15000007'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "icon": "12004001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "56": {
+      "id": 56,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000009.15000009'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "icon": "12004001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "57": {
+      "id": 57,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000010.15000010'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "icon": "12004001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "58": {
+      "id": 58,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13000000.13000000'",
+      "icon": "13000000",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "59": {
+      "id": 59,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13001000.13001000'",
+      "icon": "13001000",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "60": {
+      "id": 60,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13002000.13002000'",
+      "icon": "13002000",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 259585
+    },
+    "61": {
+      "id": 61,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13003000.13003000'",
+      "icon": "13003000",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "62": {
+      "id": 62,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13004000.13004000'",
+      "icon": "13004000",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "63": {
+      "id": 63,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13005000.13005000'",
+      "icon": "13005000",
+      "change_bp": "238",
+      "item_quality": 1308161
+    },
+    "64": {
+      "id": 64,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21005006.21005006'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000001.15000001'",
+      "icon": "15000001",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "65": {
+      "id": 65,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100502.20100502'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000002.15000002'",
+      "icon": "15000002",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "67": {
+      "id": 67,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100503.20100503'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000004.15000004'",
+      "icon": "15000004",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "68": {
+      "id": 68,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100504.20100504'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000005.15000005'",
+      "icon": "15000005",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "69": {
+      "id": 69,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21012013.21012013'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000006.15000006'",
+      "icon": "15000006",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "70": {
+      "id": 70,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101202.20101202'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000007.15000007'",
+      "icon": "15000007",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "72": {
+      "id": 72,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101203.20101203'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000009.15000009'",
+      "icon": "15000009",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "73": {
+      "id": 73,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101204.20101204'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000010.15000010'",
+      "icon": "15000010",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 259585
+    },
+    "74": {
+      "id": 74,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21013014.21013014'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
+      "icon": "15000011",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "75": {
+      "id": 75,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101302.20101302'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
+      "icon": "15000012",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "76": {
+      "id": 76,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101303.20101303'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
+      "icon": "15000013",
+      "change_bp": "238",
+      "item_quality": 1087632897
+    },
+    "77": {
+      "id": 77,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101304.20101304'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "icon": "21000001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "78": {
+      "id": 78,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21004005.21004005'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "icon": "21000001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "79": {
+      "id": 79,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100402.20100402'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "icon": "21000001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "80": {
+      "id": 80,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100403.20100403'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "icon": "21000001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "81": {
+      "id": 81,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100404.20100404'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "icon": "21000001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "82": {
+      "id": 82,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100405.20100405'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "icon": "21003004",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "83": {
+      "id": 83,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "icon": "21003004",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "84": {
+      "id": 84,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "icon": "21003004",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "85": {
+      "id": 85,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "icon": "21003004",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "86": {
+      "id": 86,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "icon": "21003004",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "87": {
+      "id": 87,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "icon": "21007008",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "88": {
+      "id": 88,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23000000.23000000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "icon": "21007008",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "89": {
+      "id": 89,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23001000.23001000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "icon": "21007008",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "90": {
+      "id": 90,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23002000.23002000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "icon": "21007008",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3556114689
+    },
+    "91": {
+      "id": 91,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23003000.23003000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "icon": "21007008",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 3824550145
+    },
+    "92": {
+      "id": 92,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23004000.23004000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21005006.21005006'",
+      "icon": "21005006",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 6111427
+    },
+    "93": {
+      "id": 93,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23005000.23005000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100502.20100502'",
+      "icon": "21005006",
+      "avatar_id": 2,
+      "colour_type": 11,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "94": {
+      "id": 94,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000001.25000001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100503.20100503'",
+      "icon": "21005006",
+      "avatar_id": 2,
+      "colour_type": 13,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "95": {
+      "id": 95,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000002.25000002'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100504.20100504'",
+      "icon": "21005006",
+      "avatar_id": 2,
+      "colour_type": 15,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "96": {
+      "id": 96,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000004.25000004'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21012013.21012013'",
+      "icon": "21012013",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 6373571
+    },
+    "97": {
+      "id": 97,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000005.25000005'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101202.20101202'",
+      "icon": "21012013",
+      "avatar_id": 1,
+      "colour_type": 18,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "98": {
+      "id": 98,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000006.25000006'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101203.20101203'",
+      "icon": "21012013",
+      "avatar_id": 2,
+      "colour_type": 20,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "99": {
+      "id": 99,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000007.25000007'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101204.20101204'",
+      "icon": "21012013",
+      "avatar_id": 1,
+      "colour_type": 22,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "100": {
+      "id": 100,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000009.25000009'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21013014.21013014'",
+      "icon": "21013014",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 6635715
+    },
+    "101": {
+      "id": 101,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000010.25000010'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101302.20101302'",
+      "icon": "21013014",
+      "avatar_id": 2,
+      "colour_type": 25,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "102": {
+      "id": 102,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000001.30000001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101303.20101303'",
+      "icon": "21013014",
+      "avatar_id": 2,
+      "colour_type": 27,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "103": {
+      "id": 103,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000002.30000002'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101304.20101304'",
+      "icon": "21013014",
+      "avatar_id": 2,
+      "colour_type": 29,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "104": {
+      "id": 104,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000003.30000003'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21004005.21004005'",
+      "icon": "21004005",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "4144038144",
+      "item_quality": 6897859
+    },
+    "105": {
+      "id": 105,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000001.34000001'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100402.20100402'",
+      "icon": "21004005",
+      "avatar_id": 1,
+      "colour_type": 32,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "106": {
+      "id": 106,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000002.34000002'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100403.20100403'",
+      "icon": "21004005",
+      "avatar_id": 1,
+      "colour_type": 34,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "107": {
+      "id": 107,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000003.34000003'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100404.20100404'",
+      "icon": "21004005",
+      "avatar_id": 1,
+      "colour_type": 36,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "108": {
+      "id": 108,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000004.34000004'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100405.20100405'",
+      "icon": "21004005",
+      "avatar_id": 1,
+      "colour_type": 38,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3556114689
+    },
+    "109": {
+      "id": 109,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000005.34000005'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "icon": "22000001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "110": {
+      "id": 110,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000006.34000006'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "icon": "22000001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "111": {
+      "id": 111,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11014015.11014015'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "icon": "22000001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "112": {
+      "id": 112,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101402.10101402'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "icon": "22000001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "113": {
+      "id": 113,
+      "name": [
+        266,
+        267
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "icon": "22000001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "114": {
+      "id": 114,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101403.10101403'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "icon": "22001001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "115": {
+      "id": 115,
+      "name": [
+        268,
+        269
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "icon": "22001001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "116": {
+      "id": 116,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101404.10101404'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "icon": "22001001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "117": {
+      "id": 117,
+      "name": [
+        270,
+        271
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "icon": "22001001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "118": {
+      "id": 118,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21014015.21014015'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "icon": "22001001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "119": {
+      "id": 119,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101402.20101402'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "icon": "22002001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "120": {
+      "id": 120,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101403.20101403'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "icon": "22002001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "121": {
+      "id": 121,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101404.20101404'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "icon": "22002001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "122": {
+      "id": 122,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13006000.13006000'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "icon": "22002001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "123": {
+      "id": 123,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000011.34000011'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "icon": "22002001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "124": {
+      "id": 124,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23006000.23006000'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "icon": "22003001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "125": {
+      "id": 125,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11001002.11001002'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "icon": "22003001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "126": {
+      "id": 126,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100102.10100102'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "icon": "22003001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "127": {
+      "id": 127,
+      "name": [
+        272,
+        273
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "icon": "22003001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "128": {
+      "id": 128,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100103.10100103'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "icon": "22003001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "129": {
+      "id": 129,
+      "name": [
+        274,
+        275
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "icon": "22004001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "130": {
+      "id": 130,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100104.10100104'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "icon": "22004001",
+      "colour_type": 3,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "131": {
+      "id": 131,
+      "name": [
+        276,
+        277
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "icon": "22004001",
+      "colour_type": 4,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "132": {
+      "id": 132,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100105.10100105'",
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "icon": "22004001",
+      "colour_type": 5,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "133": {
+      "id": 133,
+      "name": [
+        278,
+        279
+      ],
+      "editor_name": "235",
+      "gender": 2,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "icon": "22004001",
+      "colour_type": 6,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "134": {
+      "id": 134,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21001002.21001002'",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23000000.23000000'",
+      "icon": "23000000",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "135": {
+      "id": 135,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100102.20100102'",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23001000.23001000'",
+      "icon": "23001000",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "136": {
+      "id": 136,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100103.20100103'",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23002000.23002000'",
+      "icon": "23002000",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 259585
+    },
+    "137": {
+      "id": 137,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100104.20100104'",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23003000.23003000'",
+      "icon": "23003000",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "138": {
+      "id": 138,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100105.20100105'",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23004000.23004000'",
+      "icon": "23004000",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "139": {
+      "id": 139,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11015016.11015016'",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23005000.23005000'",
+      "icon": "23005000",
+      "change_bp": "238",
+      "item_quality": 1308161
+    },
+    "140": {
+      "id": 140,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101502.10101502'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000001.25000001'",
+      "icon": "25000001",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "141": {
+      "id": 141,
+      "name": [
+        280,
+        281
+      ],
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000002.25000002'",
+      "icon": "25000002",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "143": {
+      "id": 143,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101503.10101503'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000004.25000004'",
+      "icon": "25000004",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "144": {
+      "id": 144,
+      "name": [
+        282,
+        283
+      ],
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000005.25000005'",
+      "icon": "25000005",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "145": {
+      "id": 145,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101504.10101504'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000006.25000006'",
+      "icon": "25000006",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "146": {
+      "id": 146,
+      "name": [
+        284,
+        285
+      ],
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000007.25000007'",
+      "icon": "25000007",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "148": {
+      "id": 148,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101505.10101505'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000009.25000009'",
+      "icon": "25000009",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1308161
+    },
+    "149": {
+      "id": 149,
+      "name": [
+        286,
+        287
+      ],
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000010.25000010'",
+      "icon": "25000010",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 259585
+    },
+    "150": {
+      "id": 150,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21015016.21015016'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
+      "icon": "25000011",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "151": {
+      "id": 151,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101502.20101502'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
+      "icon": "25000012",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "152": {
+      "id": 152,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101503.20101503'",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
+      "icon": "25000013",
+      "change_bp": "238",
+      "item_quality": 1304065
+    },
+    "153": {
+      "id": 153,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101504.20101504'",
+      "editor_name": "236",
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000001.30000001'",
+      "icon": "30000001",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1304065
+    },
+    "154": {
+      "id": 154,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101505.20101505'",
+      "editor_name": "236",
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000002.30000002'",
+      "icon": "30000002",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1304065
+    },
+    "155": {
+      "id": 155,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000007.30000007'",
+      "editor_name": "236",
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000003.30000003'",
+      "icon": "30000003",
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "157": {
+      "id": 157,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11020021.11020021'",
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000001.34000001'",
+      "icon": "34000001",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "162": {
+      "id": 162,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102002.10102002'",
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000002.34000002'",
+      "icon": "34000002",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "167": {
+      "id": 167,
+      "name": [
+        288,
+        289
+      ],
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000003.34000003'",
+      "icon": "34000003",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "172": {
+      "id": 172,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102003.10102003'",
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000004.34000004'",
+      "icon": "34000004",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "177": {
+      "id": 177,
+      "name": [
+        290,
+        291
+      ],
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000005.34000005'",
+      "icon": "34000005",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 13891073
+    },
+    "182": {
+      "id": 182,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102004.10102004'",
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000006.34000006'",
+      "icon": "34000006",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "is_present_colour": true,
+      "change_bp": "236",
+      "item_quality": 1088681473
+    },
+    "183": {
+      "id": 183,
+      "name": [
+        292,
+        293
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11014015.11014015'",
+      "icon": "11014015",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 12075203
+    },
+    "184": {
+      "id": 184,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21020021.21020021'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101402.10101402'",
+      "icon": "11014015",
+      "avatar_id": 1,
+      "colour_type": 111,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "185": {
+      "id": 185,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102002.20102002'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101403.10101403'",
+      "icon": "11014015",
+      "avatar_id": 1,
+      "colour_type": 113,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "186": {
+      "id": 186,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102003.20102003'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101404.10101404'",
+      "icon": "11014015",
+      "avatar_id": 1,
+      "colour_type": 115,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "187": {
+      "id": 187,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102004.20102004'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21014015.21014015'",
+      "icon": "21014015",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 12337347
+    },
+    "188": {
+      "id": 188,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000014.15000014'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101402.20101402'",
+      "icon": "21014015",
+      "avatar_id": 1,
+      "colour_type": 111,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "189": {
+      "id": 189,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000014.25000014'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101403.20101403'",
+      "icon": "21014015",
+      "avatar_id": 1,
+      "colour_type": 113,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "190": {
+      "id": 190,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11017018.11017018'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101404.20101404'",
+      "icon": "21014015",
+      "avatar_id": 1,
+      "colour_type": 115,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 66453761
+    },
+    "191": {
+      "id": 191,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21017018.21017018'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13006000.13006000'",
+      "icon": "13006000",
+      "change_bp": "238",
+      "item_quality": 12842497
+    },
+    "192": {
+      "id": 192,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101702.10101702'",
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000011.34000011'",
+      "icon": "34000012",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "193": {
+      "id": 193,
+      "name": [
+        294,
+        295
+      ],
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23006000.23006000'",
+      "icon": "23006000",
+      "change_bp": "238",
+      "item_quality": 1088681473
+    },
+    "195": {
+      "id": 195,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101702.20101702'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11001002.11001002'",
+      "icon": "11001002",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "4144038144",
+      "item_quality": 12861635
+    },
+    "196": {
+      "id": 196,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101703.10101703'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100102.10100102'",
+      "icon": "11001002",
+      "avatar_id": 1,
+      "colour_type": 125,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "197": {
+      "id": 197,
+      "name": [
+        296,
+        297
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100103.10100103'",
+      "icon": "11001002",
+      "avatar_id": 1,
+      "colour_type": 127,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "198": {
+      "id": 198,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101703.20101703'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100104.10100104'",
+      "icon": "11001002",
+      "avatar_id": 1,
+      "colour_type": 129,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "199": {
+      "id": 199,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101704.10101704'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100105.10100105'",
+      "icon": "11001002",
+      "avatar_id": 2,
+      "colour_type": 131,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3824550145
+    },
+    "200": {
+      "id": 200,
+      "name": [
+        298,
+        299
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21001002.21001002'",
+      "icon": "21001002",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "4144038144",
+      "item_quality": 13189315
+    },
+    "201": {
+      "id": 201,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101704.20101704'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100102.20100102'",
+      "icon": "21001002",
+      "avatar_id": 1,
+      "colour_type": 125,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "202": {
+      "id": 202,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101601.10101601'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100103.20100103'",
+      "icon": "21001002",
+      "avatar_id": 1,
+      "colour_type": 127,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "203": {
+      "id": 203,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101601.20101601'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100104.20100104'",
+      "icon": "21001002",
+      "avatar_id": 1,
+      "colour_type": 129,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "204": {
+      "id": 204,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101602.10101602'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100105.20100105'",
+      "icon": "21001002",
+      "avatar_id": 2,
+      "colour_type": 131,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3824550145
+    },
+    "205": {
+      "id": 205,
+      "name": [
+        300,
+        301
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11015016.11015016'",
+      "icon": "11015016",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "4144038144",
+      "item_quality": 13516995
+    },
+    "206": {
+      "id": 206,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101602.20101602'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101502.10101502'",
+      "icon": "11015016",
+      "avatar_id": 1,
+      "colour_type": 139,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "207": {
+      "id": 207,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101603.10101603'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101503.10101503'",
+      "icon": "11015016",
+      "avatar_id": 1,
+      "colour_type": 141,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "208": {
+      "id": 208,
+      "name": [
+        302,
+        303
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101504.10101504'",
+      "icon": "11015016",
+      "avatar_id": 1,
+      "colour_type": 143,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "209": {
+      "id": 209,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101603.20101603'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101505.10101505'",
+      "icon": "11015016",
+      "avatar_id": 2,
+      "colour_type": 145,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3824550145
+    },
+    "210": {
+      "id": 210,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101604.10101604'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21015016.21015016'",
+      "icon": "21015016",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "4144038144",
+      "item_quality": 13844675
+    },
+    "211": {
+      "id": 211,
+      "name": [
+        304,
+        305
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101502.20101502'",
+      "icon": "21015016",
+      "avatar_id": 1,
+      "colour_type": 139,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "212": {
+      "id": 212,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101604.20101604'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101503.20101503'",
+      "icon": "21015016",
+      "avatar_id": 1,
+      "colour_type": 141,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "213": {
+      "id": 213,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101605.10101605'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101504.20101504'",
+      "icon": "21015016",
+      "avatar_id": 1,
+      "colour_type": 143,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 3287744769
+    },
+    "214": {
+      "id": 214,
+      "name": [
+        306,
+        307
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101505.20101505'",
+      "icon": "21015016",
+      "avatar_id": 2,
+      "colour_type": 145,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 65405185
+    },
+    "215": {
+      "id": 215,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101605.20101605'",
+      "editor_name": "236",
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000007.30000007'",
+      "icon": "30000007",
+      "change_bp": "237",
+      "item_quality": 1088681473
+    },
+    "216": {
+      "id": 216,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102101.10102101'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11020021.11020021'",
+      "icon": "11020021",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 14237891
+    },
+    "217": {
+      "id": 217,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102101.20102101'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102002.10102002'",
+      "icon": "11020021",
+      "avatar_id": 2,
+      "colour_type": 154,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "218": {
+      "id": 218,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102102.10102102'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102003.10102003'",
+      "icon": "11020021",
+      "avatar_id": 2,
+      "colour_type": 156,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "219": {
+      "id": 219,
+      "name": [
+        308,
+        309
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102004.10102004'",
+      "icon": "11020021",
+      "avatar_id": 2,
+      "colour_type": 158,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "220": {
+      "id": 220,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102102.20102102'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21020021.21020021'",
+      "icon": "21020021",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 14500035
+    },
+    "221": {
+      "id": 221,
+      "name": [
+        310,
+        311
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102002.20102002'",
+      "icon": "21020021",
+      "avatar_id": 2,
+      "colour_type": 154,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "222": {
+      "id": 222,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102103.10102103'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102003.20102003'",
+      "icon": "21020021",
+      "avatar_id": 2,
+      "colour_type": 156,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "223": {
+      "id": 223,
+      "name": [
+        312,
+        313
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102004.20102004'",
+      "icon": "21020021",
+      "avatar_id": 2,
+      "colour_type": 158,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 66453761
+    },
+    "224": {
+      "id": 224,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102103.20102103'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000014.15000014'",
+      "icon": "15000014",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "225": {
+      "id": 225,
+      "name": [
+        314,
+        315
+      ],
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000014.25000014'",
+      "icon": "25000014",
+      "change_bp": "238",
+      "item_quality": 1088681473
+    },
+    "226": {
+      "id": 226,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102104.10102104'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11017018.11017018'",
+      "icon": "11017018",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4127260928",
+      "item_quality": 14893283
+    },
+    "227": {
+      "id": 227,
+      "name": [
+        316,
+        317
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21017018.21017018'",
+      "icon": "21017018",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "4144038144",
+      "item_quality": 14958787
+    },
+    "228": {
+      "id": 228,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102104.20102104'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101702.10101702'",
+      "icon": "11017018",
+      "avatar_id": 1,
+      "colour_type": 168,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "229": {
+      "id": 229,
+      "name": [
+        318,
+        319
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101702.20101702'",
+      "icon": "21017018",
+      "avatar_id": 1,
+      "colour_type": 168,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "230": {
+      "id": 230,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000014.34000014'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101703.10101703'",
+      "icon": "11017018",
+      "avatar_id": 1,
+      "colour_type": 171,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "231": {
+      "id": 231,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101901.10101901'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101703.20101703'",
+      "icon": "21017018",
+      "avatar_id": 1,
+      "colour_type": 171,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "232": {
+      "id": 232,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101901.20101901'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101704.10101704'",
+      "icon": "11017018",
+      "avatar_id": 2,
+      "colour_type": 174,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3287744769
+    },
+    "233": {
+      "id": 233,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101902.10101902'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101704.20101704'",
+      "icon": "21017018",
+      "avatar_id": 2,
+      "colour_type": 174,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 3824550145
+    },
+    "234": {
+      "id": 234,
+      "name": [
+        320,
+        321
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101601.10101601'",
+      "icon": "11016017",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "3824550144",
+      "item_quality": 60160
+    },
+    "235": {
+      "id": 235,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101902.20101902'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101601.20101601'",
+      "icon": "21016017",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "3287744768",
+      "item_quality": 60416
+    },
+    "236": {
+      "id": 236,
+      "name": [
+        320,
+        322
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101602.10101602'",
+      "icon": "11016017",
+      "avatar_id": 1,
+      "colour_type": 179,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "237": {
+      "id": 237,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101903.10101903'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101602.20101602'",
+      "icon": "21016017",
+      "avatar_id": 1,
+      "colour_type": 179,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "238": {
+      "id": 238,
+      "name": [
+        323,
+        324
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101603.10101603'",
+      "icon": "11016017",
+      "avatar_id": 2,
+      "colour_type": 182,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "239": {
+      "id": 239,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101903.20101903'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101603.20101603'",
+      "icon": "21016017",
+      "avatar_id": 2,
+      "colour_type": 182,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "240": {
+      "id": 240,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101904.10101904'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101604.10101604'",
+      "icon": "11016017",
+      "avatar_id": 1,
+      "colour_type": 185,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "241": {
+      "id": 241,
+      "name": [
+        325,
+        326
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101604.20101604'",
+      "icon": "21016017",
+      "avatar_id": 1,
+      "colour_type": 185,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "242": {
+      "id": 242,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101904.20101904'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101605.10101605'",
+      "icon": "11016017",
+      "avatar_id": 2,
+      "colour_type": 188,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "243": {
+      "id": 243,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101905.10101905'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101605.20101605'",
+      "icon": "21016017",
+      "avatar_id": 2,
+      "colour_type": 188,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 14939649
+    },
+    "244": {
+      "id": 244,
+      "name": [
+        327,
+        328
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102101.10102101'",
+      "icon": "11021022",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "3824550144",
+      "item_quality": 62720
+    },
+    "245": {
+      "id": 245,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101905.20101905'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102101.20102101'",
+      "icon": "21021022",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "3287744768",
+      "item_quality": 62976
+    },
+    "246": {
+      "id": 246,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000015.15000015'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102102.10102102'",
+      "icon": "11021022",
+      "avatar_id": 2,
+      "colour_type": 193,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "247": {
+      "id": 247,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000015.25000015'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102102.20102102'",
+      "icon": "21021022",
+      "avatar_id": 1,
+      "colour_type": 195,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "248": {
+      "id": 248,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13009000.13009000'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102103.10102103'",
+      "icon": "11021022",
+      "avatar_id": 1,
+      "colour_type": 197,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "249": {
+      "id": 249,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23009000.23009000'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102103.20102103'",
+      "icon": "21021022",
+      "avatar_id": 1,
+      "colour_type": 199,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "250": {
+      "id": 250,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102301.10102301'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102104.10102104'",
+      "icon": "11021022",
+      "avatar_id": 1,
+      "colour_type": 201,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "251": {
+      "id": 251,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102301.20102301'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102104.20102104'",
+      "icon": "21021022",
+      "avatar_id": 1,
+      "colour_type": 203,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "252": {
+      "id": 252,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102302.10102302'",
+      "editor_name": "236",
+      "gender": 4,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000014.34000014'",
+      "icon": "34000014",
+      "change_bp": "238",
+      "item_quality": 14939649
+    },
+    "253": {
+      "id": 253,
+      "name": [
+        329,
+        330
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101901.10101901'",
+      "icon": "11019020",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "3824550144",
+      "item_quality": 65024
+    },
+    "254": {
+      "id": 254,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102302.20102302'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101901.20101901'",
+      "icon": "21019020",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1025,
+      "change_bp": "3287744768",
+      "item_quality": 65280
+    },
+    "255": {
+      "id": 255,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102303.10102303'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101902.10101902'",
+      "icon": "11019020",
+      "avatar_id": 2,
+      "colour_type": 208,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "256": {
+      "id": 256,
+      "name": [
+        331,
+        332
+      ],
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101902.20101902'",
+      "icon": "21019020",
+      "avatar_id": 2,
+      "colour_type": 210,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "257": {
+      "id": 257,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102303.20102303'",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101903.10101903'",
+      "icon": "11019020",
+      "avatar_id": 2,
+      "colour_type": 212,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "258": {
+      "id": 258,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102304.10102304'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101903.20101903'",
+      "icon": "21019020",
+      "avatar_id": 2,
+      "colour_type": 212,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "259": {
+      "id": 259,
+      "name": [
+        333,
+        334
+      ],
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101904.10101904'",
+      "icon": "11019020",
+      "avatar_id": 2,
+      "colour_type": 215,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "260": {
+      "id": 260,
+      "name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102304.20102304'",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101904.20101904'",
+      "icon": "21019020",
+      "avatar_id": 2,
+      "colour_type": 215,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "261": {
+      "id": 261,
+      "name": "#563027FF",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101905.10101905'",
+      "icon": "11019020",
+      "avatar_id": 2,
+      "colour_type": 218,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 12842753
+    },
+    "262": {
+      "id": 262,
+      "name": "#3E3F40FF",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101905.20101905'",
+      "icon": "21019020",
+      "avatar_id": 2,
+      "colour_type": 218,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "change_bp": "237",
+      "item_quality": 259585
+    },
+    "263": {
+      "id": 263,
+      "name": "#93A6ABFF",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000015.15000015'",
+      "icon": "15000015",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "264": {
+      "id": 264,
+      "name": "#9D7447FF",
+      "editor_name": "235",
+      "gender": 5,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000015.25000015'",
+      "icon": "25000015",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "265": {
+      "id": 265,
+      "name": "#671D2AFF",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13009000.13009000'",
+      "icon": "13009000",
+      "change_bp": "238",
+      "item_quality": 259585
+    },
+    "266": {
+      "id": 266,
+      "name": "#dfbc6e",
+      "editor_name": "235",
+      "gender": 3,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23009000.23009000'",
+      "icon": "23009000",
+      "change_bp": "238",
+      "item_quality": 14939649
+    },
+    "267": {
+      "id": 267,
+      "name": "#c9882d",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102301.10102301'",
+      "icon": "11023024",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "3824550144",
+      "item_quality": 68608
+    },
+    "268": {
+      "id": 268,
+      "name": "#aa5e6a",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102301.20102301'",
+      "icon": "21023024",
+      "colour_type": 2,
+      "colour_id": [
+        "1954047316",
+        "845509237",
+        "1194272580",
+        "795176289",
+        "1383556430",
+        "795829103",
+        "1969516365",
+        "796091756",
+        "1953724755",
+        "1093627237",
+        "1634037872",
+        "1668178290",
+        "1632776037",
+        "1665740663",
+        "825192047",
+        "808464433",
+        "774975536",
+        "808464689",
+        "825241648"
+      ],
+      "texture_id": 1281,
+      "change_bp": "3287744768",
+      "item_quality": 68864
+    },
+    "269": {
+      "id": 269,
+      "name": "#e4e1e2",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102302.10102302'",
+      "icon": "11023024",
+      "avatar_id": 2,
+      "colour_type": 227,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "270": {
+      "id": 270,
+      "name": "#ebe7c9",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102302.20102302'",
+      "icon": "21023024",
+      "avatar_id": 2,
+      "colour_type": 227,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "271": {
+      "id": 271,
+      "name": "#fbdb6d",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102303.10102303'",
+      "icon": "11023024",
+      "avatar_id": 2,
+      "colour_type": 230,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "272": {
+      "id": 272,
+      "name": "#faca9e",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102303.20102303'",
+      "icon": "21023024",
+      "avatar_id": 2,
+      "colour_type": 230,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "273": {
+      "id": 273,
+      "name": "#c37659",
+      "editor_name": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102304.10102304'",
+      "icon": "11023024",
+      "avatar_id": 2,
+      "colour_type": 233,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 12842753
+    },
+    "274": {
+      "id": 274,
+      "name": "#f4cda4",
+      "editor_name": "235",
+      "gender": 1,
+      "description": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102304.20102304'",
+      "icon": "21023024",
+      "avatar_id": 2,
+      "colour_type": 233,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "change_bp": "238",
+      "item_quality": 2019906561
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "FRIEND_RECOMMEND_CONF",
+    "Type": "EStruct",
+    "UniqueKey": "id",
+    "Properties": [
+        {
+            "Name": "id",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+        },
+        {
+            "Name": "table_name",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+        },
+        {
+            "Name": "friend_recommend_source",
+            "Type": "EInt32",
+            "Offset": 8,
+            "Size": 4
+        },
+        {
+            "Name": "recommend_table_max",
+            "Type": "EInt32",
+            "Offset": 12,
+            "Size": 4
+        },
+        {
+            "Name": "list_sort",
+            "Type": "EInt32",
+            "Offset": 16,
+            "Size": 4
+        },
+        {
+            "Name": "list_icon_path",
+            "Type": "EString",
+            "Offset": 20,
+            "Size": 4,
+            "CompressedSize": 4
+        }
+    ]
+}

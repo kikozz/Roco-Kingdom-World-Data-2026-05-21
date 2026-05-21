@@ -1,0 +1,160 @@
+package Next;
+
+import "com_base_types.proto";
+import "xls_enum.proto";
+import "com_goods.proto";
+
+enum NodeRefreshType {
+  NRT_EVENT = 1;
+  NRT_REWARD = 2;
+}
+
+enum RewardAction {
+  RA_FUSE_SKILL = 0;
+  RA_ADD_SKILL = 1;
+  RA_RECEIVE_REWARD = 2;
+  RA_SKIP_REWARD = 3;
+}
+
+message GrassTrialFusedSkillData {
+  uint32 base_skill_id = 1;
+  uint32 fused_power = 2;
+  uint32 fused_energy_cost = 3;
+  uint32 fusion_count = 4;
+  uint32 fusion_max = 5;
+  uint32 skill_type = 6;
+  repeated uint32 merged_skill_ids = 7;
+  uint32 slot_pos = 8;
+}
+
+message GrassTrialPet {
+  uint32 pet_gid = 1;
+  uint32 base_conf_id = 2;
+  uint32 current_hp = 3;
+  uint32 max_hp = 4;
+  uint32 level = 5;
+  uint32 energy_ceiling = 6;
+  uint32 growth = 7;
+  repeated Next.GrassTrialFusedSkillData skills = 10;
+  repeated uint32 acquired_feature_ids = 11;
+  repeated uint32 acquired_shard_effect_ids = 12;
+}
+
+message GrassTrialNodeRecord {
+  uint32 chapter_id = 1;
+  uint32 node_index = 2;
+  uint32 event_conf_id = 3;
+  uint32 opponent_monster_id = 4;
+  bool is_completed = 5;
+}
+
+message GrassTrialNodeEvent {
+  uint32 slot_index = 1;
+  uint32 event_conf_id = 2;
+  uint32 reward_id = 3;
+  uint32 event_refresh_cost = 4;
+  uint32 reward_refresh_cost = 5;
+  repeated uint32 random_skills = 6;
+  uint32 level = 7;
+}
+
+message GrassTrialNodeSelection {
+  repeated Next.GrassTrialNodeEvent node_events = 1;
+  uint32 event_refresh_count = 2;
+  uint32 reward_refresh_count = 3;
+}
+
+message GrassTrialEventSelected {
+  uint32 event_conf_id = 1;
+  uint32 reward_id = 2;
+  bool is_waiting_recieve = 3;
+}
+
+message GrassTrialChallengeData {
+  uint32 state = 1;
+  uint32 trial_conf_id = 2;
+  uint32 current_chapter_id = 3;
+  uint32 current_node_index = 4;
+  Next.GrassTrialPet trial_pet_data = 5;
+  uint32 initial_skill_id = 6;
+  uint32 remaining_coin = 7;
+  repeated uint32 active_trial_effect_ids = 8;
+  repeated Next.GrassTrialNodeRecord completed_nodes = 9;
+  repeated uint32 chapter_event_pool = 10;
+  Next.GrassTrialNodeSelection current_selection = 11;
+  uint64 challenge_start_time = 12;
+  uint32 accumulated_score = 13;
+  repeated uint32 discovered_monster_ids = 14;
+  uint32 fusion_type = 15;
+  Next.GrassTrialEventSelected event_selected = 16;
+  uint32 first_dungeon_id = 17;
+  bool leaved_second_scene = 18;
+}
+
+message GrassTrialReviewRecord {
+  uint64 settle_timestamp = 1;
+  uint32 petbase_conf_id = 2;
+  uint32 pet_level = 3;
+  uint32 pet_growth = 4;
+  uint32 trial_conf_id = 5;
+  bool is_victory = 6;
+  uint32 challenge_duration = 7;
+  repeated Next.GrassTrialNodeRecord node_records = 8;
+  repeated Next.GrassTrialReviewSkillInfo review_skills = 9;
+  repeated uint32 review_feature_ids = 10;
+  repeated uint32 review_shard_ids = 11;
+}
+
+message GrassTrialReviewSkillInfo {
+  uint32 base_skill_id = 1;
+  uint32 fusion_count = 2;
+  repeated uint32 merged_skill_ids = 3;
+}
+
+message GrassTrialHandbookSlotReward {
+  uint32 trial_conf_id = 1;
+  uint32 reward_id = 2;
+  uint32 reward_count = 3;
+}
+
+message GrassTrialHandbookSlotState {
+  uint32 pet_base_id = 1;
+  uint32 slot_index = 2;
+  uint32 slot_type = 3;
+  repeated Next.GrassTrialHandbookSlotReward slot_reward = 4;
+}
+
+message GrassTrialLogSceneRecord {
+  uint32 log_conf_id = 1;
+  repeated uint32 discovered_monster_ids = 2;
+  bool final_reward_claimed = 3;
+}
+
+message GrassTrialPeriodReward {
+  int32 required_score = 1;
+  Next.RewardState state = 2;
+}
+
+message GrassTrialPeriodData {
+  uint32 period_conf_id = 1;
+  repeated Next.GrassTrialPeriodReward period_reward = 2;
+  uint32 current_period_score = 3;
+}
+
+message GrassTrialProgressData {
+  repeated uint32 cleared_trial_ids = 1;
+  repeated uint32 first_reward_claimed_trial_ids = 2;
+  repeated Next.GrassTrialHandbookSlotState handbook_slots = 3;
+  repeated Next.GrassTrialReviewRecord review_records = 4;
+  repeated Next.GrassTrialLogSceneRecord log_records = 5;
+}
+
+message GrassTrialData {
+  Next.GrassTrialChallengeData challenge_data = 1;
+  Next.GrassTrialProgressData progress_data = 2;
+  Next.GrassTrialPeriodData period_data = 3;
+}
+
+message BadgeTrialData {
+  Next.GrassTrialData grass_trial_data = 1;
+}

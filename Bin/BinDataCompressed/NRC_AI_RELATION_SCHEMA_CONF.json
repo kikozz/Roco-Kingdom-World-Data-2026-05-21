@@ -1,0 +1,132 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "configurable": true
+    },
+    "2": {
+      "id": 2,
+      "configurable": true
+    },
+    "3": {
+      "id": 3,
+      "configurable": true
+    },
+    "4": {
+      "id": 4,
+      "configurable": true
+    },
+    "5": {
+      "id": 5,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "6": {
+      "id": 6,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "7": {
+      "id": 7,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "8": {
+      "id": 8,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "9": {
+      "id": 9,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "10": {
+      "id": 10,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "11": {
+      "id": 11,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "12": {
+      "id": 12,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "13": {
+      "id": 13,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "14": {
+      "id": 14,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "15": {
+      "id": 15,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "16": {
+      "id": 16,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "17": {
+      "id": 17,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "18": {
+      "id": 18,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "19": {
+      "id": 19,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    },
+    "20": {
+      "id": 20,
+      "configurable": true,
+      "role_schema": [
+        16777216
+      ]
+    }
+  }
+}

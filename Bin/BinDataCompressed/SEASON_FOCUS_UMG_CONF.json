@@ -1,0 +1,52 @@
+{
+  "RocoDataRows": {
+    "101": {
+      "id": 101,
+      "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/UMG_S1_LegendaryJini.UMG_S1_LegendaryJini_C'",
+      "title_txt": "传说精灵「帕尔萨斯」",
+      "slogan_txt_1": "<White>「忠诚」</>的化身",
+      "slogan_txt_2": "吞噬魔力的<White>恶之传说</>",
+      "additional_txt1": "珍贵精灵蛋",
+      "additional_txt2": "赛季作业<Yellow>第1章</>获得"
+    },
+    "102": {
+      "id": 102,
+      "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/UMG_S1_NewGameplay.UMG_S1_NewGameplay_C'",
+      "title_txt": "新奇遇「噩梦枷锁」",
+      "slogan_txt_1": "<White>持续使用</>咕噜球捕捉",
+      "slogan_txt_2": "与<White>最特别</>的精灵伙伴相遇！",
+      "additional_txt1": "特别的伙伴们"
+    },
+    "103": {
+      "id": 103,
+      "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/UMG_S1_BattlePass.UMG_S1_BattlePass_C'",
+      "title_txt": "拾光通行证",
+      "slogan_txt_1": "提升<White>通行证等级</>",
+      "slogan_txt_2": "获得<White>赛季限定奖励</>"
+    },
+    "201": {
+      "id": 201,
+      "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S2/UMG_S2_LegendaryJini.UMG_S2_LegendaryJini_C'",
+      "title_txt": "传说精灵「机幕方舟」",
+      "slogan_txt_1": "<White>狂欢马戏</>精彩纷呈",
+      "slogan_txt_2": "<White>创造之心</>永不磨灭",
+      "additional_txt1": "珍贵精灵蛋",
+      "additional_txt2": "赛季作业<Yellow>第1章</>获得"
+    },
+    "202": {
+      "id": 202,
+      "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S2/UMG_S2_NewGameplay.UMG_S2_NewGameplay_C'",
+      "title_txt": "新奇遇「幸运惊喜盒」",
+      "slogan_txt_1": "咕噜球<White>连续捕捉</>引戏法",
+      "slogan_txt_2": "<White>变幻盒开</>邂逅精灵伙伴",
+      "additional_txt1": "特别的伙伴们"
+    },
+    "203": {
+      "id": 203,
+      "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S2/UMG_S2_BattlePass.UMG_S2_BattlePass_C'",
+      "title_txt": "狂欢通行证",
+      "slogan_txt_1": "提升<White>通行证等级</>",
+      "slogan_txt_2": "获得<White>赛季限定奖励</>"
+    }
+  }
+}
