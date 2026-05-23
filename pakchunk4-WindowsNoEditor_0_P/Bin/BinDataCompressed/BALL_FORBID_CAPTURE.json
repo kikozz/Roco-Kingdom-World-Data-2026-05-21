@@ -1,0 +1,32 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "mutation_type": 8,
+      "blacklist_ball_id": [
+        100286,
+        100288,
+        100289
+      ],
+      "forbid_tips": "炫彩精灵无法使用棱镜球捕捉哦"
+    },
+    "2": {
+      "id": 2,
+      "mutation_type": 32,
+      "blacklist_ball_id": [
+        100286,
+        100288,
+        100289
+      ],
+      "forbid_tips": "噩梦残留精灵无法使用棱镜球捕捉哦"
+    },
+    "3": {
+      "id": 3,
+      "mutation_type": 4,
+      "whitelist_ball_id": [
+        0
+      ],
+      "forbid_tips": "这只精灵受到噩梦力量的保护，咕噜球无法发挥作用"
+    }
+  }
+}

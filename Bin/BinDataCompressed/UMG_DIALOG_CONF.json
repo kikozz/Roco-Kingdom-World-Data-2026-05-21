@@ -1,9 +1,0 @@
-{
-  "RocoDataRows": {
-    "1": {
-      "id": 1,
-      "widget_name": "btnClose.btnClose",
-      "mutex_group_name": "common_dialog_close"
-    }
-  }
-}

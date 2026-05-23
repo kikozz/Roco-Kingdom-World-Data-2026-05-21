@@ -1,0 +1,815 @@
+{
+  "RocoDataRows": {
+    "21": {
+      "id": 1001,
+      "action_type": 21,
+      "client_submit": true
+    },
+    "26": {
+      "id": 1002,
+      "action_type": 26,
+      "client_submit": true
+    },
+    "32": {
+      "id": 1003,
+      "action_type": 32,
+      "client_submit": true
+    },
+    "33": {
+      "id": 1004,
+      "action_type": 33,
+      "client_submit": true
+    },
+    "34": {
+      "id": 1005,
+      "action_type": 34,
+      "client_submit": true
+    },
+    "35": {
+      "id": 1006,
+      "action_type": 35,
+      "client_submit": true
+    },
+    "43": {
+      "id": 1007,
+      "action_type": 43,
+      "client_submit": true
+    },
+    "45": {
+      "id": 1008,
+      "action_type": 45,
+      "client_submit": true
+    },
+    "46": {
+      "id": 1009,
+      "action_type": 46,
+      "client_submit": true
+    },
+    "49": {
+      "id": 1010,
+      "action_type": 49,
+      "client_submit": true
+    },
+    "50": {
+      "id": 1011,
+      "action_type": 50,
+      "client_submit": true
+    },
+    "51": {
+      "id": 1012,
+      "action_type": 51,
+      "client_submit": true
+    },
+    "52": {
+      "id": 1013,
+      "action_type": 52,
+      "client_submit": true
+    },
+    "53": {
+      "id": 1014,
+      "action_type": 53,
+      "client_submit": true
+    },
+    "54": {
+      "id": 1015,
+      "action_type": 54,
+      "client_submit": true
+    },
+    "55": {
+      "id": 1016,
+      "action_type": 55,
+      "client_submit": true
+    },
+    "56": {
+      "id": 1017,
+      "action_type": 56,
+      "client_submit": true
+    },
+    "57": {
+      "id": 1018,
+      "action_type": 57,
+      "client_submit": true
+    },
+    "58": {
+      "id": 1019,
+      "action_type": 58,
+      "client_submit": true
+    },
+    "59": {
+      "id": 1020,
+      "action_type": 59,
+      "client_submit": true
+    },
+    "63": {
+      "id": 1021,
+      "action_type": 63,
+      "client_submit": true
+    },
+    "64": {
+      "id": 1022,
+      "action_type": 64,
+      "client_submit": true
+    },
+    "66": {
+      "id": 1023,
+      "action_type": 66,
+      "client_submit": true
+    },
+    "69": {
+      "id": 1026,
+      "action_type": 69,
+      "client_submit": true
+    },
+    "70": {
+      "id": 1027,
+      "action_type": 70,
+      "client_submit": true
+    },
+    "71": {
+      "id": 1028,
+      "action_type": 71,
+      "client_submit": true,
+      "wait_begin_data": true
+    },
+    "72": {
+      "id": 1029,
+      "action_type": 72,
+      "client_submit": true
+    },
+    "73": {
+      "id": 1030,
+      "action_type": 73,
+      "client_submit": true
+    },
+    "74": {
+      "id": 1031,
+      "action_type": 74,
+      "client_submit": true
+    },
+    "75": {
+      "id": 1032,
+      "action_type": 75,
+      "client_submit": true
+    },
+    "79": {
+      "id": 1033,
+      "action_type": 79,
+      "client_submit": true
+    },
+    "80": {
+      "id": 1034,
+      "action_type": 80
+    },
+    "81": {
+      "id": 1036,
+      "action_type": 81,
+      "client_submit": true
+    },
+    "82": {
+      "id": 1037,
+      "action_type": 82,
+      "client_submit": true
+    },
+    "90": {
+      "id": 1038,
+      "action_type": 90,
+      "client_submit": true
+    },
+    "91": {
+      "id": 1039,
+      "action_type": 91,
+      "client_submit": true
+    },
+    "92": {
+      "id": 1040,
+      "action_type": 92,
+      "client_submit": true
+    },
+    "93": {
+      "id": 1041,
+      "action_type": 93,
+      "client_submit": true
+    },
+    "94": {
+      "id": 1042,
+      "action_type": 94,
+      "client_submit": true
+    },
+    "95": {
+      "id": 1043,
+      "action_type": 95,
+      "client_submit": true
+    },
+    "96": {
+      "id": 1044,
+      "action_type": 96,
+      "client_submit": true
+    },
+    "97": {
+      "id": 1045,
+      "action_type": 97,
+      "client_submit": true
+    },
+    "98": {
+      "id": 1046,
+      "action_type": 98,
+      "client_submit": true
+    },
+    "99": {
+      "id": 1047,
+      "action_type": 99,
+      "client_submit": true
+    },
+    "100": {
+      "id": 1048,
+      "action_type": 100,
+      "client_submit": true
+    },
+    "102": {
+      "id": 1049,
+      "action_type": 102,
+      "client_submit": true
+    },
+    "103": {
+      "id": 1050,
+      "action_type": 103,
+      "client_submit": true
+    },
+    "104": {
+      "id": 1051,
+      "action_type": 104,
+      "client_submit": true
+    },
+    "105": {
+      "id": 1052,
+      "action_type": 105,
+      "client_submit": true
+    },
+    "106": {
+      "id": 1053,
+      "action_type": 106,
+      "client_submit": true
+    },
+    "114": {
+      "id": 1054,
+      "action_type": 114,
+      "client_submit": true
+    },
+    "115": {
+      "id": 1055,
+      "action_type": 115,
+      "client_submit": true
+    },
+    "113": {
+      "id": 1056,
+      "action_type": 113,
+      "client_submit": true
+    },
+    "27": {
+      "id": 1057,
+      "action_type": 27,
+      "client_submit": true
+    },
+    "28": {
+      "id": 1058,
+      "action_type": 28,
+      "client_submit": true
+    },
+    "10114": {
+      "id": 1059,
+      "action_type": 10114,
+      "client_submit": true
+    },
+    "29": {
+      "id": 1060,
+      "action_type": 29,
+      "client_submit": true
+    },
+    "10118": {
+      "id": 1061,
+      "action_type": 10118,
+      "client_submit": true
+    },
+    "10022": {
+      "id": 1062,
+      "action_type": 10022,
+      "client_submit": true
+    },
+    "10048": {
+      "id": 1063,
+      "action_type": 10048
+    },
+    "10032": {
+      "id": 1064,
+      "action_type": 10032
+    },
+    "10104": {
+      "id": 1065,
+      "action_type": 10104
+    },
+    "10036": {
+      "id": 1066,
+      "action_type": 10036
+    },
+    "30": {
+      "id": 1067,
+      "action_type": 30,
+      "client_submit": true
+    },
+    "10123": {
+      "id": 1068,
+      "action_type": 10123
+    },
+    "110": {
+      "id": 1069,
+      "action_type": 110,
+      "client_submit": true
+    },
+    "36": {
+      "id": 1070,
+      "action_type": 36,
+      "client_submit": true
+    },
+    "37": {
+      "id": 1071,
+      "action_type": 37
+    },
+    "118": {
+      "id": 1072,
+      "action_type": 118,
+      "client_submit": true
+    },
+    "111": {
+      "id": 1073,
+      "action_type": 111,
+      "client_submit": true
+    },
+    "10127": {
+      "id": 1074,
+      "action_type": 10127
+    },
+    "119": {
+      "id": 1075,
+      "action_type": 119
+    },
+    "121": {
+      "id": 1076,
+      "action_type": 121,
+      "client_submit": true
+    },
+    "201": {
+      "id": 1077,
+      "action_type": 201,
+      "client_submit": true
+    },
+    "202": {
+      "id": 1078,
+      "action_type": 202,
+      "client_submit": true
+    },
+    "120": {
+      "id": 1079,
+      "action_type": 120,
+      "client_submit": true
+    },
+    "203": {
+      "id": 1080,
+      "action_type": 203,
+      "client_submit": true
+    },
+    "126": {
+      "id": 1081,
+      "action_type": 126,
+      "client_submit": true
+    },
+    "131": {
+      "id": 1082,
+      "action_type": 131
+    },
+    "132": {
+      "id": 1083,
+      "action_type": 132
+    },
+    "10306": {
+      "id": 1084,
+      "action_type": 10306,
+      "client_submit": true
+    },
+    "112": {
+      "id": 1085,
+      "action_type": 112,
+      "client_submit": true
+    },
+    "205": {
+      "id": 1086,
+      "action_type": 205,
+      "client_submit": true
+    },
+    "44": {
+      "id": 1087,
+      "action_type": 44,
+      "client_submit": true
+    },
+    "10150": {
+      "id": 1088,
+      "action_type": 10150,
+      "client_submit": true
+    },
+    "10151": {
+      "id": 1089,
+      "action_type": 10151,
+      "client_submit": true
+    },
+    "38": {
+      "id": 1090,
+      "action_type": 38,
+      "client_submit": true
+    },
+    "39": {
+      "id": 1091,
+      "action_type": 39,
+      "client_submit": true
+    },
+    "47": {
+      "id": 1092,
+      "action_type": 47,
+      "client_submit": true
+    },
+    "83": {
+      "id": 1093,
+      "action_type": 83,
+      "client_submit": true
+    },
+    "84": {
+      "id": 1094,
+      "action_type": 84,
+      "client_submit": true
+    },
+    "85": {
+      "id": 1095,
+      "action_type": 85,
+      "client_submit": true
+    },
+    "136": {
+      "id": 1096,
+      "action_type": 136,
+      "client_submit": true
+    },
+    "135": {
+      "id": 1097,
+      "action_type": 135,
+      "client_submit": true
+    },
+    "122": {
+      "id": 1098,
+      "action_type": 122,
+      "client_submit": true
+    },
+    "138": {
+      "id": 1099,
+      "action_type": 138,
+      "client_submit": true
+    },
+    "41": {
+      "id": 1100,
+      "action_type": 41,
+      "client_submit": true
+    },
+    "40": {
+      "id": 1101,
+      "action_type": 40,
+      "client_submit": true
+    },
+    "310": {
+      "id": 1102,
+      "action_type": 310
+    },
+    "311": {
+      "id": 1103,
+      "action_type": 311,
+      "client_submit": true
+    },
+    "312": {
+      "id": 1104,
+      "action_type": 312,
+      "client_submit": true
+    },
+    "321": {
+      "id": 1105,
+      "action_type": 321,
+      "client_submit": true
+    },
+    "322": {
+      "id": 1106,
+      "action_type": 322,
+      "client_submit": true
+    },
+    "323": {
+      "id": 1107,
+      "action_type": 323,
+      "client_submit": true
+    },
+    "324": {
+      "id": 1108,
+      "action_type": 324,
+      "client_submit": true
+    },
+    "301": {
+      "id": 1109,
+      "action_type": 301,
+      "client_submit": true
+    },
+    "302": {
+      "id": 1110,
+      "action_type": 302,
+      "client_submit": true
+    },
+    "303": {
+      "id": 1111,
+      "action_type": 303,
+      "client_submit": true
+    },
+    "304": {
+      "id": 1112,
+      "action_type": 304,
+      "client_submit": true
+    },
+    "305": {
+      "id": 1113,
+      "action_type": 305,
+      "client_submit": true
+    },
+    "139": {
+      "id": 1114,
+      "action_type": 139,
+      "client_submit": true
+    },
+    "140": {
+      "id": 1115,
+      "action_type": 140,
+      "client_submit": true
+    },
+    "313": {
+      "id": 1116,
+      "action_type": 313,
+      "client_submit": true
+    },
+    "314": {
+      "id": 1117,
+      "action_type": 314
+    },
+    "315": {
+      "id": 1118,
+      "action_type": 315,
+      "client_submit": true
+    },
+    "316": {
+      "id": 1119,
+      "action_type": 316
+    },
+    "317": {
+      "id": 1120,
+      "action_type": 317,
+      "client_submit": true
+    },
+    "318": {
+      "id": 1121,
+      "action_type": 318,
+      "client_submit": true
+    },
+    "319": {
+      "id": 1122,
+      "action_type": 319
+    },
+    "10156": {
+      "id": 1123,
+      "action_type": 10156
+    },
+    "42": {
+      "id": 1124,
+      "action_type": 42,
+      "client_submit": true
+    },
+    "142": {
+      "id": 1125,
+      "action_type": 142,
+      "client_submit": true
+    },
+    "10095": {
+      "id": 1126,
+      "action_type": 10095
+    },
+    "320": {
+      "id": 1127,
+      "action_type": 320
+    },
+    "78": {
+      "id": 1128,
+      "action_type": 78,
+      "client_submit": true
+    },
+    "145": {
+      "id": 1129,
+      "action_type": 145,
+      "client_submit": true
+    },
+    "351": {
+      "id": 1130,
+      "action_type": 351,
+      "client_submit": true
+    },
+    "10133": {
+      "id": 1131,
+      "action_type": 10133
+    },
+    "10155": {
+      "id": 1132,
+      "action_type": 10155
+    },
+    "146": {
+      "id": 1133,
+      "action_type": 146,
+      "client_submit": true,
+      "wait_begin_data": true
+    },
+    "76": {
+      "id": 1134,
+      "action_type": 76
+    },
+    "10108": {
+      "id": 1135,
+      "action_type": 10108
+    },
+    "10096": {
+      "id": 1136,
+      "action_type": 10096
+    },
+    "10052": {
+      "id": 1137,
+      "action_type": 10052
+    },
+    "Unknown_134": {
+      "id": 1138
+    },
+    "86": {
+      "id": 1139,
+      "action_type": 86,
+      "client_submit": true
+    },
+    "306": {
+      "id": 1140,
+      "action_type": 306,
+      "client_submit": true
+    },
+    "87": {
+      "id": 1141,
+      "action_type": 87,
+      "client_submit": true
+    },
+    "10157": {
+      "id": 1142,
+      "action_type": 10157,
+      "client_submit": true
+    },
+    "88": {
+      "id": 1143,
+      "action_type": 88,
+      "client_submit": true
+    },
+    "371": {
+      "id": 1144,
+      "action_type": 371,
+      "client_submit": true
+    },
+    "108": {
+      "id": 1145,
+      "action_type": 108,
+      "client_submit": true
+    },
+    "10149": {
+      "id": 1146,
+      "action_type": 10149
+    },
+    "150": {
+      "id": 1147,
+      "action_type": 150,
+      "client_submit": true
+    },
+    "148": {
+      "id": 1148,
+      "action_type": 148,
+      "client_submit": true
+    },
+    "147": {
+      "id": 1149,
+      "action_type": 147,
+      "client_submit": true
+    },
+    "206": {
+      "id": 1150,
+      "action_type": 206,
+      "client_submit": true
+    },
+    "10025": {
+      "id": 1151,
+      "action_type": 10025,
+      "client_submit": true
+    },
+    "331": {
+      "id": 1152,
+      "action_type": 331
+    },
+    "10001": {
+      "id": 1153,
+      "action_type": 10001
+    },
+    "10098": {
+      "id": 1154,
+      "action_type": 10098
+    },
+    "10113": {
+      "id": 1155,
+      "action_type": 10113
+    },
+    "10137": {
+      "id": 1156,
+      "action_type": 10137
+    },
+    "372": {
+      "id": 1157,
+      "action_type": 372
+    },
+    "207": {
+      "id": 1158,
+      "action_type": 207,
+      "client_submit": true
+    },
+    "10131": {
+      "id": 1159,
+      "action_type": 10131
+    },
+    "10006": {
+      "id": 1160,
+      "action_type": 10006
+    },
+    "152": {
+      "id": 1161,
+      "action_type": 152,
+      "client_submit": true
+    },
+    "153": {
+      "id": 1162,
+      "action_type": 153,
+      "client_submit": true
+    },
+    "89": {
+      "id": 1163,
+      "action_type": 89,
+      "client_submit": true
+    },
+    "10163": {
+      "id": 1164,
+      "action_type": 10163,
+      "client_submit": true
+    },
+    "154": {
+      "id": 1165,
+      "action_type": 154,
+      "client_submit": true
+    },
+    "210": {
+      "id": 1166,
+      "action_type": 210,
+      "client_submit": true
+    },
+    "213": {
+      "id": 1167,
+      "action_type": 213,
+      "client_submit": true
+    },
+    "214": {
+      "id": 1168,
+      "action_type": 214,
+      "client_submit": true
+    },
+    "10164": {
+      "id": 1169,
+      "action_type": 10164
+    },
+    "208": {
+      "id": 1178,
+      "action_type": 208,
+      "client_submit": true
+    },
+    "209": {
+      "id": 1179,
+      "action_type": 209,
+      "client_submit": true
+    },
+    "109": {
+      "id": 1180,
+      "action_type": 109,
+      "disable_sync_rotate": true
+    }
+  }
+}

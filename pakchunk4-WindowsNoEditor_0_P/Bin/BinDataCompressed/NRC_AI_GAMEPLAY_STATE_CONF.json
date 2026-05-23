@@ -1,0 +1,313 @@
+{
+  "RocoDataRows": {
+    "1001": {
+      "id": 1001,
+      "native_class": "PlayAnimation",
+      "editor_name": "动画",
+      "sync_add": true,
+      "provides_tags": [
+        1000,
+        1001
+      ]
+    },
+    "1002": {
+      "id": 1002,
+      "native_class": "PlaySkill",
+      "editor_name": "技能",
+      "sync_add": true,
+      "provides_tags": [
+        1000,
+        1001
+      ],
+      "cancel_state_with_tags": [
+        1001
+      ]
+    },
+    "1004": {
+      "id": 1004,
+      "native_class": "LookAt",
+      "script_path": "AIStateLookAt",
+      "editor_name": "头看向",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 4,
+      "provides_tags": [
+        1000,
+        1002
+      ]
+    },
+    "1005": {
+      "id": 1005,
+      "native_class": "AIStateLookAtCamera",
+      "script_path": "AIStateLookAtCamera",
+      "editor_name": "【拍照】头看向镜头",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 4,
+      "provides_tags": [
+        1000,
+        1002
+      ]
+    },
+    "2001": {
+      "id": 2001,
+      "native_class": "Stun",
+      "script_path": "AIStateStun",
+      "editor_name": "趔趄",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 1,
+      "context_states": [
+        9002
+      ],
+      "provides_tags": [
+        1000,
+        1001,
+        2000,
+        2001
+      ],
+      "block_state_with_tags": [
+        1000
+      ],
+      "excluded_tags_to_apply": [
+        9001
+      ]
+    },
+    "2002": {
+      "id": 2002,
+      "native_class": "Stun",
+      "script_path": "AIStateStun",
+      "editor_name": "眩晕",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 1,
+      "context_states": [
+        9002
+      ],
+      "provides_tags": [
+        1000,
+        1001,
+        2000,
+        2002
+      ],
+      "cancel_state_with_tags": [
+        2001
+      ],
+      "block_state_with_tags": [
+        1000
+      ],
+      "excluded_tags_to_apply": [
+        9001
+      ]
+    },
+    "3001": {
+      "id": 3001,
+      "native_class": "AIStateHiddenBegin",
+      "script_path": "AIStateHiddenBegin",
+      "editor_name": "匿踪开始",
+      "sync_add": true,
+      "priority": 1,
+      "context_states": [
+        9001,
+        9004
+      ],
+      "provides_tags": [
+        1000,
+        1001,
+        9001
+      ],
+      "cancel_state_with_tags": [
+        1001,
+        9001
+      ],
+      "same_id_policy": 1
+    },
+    "3002": {
+      "id": 3002,
+      "native_class": "AIStateHiddenLoop",
+      "script_path": "AIStateHiddenLoop",
+      "editor_name": "匿踪循环",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 1,
+      "context_states": [
+        9001
+      ],
+      "provides_tags": [
+        1000,
+        1001,
+        9001
+      ],
+      "cancel_state_with_tags": [
+        1001,
+        9001
+      ],
+      "same_id_policy": 1
+    },
+    "3003": {
+      "id": 3003,
+      "native_class": "AIStateHiddenEnd",
+      "script_path": "AIStateHiddenEnd",
+      "editor_name": "匿踪结束",
+      "sync_add": true,
+      "priority": 1,
+      "context_states": [
+        9001,
+        9004
+      ],
+      "provides_tags": [
+        1000,
+        1001,
+        9001
+      ],
+      "cancel_state_with_tags": [
+        9001
+      ],
+      "required_tags_to_apply": [
+        9001
+      ],
+      "same_id_policy": 1
+    },
+    "3004": {
+      "id": 3004,
+      "editor_name": "禁用碰撞",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 1,
+      "context_states": [
+        9003
+      ]
+    },
+    "9001": {
+      "id": 9001,
+      "native_class": "AIStateHiddenContext",
+      "script_path": "AIStateHiddenContext",
+      "editor_name": "Context.匿踪",
+      "priority": 1
+    },
+    "9002": {
+      "id": 9002,
+      "native_class": "AIStatePauseBT",
+      "editor_name": "Context.暂停行为树",
+      "priority": 1
+    },
+    "9003": {
+      "id": 9003,
+      "native_class": "AIStateDisableCollision",
+      "editor_name": "Context.禁用碰撞",
+      "priority": 1
+    },
+    "9004": {
+      "id": 9004,
+      "native_class": "AIStateDisableInteraction",
+      "editor_name": "Context.禁用交互",
+      "priority": 1
+    },
+    "9000001": {
+      "id": 9000001,
+      "native_class": "AIStateTestTranWithDelay",
+      "script_path": "AIStateTestTranWithDelay",
+      "val_param": [
+        1000,
+        9000002
+      ],
+      "editor_name": "测试.1s后切换到9000002",
+      "sync_add": true,
+      "priority": 1,
+      "context_states": [
+        9009001
+      ],
+      "provides_tags": [
+        9001
+      ],
+      "cancel_state_with_tags": [
+        9001
+      ],
+      "same_id_policy": 1
+    },
+    "9000002": {
+      "id": 9000002,
+      "editor_name": "测试.保持",
+      "sync_add": true,
+      "sync_remove": true,
+      "priority": 1,
+      "context_states": [
+        9009001
+      ],
+      "provides_tags": [
+        9001
+      ],
+      "cancel_state_with_tags": [
+        9001
+      ],
+      "same_id_policy": 1
+    },
+    "9000003": {
+      "id": 9000003,
+      "native_class": "AIStateTestTranWithDelay",
+      "script_path": "AIStateTestTranWithDelay",
+      "val_param": [
+        1000
+      ],
+      "editor_name": "测试.1s后销毁",
+      "sync_add": true,
+      "priority": 1,
+      "context_states": [
+        9009001
+      ],
+      "provides_tags": [
+        9001
+      ],
+      "cancel_state_with_tags": [
+        9001
+      ],
+      "same_id_policy": 1
+    },
+    "9000004": {
+      "id": 9000004,
+      "native_class": "AIStateTestTranWithDelay",
+      "script_path": "AIStateTestTranWithDelay",
+      "val_param": [
+        1000
+      ],
+      "editor_name": "测试.打断tag9001",
+      "sync_add": true,
+      "priority": 1,
+      "provides_tags": [
+        2000
+      ],
+      "cancel_state_with_tags": [
+        9001
+      ],
+      "block_state_with_tags": [
+        9001
+      ]
+    },
+    "9000005": {
+      "id": 9000005,
+      "native_class": "AIStateTestTranWithDelay",
+      "script_path": "AIStateTestTranWithDelay",
+      "val_param": [
+        1000
+      ],
+      "editor_name": "测试.等待tag9001",
+      "sync_add": true,
+      "priority": 1,
+      "provides_tags": [
+        2000
+      ],
+      "excluded_tags_to_apply": [
+        9001
+      ]
+    },
+    "9009001": {
+      "id": 9009001,
+      "val_param": [
+        1000,
+        9000002
+      ],
+      "editor_name": "测试Context.",
+      "priority": 1
+    }
+  }
+}

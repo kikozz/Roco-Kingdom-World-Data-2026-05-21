@@ -1,0 +1,38 @@
+{
+  "Name": "AREA_VISIBLE_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "visible_type",
+      "Type": "EInt32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "area_visible_density",
+      "Type": "EInt32",
+      "Offset": 8,
+      "Size": 4
+    },
+    {
+      "Name": "area_visible_special_rule",
+      "Type": "EUint32",
+      "Offset": 12,
+      "Size": 4
+    },
+    {
+      "Name": "area_visible_special_rule_param1",
+      "Type": "EString",
+      "Offset": 16,
+      "Size": 4,
+      "CompressedSize": 4
+    }
+  ]
+}

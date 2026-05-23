@@ -1,0 +1,54 @@
+{
+  "Name": "HEADWEAR_HAIR_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EInt32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "HairName",
+      "Type": "EString",
+      "Offset": 4,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "Info",
+      "Type": "EStruct",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 5,
+      "Struct": {
+        "Name": "HEADWEAR_HAIR_CONF.Info",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "WearType",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+          },
+          {
+            "Name": "BoneName",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "offset",
+            "Type": "EString",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4
+          }
+        ]
+      }
+    }
+  ]
+}

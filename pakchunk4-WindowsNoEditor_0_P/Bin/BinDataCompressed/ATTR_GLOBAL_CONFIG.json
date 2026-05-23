@@ -1,0 +1,388 @@
+{
+  "RocoDataRows": {
+    "at_hp_maximum": {
+      "id": 4,
+      "key": "at_hp_maximum",
+      "num": 500,
+      "is_loc": 2
+    },
+    "at_attack_maximum": {
+      "id": 5,
+      "key": "at_attack_maximum",
+      "num": 300,
+      "is_loc": 2
+    },
+    "at_special_attack_maximum": {
+      "id": 6,
+      "key": "at_special_attack_maximum",
+      "num": 300,
+      "is_loc": 2
+    },
+    "at_defense_maximium": {
+      "id": 7,
+      "key": "at_defense_maximium",
+      "num": 300,
+      "is_loc": 2
+    },
+    "at_special_defense_maximum": {
+      "id": 8,
+      "key": "at_special_defense_maximum",
+      "num": 300,
+      "is_loc": 2
+    },
+    "at_speed_maximum": {
+      "id": 9,
+      "key": "at_speed_maximum",
+      "num": 300,
+      "is_loc": 2
+    },
+    "hp_max_race_constant": {
+      "id": 18,
+      "key": "hp_max_race_constant",
+      "num": 200,
+      "is_loc": 2
+    },
+    "hp_max_talent_constant": {
+      "id": 19,
+      "key": "hp_max_talent_constant",
+      "num": 100,
+      "is_loc": 2
+    },
+    "hp_max_base_point_constant": {
+      "id": 20,
+      "key": "hp_max_base_point_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "hp_max_level_constant": {
+      "id": 21,
+      "key": "hp_max_level_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "phy_attack_race_constant": {
+      "id": 22,
+      "key": "phy_attack_race_constant",
+      "num": 100,
+      "is_loc": 2
+    },
+    "phy_attack_talent_constant": {
+      "id": 23,
+      "key": "phy_attack_talent_constant",
+      "num": 50,
+      "is_loc": 2
+    },
+    "phy_attack_base_point_constant": {
+      "id": 24,
+      "key": "phy_attack_base_point_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "phy_attack_level_constant": {
+      "id": 25,
+      "key": "phy_attack_level_constant",
+      "is_loc": 2
+    },
+    "spe_attack_race_constant": {
+      "id": 26,
+      "key": "spe_attack_race_constant",
+      "num": 100,
+      "is_loc": 2
+    },
+    "spe_attack_talent_constant": {
+      "id": 27,
+      "key": "spe_attack_talent_constant",
+      "num": 50,
+      "is_loc": 2
+    },
+    "spe_attack_base_point_constant": {
+      "id": 28,
+      "key": "spe_attack_base_point_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "spe_attack_level_constant": {
+      "id": 29,
+      "key": "spe_attack_level_constant",
+      "is_loc": 2
+    },
+    "phy_defence_race_constant": {
+      "id": 30,
+      "key": "phy_defence_race_constant",
+      "num": 100,
+      "is_loc": 2
+    },
+    "phy_defence_talent_constant": {
+      "id": 31,
+      "key": "phy_defence_talent_constant",
+      "num": 50,
+      "is_loc": 2
+    },
+    "phy_defence_base_point_constant": {
+      "id": 32,
+      "key": "phy_defence_base_point_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "phy_defence_level_constant": {
+      "id": 33,
+      "key": "phy_defence_level_constant",
+      "is_loc": 2
+    },
+    "spe_defence_race_constant": {
+      "id": 34,
+      "key": "spe_defence_race_constant",
+      "num": 100,
+      "is_loc": 2
+    },
+    "spe_defence_talent_constant": {
+      "id": 35,
+      "key": "spe_defence_talent_constant",
+      "num": 50,
+      "is_loc": 2
+    },
+    "spe_defence_base_point_constant": {
+      "id": 36,
+      "key": "spe_defence_base_point_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "spe_defence_level_constant": {
+      "id": 37,
+      "key": "spe_defence_level_constant",
+      "is_loc": 2
+    },
+    "speed_race_constant": {
+      "id": 38,
+      "key": "speed_race_constant",
+      "num": 100,
+      "is_loc": 2
+    },
+    "speed_talent_constant": {
+      "id": 39,
+      "key": "speed_talent_constant",
+      "num": 50,
+      "is_loc": 2
+    },
+    "speed_base_point_constant": {
+      "id": 40,
+      "key": "speed_base_point_constant",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "speed_level_constant": {
+      "id": 41,
+      "key": "speed_level_constant",
+      "is_loc": 2
+    },
+    "talent_random_minimum": {
+      "id": 50,
+      "key": "talent_random_minimum",
+      "num": 1,
+      "is_loc": 2
+    },
+    "talent_random_maximum": {
+      "id": 51,
+      "key": "talent_random_maximum",
+      "num": 50,
+      "is_loc": 2
+    },
+    "race_hp_maximum": {
+      "id": 105,
+      "key": "race_hp_maximum",
+      "num": 255,
+      "is_loc": 2
+    },
+    "race_attack_maximum": {
+      "id": 106,
+      "key": "race_attack_maximum",
+      "num": 200,
+      "is_loc": 2
+    },
+    "race_special_attack_maximum": {
+      "id": 107,
+      "key": "race_special_attack_maximum",
+      "num": 200,
+      "is_loc": 2
+    },
+    "race_defense_maximium": {
+      "id": 108,
+      "key": "race_defense_maximium",
+      "num": 200,
+      "is_loc": 2
+    },
+    "race_special_defense_maximum": {
+      "id": 109,
+      "key": "race_special_defense_maximum",
+      "num": 200,
+      "is_loc": 2
+    },
+    "race_speed_maximum": {
+      "id": 110,
+      "key": "race_speed_maximum",
+      "num": 200,
+      "is_loc": 2
+    },
+    "talent_hp_maximum": {
+      "id": 111,
+      "key": "talent_hp_maximum",
+      "num": 50,
+      "is_loc": 2
+    },
+    "talent_attack_maximum": {
+      "id": 112,
+      "key": "talent_attack_maximum",
+      "num": 50,
+      "is_loc": 2
+    },
+    "talent_special_attack_maximum": {
+      "id": 113,
+      "key": "talent_special_attack_maximum",
+      "num": 50,
+      "is_loc": 2
+    },
+    "talent_defense_maximium": {
+      "id": 114,
+      "key": "talent_defense_maximium",
+      "num": 50,
+      "is_loc": 2
+    },
+    "talent_special_defense_maximum": {
+      "id": 115,
+      "key": "talent_special_defense_maximum",
+      "num": 50,
+      "is_loc": 2
+    },
+    "talent_speed_maximum": {
+      "id": 116,
+      "key": "talent_speed_maximum",
+      "num": 50,
+      "is_loc": 2
+    },
+    "hp_max_race_add_level": {
+      "id": 163,
+      "key": "hp_max_race_add_level",
+      "num": 25,
+      "is_loc": 2
+    },
+    "phy_attack_race_add_level": {
+      "id": 164,
+      "key": "phy_attack_race_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "spe_attack_race_add_level": {
+      "id": 165,
+      "key": "spe_attack_race_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "phy_defence_race_add_level": {
+      "id": 166,
+      "key": "phy_defence_race_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "spe_defence_race_add_level": {
+      "id": 167,
+      "key": "spe_defence_race_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "speed_race_add_level": {
+      "id": 168,
+      "key": "speed_race_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "hp_max_talent_add_level": {
+      "id": 169,
+      "key": "hp_max_talent_add_level",
+      "num": 25,
+      "is_loc": 2
+    },
+    "phy_attack_talent_add_level": {
+      "id": 170,
+      "key": "phy_attack_talent_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "spe_attack_talent_add_level": {
+      "id": 171,
+      "key": "spe_attack_talent_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "phy_defence_talent_add_level": {
+      "id": 172,
+      "key": "phy_defence_talent_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "spe_defence_talent_add_level": {
+      "id": 173,
+      "key": "spe_defence_talent_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "speed_talent_add_level": {
+      "id": 174,
+      "key": "speed_talent_add_level",
+      "num": 50,
+      "is_loc": 2
+    },
+    "phy_dam_param": {
+      "id": 175,
+      "key": "phy_dam_param",
+      "num": 41,
+      "is_loc": 2
+    },
+    "spe_dam_param": {
+      "id": 176,
+      "key": "spe_dam_param",
+      "num": 41,
+      "is_loc": 2
+    },
+    "phy_dam_level_mag": {
+      "id": 177,
+      "key": "phy_dam_level_mag",
+      "num": 45,
+      "is_loc": 2
+    },
+    "spe_dam_level_mag": {
+      "id": 178,
+      "key": "spe_dam_level_mag",
+      "num": 45,
+      "is_loc": 2
+    },
+    "phy_dam_level_add": {
+      "id": 179,
+      "key": "phy_dam_level_add",
+      "num": 10,
+      "is_loc": 2
+    },
+    "spe_dam_level_add": {
+      "id": 180,
+      "key": "spe_dam_level_add",
+      "num": 10,
+      "is_loc": 2
+    },
+    "phy_dam_floor": {
+      "id": 181,
+      "key": "phy_dam_floor",
+      "num": 2,
+      "is_loc": 2
+    },
+    "spe_dam_floor": {
+      "id": 182,
+      "key": "spe_dam_floor",
+      "num": 2,
+      "is_loc": 2
+    },
+    "dam_floor": {
+      "id": 183,
+      "key": "dam_floor",
+      "is_loc": 2
+    }
+  }
+}

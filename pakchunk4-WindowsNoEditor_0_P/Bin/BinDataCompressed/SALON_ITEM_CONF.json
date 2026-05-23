@@ -1,0 +1,3705 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "name": "初始发型1",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "avatar_id": 11000001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "2": {
+      "id": 2,
+      "name": "初始发型1",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "avatar_id": 11000001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "3": {
+      "id": 3,
+      "name": "初始发型1",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "avatar_id": 11000001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "4": {
+      "id": 4,
+      "name": "初始发型1",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "avatar_id": 11000001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "5": {
+      "id": 5,
+      "name": "初始发型1",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11000001.11000001'",
+      "avatar_id": 11000001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "6": {
+      "id": 6,
+      "name": "初始发型2",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "avatar_id": 11002003,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "7": {
+      "id": 7,
+      "name": "初始发型2",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "avatar_id": 11002003,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "8": {
+      "id": 8,
+      "name": "初始发型2",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "avatar_id": 11002003,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "9": {
+      "id": 9,
+      "name": "初始发型2",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "avatar_id": 11002003,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "10": {
+      "id": 10,
+      "name": "初始发型2",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11002003.11002003'",
+      "avatar_id": 11002003,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "11": {
+      "id": 11,
+      "name": "初始发型3",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "avatar_id": 11003004,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "12": {
+      "id": 12,
+      "name": "初始发型3",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "avatar_id": 11003004,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "13": {
+      "id": 13,
+      "name": "初始发型3",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "avatar_id": 11003004,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "14": {
+      "id": 14,
+      "name": "初始发型3",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "avatar_id": 11003004,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "15": {
+      "id": 15,
+      "name": "初始发型3",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11003004.11003004'",
+      "avatar_id": 11003004,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "16": {
+      "id": 16,
+      "name": "圣骑士发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11005006.11005006'",
+      "avatar_id": 11005006,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "17": {
+      "id": 17,
+      "name": "圣骑士发型-星光狮印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100502.10100502'",
+      "avatar_id": 11005006,
+      "colour_type": 2,
+      "colour_id": [
+        "#dfbc6e",
+        "#c9882d"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "18": {
+      "id": 18,
+      "name": "圣骑士发型-烈火守护印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100503.10100503'",
+      "avatar_id": 11005006,
+      "colour_type": 2,
+      "colour_id": [
+        "#aa5e6a",
+        "#e4e1e2"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "19": {
+      "id": 19,
+      "name": "圣骑士发型-皇家狮鹫印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100504.10100504'",
+      "avatar_id": 11005006,
+      "colour_type": 2,
+      "colour_id": [
+        "#ebe7c9",
+        "#fbdb6d"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "20": {
+      "id": 20,
+      "name": "游侠发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11012013.11012013'",
+      "avatar_id": 11012013,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "21": {
+      "id": 21,
+      "name": "游侠发型-音速犬印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101202.10101202'",
+      "avatar_id": 11012013,
+      "colour_type": 1,
+      "colour_id": [
+        "#faca9e",
+        "#c37659"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "22": {
+      "id": 22,
+      "name": "游侠发型-岚鸟印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101203.10101203'",
+      "avatar_id": 11012013,
+      "colour_type": 2,
+      "colour_id": [
+        "#f4cda4",
+        "#ffffff"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "23": {
+      "id": 23,
+      "name": "游侠发型-厉毒修萝印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101204.10101204'",
+      "avatar_id": 11012013,
+      "colour_type": 1,
+      "colour_id": [
+        "#735567",
+        "#99925e"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "24": {
+      "id": 24,
+      "name": "舞会发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11013014.11013014'",
+      "avatar_id": 11013014,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "25": {
+      "id": 25,
+      "name": "舞会发型-翠顶夫人印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101302.10101302'",
+      "avatar_id": 11013014,
+      "colour_type": 2,
+      "colour_id": [
+        "#fc7d57",
+        "#f2e5e1"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "26": {
+      "id": 26,
+      "name": "舞会发型-花魁蜂后印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101303.10101303'",
+      "avatar_id": 11013014,
+      "colour_type": 2,
+      "colour_id": [
+        "#7ba8aa",
+        "#f3c950"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "27": {
+      "id": 27,
+      "name": "舞会发型-卡洛儿印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101304.10101304'",
+      "avatar_id": 11013014,
+      "colour_type": 2,
+      "colour_id": [
+        "#c0bbd1",
+        "#e5a4c6"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "28": {
+      "id": 28,
+      "name": "雪山发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11004005.11004005'",
+      "avatar_id": 11004005,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "29": {
+      "id": 29,
+      "name": "雪山发型-圣代甜甜印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100402.10100402'",
+      "avatar_id": 11004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#a44d2e",
+        "#f6ebe8"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "30": {
+      "id": 30,
+      "name": "雪山发型-獠牙猪印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100403.10100403'",
+      "avatar_id": 11004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#94c6f9",
+        "#f7faea"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "31": {
+      "id": 31,
+      "name": "雪山发型-蒲公英娃娃印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100404.10100404'",
+      "avatar_id": 11004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#ffc0b0",
+        "#fef3af"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "32": {
+      "id": 32,
+      "name": "雪山发型-雪灵印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100405.10100405'",
+      "avatar_id": 11004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#cce4e6",
+        "#a2c2df"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "33": {
+      "id": 33,
+      "name": "眉毛1",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "avatar_id": 12000001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "34": {
+      "id": 34,
+      "name": "眉毛1",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "avatar_id": 12000001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "35": {
+      "id": 35,
+      "name": "眉毛1",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "avatar_id": 12000001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "36": {
+      "id": 36,
+      "name": "眉毛1",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "avatar_id": 12000001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "37": {
+      "id": 37,
+      "name": "眉毛1",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12000001.12000001'",
+      "avatar_id": 12000001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "38": {
+      "id": 38,
+      "name": "眉毛2",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "avatar_id": 12001001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "39": {
+      "id": 39,
+      "name": "眉毛2",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "avatar_id": 12001001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "40": {
+      "id": 40,
+      "name": "眉毛2",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "avatar_id": 12001001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "41": {
+      "id": 41,
+      "name": "眉毛2",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "avatar_id": 12001001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "42": {
+      "id": 42,
+      "name": "眉毛2",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12001001.12001001'",
+      "avatar_id": 12001001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "43": {
+      "id": 43,
+      "name": "眉毛3",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "avatar_id": 12002001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "44": {
+      "id": 44,
+      "name": "眉毛3",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "avatar_id": 12002001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "45": {
+      "id": 45,
+      "name": "眉毛3",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "avatar_id": 12002001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "46": {
+      "id": 46,
+      "name": "眉毛3",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "avatar_id": 12002001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "47": {
+      "id": 47,
+      "name": "眉毛3",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12002001.12002001'",
+      "avatar_id": 12002001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "48": {
+      "id": 48,
+      "name": "眉毛4",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "avatar_id": 12003001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "49": {
+      "id": 49,
+      "name": "眉毛4",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "avatar_id": 12003001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "50": {
+      "id": 50,
+      "name": "眉毛4",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "avatar_id": 12003001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "51": {
+      "id": 51,
+      "name": "眉毛4",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "avatar_id": 12003001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "52": {
+      "id": 52,
+      "name": "眉毛4",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12003001.12003001'",
+      "avatar_id": 12003001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "53": {
+      "id": 53,
+      "name": "眉毛5",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "avatar_id": 12004001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "54": {
+      "id": 54,
+      "name": "眉毛5",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "avatar_id": 12004001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "55": {
+      "id": 55,
+      "name": "眉毛5",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "avatar_id": 12004001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "56": {
+      "id": 56,
+      "name": "眉毛5",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "avatar_id": 12004001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "57": {
+      "id": 57,
+      "name": "眉毛5",
+      "gender": 1,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/12004001.12004001'",
+      "avatar_id": 12004001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "58": {
+      "id": 58,
+      "name": "眼型1",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13000000.13000000'",
+      "avatar_id": 13000000,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "59": {
+      "id": 59,
+      "name": "眼型2",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13001000.13001000'",
+      "avatar_id": 13001000,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "60": {
+      "id": 60,
+      "name": "眼型3",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13002000.13002000'",
+      "avatar_id": 13002000,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "61": {
+      "id": 61,
+      "name": "眼型-翠顶夫人印象",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13003000.13003000'",
+      "avatar_id": 13003000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "62": {
+      "id": 62,
+      "name": "眼型-花魁蜂后印象",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13004000.13004000'",
+      "avatar_id": 13004000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "63": {
+      "id": 63,
+      "name": "眼型-卡洛儿印象",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13005000.13005000'",
+      "avatar_id": 13005000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "64": {
+      "id": 64,
+      "name": "面妆1",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000001.15000001'",
+      "avatar_id": 15000001,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "65": {
+      "id": 65,
+      "name": "面妆2",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000002.15000002'",
+      "avatar_id": 15000002,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "67": {
+      "id": 67,
+      "name": "面妆3",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000004.15000004'",
+      "avatar_id": 15000004,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "68": {
+      "id": 68,
+      "name": "面妆4",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000005.15000005'",
+      "avatar_id": 15000005,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "69": {
+      "id": 69,
+      "name": "面妆5",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000006.15000006'",
+      "avatar_id": 15000006,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "70": {
+      "id": 70,
+      "name": "面妆6",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000007.15000007'",
+      "avatar_id": 15000007,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "72": {
+      "id": 72,
+      "name": "面妆7",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000009.15000009'",
+      "avatar_id": 15000009,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "73": {
+      "id": 73,
+      "name": "面妆8",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000010.15000010'",
+      "avatar_id": 15000010,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "74": {
+      "id": 74,
+      "name": "面妆-星光狮印象",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
+      "avatar_id": 15000011,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "75": {
+      "id": 75,
+      "name": "面妆-烈火守护印象",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
+      "avatar_id": 15000012,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "76": {
+      "id": 76,
+      "name": "面妆-皇家狮鹫印象",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
+      "avatar_id": 15000013,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "77": {
+      "id": 77,
+      "name": "初始发型1",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "avatar_id": 21000001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "78": {
+      "id": 78,
+      "name": "初始发型1",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "avatar_id": 21000001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "79": {
+      "id": 79,
+      "name": "初始发型1",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "avatar_id": 21000001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "80": {
+      "id": 80,
+      "name": "初始发型1",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "avatar_id": 21000001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "81": {
+      "id": 81,
+      "name": "初始发型1",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21000001.21000001'",
+      "avatar_id": 21000001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "82": {
+      "id": 82,
+      "name": "初始发型2",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "avatar_id": 21003004,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "83": {
+      "id": 83,
+      "name": "初始发型2",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "avatar_id": 21003004,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "84": {
+      "id": 84,
+      "name": "初始发型2",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "avatar_id": 21003004,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "85": {
+      "id": 85,
+      "name": "初始发型2",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "avatar_id": 21003004,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "86": {
+      "id": 86,
+      "name": "初始发型2",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21003004.21003004'",
+      "avatar_id": 21003004,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "87": {
+      "id": 87,
+      "name": "初始发型3",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "avatar_id": 21007008,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "88": {
+      "id": 88,
+      "name": "初始发型3",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "avatar_id": 21007008,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "89": {
+      "id": 89,
+      "name": "初始发型3",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "avatar_id": 21007008,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "90": {
+      "id": 90,
+      "name": "初始发型3",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "avatar_id": 21007008,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "91": {
+      "id": 91,
+      "name": "初始发型3",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21007008.21007008'",
+      "avatar_id": 21007008,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "92": {
+      "id": 92,
+      "name": "圣骑士发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21005006.21005006'",
+      "avatar_id": 21005006,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "93": {
+      "id": 93,
+      "name": "圣骑士发型-星光狮印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100502.20100502'",
+      "avatar_id": 21005006,
+      "colour_type": 2,
+      "colour_id": [
+        "#dfbc6e",
+        "#c9882d"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "94": {
+      "id": 94,
+      "name": "圣骑士发型-烈火守护印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100503.20100503'",
+      "avatar_id": 21005006,
+      "colour_type": 2,
+      "colour_id": [
+        "#aa5e6a",
+        "#e4e1e2"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "95": {
+      "id": 95,
+      "name": "圣骑士发型-皇家狮鹫印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100504.20100504'",
+      "avatar_id": 21005006,
+      "colour_type": 2,
+      "colour_id": [
+        "#ebe7c9",
+        "#fbdb6d"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "96": {
+      "id": 96,
+      "name": "游侠发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21012013.21012013'",
+      "avatar_id": 21012013,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "97": {
+      "id": 97,
+      "name": "游侠发型-音速犬印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101202.20101202'",
+      "avatar_id": 21012013,
+      "colour_type": 1,
+      "colour_id": [
+        "#faca9e",
+        "#c37659"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "98": {
+      "id": 98,
+      "name": "游侠发型-岚鸟印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101203.20101203'",
+      "avatar_id": 21012013,
+      "colour_type": 2,
+      "colour_id": [
+        "#f4cda4",
+        "#ffffff"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "99": {
+      "id": 99,
+      "name": "游侠发型-厉毒修萝印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101204.20101204'",
+      "avatar_id": 21012013,
+      "colour_type": 1,
+      "colour_id": [
+        "#735567",
+        "#99925e"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "100": {
+      "id": 100,
+      "name": "舞会发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21013014.21013014'",
+      "avatar_id": 21013014,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "101": {
+      "id": 101,
+      "name": "舞会发型-翠顶夫人印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101302.20101302'",
+      "avatar_id": 21013014,
+      "colour_type": 2,
+      "colour_id": [
+        "#fc7d57",
+        "#f2e5e1"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "102": {
+      "id": 102,
+      "name": "舞会发型-花魁蜂后印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101303.20101303'",
+      "avatar_id": 21013014,
+      "colour_type": 2,
+      "colour_id": [
+        "#7ba8aa",
+        "#f3c950"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "103": {
+      "id": 103,
+      "name": "舞会发型-卡洛儿印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101304.20101304'",
+      "avatar_id": 21013014,
+      "colour_type": 2,
+      "colour_id": [
+        "#c0bbd1",
+        "#e5a4c6"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "104": {
+      "id": 104,
+      "name": "雪山发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21004005.21004005'",
+      "avatar_id": 21004005,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "105": {
+      "id": 105,
+      "name": "雪山发型-圣代甜甜印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100402.20100402'",
+      "avatar_id": 21004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#a44d2e",
+        "#f6ebe8"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "106": {
+      "id": 106,
+      "name": "雪山发型-獠牙猪印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100403.20100403'",
+      "avatar_id": 21004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#94c6f9",
+        "#f7faea"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "107": {
+      "id": 107,
+      "name": "雪山发型-蒲公英娃娃印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100404.20100404'",
+      "avatar_id": 21004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#ffc0b0",
+        "#fef3af"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "108": {
+      "id": 108,
+      "name": "雪山发型-雪灵印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100405.20100405'",
+      "avatar_id": 21004005,
+      "colour_type": 1,
+      "colour_id": [
+        "#cce4e6",
+        "#a2c2df"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "109": {
+      "id": 109,
+      "name": "眉毛1",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "avatar_id": 22000001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "110": {
+      "id": 110,
+      "name": "眉毛1",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "avatar_id": 22000001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "111": {
+      "id": 111,
+      "name": "眉毛1",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "avatar_id": 22000001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "112": {
+      "id": 112,
+      "name": "眉毛1",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "avatar_id": 22000001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "113": {
+      "id": 113,
+      "name": "眉毛1",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22000001.22000001'",
+      "avatar_id": 22000001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "114": {
+      "id": 114,
+      "name": "眉毛2",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "avatar_id": 22001001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "115": {
+      "id": 115,
+      "name": "眉毛2",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "avatar_id": 22001001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "116": {
+      "id": 116,
+      "name": "眉毛2",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "avatar_id": 22001001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "117": {
+      "id": 117,
+      "name": "眉毛2",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "avatar_id": 22001001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "118": {
+      "id": 118,
+      "name": "眉毛2",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22001001.22001001'",
+      "avatar_id": 22001001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "119": {
+      "id": 119,
+      "name": "眉毛3",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "avatar_id": 22002001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "120": {
+      "id": 120,
+      "name": "眉毛3",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "avatar_id": 22002001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "121": {
+      "id": 121,
+      "name": "眉毛3",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "avatar_id": 22002001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "122": {
+      "id": 122,
+      "name": "眉毛3",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "avatar_id": 22002001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "123": {
+      "id": 123,
+      "name": "眉毛3",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22002001.22002001'",
+      "avatar_id": 22002001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "124": {
+      "id": 124,
+      "name": "眉毛4",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "avatar_id": 22003001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "125": {
+      "id": 125,
+      "name": "眉毛4",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "avatar_id": 22003001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "126": {
+      "id": 126,
+      "name": "眉毛4",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "avatar_id": 22003001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "127": {
+      "id": 127,
+      "name": "眉毛4",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "avatar_id": 22003001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "128": {
+      "id": 128,
+      "name": "眉毛4",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22003001.22003001'",
+      "avatar_id": 22003001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "129": {
+      "id": 129,
+      "name": "眉毛5",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "avatar_id": 22004001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "130": {
+      "id": 130,
+      "name": "眉毛5",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "avatar_id": 22004001,
+      "colour_id": [
+        "#3E3F40FF"
+      ],
+      "texture_id": 2,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "131": {
+      "id": 131,
+      "name": "眉毛5",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "avatar_id": 22004001,
+      "colour_id": [
+        "#93A6ABFF"
+      ],
+      "texture_id": 3,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "132": {
+      "id": 132,
+      "name": "眉毛5",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "avatar_id": 22004001,
+      "colour_id": [
+        "#9D7447FF"
+      ],
+      "texture_id": 4,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "133": {
+      "id": 133,
+      "name": "眉毛5",
+      "gender": 2,
+      "type": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/22004001.22004001'",
+      "avatar_id": 22004001,
+      "colour_id": [
+        "#671D2AFF"
+      ],
+      "texture_id": 5,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "134": {
+      "id": 134,
+      "name": "眼型1",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23000000.23000000'",
+      "avatar_id": 23000000,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "135": {
+      "id": 135,
+      "name": "眼型2",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23001000.23001000'",
+      "avatar_id": 23001000,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "136": {
+      "id": 136,
+      "name": "眼型3",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23002000.23002000'",
+      "avatar_id": 23002000,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "137": {
+      "id": 137,
+      "name": "眼型-翠顶夫人印象",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23003000.23003000'",
+      "avatar_id": 23003000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "138": {
+      "id": 138,
+      "name": "眼型-花魁蜂后印象",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23004000.23004000'",
+      "avatar_id": 23004000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "139": {
+      "id": 139,
+      "name": "眼型-卡洛儿印象",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23005000.23005000'",
+      "avatar_id": 23005000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "140": {
+      "id": 140,
+      "name": "面妆1",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000001.25000001'",
+      "avatar_id": 25000001,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "141": {
+      "id": 141,
+      "name": "面妆2",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000002.25000002'",
+      "avatar_id": 25000002,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "143": {
+      "id": 143,
+      "name": "面妆3",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000004.25000004'",
+      "avatar_id": 25000004,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "144": {
+      "id": 144,
+      "name": "面妆4",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000005.25000005'",
+      "avatar_id": 25000005,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "145": {
+      "id": 145,
+      "name": "面妆5",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000006.25000006'",
+      "avatar_id": 25000006,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "146": {
+      "id": 146,
+      "name": "面妆6",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000007.25000007'",
+      "avatar_id": 25000007,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "148": {
+      "id": 148,
+      "name": "面妆7",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000009.25000009'",
+      "avatar_id": 25000009,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "149": {
+      "id": 149,
+      "name": "面妆8",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000010.25000010'",
+      "avatar_id": 25000010,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "150": {
+      "id": 150,
+      "name": "面妆-星光狮印象",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000011.25000011'",
+      "avatar_id": 25000011,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "151": {
+      "id": 151,
+      "name": "面妆-烈火守护印象",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000012.25000012'",
+      "avatar_id": 25000012,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "152": {
+      "id": 152,
+      "name": "面妆-皇家狮鹫印象",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000013.25000013'",
+      "avatar_id": 25000013,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "153": {
+      "id": 153,
+      "name": "肤色1",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000001.30000001'",
+      "avatar_id": 30000001,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "154": {
+      "id": 154,
+      "name": "肤色2",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000002.30000002'",
+      "avatar_id": 30000002,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "155": {
+      "id": 155,
+      "name": "肤色3",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000003.30000003'",
+      "avatar_id": 30000003,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "157": {
+      "id": 157,
+      "name": "瞳孔1",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000001.34000001'",
+      "avatar_id": 34000001,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "162": {
+      "id": 162,
+      "name": "瞳孔2",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000002.34000002'",
+      "avatar_id": 34000002,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "167": {
+      "id": 167,
+      "name": "瞳孔3",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000003.34000003'",
+      "avatar_id": 34000003,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "172": {
+      "id": 172,
+      "name": "瞳孔4",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000004.34000004'",
+      "avatar_id": 34000004,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "177": {
+      "id": 177,
+      "name": "瞳孔5",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000005.34000005'",
+      "avatar_id": 34000005,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "182": {
+      "id": 182,
+      "name": "瞳孔6",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000006.34000006'",
+      "avatar_id": 34000006,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_free_item": true,
+      "item_quality": 3,
+      "launch_item": true
+    },
+    "183": {
+      "id": 183,
+      "name": "童话发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11014015.11014015'",
+      "avatar_id": 11014015,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "184": {
+      "id": 184,
+      "name": "童话发型-花衣蝶印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101402.10101402'",
+      "avatar_id": 11014015,
+      "colour_type": 1,
+      "colour_id": [
+        "#f87f8f",
+        "#d4de6b"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "185": {
+      "id": 185,
+      "name": "童话发型-红绒十字印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101403.10101403'",
+      "avatar_id": 11014015,
+      "colour_type": 1,
+      "colour_id": [
+        "#ea3e31",
+        "#b72920"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "186": {
+      "id": 186,
+      "name": "童话发型-白金独角兽印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101404.10101404'",
+      "avatar_id": 11014015,
+      "colour_type": 1,
+      "colour_id": [
+        "#f7fcfa",
+        "#c8eff1"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "187": {
+      "id": 187,
+      "name": "童话发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21014015.21014015'",
+      "avatar_id": 21014015,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "188": {
+      "id": 188,
+      "name": "童话发型-花衣蝶印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101402.20101402'",
+      "avatar_id": 21014015,
+      "colour_type": 1,
+      "colour_id": [
+        "#f87f8f",
+        "#d4de6b"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "189": {
+      "id": 189,
+      "name": "童话发型-红绒十字印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101403.20101403'",
+      "avatar_id": 21014015,
+      "colour_type": 1,
+      "colour_id": [
+        "#ea3e31",
+        "#b72920"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "190": {
+      "id": 190,
+      "name": "童话发型-白金独角兽印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101404.20101404'",
+      "avatar_id": 21014015,
+      "colour_type": 1,
+      "colour_id": [
+        "#f7fcfa",
+        "#c8eff1"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "191": {
+      "id": 191,
+      "name": "眼型-花衣蝶印象",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13006000.13006000'",
+      "avatar_id": 13006000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "192": {
+      "id": 192,
+      "name": "瞳孔-白金独角兽印象",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000011.34000011'",
+      "avatar_id": 34000012,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "193": {
+      "id": 193,
+      "name": "眼型-花衣蝶印象",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23006000.23006000'",
+      "avatar_id": 23006000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "195": {
+      "id": 195,
+      "name": "考察队发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11001002.11001002'",
+      "avatar_id": 11001002,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "196": {
+      "id": 196,
+      "name": "考察队发型-魔草巫灵印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100102.10100102'",
+      "avatar_id": 11001002,
+      "colour_type": 1,
+      "colour_id": [
+        "#50a348",
+        "#348553"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "197": {
+      "id": 197,
+      "name": "考察队发型-奇丽花印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100103.10100103'",
+      "avatar_id": 11001002,
+      "colour_type": 1,
+      "colour_id": [
+        "#2a3c2f",
+        "#42623c"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "198": {
+      "id": 198,
+      "name": "考察队发型-高脚鹬印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100104.10100104'",
+      "avatar_id": 11001002,
+      "colour_type": 1,
+      "colour_id": [
+        "#594c5e",
+        "#312438"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "199": {
+      "id": 199,
+      "name": "考察队发型-魔眷鸟印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10100105.10100105'",
+      "avatar_id": 11001002,
+      "colour_type": 2,
+      "colour_id": [
+        "#b3d36d",
+        "#f59895"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "200": {
+      "id": 200,
+      "name": "考察队发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21001002.21001002'",
+      "avatar_id": 21001002,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "201": {
+      "id": 201,
+      "name": "考察队发型-魔草巫灵印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100102.20100102'",
+      "avatar_id": 21001002,
+      "colour_type": 1,
+      "colour_id": [
+        "#50a348",
+        "#348553"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "202": {
+      "id": 202,
+      "name": "考察队发型-奇丽花印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100103.20100103'",
+      "avatar_id": 21001002,
+      "colour_type": 1,
+      "colour_id": [
+        "#2a3c2f",
+        "#42623c"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "203": {
+      "id": 203,
+      "name": "考察队发型-高脚鹬印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100104.20100104'",
+      "avatar_id": 21001002,
+      "colour_type": 1,
+      "colour_id": [
+        "#594c5e",
+        "#312438"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "204": {
+      "id": 204,
+      "name": "考察队发型-魔眷鸟印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20100105.20100105'",
+      "avatar_id": 21001002,
+      "colour_type": 2,
+      "colour_id": [
+        "#b3d36d",
+        "#f59895"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "205": {
+      "id": 205,
+      "name": "睡衣派对发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11015016.11015016'",
+      "avatar_id": 11015016,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "206": {
+      "id": 206,
+      "name": "睡衣派对发型-梦悠悠印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101502.10101502'",
+      "avatar_id": 11015016,
+      "colour_type": 1,
+      "colour_id": [
+        "#e7fefa",
+        "#e9c5f1"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "207": {
+      "id": 207,
+      "name": "睡衣派对发型-电球咩咩印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101503.10101503'",
+      "avatar_id": 11015016,
+      "colour_type": 1,
+      "colour_id": [
+        "#eac57d",
+        "#fefce7"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "208": {
+      "id": 208,
+      "name": "睡衣派对发型-雪影娃娃印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101504.10101504'",
+      "avatar_id": 11015016,
+      "colour_type": 1,
+      "colour_id": [
+        "#88c8fb",
+        "#57a5fd"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "209": {
+      "id": 209,
+      "name": "睡衣派对发型-幽冥眼印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101505.10101505'",
+      "avatar_id": 11015016,
+      "colour_type": 2,
+      "colour_id": [
+        "#8dc9eb",
+        "#e989d4"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "210": {
+      "id": 210,
+      "name": "睡衣派对发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21015016.21015016'",
+      "avatar_id": 21015016,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "211": {
+      "id": 211,
+      "name": "睡衣派对发型-梦悠悠印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101502.20101502'",
+      "avatar_id": 21015016,
+      "colour_type": 1,
+      "colour_id": [
+        "#e7fefa",
+        "#e9c5f1"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "212": {
+      "id": 212,
+      "name": "睡衣派对发型-电球咩咩印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101503.20101503'",
+      "avatar_id": 21015016,
+      "colour_type": 1,
+      "colour_id": [
+        "#eac57d",
+        "#fefce7"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "213": {
+      "id": 213,
+      "name": "睡衣派对发型-雪影娃娃印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101504.20101504'",
+      "avatar_id": 21015016,
+      "colour_type": 1,
+      "colour_id": [
+        "#88c8fb",
+        "#57a5fd"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "214": {
+      "id": 214,
+      "name": "睡衣派对发型-幽冥眼印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101505.20101505'",
+      "avatar_id": 21015016,
+      "colour_type": 2,
+      "colour_id": [
+        "#8dc9eb",
+        "#e989d4"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "215": {
+      "id": 215,
+      "name": "肤色-页游色",
+      "gender": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/30000007.30000007'",
+      "avatar_id": 30000007,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "216": {
+      "id": 216,
+      "name": "壁炉伙伴发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11020021.11020021'",
+      "avatar_id": 11020021,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "217": {
+      "id": 217,
+      "name": "壁炉伙伴发型-爵士鹿印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102002.10102002'",
+      "avatar_id": 11020021,
+      "colour_type": 2,
+      "colour_id": [
+        "#efc38e",
+        "#f5e6c1"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "218": {
+      "id": 218,
+      "name": "壁炉伙伴发型-熔岩布丁印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102003.10102003'",
+      "avatar_id": 11020021,
+      "colour_type": 2,
+      "colour_id": [
+        "#f8a495",
+        "#f3d9c0"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "219": {
+      "id": 219,
+      "name": "壁炉伙伴发型-蹦蹦花印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102004.10102004'",
+      "avatar_id": 11020021,
+      "colour_type": 2,
+      "colour_id": [
+        "#d75943",
+        "#f7b988"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "220": {
+      "id": 220,
+      "name": "壁炉伙伴发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21020021.21020021'",
+      "avatar_id": 21020021,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "221": {
+      "id": 221,
+      "name": "壁炉伙伴发型-爵士鹿印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102002.20102002'",
+      "avatar_id": 21020021,
+      "colour_type": 2,
+      "colour_id": [
+        "#efc38e",
+        "#f5e6c1"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "222": {
+      "id": 222,
+      "name": "壁炉伙伴发型-熔岩布丁印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102003.20102003'",
+      "avatar_id": 21020021,
+      "colour_type": 2,
+      "colour_id": [
+        "#f8a495",
+        "#f3d9c0"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "223": {
+      "id": 223,
+      "name": "壁炉伙伴发型-蹦蹦花印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102004.20102004'",
+      "avatar_id": 21020021,
+      "colour_type": 2,
+      "colour_id": [
+        "#d75943",
+        "#f7b988"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "224": {
+      "id": 224,
+      "name": "面妆-蹦蹦花印象",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000014.15000014'",
+      "avatar_id": 15000014,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "225": {
+      "id": 225,
+      "name": "面妆-蹦蹦花印象",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000014.25000014'",
+      "avatar_id": 25000014,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "226": {
+      "id": 226,
+      "name": "炼金药剂发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11017018.11017018'",
+      "avatar_id": 11017018,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "227": {
+      "id": 227,
+      "name": "炼金药剂发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21017018.21017018'",
+      "avatar_id": 21017018,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "228": {
+      "id": 228,
+      "name": "炼金药剂发型-嘟嘟锅印象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101702.10101702'",
+      "avatar_id": 11017018,
+      "colour_type": 1,
+      "colour_id": [
+        "#f79bb3",
+        "#d2355d"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "229": {
+      "id": 229,
+      "name": "炼金药剂发型-嘟嘟锅印象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101702.20101702'",
+      "avatar_id": 21017018,
+      "colour_type": 1,
+      "colour_id": [
+        "#f79bb3",
+        "#d2355d"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "230": {
+      "id": 230,
+      "name": "炼金药剂发型-琉璃水母",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101703.10101703'",
+      "avatar_id": 11017018,
+      "colour_type": 1,
+      "colour_id": [
+        "#d9fefe",
+        "#f4c9ff"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "231": {
+      "id": 231,
+      "name": "炼金药剂发型-琉璃水母",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101703.20101703'",
+      "avatar_id": 21017018,
+      "colour_type": 1,
+      "colour_id": [
+        "#d9fefe",
+        "#f4c9ff"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "232": {
+      "id": 232,
+      "name": "炼金药剂发型-九幽菇",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101704.10101704'",
+      "avatar_id": 11017018,
+      "colour_type": 2,
+      "colour_id": [
+        "#3c9577",
+        "#24674e"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "233": {
+      "id": 233,
+      "name": "炼金药剂发型-九幽菇",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101704.20101704'",
+      "avatar_id": 21017018,
+      "colour_type": 2,
+      "colour_id": [
+        "#3c9577",
+        "#24674e"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true,
+      "hair_lock": true
+    },
+    "234": {
+      "id": 234,
+      "name": "吟游诗人发型-默认色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101601.10101601'",
+      "avatar_id": 11016017,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "235": {
+      "id": 235,
+      "name": "吟游诗人发型-默认色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101601.20101601'",
+      "avatar_id": 21016017,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "236": {
+      "id": 236,
+      "name": "吟游诗人发型-圆号鱼",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101602.10101602'",
+      "avatar_id": 11016017,
+      "colour_type": 1,
+      "colour_id": [
+        "#da6f0f",
+        "#7b330b"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "237": {
+      "id": 237,
+      "name": "吟游诗人发型-圆号鱼",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101602.20101602'",
+      "avatar_id": 21016017,
+      "colour_type": 1,
+      "colour_id": [
+        "#da6f0f",
+        "#7b330b"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "238": {
+      "id": 238,
+      "name": "吟游诗人发型-蹦床松鼠",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101603.10101603'",
+      "avatar_id": 11016017,
+      "colour_type": 2,
+      "colour_id": [
+        "#fecbb8",
+        "#fffcaf"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "239": {
+      "id": 239,
+      "name": "吟游诗人发型-蹦床松鼠",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101603.20101603'",
+      "avatar_id": 21016017,
+      "colour_type": 2,
+      "colour_id": [
+        "#fecbb8",
+        "#fffcaf"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "240": {
+      "id": 240,
+      "name": "吟游诗人发型-卡瓦重",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101604.10101604'",
+      "avatar_id": 11016017,
+      "colour_type": 1,
+      "colour_id": [
+        "#b8be98",
+        "#b0cf46"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "241": {
+      "id": 241,
+      "name": "吟游诗人发型-卡瓦重",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101604.20101604'",
+      "avatar_id": 21016017,
+      "colour_type": 1,
+      "colour_id": [
+        "#b8be98",
+        "#b0cf46"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "242": {
+      "id": 242,
+      "name": "吟游诗人发型-里拉鳐",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101605.10101605'",
+      "avatar_id": 11016017,
+      "colour_type": 2,
+      "colour_id": [
+        "#f8cce3",
+        "#7fbedd"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "243": {
+      "id": 243,
+      "name": "吟游诗人发型-里拉鳐",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101605.20101605'",
+      "avatar_id": 21016017,
+      "colour_type": 2,
+      "colour_id": [
+        "#f8cce3",
+        "#7fbedd"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "244": {
+      "id": 244,
+      "name": "梦境流浪者发型-默认发色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102101.10102101'",
+      "avatar_id": 11021022,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "245": {
+      "id": 245,
+      "name": "梦境流浪者发型-默认发色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102101.20102101'",
+      "avatar_id": 21021022,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "246": {
+      "id": 246,
+      "name": "梦境流浪者发型-幻影灵菇",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102102.10102102'",
+      "avatar_id": 11021022,
+      "colour_type": 2,
+      "colour_id": [
+        "#9564e2",
+        "#341c66"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "247": {
+      "id": 247,
+      "name": "梦境流浪者发型-幻影灵菇",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102102.20102102'",
+      "avatar_id": 21021022,
+      "colour_type": 1,
+      "colour_id": [
+        "#351d67",
+        "#8153d0"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "248": {
+      "id": 248,
+      "name": "梦境流浪者发型-怖哭菇",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102103.10102103'",
+      "avatar_id": 11021022,
+      "colour_type": 1,
+      "colour_id": [
+        "#e6eaf3",
+        "#bbbbd5"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "249": {
+      "id": 249,
+      "name": "梦境流浪者发型-怖哭菇",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102103.20102103'",
+      "avatar_id": 21021022,
+      "colour_type": 1,
+      "colour_id": [
+        "#ebebf3",
+        "#acafd0"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "250": {
+      "id": 250,
+      "name": "梦境流浪者发型-流浪鼠",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102104.10102104'",
+      "avatar_id": 11021022,
+      "colour_type": 1,
+      "colour_id": [
+        "#d8814c",
+        "#f1b56c"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "251": {
+      "id": 251,
+      "name": "梦境流浪者发型-流浪鼠",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102104.20102104'",
+      "avatar_id": 21021022,
+      "colour_type": 1,
+      "colour_id": [
+        "#efb468",
+        "#d67c48"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "252": {
+      "id": 252,
+      "name": "瞳孔-怖哭菇印象",
+      "gender": 3,
+      "type": 4,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/34000014.34000014'",
+      "avatar_id": 34000014,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "253": {
+      "id": 253,
+      "name": "魔法嘉年华-默认发色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101901.10101901'",
+      "avatar_id": 11019020,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "254": {
+      "id": 254,
+      "name": "魔法嘉年华-默认发色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101901.20101901'",
+      "avatar_id": 21019020,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "255": {
+      "id": 255,
+      "name": "魔法嘉年华发型-咕德帽帽",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101902.10101902'",
+      "avatar_id": 11019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#b6b6b6",
+        "#e6e6e6"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "256": {
+      "id": 256,
+      "name": "魔法嘉年华发型-咕德帽帽",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101902.20101902'",
+      "avatar_id": 21019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#b6b6b6",
+        "#e6e6e7"
+      ],
+      "texture_id": 2,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "257": {
+      "id": 257,
+      "name": "魔法嘉年华发型-巨鼓象",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101903.10101903'",
+      "avatar_id": 11019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#db3239",
+        "#4f9fe8"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "258": {
+      "id": 258,
+      "name": "魔法嘉年华发型-巨鼓象",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101903.20101903'",
+      "avatar_id": 21019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#db3239",
+        "#4f9fe8"
+      ],
+      "texture_id": 3,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "259": {
+      "id": 259,
+      "name": "魔法嘉年华发型-烟花伯爵",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101904.10101904'",
+      "avatar_id": 11019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#b19796",
+        "#e0dbc6"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "260": {
+      "id": 260,
+      "name": "魔法嘉年华发型-烟花伯爵",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101904.20101904'",
+      "avatar_id": 21019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#b19796",
+        "#e0dbc6"
+      ],
+      "texture_id": 4,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "261": {
+      "id": 261,
+      "name": "魔法嘉年华发型-小丑公爵",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10101905.10101905'",
+      "avatar_id": 11019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#e360a4",
+        "#81bcc4"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "262": {
+      "id": 262,
+      "name": "魔法嘉年华发型-小丑公爵",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20101905.20101905'",
+      "avatar_id": 21019020,
+      "colour_type": 2,
+      "colour_id": [
+        "#e360a4",
+        "#81bcc4"
+      ],
+      "texture_id": 5,
+      "item_quality": 4,
+      "launch_item": true
+    },
+    "263": {
+      "id": 263,
+      "name": "面妆-千棘盔印象",
+      "gender": 1,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/15000015.15000015'",
+      "avatar_id": 15000015,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "264": {
+      "id": 264,
+      "name": "面妆-千棘盔印象",
+      "gender": 2,
+      "type": 5,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/25000015.25000015'",
+      "avatar_id": 25000015,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "265": {
+      "id": 265,
+      "name": "眼型-迷迷箱怪印象",
+      "gender": 1,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/13009000.13009000'",
+      "avatar_id": 13009000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "266": {
+      "id": 266,
+      "name": "眼型-迷迷箱怪印象",
+      "gender": 2,
+      "type": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/23009000.23009000'",
+      "avatar_id": 23009000,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "267": {
+      "id": 267,
+      "name": "深海的馈赠发型-默认发色",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102301.10102301'",
+      "avatar_id": 11023024,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "268": {
+      "id": 268,
+      "name": "深海的馈赠发型-默认发色",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102301.20102301'",
+      "avatar_id": 21023024,
+      "colour_id": [
+        "#563027FF"
+      ],
+      "texture_id": 1,
+      "is_present_colour": true,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "269": {
+      "id": 269,
+      "name": "深海的馈赠发型-海豹船长",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102302.10102302'",
+      "avatar_id": 11023024,
+      "colour_type": 2,
+      "colour_id": [
+        "#c93d5a",
+        "#84c8d2"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "270": {
+      "id": 270,
+      "name": "深海的馈赠发型-海豹船长",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102302.20102302'",
+      "avatar_id": 21023024,
+      "colour_type": 2,
+      "colour_id": [
+        "#c93d5a",
+        "#84c8d2"
+      ],
+      "texture_id": 2,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "271": {
+      "id": 271,
+      "name": "深海的馈赠发型-千棘盔",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102303.10102303'",
+      "avatar_id": 11023024,
+      "colour_type": 2,
+      "colour_id": [
+        "#dadbc3",
+        "#716964"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "272": {
+      "id": 272,
+      "name": "深海的馈赠发型-千棘盔",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102303.20102303'",
+      "avatar_id": 21023024,
+      "colour_type": 2,
+      "colour_id": [
+        "#dadbc3",
+        "#716964"
+      ],
+      "texture_id": 3,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "273": {
+      "id": 273,
+      "name": "深海的馈赠发型-迷迷箱怪",
+      "gender": 1,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10102304.10102304'",
+      "avatar_id": 11023024,
+      "colour_type": 2,
+      "colour_id": [
+        "#d1b574",
+        "#7791fe"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    },
+    "274": {
+      "id": 274,
+      "name": "深海的馈赠发型-迷迷箱怪",
+      "gender": 2,
+      "type": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20102304.20102304'",
+      "avatar_id": 21023024,
+      "colour_type": 2,
+      "colour_id": [
+        "#d1b574",
+        "#7791fe"
+      ],
+      "texture_id": 4,
+      "item_quality": 5,
+      "launch_item": true
+    }
+  }
+}

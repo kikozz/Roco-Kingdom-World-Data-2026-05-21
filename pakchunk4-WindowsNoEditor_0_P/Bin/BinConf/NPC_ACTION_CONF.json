@@ -1,0 +1,37 @@
+{
+  "Name": "NPC_ACTION_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "action_type",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "action_type",
+      "Type": "EInt32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "client_submit",
+      "Type": "EBool",
+      "Offset": 8,
+      "Size": 1
+    },
+    {
+      "Name": "wait_begin_data",
+      "Type": "EBool",
+      "Offset": 9,
+      "Size": 1
+    },
+    {
+      "Name": "disable_sync_rotate",
+      "Type": "EBool",
+      "Offset": 10,
+      "Size": 1
+    }
+  ]
+}

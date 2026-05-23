@@ -1,0 +1,110 @@
+{
+  "RocoDataRows": {
+    "llm_pet_w_0": {
+      "id": 1,
+      "key": "llm_pet_w_0",
+      "num": 1000
+    },
+    "llm_pet_w_step": {
+      "id": 2,
+      "key": "llm_pet_w_step",
+      "num": 100
+    },
+    "llm_pet_w_max": {
+      "id": 3,
+      "key": "llm_pet_w_max",
+      "num": 3000
+    },
+    "llm_pet_M": {
+      "id": 4,
+      "key": "llm_pet_M",
+      "num": 1000000
+    },
+    "llm_pet_N": {
+      "id": 5,
+      "key": "llm_pet_N",
+      "num": 200
+    },
+    "llm_pet_T": {
+      "id": 6,
+      "key": "llm_pet_T",
+      "num": 5
+    },
+    "llm_pet_number": {
+      "id": 7,
+      "key": "llm_pet_number",
+      "num": 3
+    },
+    "llm_pet_behavior_number": {
+      "id": 8,
+      "key": "llm_pet_behavior_number",
+      "numList": [
+        1,
+        5
+      ]
+    },
+    "llm_pet_decay_coefficient_1": {
+      "id": 9,
+      "key": "llm_pet_decay_coefficient_1",
+      "num": 9500
+    },
+    "llm_pet_decay_coefficient_2": {
+      "id": 10,
+      "key": "llm_pet_decay_coefficient_2",
+      "num": 9200
+    },
+    "llm_pet_memory_update": {
+      "id": 11,
+      "key": "llm_pet_memory_update",
+      "num": 5
+    },
+    "llm_pet_memory_notes": {
+      "id": 12,
+      "key": "llm_pet_memory_notes",
+      "num": 10
+    },
+    "llm_pets_sequal_behavior_group_id": {
+      "id": 13,
+      "key": "llm_pets_sequal_behavior_group_id",
+      "num": 9000
+    },
+    "llm_pets_cd_behavior": {
+      "id": 14,
+      "key": "llm_pets_cd_behavior",
+      "numList": [
+        77,
+        78,
+        79
+      ]
+    },
+    "llm_pet_w_threshold1": {
+      "id": 15,
+      "key": "llm_pet_w_threshold1",
+      "num": 2000
+    },
+    "llm_pet_w_threshold2": {
+      "id": 16,
+      "key": "llm_pet_w_threshold2",
+      "num": 2500
+    },
+    "llm_pet_negative_max": {
+      "id": 17,
+      "key": "llm_pet_negative_max",
+      "num": 5
+    },
+    "llm_pets_fallback_group_id": {
+      "id": 18,
+      "key": "llm_pets_fallback_group_id",
+      "numList": [
+        80,
+        81,
+        82
+      ]
+    },
+    "llm_strat_id": {
+      "id": 19,
+      "key": "llm_strat_id",
+      "num": 76
+    }
+  }
+}

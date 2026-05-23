@@ -1,0 +1,22 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/G6_BossSkill1",
+      "option": [
+        {
+          "settle_data": 1
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "skill_ref": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/G6_BossSkill2",
+      "option": [
+        {
+          "settle_data": 1
+        }
+      ]
+    }
+  }
+}

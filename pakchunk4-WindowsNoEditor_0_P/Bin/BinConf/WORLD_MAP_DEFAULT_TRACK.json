@@ -1,0 +1,31 @@
+{
+  "Name": "WORLD_MAP_DEFAULT_TRACK",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "track_type",
+      "Type": "EInt32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "track_num",
+      "Type": "EInt32",
+      "Offset": 8,
+      "Size": 4
+    },
+    {
+      "Name": "minmap_num",
+      "Type": "EInt32",
+      "Offset": 12,
+      "Size": 4
+    }
+  ]
+}

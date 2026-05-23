@@ -1,0 +1,1552 @@
+{
+  "RocoDataRows": {
+    "4101": {
+      "id": 4101,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang2_Relax_1.G6_Suits19_XingGuang2_Relax_1"
+    },
+    "4102": {
+      "id": 4102,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang2_1_N_ZhaoHuan.G6_Suits19_XingGuang2_1_N_ZhaoHuan"
+    },
+    "4103": {
+      "id": 4103,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang2_Fight_PVP_Win.G6_Suits19_XingGuang2_Fight_PVP_Win"
+    },
+    "4201": {
+      "id": 4201,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang2_Relax_1.G6_Suits19_XingGuang2_Relax_1"
+    },
+    "4202": {
+      "id": 4202,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang2_1_N_ZhaoHuan.G6_Suits19_XingGuang2_1_N_ZhaoHuan"
+    },
+    "4203": {
+      "id": 4203,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang2_Fight_PVP_Win.G6_Suits19_XingGuang2_Fight_PVP_Win"
+    },
+    "4301": {
+      "id": 4301,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe3_Relax_1.G6_Suits20_WaTe3_Relax_1"
+    },
+    "4302": {
+      "id": 4302,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe3_1_N_ZhaoHuan.G6_Suits20_WaTe3_1_N_ZhaoHuan"
+    },
+    "4303": {
+      "id": 4303,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe3_Fight_PVP_Win.G6_Suits20_WaTe3_Fight_PVP_Win"
+    },
+    "4401": {
+      "id": 4401,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe3_Relax_1.G6_Suits20_WaTe3_Relax_1"
+    },
+    "4402": {
+      "id": 4402,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe3_1_N_ZhaoHuan.G6_Suits20_WaTe3_1_N_ZhaoHuan"
+    },
+    "4403": {
+      "id": 4403,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe3_Fight_PVP_Win.G6_Suits20_WaTe3_Fight_PVP_Win"
+    },
+    "4501": {
+      "id": 4501,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu3_Relax_1.G6_Suits21_ShiJiu3_Relax_1"
+    },
+    "4502": {
+      "id": 4502,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu3_1_N_ZhaoHuan.G6_Suits21_ShiJiu3_1_N_ZhaoHuan"
+    },
+    "4503": {
+      "id": 4503,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu3_Fight_PVP_Win.G6_Suits21_ShiJiu3_Fight_PVP_Win"
+    },
+    "4601": {
+      "id": 4601,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu3_Relax_1.G6_Suits21_ShiJiu3_Relax_1"
+    },
+    "4602": {
+      "id": 4602,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu3_1_N_ZhaoHuan.G6_Suits21_ShiJiu3_1_N_ZhaoHuan"
+    },
+    "4603": {
+      "id": 4603,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu3_Fight_PVP_Win.G6_Suits21_ShiJiu3_Fight_PVP_Win"
+    },
+    "4701": {
+      "id": 4701,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_Relax_1.G6_Suits18_YinSuQuan2_Relax_1"
+    },
+    "4702": {
+      "id": 4702,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_1_N_ZhaoHuan.G6_Suits18_YinSuQuan2_1_N_ZhaoHuan"
+    },
+    "4703": {
+      "id": 4703,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_Fight_PVP_Win.G6_Suits18_YinSuQuan2_Fight_PVP_Win"
+    },
+    "4801": {
+      "id": 4801,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_Relax_1.G6_Suits18_YinSuQuan2_Relax_1"
+    },
+    "4802": {
+      "id": 4802,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_1_N_ZhaoHuan.G6_Suits18_YinSuQuan2_1_N_ZhaoHuan"
+    },
+    "4803": {
+      "id": 4803,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_Fight_PVP_Win.G6_Suits18_YinSuQuan2_Fight_PVP_Win"
+    },
+    "4901": {
+      "id": 4901,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_Relax_1.G6_Suits22_LanNiao3_Relax_1"
+    },
+    "4902": {
+      "id": 4902,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_1_N_ZhaoHuan.G6_Suits22_LanNiao3_1_N_ZhaoHuan"
+    },
+    "4903": {
+      "id": 4903,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_Fight_PVP_Win.G6_Suits22_LanNiao3_Fight_PVP_Win"
+    },
+    "5001": {
+      "id": 5001,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_Relax_1.G6_Suits22_LanNiao3_Relax_1"
+    },
+    "5002": {
+      "id": 5002,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_1_N_ZhaoHuan.G6_Suits22_LanNiao3_1_N_ZhaoHuan"
+    },
+    "5003": {
+      "id": 5003,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_Fight_PVP_Win.G6_Suits22_LanNiao3_Fight_PVP_Win"
+    },
+    "5101": {
+      "id": 5101,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo2_Relax_1.G6_Suits23_XiaoLuo2_Relax_1"
+    },
+    "5102": {
+      "id": 5102,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo2_1_N_ZhaoHuan.G6_Suits23_XiaoLuo2_1_N_ZhaoHuan"
+    },
+    "5103": {
+      "id": 5103,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo2_Fight_PVP_Win.G6_Suits23_XiaoLuo2_Fight_PVP_Win"
+    },
+    "5201": {
+      "id": 5201,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo2_Relax_1.G6_Suits23_XiaoLuo2_Relax_1"
+    },
+    "5202": {
+      "id": 5202,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo2_1_N_ZhaoHuan.G6_Suits23_XiaoLuo2_1_N_ZhaoHuan"
+    },
+    "5203": {
+      "id": 5203,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo2_Fight_PVP_Win.G6_Suits23_XiaoLuo2_Fight_PVP_Win"
+    },
+    "5301": {
+      "id": 5301,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE3_Relax_1.G6_Suits16_HuaGuiE3_Relax_1"
+    },
+    "5302": {
+      "id": 5302,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE3_1_N_ZhaoHuan.G6_Suits16_HuaGuiE3_1_N_ZhaoHuan"
+    },
+    "5303": {
+      "id": 5303,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE3_Fight_PVP_Win.G6_Suits16_HuaGuiE3_Fight_PVP_Win"
+    },
+    "5401": {
+      "id": 5401,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE3_Relax_1.G6_Suits16_HuaGuiE3_Relax_1"
+    },
+    "5402": {
+      "id": 5402,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE3_1_N_ZhaoHuan.G6_Suits16_HuaGuiE3_1_N_ZhaoHuan"
+    },
+    "5403": {
+      "id": 5403,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE3_Fight_PVP_Win.G6_Suits16_HuaGuiE3_Fight_PVP_Win"
+    },
+    "5501": {
+      "id": 5501,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_Relax_1.G6_Suits24_MiFeng3_Relax_1"
+    },
+    "5502": {
+      "id": 5502,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_1_N_ZhaoHuan.G6_Suits24_MiFeng3_1_N_ZhaoHuan"
+    },
+    "5503": {
+      "id": 5503,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_Fight_PVP_Win.G6_Suits24_MiFeng3_Fight_PVP_Win"
+    },
+    "5601": {
+      "id": 5601,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_Relax_1.G6_Suits24_MiFeng3_Relax_1"
+    },
+    "5602": {
+      "id": 5602,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_1_N_ZhaoHuan.G6_Suits24_MiFeng3_1_N_ZhaoHuan"
+    },
+    "5603": {
+      "id": 5603,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_Fight_PVP_Win.G6_Suits24_MiFeng3_Fight_PVP_Win"
+    },
+    "5701": {
+      "id": 5701,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo3_Relax_1.G6_Suits25_HaiLuo3_Relax_1"
+    },
+    "5702": {
+      "id": 5702,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo3_1_N_ZhaoHuan.G6_Suits25_HaiLuo3_1_N_ZhaoHuan"
+    },
+    "5703": {
+      "id": 5703,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo3_Fight_PVP_Win.G6_Suits25_HaiLuo3_Fight_PVP_Win"
+    },
+    "5801": {
+      "id": 5801,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo3_Relax_1.G6_Suits25_HaiLuo3_Relax_1"
+    },
+    "5802": {
+      "id": 5802,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo3_1_N_ZhaoHuan.G6_Suits25_HaiLuo3_1_N_ZhaoHuan"
+    },
+    "5803": {
+      "id": 5803,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo3_Fight_PVP_Win.G6_Suits25_HaiLuo3_Fight_PVP_Win"
+    },
+    "5901": {
+      "id": 5901,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits27_DingDing3_1_N_ZhaoHuan.G6_Suits27_DingDing3_1_N_ZhaoHuan"
+    },
+    "5902": {
+      "id": 5902,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits27_DingDing2_1_N_ZhaoHuan.G6_Suits27_DingDing2_1_N_ZhaoHuan"
+    },
+    "5903": {
+      "id": 5903,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits27_DingDing1_1_N_ZhaoHuan.G6_Suits27_DingDing1_1_N_ZhaoHuan"
+    },
+    "5904": {
+      "id": 5904,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits28_HuHuZhu2_1_N_ZhaoHuan.G6_Suits28_HuHuZhu2_1_N_ZhaoHuan"
+    },
+    "5905": {
+      "id": 5905,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits28_HuHuZhu1_1_N_ZhaoHuan.G6_Suits28_HuHuZhu1_1_N_ZhaoHuan"
+    },
+    "5906": {
+      "id": 5906,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits29_PuGongYing3_1_N_ZhaoHuan.G6_Suits29_PuGongYing3_1_N_ZhaoHuan"
+    },
+    "5907": {
+      "id": 5907,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits29_PuGongYing1_1_N_ZhaoHuan.G6_Suits29_PuGongYing1_1_N_ZhaoHuan"
+    },
+    "5908": {
+      "id": 5908,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits30_XueLing3_1_N_ZhaoHuan.G6_Suits30_XueLing3_1_N_ZhaoHuan"
+    },
+    "5909": {
+      "id": 5909,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits30_XueLing2_1_N_ZhaoHuan.G6_Suits30_XueLing2_1_N_ZhaoHuan"
+    },
+    "5910": {
+      "id": 5910,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits30_XueLing1_1_N_ZhaoHuan.G6_Suits30_XueLing1_1_N_ZhaoHuan"
+    },
+    "5911": {
+      "id": 5911,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits27_DingDing3_1_N_ZhaoHuan.G6_Suits27_DingDing3_1_N_ZhaoHuan"
+    },
+    "5912": {
+      "id": 5912,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits27_DingDing2_1_N_ZhaoHuan.G6_Suits27_DingDing2_1_N_ZhaoHuan"
+    },
+    "5913": {
+      "id": 5913,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits27_DingDing1_1_N_ZhaoHuan.G6_Suits27_DingDing1_1_N_ZhaoHuan"
+    },
+    "5914": {
+      "id": 5914,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits28_HuHuZhu2_1_N_ZhaoHuan.G6_Suits28_HuHuZhu2_1_N_ZhaoHuan"
+    },
+    "5915": {
+      "id": 5915,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits28_HuHuZhu1_1_N_ZhaoHuan.G6_Suits28_HuHuZhu1_1_N_ZhaoHuan"
+    },
+    "5916": {
+      "id": 5916,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits29_PuGongYing3_1_N_ZhaoHuan.G6_Suits29_PuGongYing3_1_N_ZhaoHuan"
+    },
+    "5917": {
+      "id": 5917,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits29_PuGongYing1_1_N_ZhaoHuan.G6_Suits29_PuGongYing1_1_N_ZhaoHuan"
+    },
+    "5918": {
+      "id": 5918,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits30_XueLing3_1_N_ZhaoHuan.G6_Suits30_XueLing3_1_N_ZhaoHuan"
+    },
+    "5919": {
+      "id": 5919,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits30_XueLing2_1_N_ZhaoHuan.G6_Suits30_XueLing2_1_N_ZhaoHuan"
+    },
+    "5920": {
+      "id": 5920,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits30_XueLing1_1_N_ZhaoHuan.G6_Suits30_XueLing1_1_N_ZhaoHuan"
+    },
+    "5921": {
+      "id": 5921,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong3_Relax_1.G6_Suits35_CaoChong3_Relax_1"
+    },
+    "5922": {
+      "id": 5922,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong3_1_N_ZhaoHuan.G6_Suits35_CaoChong3_1_N_ZhaoHuan"
+    },
+    "5923": {
+      "id": 5923,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong3_Fight_PVP_Win.G6_Suits35_CaoChong3_Fight_PVP_Win"
+    },
+    "5924": {
+      "id": 5924,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong3_Relax_1.G6_Suits35_CaoChong3_Relax_1"
+    },
+    "5925": {
+      "id": 5925,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong3_1_N_ZhaoHuan.G6_Suits35_CaoChong3_1_N_ZhaoHuan"
+    },
+    "5926": {
+      "id": 5926,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong3_Fight_PVP_Win.G6_Suits35_CaoChong3_Fight_PVP_Win"
+    },
+    "5927": {
+      "id": 5927,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa3_Relax_1.G6_Suits36_HuoWa3_Relax_1"
+    },
+    "5928": {
+      "id": 5928,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa3_1_N_ZhaoHuan.G6_Suits36_HuoWa3_1_N_ZhaoHuan"
+    },
+    "5929": {
+      "id": 5929,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa3_Fight_PVP_Win.G6_Suits36_HuoWa3_Fight_PVP_Win"
+    },
+    "5930": {
+      "id": 5930,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa3_Relax_1.G6_Suits36_HuoWa3_Relax_1"
+    },
+    "5931": {
+      "id": 5931,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa3_1_N_ZhaoHuan.G6_Suits36_HuoWa3_1_N_ZhaoHuan"
+    },
+    "5932": {
+      "id": 5932,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa3_Fight_PVP_Win.G6_Suits36_HuoWa3_Fight_PVP_Win"
+    },
+    "5933": {
+      "id": 5933,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou2_Relax_1.G6_Suits37_DuJiaoShou2_Relax_1"
+    },
+    "5934": {
+      "id": 5934,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou2_1_N_ZhaoHuan.G6_Suits37_DuJiaoShou2_1_N_ZhaoHuan"
+    },
+    "5935": {
+      "id": 5935,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou2_Fight_PVP_Win.G6_Suits37_DuJiaoShou2_Fight_PVP_Win"
+    },
+    "5936": {
+      "id": 5936,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou2_Relax_1.G6_Suits37_DuJiaoShou2_Relax_1"
+    },
+    "5937": {
+      "id": 5937,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou2_1_N_ZhaoHuan.G6_Suits37_DuJiaoShou2_1_N_ZhaoHuan"
+    },
+    "5938": {
+      "id": 5938,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou2_Fight_PVP_Win.G6_Suits37_DuJiaoShou2_Fight_PVP_Win"
+    },
+    "5939": {
+      "id": 5939,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits31_LvcaoJL2_1_N_ZhaoHuan.G6_Suits31_LvcaoJL2_1_N_ZhaoHuan"
+    },
+    "5940": {
+      "id": 5940,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits31_LvcaoJL2_1_N_ZhaoHuan.G6_Suits31_LvcaoJL2_1_N_ZhaoHuan"
+    },
+    "5941": {
+      "id": 5941,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits31_LvcaoJL1_1_N_ZhaoHuan.G6_Suits31_LvcaoJL1_1_N_ZhaoHuan"
+    },
+    "5942": {
+      "id": 5942,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits31_LvcaoJL1_1_N_ZhaoHuan.G6_Suits31_LvcaoJL1_1_N_ZhaoHuan"
+    },
+    "5943": {
+      "id": 5943,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits33_XiaoYu3_1_N_ZhaoHuan.G6_Suits33_XiaoYu3_1_N_ZhaoHuan"
+    },
+    "5944": {
+      "id": 5944,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits33_XiaoYu3_1_N_ZhaoHuan.G6_Suits33_XiaoYu3_1_N_ZhaoHuan"
+    },
+    "5945": {
+      "id": 5945,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits33_XiaoYu1_1_N_ZhaoHuan.G6_Suits33_XiaoYu1_1_N_ZhaoHuan"
+    },
+    "5946": {
+      "id": 5946,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits33_XiaoYu1_1_N_ZhaoHuan.G6_Suits33_XiaoYu1_1_N_ZhaoHuan"
+    },
+    "5947": {
+      "id": 5947,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits33_XiaoYu2_1_N_ZhaoHuan.G6_Suits33_XiaoYu2_1_N_ZhaoHuan"
+    },
+    "5948": {
+      "id": 5948,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits33_XiaoYu2_1_N_ZhaoHuan.G6_Suits33_XiaoYu2_1_N_ZhaoHuan"
+    },
+    "5949": {
+      "id": 5949,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits34_LvYiNiao3_1_N_ZhaoHuan.G6_Suits34_LvYiNiao3_1_N_ZhaoHuan"
+    },
+    "5950": {
+      "id": 5950,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits34_LvYiNiao3_1_N_ZhaoHuan.G6_Suits34_LvYiNiao3_1_N_ZhaoHuan"
+    },
+    "5951": {
+      "id": 5951,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits34_LvYiNiao1_1_N_ZhaoHuan.G6_Suits34_LvYiNiao1_1_N_ZhaoHuan"
+    },
+    "5952": {
+      "id": 5952,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits34_LvYiNiao1_1_N_ZhaoHuan.G6_Suits34_LvYiNiao1_1_N_ZhaoHuan"
+    },
+    "5953": {
+      "id": 5953,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits34_LvYiNiao2_1_N_ZhaoHuan.G6_Suits34_LvYiNiao2_1_N_ZhaoHuan"
+    },
+    "5954": {
+      "id": 5954,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits34_LvYiNiao2_1_N_ZhaoHuan.G6_Suits34_LvYiNiao2_1_N_ZhaoHuan"
+    },
+    "5955": {
+      "id": 5955,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao3_1_N_ZhaoHuan.G6_Suits32_QiLiCao3_1_N_ZhaoHuan"
+    },
+    "5956": {
+      "id": 5956,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao2_1_N_ZhaoHuan.G6_Suits32_QiLiCao2_1_N_ZhaoHuan"
+    },
+    "5957": {
+      "id": 5957,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao1_1_N_ZhaoHuan.G6_Suits32_QiLiCao1_1_N_ZhaoHuan"
+    },
+    "5958": {
+      "id": 5958,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao3_1_N_ZhaoHuan.G6_Suits32_QiLiCao3_1_N_ZhaoHuan"
+    },
+    "5959": {
+      "id": 5959,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao3_1_N_ZhaoHuan.G6_Suits32_QiLiCao3_1_N_ZhaoHuan"
+    },
+    "5960": {
+      "id": 5960,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao2_1_N_ZhaoHuan.G6_Suits32_QiLiCao2_1_N_ZhaoHuan"
+    },
+    "5961": {
+      "id": 5961,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao1_1_N_ZhaoHuan.G6_Suits32_QiLiCao1_1_N_ZhaoHuan"
+    },
+    "5962": {
+      "id": 5962,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits32_QiLiCao3_1_N_ZhaoHuan.G6_Suits32_QiLiCao3_1_N_ZhaoHuan"
+    },
+    "5963": {
+      "id": 5963,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits19_XingGuang1_1_N_ZhaoHuan.G6_Suits19_XingGuang1_1_N_ZhaoHuan"
+    },
+    "5964": {
+      "id": 5964,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe1_1_N_ZhaoHuan.G6_Suits20_WaTe1_1_N_ZhaoHuan"
+    },
+    "5965": {
+      "id": 5965,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits20_WaTe2_1_N_ZhaoHuan.G6_Suits20_WaTe2_1_N_ZhaoHuan"
+    },
+    "5966": {
+      "id": 5966,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu1_1_N_ZhaoHuan.G6_Suits21_ShiJiu1_1_N_ZhaoHuan"
+    },
+    "5967": {
+      "id": 5967,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits21_ShiJiu2_1_N_ZhaoHuan.G6_Suits21_ShiJiu2_1_N_ZhaoHuan"
+    },
+    "5968": {
+      "id": 5968,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan1_1_N_ZhaoHuan.G6_Suits18_YinSuQuan1_1_N_ZhaoHuan"
+    },
+    "5969": {
+      "id": 5969,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_1_N_ZhaoHuan.G6_Suits18_YinSuQuan2_1_N_ZhaoHuan"
+    },
+    "5970": {
+      "id": 5970,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits18_YinSuQuan2_Fight_PVP_Win.G6_Suits18_YinSuQuan2_Fight_PVP_Win"
+    },
+    "5971": {
+      "id": 5971,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao1_1_N_ZhaoHuan.G6_Suits22_LanNiao1_1_N_ZhaoHuan"
+    },
+    "5972": {
+      "id": 5972,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao2_1_N_ZhaoHuan.G6_Suits22_LanNiao2_1_N_ZhaoHuan"
+    },
+    "5973": {
+      "id": 5973,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_1_N_ZhaoHuan.G6_Suits22_LanNiao3_1_N_ZhaoHuan"
+    },
+    "5974": {
+      "id": 5974,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits22_LanNiao3_Fight_PVP_Win.G6_Suits22_LanNiao3_Fight_PVP_Win"
+    },
+    "5975": {
+      "id": 5975,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits23_XiaoLuo1_1_N_ZhaoHuan.G6_Suits23_XiaoLuo1_1_N_ZhaoHuan"
+    },
+    "5976": {
+      "id": 5976,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE1_1_N_ZhaoHuan.G6_Suits16_HuaGuiE1_1_N_ZhaoHuan"
+    },
+    "5977": {
+      "id": 5977,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits16_HuaGuiE2_1_N_ZhaoHuan.G6_Suits16_HuaGuiE2_1_N_ZhaoHuan"
+    },
+    "5978": {
+      "id": 5978,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng1_1_N_ZhaoHuan.G6_Suits24_MiFeng1_1_N_ZhaoHuan"
+    },
+    "5979": {
+      "id": 5979,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng2_1_N_ZhaoHuan.G6_Suits24_MiFeng2_1_N_ZhaoHuan"
+    },
+    "5980": {
+      "id": 5980,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_1_N_ZhaoHuan.G6_Suits24_MiFeng3_1_N_ZhaoHuan"
+    },
+    "5981": {
+      "id": 5981,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits24_MiFeng3_Fight_PVP_Win.G6_Suits24_MiFeng3_Fight_PVP_Win"
+    },
+    "5982": {
+      "id": 5982,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo1_1_N_ZhaoHuan.G6_Suits25_HaiLuo1_1_N_ZhaoHuan"
+    },
+    "5983": {
+      "id": 5983,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits25_HaiLuo2_1_N_ZhaoHuan.G6_Suits25_HaiLuo2_1_N_ZhaoHuan"
+    },
+    "5984": {
+      "id": 5984,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong1_1_N_ZhaoHuan.G6_Suits35_CaoChong1_1_N_ZhaoHuan"
+    },
+    "5985": {
+      "id": 5985,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits35_CaoChong2_1_N_ZhaoHuan.G6_Suits35_CaoChong2_1_N_ZhaoHuan"
+    },
+    "5986": {
+      "id": 5986,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa2_1_N_ZhaoHuan.G6_Suits36_HuoWa2_1_N_ZhaoHuan"
+    },
+    "5987": {
+      "id": 5987,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits36_HuoWa1_1_N_ZhaoHuan.G6_Suits36_HuoWa1_1_N_ZhaoHuan"
+    },
+    "5988": {
+      "id": 5988,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits41_MengYou2_1_N_ZhaoHuan.G6_Suits41_MengYou2_1_N_ZhaoHuan"
+    },
+    "5989": {
+      "id": 5989,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits41_MengYou1_1_N_ZhaoHuan.G6_Suits41_MengYou1_1_N_ZhaoHuan"
+    },
+    "5990": {
+      "id": 5990,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits42_MieMie3_1_N_ZhaoHuan.G6_Suits42_MieMie3_1_N_ZhaoHuan"
+    },
+    "5991": {
+      "id": 5991,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits42_MieMie1_1_N_ZhaoHuan.G6_Suits42_MieMie1_1_N_ZhaoHuan"
+    },
+    "5992": {
+      "id": 5992,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits42_MieMie2_1_N_ZhaoHuan.G6_Suits42_MieMie2_1_N_ZhaoHuan"
+    },
+    "5993": {
+      "id": 5993,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao3_1_N_ZhaoHuan.G6_Suits43_DouMao3_1_N_ZhaoHuan"
+    },
+    "5994": {
+      "id": 5994,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao1_1_N_ZhaoHuan.G6_Suits43_DouMao1_1_N_ZhaoHuan"
+    },
+    "5995": {
+      "id": 5995,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao2_1_N_ZhaoHuan.G6_Suits43_DouMao2_1_N_ZhaoHuan"
+    },
+    "5996": {
+      "id": 5996,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao3_1_N_ZhaoHuan.G6_Suits43_DouMao3_1_N_ZhaoHuan"
+    },
+    "5997": {
+      "id": 5997,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits44_XiaoYou3_1_N_ZhaoHuan.G6_Suits44_XiaoYou3_1_N_ZhaoHuan"
+    },
+    "5998": {
+      "id": 5998,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits44_XiaoYou1_1_N_ZhaoHuan.G6_Suits44_XiaoYou1_1_N_ZhaoHuan"
+    },
+    "5999": {
+      "id": 5999,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits44_XiaoYou2_1_N_ZhaoHuan.G6_Suits44_XiaoYou2_1_N_ZhaoHuan"
+    },
+    "6000": {
+      "id": 6000,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits41_MengYou2_1_N_ZhaoHuan.G6_Suits41_MengYou2_1_N_ZhaoHuan"
+    },
+    "6001": {
+      "id": 6001,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits41_MengYou1_1_N_ZhaoHuan.G6_Suits41_MengYou1_1_N_ZhaoHuan"
+    },
+    "6002": {
+      "id": 6002,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits42_MieMie3_1_N_ZhaoHuan.G6_Suits42_MieMie3_1_N_ZhaoHuan"
+    },
+    "6003": {
+      "id": 6003,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits42_MieMie1_1_N_ZhaoHuan.G6_Suits42_MieMie1_1_N_ZhaoHuan"
+    },
+    "6004": {
+      "id": 6004,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits42_MieMie2_1_N_ZhaoHuan.G6_Suits42_MieMie2_1_N_ZhaoHuan"
+    },
+    "6005": {
+      "id": 6005,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao3_1_N_ZhaoHuan.G6_Suits43_DouMao3_1_N_ZhaoHuan"
+    },
+    "6006": {
+      "id": 6006,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao1_1_N_ZhaoHuan.G6_Suits43_DouMao1_1_N_ZhaoHuan"
+    },
+    "6007": {
+      "id": 6007,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao2_1_N_ZhaoHuan.G6_Suits43_DouMao2_1_N_ZhaoHuan"
+    },
+    "6008": {
+      "id": 6008,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits43_DouMao3_1_N_ZhaoHuan.G6_Suits43_DouMao3_1_N_ZhaoHuan"
+    },
+    "6009": {
+      "id": 6009,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits44_XiaoYou3_1_N_ZhaoHuan.G6_Suits44_XiaoYou3_1_N_ZhaoHuan"
+    },
+    "6010": {
+      "id": 6010,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits44_XiaoYou1_1_N_ZhaoHuan.G6_Suits44_XiaoYou1_1_N_ZhaoHuan"
+    },
+    "6011": {
+      "id": 6011,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits44_XiaoYou2_1_N_ZhaoHuan.G6_Suits44_XiaoYou2_1_N_ZhaoHuan"
+    },
+    "6012": {
+      "id": 6012,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits37_DuJiaoShou1_1_N_ZhaoHuan.G6_Suits37_DuJiaoShou1_1_N_ZhaoHuan"
+    },
+    "6013": {
+      "id": 6013,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu3_Relax_1.G6_Suits52_JueShiLu3_Relax_1"
+    },
+    "6014": {
+      "id": 6014,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu3_1_N_ZhaoHuan.G6_Suits52_JueShiLu3_1_N_ZhaoHuan"
+    },
+    "6015": {
+      "id": 6015,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu3_Fight_PVP_Win.G6_Suits52_JueShiLu3_Fight_PVP_Win"
+    },
+    "6016": {
+      "id": 6016,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu1_1_N_ZhaoHuan.G6_Suits52_JueShiLu1_1_N_ZhaoHuan"
+    },
+    "6017": {
+      "id": 6017,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu2_1_N_ZhaoHuan.G6_Suits52_JueShiLu2_1_N_ZhaoHuan"
+    },
+    "6018": {
+      "id": 6018,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu3_1_N_ZhaoHuan.G6_Suits52_JueShiLu3_1_N_ZhaoHuan"
+    },
+    "6019": {
+      "id": 6019,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits52_JueShiLu3_Fight_PVP_Win.G6_Suits52_JueShiLu3_Fight_PVP_Win"
+    },
+    "6020": {
+      "id": 6020,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits53_BuDing2_Relax_1.G6_Suits53_BuDing2_Relax_1"
+    },
+    "6021": {
+      "id": 6021,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits53_BuDing2_1_N_ZhaoHuan.G6_Suits53_BuDing2_1_N_ZhaoHuan"
+    },
+    "6022": {
+      "id": 6022,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits53_BuDing2_Fight_PVP_Win.G6_Suits53_BuDing2_Fight_PVP_Win"
+    },
+    "6023": {
+      "id": 6023,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits53_BuDing1_1_N_ZhaoHuan.G6_Suits53_BuDing1_1_N_ZhaoHuan"
+    },
+    "6024": {
+      "id": 6024,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao3_Relax_1.G6_Suits54_BengBengCao3_Relax_1"
+    },
+    "6025": {
+      "id": 6025,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao3_1_N_ZhaoHuan.G6_Suits54_BengBengCao3_1_N_ZhaoHuan"
+    },
+    "6026": {
+      "id": 6026,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao3_Fight_PVP_Win.G6_Suits54_BengBengCao3_Fight_PVP_Win"
+    },
+    "6027": {
+      "id": 6027,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao2_1_N_ZhaoHuan.G6_Suits54_BengBengCao2_1_N_ZhaoHuan"
+    },
+    "6028": {
+      "id": 6028,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao1_1_N_ZhaoHuan.G6_Suits54_BengBengCao1_1_N_ZhaoHuan"
+    },
+    "6029": {
+      "id": 6029,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao3_1_N_ZhaoHuan.G6_Suits54_BengBengCao3_1_N_ZhaoHuan"
+    },
+    "6030": {
+      "id": 6030,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits54_BengBengCao3_Fight_PVP_Win.G6_Suits54_BengBengCao3_Fight_PVP_Win"
+    },
+    "6031": {
+      "id": 6031,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits38_GuoJing3_Relax_1.G6_Suits38_GuoJing3_Relax_1"
+    },
+    "6032": {
+      "id": 6032,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits38_GuoJing3_1_N_ZhaoHuan.G6_Suits38_GuoJing3_1_N_ZhaoHuan"
+    },
+    "6033": {
+      "id": 6033,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits38_GuoJing3_Fight_PVP_Win.G6_Suits38_GuoJing3_Fight_PVP_Win"
+    },
+    "6034": {
+      "id": 6034,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits38_GuoJing2_1_N_ZhaoHuan.G6_Suits38_GuoJing2_1_N_ZhaoHuan"
+    },
+    "6035": {
+      "id": 6035,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits39_ShuiMu3_Relax_1.G6_Suits39_ShuiMu3_Relax_1"
+    },
+    "6036": {
+      "id": 6036,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits39_ShuiMu3_1_N_ZhaoHuan.G6_Suits39_ShuiMu3_1_N_ZhaoHuan"
+    },
+    "6037": {
+      "id": 6037,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits39_ShuiMu3_Fight_PVP_Win.G6_Suits39_ShuiMu3_Fight_PVP_Win"
+    },
+    "6038": {
+      "id": 6038,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits39_ShuiMu2_1_N_ZhaoHuan.G6_Suits39_ShuiMu2_1_N_ZhaoHuan"
+    },
+    "6039": {
+      "id": 6039,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits39_ShuiMu3_1_N_ZhaoHuan.G6_Suits39_ShuiMu3_1_N_ZhaoHuan"
+    },
+    "6040": {
+      "id": 6040,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits39_ShuiMu3_Fight_PVP_Win.G6_Suits39_ShuiMu3_Fight_PVP_Win"
+    },
+    "6041": {
+      "id": 6041,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits40_GuGuDing3_Relax_1.G6_Suits40_GuGuDing3_Relax_1"
+    },
+    "6042": {
+      "id": 6042,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits40_GuGuDing3_1_N_ZhaoHuan.G6_Suits40_GuGuDing3_1_N_ZhaoHuan"
+    },
+    "6043": {
+      "id": 6043,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits40_GuGuDing3_Fight_PVP_Win.G6_Suits40_GuGuDing3_Fight_PVP_Win"
+    },
+    "6044": {
+      "id": 6044,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits40_GuGuDing1_1_N_ZhaoHuan.G6_Suits40_GuGuDing1_1_N_ZhaoHuan"
+    },
+    "6045": {
+      "id": 6045,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits40_GuGuDing2_1_N_ZhaoHuan.G6_Suits40_GuGuDing2_1_N_ZhaoHuan"
+    },
+    "6046": {
+      "id": 6046,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits45_HaoErYu2_1_N_ZhaoHuan.G6_Suits45_HaoErYu2_1_N_ZhaoHuan"
+    },
+    "6047": {
+      "id": 6047,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits45_HaoErYu1_1_N_ZhaoHuan.G6_Suits45_HaoErYu1_1_N_ZhaoHuan"
+    },
+    "6048": {
+      "id": 6048,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits46_SongShu3_1_N_ZhaoHuan.G6_Suits46_SongShu3_1_N_ZhaoHuan"
+    },
+    "6049": {
+      "id": 6049,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits46_SongShu2_1_N_ZhaoHuan.G6_Suits46_SongShu2_1_N_ZhaoHuan"
+    },
+    "6050": {
+      "id": 6050,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits46_SongShu1_1_N_ZhaoHuan.G6_Suits46_SongShu1_1_N_ZhaoHuan"
+    },
+    "6051": {
+      "id": 6051,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits47_DiuDiu3_1_N_ZhaoHuan.G6_Suits47_DiuDiu3_1_N_ZhaoHuan"
+    },
+    "6052": {
+      "id": 6052,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits47_DiuDiu2_1_N_ZhaoHuan.G6_Suits47_DiuDiu2_1_N_ZhaoHuan"
+    },
+    "6053": {
+      "id": 6053,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits47_DiuDiu1_1_N_ZhaoHuan.G6_Suits47_DiuDiu1_1_N_ZhaoHuan"
+    },
+    "6054": {
+      "id": 6054,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/G6_Suits48_LiLa1_1_N_ZhaoHuan.G6_Suits48_LiLa1_1_N_ZhaoHuan"
+    },
+    "6055": {
+      "id": 6055,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/HuiZhang/G6_Bond305055_DiMo1_1_N_ZhaoHuan.G6_Bond305055_DiMo1_1_N_ZhaoHuan"
+    },
+    "6056": {
+      "id": 6056,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/HuiZhang/G6_Bond305055_DiMo2_1_N_ZhaoHuan.G6_Bond305055_DiMo2_1_N_ZhaoHuan"
+    },
+    "6057": {
+      "id": 6057,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits65_LingGu3_Relax_1.G6_Suits65_LingGu3_Relax_1"
+    },
+    "6058": {
+      "id": 6058,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits65_LingGu1_1_N_ZhaoHuan.G6_Suits65_LingGu1_1_N_ZhaoHuan"
+    },
+    "6059": {
+      "id": 6059,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits65_LingGu2_1_N_ZhaoHuan.G6_Suits65_LingGu2_1_N_ZhaoHuan"
+    },
+    "6060": {
+      "id": 6060,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits65_LingGu3_1_N_ZhaoHuan.G6_Suits65_LingGu3_1_N_ZhaoHuan"
+    },
+    "6061": {
+      "id": 6061,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits65_LingGu3_Fight_PVP_Win.G6_Suits65_LingGu3_Fight_PVP_Win"
+    },
+    "6062": {
+      "id": 6062,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits66_KuKuGu3_Relax_1.G6_Suits66_KuKuGu3_Relax_1"
+    },
+    "6063": {
+      "id": 6063,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits66_KuKuGu3_1_N_ZhaoHuan.G6_Suits66_KuKuGu3_1_N_ZhaoHuan"
+    },
+    "6064": {
+      "id": 6064,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits66_KuKuGu3_Fight_PVP_Win.G6_Suits66_KuKuGu3_Fight_PVP_Win"
+    },
+    "6065": {
+      "id": 6065,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits66_KuKuGu1_1_N_ZhaoHuan.G6_Suits66_KuKuGu1_1_N_ZhaoHuan"
+    },
+    "6066": {
+      "id": 6066,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits66_KuKuGu2_1_N_ZhaoHuan.G6_Suits66_KuKuGu2_1_N_ZhaoHuan"
+    },
+    "6067": {
+      "id": 6067,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits67_BenBoShu2_Relax_1.G6_Suits67_BenBoShu2_Relax_1"
+    },
+    "6068": {
+      "id": 6068,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits67_BenBoShu2_1_N_ZhaoHuan.G6_Suits67_BenBoShu2_1_N_ZhaoHuan"
+    },
+    "6069": {
+      "id": 6069,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits67_BenBoShu2_Fight_PVP_Win.G6_Suits67_BenBoShu2_Fight_PVP_Win"
+    },
+    "6070": {
+      "id": 6070,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/MengJingLiuLangZhe/G6_Suits67_BenBoShu1_1_N_ZhaoHuan.G6_Suits67_BenBoShu1_1_N_ZhaoHuan"
+    },
+    "6071": {
+      "id": 6071,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits55_GuGuMao2_1_N_ZhaoHuan.G6_Suits55_GuGuMao2_1_N_ZhaoHuan"
+    },
+    "6072": {
+      "id": 6072,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits55_GuGuMao1_1_N_ZhaoHuan.G6_Suits55_GuGuMao1_1_N_ZhaoHuan"
+    },
+    "6073": {
+      "id": 6073,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits56_GuXiang3_1_N_ZhaoHuan.G6_Suits56_GuXiang3_1_N_ZhaoHuan"
+    },
+    "6074": {
+      "id": 6074,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits56_GuXiang1_1_N_ZhaoHuan.G6_Suits56_GuXiang1_1_N_ZhaoHuan"
+    },
+    "6075": {
+      "id": 6075,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits57_YanHuaTuan2_1_N_ZhaoHuan.G6_Suits57_YanHuaTuan2_1_N_ZhaoHuan"
+    },
+    "6076": {
+      "id": 6076,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits57_YanHuaTuan1_1_N_ZhaoHuan.G6_Suits57_YanHuaTuan1_1_N_ZhaoHuan"
+    },
+    "6077": {
+      "id": 6077,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits58_XiaoChou3_1_N_ZhaoHuan.G6_Suits58_XiaoChou3_1_N_ZhaoHuan"
+    },
+    "6078": {
+      "id": 6078,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits58_XiaoChou2_1_N_ZhaoHuan.G6_Suits58_XiaoChou2_1_N_ZhaoHuan"
+    },
+    "6079": {
+      "id": 6079,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/WangXiangMaXiTuan/G6_Suits58_XiaoChou1_1_N_ZhaoHuan.G6_Suits58_XiaoChou1_1_N_ZhaoHuan"
+    },
+    "6080": {
+      "id": 6080,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits75_HaiBao2_Relax_1.G6_Suits75_HaiBao2_Relax_1"
+    },
+    "6081": {
+      "id": 6081,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits75_HaiBao2_1_N_ZhaoHuan.G6_Suits75_HaiBao2_1_N_ZhaoHuan"
+    },
+    "6082": {
+      "id": 6082,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits75_HaiBao2_Fight_PVP_Win.G6_Suits75_HaiBao2_Fight_PVP_Win"
+    },
+    "6083": {
+      "id": 6083,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits75_HaiBao1_1_N_ZhaoHuan.G6_Suits75_HaiBao1_1_N_ZhaoHuan"
+    },
+    "6084": {
+      "id": 6084,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong3_Relax_1.G6_Suits76_HaiKuiChong3_Relax_1"
+    },
+    "6085": {
+      "id": 6085,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong3_1_N_ZhaoHuan.G6_Suits76_HaiKuiChong3_1_N_ZhaoHuan"
+    },
+    "6086": {
+      "id": 6086,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong3_Fight_PVP_Win.G6_Suits76_HaiKuiChong3_Fight_PVP_Win"
+    },
+    "6087": {
+      "id": 6087,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong1_1_N_ZhaoHuan.G6_Suits76_HaiKuiChong1_1_N_ZhaoHuan"
+    },
+    "6088": {
+      "id": 6088,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong2_1_N_ZhaoHuan.G6_Suits76_HaiKuiChong2_1_N_ZhaoHuan"
+    },
+    "6089": {
+      "id": 6089,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong3_1_N_ZhaoHuan.G6_Suits76_HaiKuiChong3_1_N_ZhaoHuan"
+    },
+    "6090": {
+      "id": 6090,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits76_HaiKuiChong3_Fight_PVP_Win.G6_Suits76_HaiKuiChong3_Fight_PVP_Win"
+    },
+    "6091": {
+      "id": 6091,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits77_XiaoXiangGuai2_Relax_1.G6_Suits77_XiaoXiangGuai2_Relax_1"
+    },
+    "6092": {
+      "id": 6092,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits77_XiaoXiangGuai2_1_N_ZhaoHuan.G6_Suits77_XiaoXiangGuai2_1_N_ZhaoHuan"
+    },
+    "6093": {
+      "id": 6093,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits77_XiaoXiangGuai2_Fight_PVP_Win.G6_Suits77_XiaoXiangGuai2_Fight_PVP_Win"
+    },
+    "6094": {
+      "id": 6094,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SYH/ChenChuanXunBao/G6_Suits77_XiaoXiangGuai1_1_N_ZhaoHuan.G6_Suits77_XiaoXiangGuai1_1_N_ZhaoHuan"
+    },
+    "100001": {
+      "id": 100001,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Happy.G6_RP_Happy_C"
+    },
+    "100002": {
+      "id": 100002,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Sad.G6_RP_Sad_C"
+    },
+    "100003": {
+      "id": 100003,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Anger.G6_RP_Anger_C"
+    },
+    "100004": {
+      "id": 100004,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Confus.G6_RP_Confus_C"
+    },
+    "100005": {
+      "id": 100005,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Power.G6_RP_Power_C"
+    },
+    "100006": {
+      "id": 100006,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Threaten.G6_RP_Threaten_C"
+    },
+    "100007": {
+      "id": 100007,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Help.G6_RP_Help_C"
+    },
+    "100008": {
+      "id": 100008,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Show.G6_RP_Show_C"
+    },
+    "100009": {
+      "id": 100009,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Sick.G6_RP_Sick_C"
+    },
+    "100010": {
+      "id": 100010,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Bow.G6_RP_Bow_C"
+    },
+    "100011": {
+      "id": 100011,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Pangyajiji.G6_RP01_Call_Pangyajiji_C"
+    },
+    "100012": {
+      "id": 100012,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Yishizhixing.G6_RP01_Call_Yishizhixing_C"
+    },
+    "100013": {
+      "id": 100013,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Shenlanjing.G6_RP01_Call_Shenlanjing_C"
+    },
+    "100014": {
+      "id": 100014,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Huhuzhu.G6_RP01_Call_Huhuzhu_C"
+    },
+    "100015": {
+      "id": 100015,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Dongyuque.G6_RP01_Call_Dongyuque_C"
+    },
+    "100016": {
+      "id": 100016,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Dingdingemo.G6_RP01_Call_Dingdingemo_C"
+    },
+    "100017": {
+      "id": 100017,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Yinsuquan.G6_RP01_Call_Yinsuquan_C"
+    },
+    "100018": {
+      "id": 100018,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Dianmiemie.G6_RP01_Call_Dianmiemie_C"
+    },
+    "100019": {
+      "id": 100019,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Hulamao.G6_RP01_Call_Hulamao_C"
+    },
+    "100020": {
+      "id": 100020,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP01_Call_Lvzhouxiang.G6_RP01_Call_Lvzhouxiang_C"
+    },
+    "100021": {
+      "id": 100021,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Flute_2.G6_Flute_2_C"
+    },
+    "100022": {
+      "id": 100022,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Happy.G6_RP_Happy_C"
+    },
+    "100023": {
+      "id": 100023,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Sad.G6_RP_Sad_C"
+    },
+    "100024": {
+      "id": 100024,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Anger.G6_RP_Anger_C"
+    },
+    "100025": {
+      "id": 100025,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Confus.G6_RP_Confus_C"
+    },
+    "100026": {
+      "id": 100026,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Power.G6_RP_Power_C"
+    },
+    "100027": {
+      "id": 100027,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Threaten.G6_RP_Threaten_C"
+    },
+    "100028": {
+      "id": 100028,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Help.G6_RP_Help_C"
+    },
+    "100029": {
+      "id": 100029,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Show.G6_RP_Show_C"
+    },
+    "100030": {
+      "id": 100030,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Sick.G6_RP_Sick_C"
+    },
+    "100031": {
+      "id": 100031,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Bow.G6_RP_Bow_C"
+    },
+    "100032": {
+      "id": 100032,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Pangyajiji.G6_RP02_Call_Pangyajiji_C"
+    },
+    "100033": {
+      "id": 100033,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Yishizhixing.G6_RP02_Call_Yishizhixing_C"
+    },
+    "100034": {
+      "id": 100034,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Shenlanjing.G6_RP02_Call_Shenlanjing_C"
+    },
+    "100035": {
+      "id": 100035,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Huhuzhu.G6_RP02_Call_Huhuzhu_C"
+    },
+    "100036": {
+      "id": 100036,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Dongyuque.G6_RP02_Call_Dongyuque_C"
+    },
+    "100037": {
+      "id": 100037,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Dingdingemo.G6_RP02_Call_Dingdingemo_C"
+    },
+    "100038": {
+      "id": 100038,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Yinsuquan.G6_RP02_Call_Yinsuquan_C"
+    },
+    "100039": {
+      "id": 100039,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Dianmiemie.G6_RP02_Call_Dianmiemie_C"
+    },
+    "100040": {
+      "id": 100040,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Hulamao.G6_RP02_Call_Hulamao_C"
+    },
+    "100041": {
+      "id": 100041,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP02_Call_Lvzhouxiang.G6_RP02_Call_Lvzhouxiang_C"
+    },
+    "100042": {
+      "id": 100042,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Flute_2.G6_Flute_2_C"
+    },
+    "100043": {
+      "id": 100043,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Think.G6_RP_Think_C"
+    },
+    "100044": {
+      "id": 100044,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Command.G6_RP_Command_C"
+    },
+    "100045": {
+      "id": 100045,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Shock.G6_RP_Shock_C"
+    },
+    "100046": {
+      "id": 100046,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_NoNo.G6_RP_NoNo_C"
+    },
+    "100047": {
+      "id": 100047,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_BiuBiu.G6_RP_BiuBiu_C"
+    },
+    "100048": {
+      "id": 100048,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Boast.G6_RP_Boast_C"
+    },
+    "100049": {
+      "id": 100049,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Pray.G6_RP_Pray_C"
+    },
+    "100050": {
+      "id": 100050,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Think.G6_RP_Think_C"
+    },
+    "100051": {
+      "id": 100051,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Command.G6_RP_Command_C"
+    },
+    "100052": {
+      "id": 100052,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Shock.G6_RP_Shock_C"
+    },
+    "100053": {
+      "id": 100053,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_NoNo.G6_RP_NoNo_C"
+    },
+    "100054": {
+      "id": 100054,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_BiuBiu.G6_RP_BiuBiu_C"
+    },
+    "100055": {
+      "id": 100055,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Boast.G6_RP_Boast_C"
+    },
+    "100056": {
+      "id": 100056,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Pray.G6_RP_Pray_C"
+    },
+    "100057": {
+      "id": 100057,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_DuiHuanShu_LaiZheLi.G6_DuiHuanShu_LaiZheLi_C"
+    },
+    "100058": {
+      "id": 100058,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_DuiHuanShu_ZuoSiYouXiang.G6_DuiHuanShu_ZuoSiYouXiang_C"
+    },
+    "100059": {
+      "id": 100059,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_DuiHuanShu_HuangRanDaWu.G6_DuiHuanShu_HuangRanDaWu_C"
+    },
+    "100060": {
+      "id": 100060,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_DuiHuanShu_ZaiJian.G6_DuiHuanShu_ZaiJian_C"
+    },
+    "100061": {
+      "id": 100061,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Seek.G6_RP_Seek_C"
+    },
+    "100062": {
+      "id": 100062,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Shh.G6_RP_Shh_C"
+    },
+    "100063": {
+      "id": 100063,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_No.G6_RP_No_C"
+    },
+    "100064": {
+      "id": 100064,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Clap.G6_RP_Clap_C"
+    },
+    "100065": {
+      "id": 100065,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Expression/G6_RP_Thanks.G6_RP_Thanks_C"
+    },
+    "200001": {
+      "id": 200001,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_low_alert.World_touch_low_alert'"
+    },
+    "200002": {
+      "id": 200002,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_low_happy.World_touch_low_happy'"
+    },
+    "200003": {
+      "id": 200003,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_low_relax.World_touch_low_relax'"
+    },
+    "200004": {
+      "id": 200004,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_low_show.World_touch_low_show'"
+    },
+    "200005": {
+      "id": 200005,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_normal_alert.World_touch_normal_alert'"
+    },
+    "200006": {
+      "id": 200006,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_normal_happy.World_touch_normal_happy'"
+    },
+    "200007": {
+      "id": 200007,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_normal_relax.World_touch_normal_relax'"
+    },
+    "200008": {
+      "id": 200008,
+      "res_id": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/touch/World_touch_normal_show.World_touch_normal_show'"
+    },
+    "780001": {
+      "id": 780001
+    },
+    "780101": {
+      "id": 780101
+    },
+    "780102": {
+      "id": 780102
+    },
+    "790001": {
+      "id": 790001
+    },
+    "790002": {
+      "id": 790002
+    },
+    "791001": {
+      "id": 791001,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/PVE/PVE_Fight_HuanCong_Enemy"
+    },
+    "791101": {
+      "id": 791101
+    },
+    "791102": {
+      "id": 791102
+    },
+    "791201": {
+      "id": 791201,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Buzhuo/BuZhuo"
+    },
+    "791202": {
+      "id": 791202
+    },
+    "791203": {
+      "id": 791203
+    },
+    "791204": {
+      "id": 791204
+    },
+    "791205": {
+      "id": 791205,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Buzhuo/BuZhuo"
+    },
+    "791206": {
+      "id": 791206
+    },
+    "791207": {
+      "id": 791207
+    },
+    "791208": {
+      "id": 791208
+    },
+    "791211": {
+      "id": 791211,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/huishou/CallBack_HuanChong_Lose_Player"
+    },
+    "791212": {
+      "id": 791212,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/huishou/CallBack_HuanChong_Lose_Enemy"
+    },
+    "791213": {
+      "id": 791213
+    },
+    "791214": {
+      "id": 791214,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/huishou/CallBack_HuanChong"
+    },
+    "791215": {
+      "id": 791215,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/huishou/CallBack_Monster_Lose"
+    },
+    "791216": {
+      "id": 791216
+    },
+    "791217": {
+      "id": 791217
+    },
+    "791218": {
+      "id": 791218
+    },
+    "791219": {
+      "id": 791219
+    },
+    "791220": {
+      "id": 791220
+    },
+    "791221": {
+      "id": 791221
+    },
+    "791222": {
+      "id": 791222
+    },
+    "791223": {
+      "id": 791223
+    },
+    "791224": {
+      "id": 791224
+    },
+    "791225": {
+      "id": 791225
+    },
+    "791226": {
+      "id": 791226
+    },
+    "791227": {
+      "id": 791227
+    },
+    "791228": {
+      "id": 791228
+    },
+    "791229": {
+      "id": 791229
+    },
+    "791230": {
+      "id": 791230
+    },
+    "791231": {
+      "id": 791231
+    },
+    "791232": {
+      "id": 791232
+    },
+    "791233": {
+      "id": 791233,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Chuzhandou/Player_Win"
+    },
+    "791234": {
+      "id": 791234
+    },
+    "791235": {
+      "id": 791235
+    },
+    "791236": {
+      "id": 791236
+    },
+    "791237": {
+      "id": 791237
+    },
+    "791238": {
+      "id": 791238
+    },
+    "791239": {
+      "id": 791239
+    },
+    "791240": {
+      "id": 791240
+    },
+    "791241": {
+      "id": 791241
+    },
+    "791242": {
+      "id": 791242
+    },
+    "791243": {
+      "id": 791243
+    },
+    "791244": {
+      "id": 791244
+    },
+    "791245": {
+      "id": 791245
+    },
+    "791246": {
+      "id": 791246
+    },
+    "791247": {
+      "id": 791247
+    },
+    "791333": {
+      "id": 791333
+    },
+    "791334": {
+      "id": 791334,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Chuzhandou/Player_Lose"
+    },
+    "791335": {
+      "id": 791335,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Bianshen/Player_Bianshen_001"
+    },
+    "791336": {
+      "id": 791336,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Bianshen/Player_Bianshen_NoEffect"
+    },
+    "791337": {
+      "id": 791337,
+      "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Wor_YH_212015_2"
+    },
+    "791338": {
+      "id": 791338,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/World_Idle_Relax_1.World_Idle_Relax_1"
+    },
+    "791339": {
+      "id": 791339,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/World_Idle_Relax_2.World_Idle_Relax_2"
+    },
+    "791340": {
+      "id": 791340,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/World_Idle_Relax_3.World_Idle_Relax_3"
+    },
+    "791341": {
+      "id": 791341,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/World_Idle_Relax_4.World_Idle_Relax_4"
+    },
+    "791342": {
+      "id": 791342,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/World_Idle_Relax_1.World_Idle_Relax_1"
+    },
+    "791343": {
+      "id": 791343,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/World_Idle_Relax_2.World_Idle_Relax_2"
+    },
+    "791344": {
+      "id": 791344,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/World_Idle_Relax_3.World_Idle_Relax_3"
+    },
+    "791345": {
+      "id": 791345,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/World_Idle_Relax_4.World_Idle_Relax_4"
+    },
+    "791346": {
+      "id": 791346,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/World_Idle_Long_1.World_Idle_Long_1"
+    },
+    "791347": {
+      "id": 791347,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/World_Idle_Long_2.World_Idle_Long_2"
+    },
+    "791348": {
+      "id": 791348,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/World_Idle_Long_1.World_Idle_Long_1"
+    },
+    "791349": {
+      "id": 791349,
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/World_Idle_Long_2.World_Idle_Long_2"
+    },
+    "800000": {
+      "id": 800000,
+      "linktype": "Home",
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/Duihuanshu/S1/Wanju_Shuangren_Sit.Wanju_Shuangren_Sit"
+    },
+    "800001": {
+      "id": 800001,
+      "linktype": "Home",
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/Duihuanshu/S1/Wanju_Shuangren_Sit.Wanju_Shuangren_Sit"
+    },
+    "800002": {
+      "id": 800002,
+      "linktype": "Home",
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/Duihuanshu/S1/Wanju_Pazhuozi.Wanju_Pazhuozi"
+    },
+    "800003": {
+      "id": 800003,
+      "linktype": "Home",
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/Duihuanshu/S1/Wanju_Pazhuozi.Wanju_Pazhuozi"
+    },
+    "800004": {
+      "id": 800004,
+      "linktype": "Home",
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/Duihuanshu/S1/Wanju_Chengxiaba.Wanju_Chengxiaba"
+    },
+    "800005": {
+      "id": 800005,
+      "linktype": "Home",
+      "res_id": "/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/Duihuanshu/S1/Wanju_Chengxiaba.Wanju_Chengxiaba"
+    }
+  }
+}

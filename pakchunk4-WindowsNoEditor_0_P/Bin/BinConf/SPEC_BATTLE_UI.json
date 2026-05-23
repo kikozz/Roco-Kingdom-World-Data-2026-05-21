@@ -1,0 +1,158 @@
+{
+  "Name": "SPEC_BATTLE_UI",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "tips",
+      "Type": "ELocalizedString",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "head_icon",
+      "Type": "EString",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "title",
+      "Type": "EString",
+      "Offset": 12,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "subtitle",
+      "Type": "EString",
+      "Offset": 16,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "bg",
+      "Type": "EString",
+      "Offset": 20,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "bg_icon",
+      "Type": "EString",
+      "Offset": 24,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "difficult_group",
+      "Type": "EStruct",
+      "Offset": 28,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 4,
+      "Struct": {
+        "Name": "SPEC_BATTLE_UI.difficult_group",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "condition",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+          },
+          {
+            "Name": "lock_tips",
+            "Type": "ELocalizedString",
+            "Offset": 4,
+            "Size": 4
+          },
+          {
+            "Name": "tab_name",
+            "Type": "EString",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "name",
+            "Type": "ELocalizedString",
+            "Offset": 12,
+            "Size": 4
+          },
+          {
+            "Name": "difficult_id",
+            "Type": "EUint32",
+            "Offset": 16,
+            "Size": 4
+          },
+          {
+            "Name": "recommend_world_level",
+            "Type": "EUint32",
+            "Offset": 20,
+            "Size": 4
+          },
+          {
+            "Name": "recommend",
+            "Type": "EInt32",
+            "Offset": 24,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          },
+          {
+            "Name": "battle_id",
+            "Type": "EUint32",
+            "Offset": 28,
+            "Size": 4
+          },
+          {
+            "Name": "battle_ids",
+            "Type": "EUint32",
+            "Offset": 32,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          },
+          {
+            "Name": "first_reward",
+            "Type": "EUint32",
+            "Offset": 36,
+            "Size": 4
+          },
+          {
+            "Name": "loop_reward",
+            "Type": "EUint32",
+            "Offset": 40,
+            "Size": 4
+          },
+          {
+            "Name": "loop_reward_max",
+            "Type": "EUint32",
+            "Offset": 44,
+            "Size": 4
+          },
+          {
+            "Name": "is_loop",
+            "Type": "EBool",
+            "Offset": 48,
+            "Size": 1
+          },
+          {
+            "Name": "des",
+            "Type": "EString",
+            "Offset": 49,
+            "Size": 4,
+            "CompressedSize": 4
+          }
+        ]
+      }
+    }
+  ]
+}

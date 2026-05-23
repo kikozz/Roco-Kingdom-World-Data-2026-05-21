@@ -1,0 +1,168 @@
+{
+  "RocoDataRows": {
+    "1001101": {
+      "id": 1001101,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji01",
+      "is_reward_pop": true
+    },
+    "1001102": {
+      "id": 1001102
+    },
+    "1001103": {
+      "id": 1001103
+    },
+    "1001201": {
+      "id": 1001201,
+      "lottery_item": 200300202,
+      "num_total_max": 3,
+      "num_daily_max": 1,
+      "base_drop_weight": 100,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji01",
+      "is_reward_pop": true
+    },
+    "1001202": {
+      "id": 1001202,
+      "lottery_item": 200300203,
+      "num_total_max": 10,
+      "num_daily_max": 1,
+      "base_drop_weight": 2970,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji02",
+      "is_reward_pop": true
+    },
+    "1001203": {
+      "id": 1001203,
+      "lottery_item": 200300204,
+      "num_total_max": 50,
+      "num_daily_max": 10,
+      "base_drop_weight": 4950,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji02",
+      "is_reward_pop": true
+    },
+    "1001204": {
+      "id": 1001204,
+      "lottery_item": 200300205,
+      "num_total_max": 900,
+      "num_daily_max": 900,
+      "base_drop_weight": 1980,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji02",
+      "is_reward_pop": true
+    },
+    "1001205": {
+      "id": 1001205
+    },
+    "1001206": {
+      "id": 1001206
+    },
+    "1001207": {
+      "id": 1001207
+    },
+    "1001301": {
+      "id": 1001301
+    },
+    "1001302": {
+      "id": 1001302
+    },
+    "1001303": {
+      "id": 1001303
+    },
+    "1001304": {
+      "id": 1001304
+    },
+    "1001305": {
+      "id": 1001305
+    },
+    "1002101": {
+      "id": 1002101,
+      "lottery_item": 200300016,
+      "num_total_max": 63,
+      "num_daily_max": 3,
+      "base_drop_weight": 100,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NiuDanJi_BenBoShu2",
+      "is_reward_pop": true
+    },
+    "1002102": {
+      "id": 1002102,
+      "lottery_item": 200300017,
+      "num_total_max": 21,
+      "num_daily_max": 1,
+      "event_group": [
+        {
+          "event": 6,
+          "add_drop_weight": 100
+        }
+      ],
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NiuDanJi_BenBoShu2",
+      "is_reward_pop": true
+    },
+    "1003101": {
+      "id": 1003101,
+      "lottery_item": 200300401,
+      "num_total_max": 1,
+      "num_daily_max": 1,
+      "base_drop_weight": 2375,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji01",
+      "is_reward_pop": true
+    },
+    "1003102": {
+      "id": 1003102,
+      "lottery_item": 200300402,
+      "num_total_max": 1,
+      "num_daily_max": 1,
+      "base_drop_weight": 2375,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji01",
+      "is_reward_pop": true
+    },
+    "1003103": {
+      "id": 1003103,
+      "lottery_item": 200300403,
+      "num_total_max": 1,
+      "num_daily_max": 1,
+      "base_drop_weight": 2375,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji01",
+      "is_reward_pop": true
+    },
+    "1003104": {
+      "id": 1003104,
+      "lottery_item": 200300404,
+      "num_total_max": 1,
+      "num_daily_max": 1,
+      "base_drop_weight": 500,
+      "event_group": [
+        {
+          "event": 3,
+          "event_param": [
+            16
+          ],
+          "add_drop_weight": 80
+        },
+        {
+          "event": 5,
+          "event_param": [
+            16
+          ],
+          "add_drop_weight": 80
+        }
+      ],
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji01",
+      "is_reward_pop": true
+    },
+    "1003105": {
+      "id": 1003105,
+      "lottery_item": 200300405,
+      "num_total_max": 1,
+      "num_daily_max": 1,
+      "base_drop_weight": 2375,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji02",
+      "is_reward_pop": true
+    },
+    "1004101": {
+      "id": 1004101,
+      "lottery_item": 200300018,
+      "num_total_max": 100,
+      "num_daily_max": 1,
+      "base_drop_weight": 100,
+      "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NiuDanJi_BenBoShu2",
+      "is_reward_pop": true
+    }
+  }
+}

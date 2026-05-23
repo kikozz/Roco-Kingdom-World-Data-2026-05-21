@@ -1,0 +1,2404 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "16": {
+      "id": 16,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "17": {
+      "id": 17,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "18": {
+      "id": 18,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "19": {
+      "id": 19,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "20": {
+      "id": 20,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "21": {
+      "id": 21,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "22": {
+      "id": 22,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "23": {
+      "id": 23,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "24": {
+      "id": 24,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "25": {
+      "id": 25,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "26": {
+      "id": 26,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "27": {
+      "id": 27,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "28": {
+      "id": 28,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "29": {
+      "id": 29,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "30": {
+      "id": 30,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "31": {
+      "id": 31,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "32": {
+      "id": 32,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "33": {
+      "id": 33,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "34": {
+      "id": 34,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "35": {
+      "id": 35,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "36": {
+      "id": 36,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "37": {
+      "id": 37,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "38": {
+      "id": 38,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "39": {
+      "id": 39,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "40": {
+      "id": 40,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "41": {
+      "id": 41,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "42": {
+      "id": 42,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "43": {
+      "id": 43,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "44": {
+      "id": 44,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "45": {
+      "id": 45,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "46": {
+      "id": 46,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "47": {
+      "id": 47,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "48": {
+      "id": 48,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "49": {
+      "id": 49,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "50": {
+      "id": 50,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "51": {
+      "id": 51,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "52": {
+      "id": 52,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "53": {
+      "id": 53,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "54": {
+      "id": 54,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "55": {
+      "id": 55,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "56": {
+      "id": 56,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "57": {
+      "id": 57,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "58": {
+      "id": 58,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "59": {
+      "id": 59,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "60": {
+      "id": 60,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "61": {
+      "id": 61,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "62": {
+      "id": 62,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "63": {
+      "id": 63,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "64": {
+      "id": 64,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "65": {
+      "id": 65,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "66": {
+      "id": 66,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "67": {
+      "id": 67,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "68": {
+      "id": 68,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "69": {
+      "id": 69,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "70": {
+      "id": 70,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "71": {
+      "id": 71,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "72": {
+      "id": 72,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "73": {
+      "id": 73,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "74": {
+      "id": 74,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "75": {
+      "id": 75,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "76": {
+      "id": 76,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "77": {
+      "id": 77,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "78": {
+      "id": 78,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "79": {
+      "id": 79,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "80": {
+      "id": 80,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "81": {
+      "id": 81,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "82": {
+      "id": 82,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "83": {
+      "id": 83,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "84": {
+      "id": 84,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "85": {
+      "id": 85,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "86": {
+      "id": 86,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "87": {
+      "id": 87,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "88": {
+      "id": 88,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "89": {
+      "id": 89,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "90": {
+      "id": 90,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "91": {
+      "id": 91,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "92": {
+      "id": 92,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "93": {
+      "id": 93,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "94": {
+      "id": 94,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "95": {
+      "id": 95,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    },
+    "999": {
+      "id": 999,
+      "break_award": [
+        {
+          "break_level_point": 20,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 30,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 40,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 50,
+          "break_attribute_type": 79
+        },
+        {
+          "break_level_point": 55,
+          "break_attribute_type": 79
+        }
+      ]
+    }
+  }
+}

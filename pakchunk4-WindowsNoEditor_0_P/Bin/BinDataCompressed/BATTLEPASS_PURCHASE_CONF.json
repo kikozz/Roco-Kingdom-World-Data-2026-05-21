@@ -1,0 +1,18 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "widget_name": "NRCButton"
+    },
+    "2": {
+      "id": 2,
+      "widget_name": "backBtn.btnClose",
+      "mutex_group_name": "bp_purchase_back"
+    },
+    "3": {
+      "id": 3,
+      "widget_name": "NRCButton_1",
+      "mutex_group_name": "bp_purchase_back;common_dialog_close"
+    }
+  }
+}

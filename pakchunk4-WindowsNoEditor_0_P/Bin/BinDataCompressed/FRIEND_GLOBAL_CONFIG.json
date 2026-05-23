@@ -1,0 +1,208 @@
+{
+  "RocoDataRows": {
+    "friend_mine_num_max": {
+      "id": 1,
+      "key": "friend_mine_num_max",
+      "num": 500,
+      "is_loc": 2
+    },
+    "friend_remake_name_num_max": {
+      "id": 2,
+      "key": "friend_remake_name_num_max",
+      "num": 12,
+      "is_loc": 2
+    },
+    "expose_reason_describe_num_max": {
+      "id": 3,
+      "key": "expose_reason_describe_num_max",
+      "num": 160,
+      "is_loc": 2
+    },
+    "friend_apply_list_num_max": {
+      "id": 5,
+      "key": "friend_apply_list_num_max",
+      "num": 50,
+      "is_loc": 2
+    },
+    "blacklist_num_max": {
+      "id": 6,
+      "key": "blacklist_num_max",
+      "num": 10,
+      "is_loc": 2
+    },
+    "chat_message_time_CD": {
+      "id": 7,
+      "key": "chat_message_time_CD",
+      "num": 1800,
+      "is_loc": 2
+    },
+    "chat_message_storage_num_max": {
+      "id": 8,
+      "key": "chat_message_storage_num_max",
+      "num": 999,
+      "is_loc": 2
+    },
+    "friend_apply_valid_time": {
+      "id": 9,
+      "key": "friend_apply_valid_time",
+      "num": 15,
+      "is_loc": 2
+    },
+    "friend_info_related_CD_fast": {
+      "id": 10,
+      "key": "friend_info_related_CD_fast",
+      "num": 2,
+      "is_loc": 2
+    },
+    "friend_info_related_CD_slow": {
+      "id": 11,
+      "key": "friend_info_related_CD_slow",
+      "num": 20,
+      "is_loc": 2
+    },
+    "friend_send_message_CD": {
+      "id": 12,
+      "key": "friend_send_message_CD",
+      "num": 100,
+      "is_loc": 2
+    },
+    "friend_list_view_message_CD": {
+      "id": 13,
+      "key": "friend_list_view_message_CD",
+      "num": 10,
+      "is_loc": 2
+    },
+    "friend_message_num_max": {
+      "id": 14,
+      "key": "friend_message_num_max",
+      "num": 100,
+      "is_loc": 2
+    },
+    "recommend_stranger_num_max": {
+      "id": 15,
+      "key": "recommend_stranger_num_max",
+      "num": 7,
+      "is_loc": 2
+    },
+    "friend_search_textnum_max": {
+      "id": 16,
+      "key": "friend_search_textnum_max",
+      "num": 18,
+      "is_loc": 2
+    },
+    "visit_catch_number_sum": {
+      "id": 17,
+      "key": "visit_catch_number_sum",
+      "str": "互访捕捉次数:%s",
+      "is_loc": 1
+    },
+    "friend_apply_num_max": {
+      "id": 18,
+      "key": "friend_apply_num_max",
+      "num": 100,
+      "is_loc": 2
+    },
+    "visit_glass_catch_number_limit": {
+      "id": 19,
+      "key": "visit_glass_catch_number_limit",
+      "num": 1,
+      "is_loc": 2
+    },
+    "visit_glass_catch_number_reset_date": {
+      "id": 20,
+      "key": "visit_glass_catch_number_reset_date",
+      "numList": [
+        15,
+        4
+      ],
+      "is_loc": 2
+    },
+    "friend_top_friend_num": {
+      "id": 21,
+      "key": "friend_top_friend_num",
+      "num": 10,
+      "is_loc": 2
+    },
+    "friend_recommend_friend_cd": {
+      "id": 22,
+      "key": "friend_recommend_friend_cd",
+      "num": 10,
+      "is_loc": 2
+    },
+    "chat_message_cipher_text": {
+      "id": 23,
+      "key": "chat_message_cipher_text",
+      "str": "A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;I;S;T;U;V;W;X;Y;Z",
+      "is_loc": 2
+    },
+    "chat_multi_message_storage_num_max": {
+      "id": 25,
+      "key": "chat_multi_message_storage_num_max",
+      "num": 999,
+      "is_loc": 2
+    },
+    "friend_message_bubble_line_num_max": {
+      "id": 26,
+      "key": "friend_message_bubble_line_num_max",
+      "num": 180,
+      "is_loc": 2
+    },
+    "chat_multi_message_send_CD": {
+      "id": 27,
+      "key": "chat_multi_message_send_CD",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "chat_multi_message_sending_CD": {
+      "id": 28,
+      "key": "chat_multi_message_sending_CD",
+      "num": 800,
+      "is_loc": 2
+    },
+    "BubbleGap": {
+      "id": 29,
+      "key": "BubbleGap",
+      "numList": [
+        60,
+        60
+      ],
+      "is_loc": 2
+    },
+    "Lifetime": {
+      "id": 30,
+      "key": "Lifetime",
+      "num": 15000,
+      "is_loc": 2
+    },
+    "ActorBubbleMaxCount": {
+      "id": 31,
+      "key": "ActorBubbleMaxCount",
+      "num": 5,
+      "is_loc": 2
+    },
+    "ActorMaxDistance": {
+      "id": 32,
+      "key": "ActorMaxDistance",
+      "num": 3000,
+      "is_loc": 2
+    },
+    "friend_recommend_close_friend_cd": {
+      "id": 33,
+      "key": "friend_recommend_close_friend_cd",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "Invite_Friends_cd": {
+      "id": 34,
+      "key": "Invite_Friends_cd",
+      "num": 10,
+      "is_loc": 2
+    },
+    "broadcast_prop_message_distance": {
+      "id": 35,
+      "key": "broadcast_prop_message_distance",
+      "num": 2000,
+      "is_loc": 2
+    }
+  }
+}

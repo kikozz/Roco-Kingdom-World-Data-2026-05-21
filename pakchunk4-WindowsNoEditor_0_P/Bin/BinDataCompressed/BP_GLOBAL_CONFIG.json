@@ -1,0 +1,54 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "key": "bp_task_start",
+      "str": "2023-11-07 04:00:00",
+      "is_loc": 2
+    },
+    "2": {
+      "id": 2,
+      "key": "bp_task_period",
+      "str": "1 00:00:00",
+      "is_loc": 2
+    },
+    "3": {
+      "id": 3,
+      "key": "bp_task_module",
+      "numList": [
+        10001,
+        1,
+        10002,
+        1,
+        10003,
+        1,
+        10008,
+        1
+      ],
+      "is_loc": 2
+    },
+    "4": {
+      "id": 4,
+      "key": "bp_task_module_repeat",
+      "is_loc": 2
+    },
+    "5": {
+      "id": 5,
+      "key": "bp_task_reset_begin_time",
+      "str": "4:00:00",
+      "is_loc": 2
+    },
+    "6": {
+      "id": 6,
+      "key": "bp_gift_search_max_num",
+      "num": 18,
+      "is_loc": 2
+    },
+    "7": {
+      "id": 7,
+      "key": "bp_theme_syn_cd",
+      "num": 10,
+      "is_loc": 2
+    }
+  }
+}

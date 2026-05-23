@@ -1,0 +1,5346 @@
+{
+  "RocoDataRows": {
+    "3400001": {
+      "id": 3400001,
+      "must_do_faction_id": 10011,
+      "go_faction_option_name": "选择访学方向",
+      "must_do_task": [
+        110000052
+      ],
+      "must_do_task_judg": [
+        110000052
+      ],
+      "go_task_option_name": "领取课表",
+      "unlock_tips": "请点击【领取课表】，完成任务后开启活动",
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_des": "参与活动\n获学院时装",
+          "option_id": 5
+        },
+        {
+          "slot": 2,
+          "option_id": 7
+        },
+        {
+          "slot": 3,
+          "option_id": 6
+        },
+        {
+          "slot": 4,
+          "option_id": 8,
+          "slot_function_type": 1,
+          "param": 41,
+          "params": [
+            41
+          ]
+        }
+      ],
+      "shop_id": 3026,
+      "progress_vitem_show": 68,
+      "progress_vitem_name": "当前活跃度",
+      "progress_title": "大赛活跃奖励",
+      "spec_battle_ui_id": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "3400002": {
+      "id": 3400002,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_des": "花种挑战",
+          "initial_unlock": true,
+          "option_id": 26
+        },
+        {
+          "slot": 2,
+          "slot_des": "星愿祝福礼",
+          "initial_unlock": true,
+          "option_id": 24,
+          "slot_function_type": 2,
+          "param": 200011,
+          "params": [
+            200011
+          ],
+          "red_point_id": 301,
+          "red_point_rule": "200011"
+        },
+        {
+          "slot": 3,
+          "slot_des": "星光憩园",
+          "initial_unlock": true,
+          "option_id": 25,
+          "slot_function_type": 2,
+          "param": 2700003,
+          "params": [
+            2700003
+          ]
+        }
+      ]
+    },
+    "3400004": {
+      "id": 3400004,
+      "must_do_task": [
+        59000320
+      ],
+      "must_do_task_judg": [
+        59000320
+      ],
+      "go_task_option_name": "加入精灵调查团",
+      "unlock_tips": "请点击【加入精灵调查团】，加入精灵调查团后开启活动",
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_des": "调查任务",
+          "slot_function_type": 3,
+          "param": 110000334,
+          "params": [
+            110000334,
+            110000335,
+            110000336,
+            110000337,
+            110000338,
+            110000339
+          ],
+          "red_point_id": 215,
+          "red_point_rule": "4000002;1"
+        },
+        {
+          "slot": 2,
+          "slot_des": "第一起调查任务!",
+          "option_id": 10015,
+          "slot_function_type": 7,
+          "param": 59000455,
+          "params": [
+            59000455
+          ],
+          "red_point_id": 215,
+          "red_point_rule": "4000002;2"
+        },
+        {
+          "slot": 3,
+          "slot_des": "狐主任商店",
+          "option_id": 10016,
+          "slot_function_type": 4,
+          "param": 320039,
+          "params": [
+            320039
+          ]
+        },
+        {
+          "slot": 4,
+          "slot_des": "精灵观察笔记",
+          "option_id": 10014,
+          "slot_function_type": 6,
+          "param": 10001,
+          "params": [
+            10001
+          ],
+          "red_point_id": 416,
+          "red_point_rule": "4000002"
+        }
+      ],
+      "shop_id": 3028
+    },
+    "4000003": {
+      "id": 4000003,
+      "slot_group": [
+        {
+          "slot": 1,
+          "initial_unlock": true,
+          "option_id": 2001,
+          "slot_function_type": 4,
+          "param": 320037,
+          "params": [
+            320037
+          ]
+        },
+        {
+          "slot": 2,
+          "initial_unlock": true,
+          "option_id": 2002,
+          "slot_function_type": 2,
+          "param": 4700001,
+          "params": [
+            4700001
+          ],
+          "red_point_id": 215,
+          "red_point_rule": "4700001"
+        },
+        {
+          "slot": 3,
+          "initial_unlock": true,
+          "option_id": 2003
+        },
+        {
+          "slot": 4,
+          "initial_unlock": true,
+          "option_id": 2004
+        },
+        {
+          "slot": 5,
+          "initial_unlock": true,
+          "option_id": 2005,
+          "red_point_id": 215,
+          "red_point_rule": "1600023;4900001;4900002;4900003"
+        }
+      ]
+    },
+    "51000001": {
+      "id": 51000001,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000001,
+          "params": [
+            50000001
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000002": {
+      "id": 51000002,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000002,
+          "params": [
+            50000002
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000003": {
+      "id": 51000003,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000003,
+          "params": [
+            50000003
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000004": {
+      "id": 51000004,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000004,
+          "params": [
+            50000004
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000005": {
+      "id": 51000005,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000005,
+          "params": [
+            50000005
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000006": {
+      "id": 51000006,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000006,
+          "params": [
+            50000006
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000007": {
+      "id": 51000007,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000007,
+          "params": [
+            50000007
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000008": {
+      "id": 51000008,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000008,
+          "params": [
+            50000008
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000009": {
+      "id": 51000009,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000009,
+          "params": [
+            50000009
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000010": {
+      "id": 51000010,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000010,
+          "params": [
+            50000010
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000011": {
+      "id": 51000011,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000011,
+          "params": [
+            50000011
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000012": {
+      "id": 51000012,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000012,
+          "params": [
+            50000012
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000013": {
+      "id": 51000013,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000013,
+          "params": [
+            50000013
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000014": {
+      "id": 51000014,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000014,
+          "params": [
+            50000014
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000015": {
+      "id": 51000015,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000015,
+          "params": [
+            50000015
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000016": {
+      "id": 51000016,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000016,
+          "params": [
+            50000016
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000017": {
+      "id": 51000017,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000017,
+          "params": [
+            50000017
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000018": {
+      "id": 51000018,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000018,
+          "params": [
+            50000018
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000019": {
+      "id": 51000019,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000019,
+          "params": [
+            50000019
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000020": {
+      "id": 51000020,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000020,
+          "params": [
+            50000020
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000021": {
+      "id": 51000021,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000021,
+          "params": [
+            50000021
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000022": {
+      "id": 51000022,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000022,
+          "params": [
+            50000022
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000023": {
+      "id": 51000023,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000023,
+          "params": [
+            50000023
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000024": {
+      "id": 51000024,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000024,
+          "params": [
+            50000024
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000025": {
+      "id": 51000025,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000025,
+          "params": [
+            50000025
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000026": {
+      "id": 51000026,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000026,
+          "params": [
+            50000026
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000027": {
+      "id": 51000027,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000027,
+          "params": [
+            50000027
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000028": {
+      "id": 51000028,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000028,
+          "params": [
+            50000028
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000029": {
+      "id": 51000029,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000029,
+          "params": [
+            50000029
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000030": {
+      "id": 51000030,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000030,
+          "params": [
+            50000030
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000031": {
+      "id": 51000031,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000031,
+          "params": [
+            50000031
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000032": {
+      "id": 51000032,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000032,
+          "params": [
+            50000032
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000033": {
+      "id": 51000033,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000033,
+          "params": [
+            50000033
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000034": {
+      "id": 51000034,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000034,
+          "params": [
+            50000034
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000035": {
+      "id": 51000035,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000035,
+          "params": [
+            50000035
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000036": {
+      "id": 51000036,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000036,
+          "params": [
+            50000036
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000037": {
+      "id": 51000037,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000037,
+          "params": [
+            50000037
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000038": {
+      "id": 51000038,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000038,
+          "params": [
+            50000038
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000039": {
+      "id": 51000039,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000039,
+          "params": [
+            50000039
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000040": {
+      "id": 51000040,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000040,
+          "params": [
+            50000040
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000041": {
+      "id": 51000041,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000041,
+          "params": [
+            50000041
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000042": {
+      "id": 51000042,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000042,
+          "params": [
+            50000042
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000043": {
+      "id": 51000043,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000043,
+          "params": [
+            50000043
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000044": {
+      "id": 51000044,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000044,
+          "params": [
+            50000044
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000045": {
+      "id": 51000045,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000045,
+          "params": [
+            50000045
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000046": {
+      "id": 51000046,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000046,
+          "params": [
+            50000046
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000047": {
+      "id": 51000047,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000047,
+          "params": [
+            50000047
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000048": {
+      "id": 51000048,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000048,
+          "params": [
+            50000048
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000049": {
+      "id": 51000049,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000049,
+          "params": [
+            50000049
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000050": {
+      "id": 51000050,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000050,
+          "params": [
+            50000050
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000051": {
+      "id": 51000051,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000051,
+          "params": [
+            50000051
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000052": {
+      "id": 51000052,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000052,
+          "params": [
+            50000052
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000053": {
+      "id": 51000053,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000053,
+          "params": [
+            50000053
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000054": {
+      "id": 51000054,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000054,
+          "params": [
+            50000054
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000055": {
+      "id": 51000055,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000055,
+          "params": [
+            50000055
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000056": {
+      "id": 51000056,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000056,
+          "params": [
+            50000056
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000057": {
+      "id": 51000057,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000001,
+          "params": [
+            50000001
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000058": {
+      "id": 51000058,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000002,
+          "params": [
+            50000002
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000059": {
+      "id": 51000059,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000003,
+          "params": [
+            50000003
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000060": {
+      "id": 51000060,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000004,
+          "params": [
+            50000004
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000061": {
+      "id": 51000061,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000005,
+          "params": [
+            50000005
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000062": {
+      "id": 51000062,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000006,
+          "params": [
+            50000006
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000063": {
+      "id": 51000063,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000007,
+          "params": [
+            50000007
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000064": {
+      "id": 51000064,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000008,
+          "params": [
+            50000008
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000065": {
+      "id": 51000065,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000009,
+          "params": [
+            50000009
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000066": {
+      "id": 51000066,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000010,
+          "params": [
+            50000010
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000067": {
+      "id": 51000067,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000011,
+          "params": [
+            50000011
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000068": {
+      "id": 51000068,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000012,
+          "params": [
+            50000012
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000069": {
+      "id": 51000069,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000013,
+          "params": [
+            50000013
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000070": {
+      "id": 51000070,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000014,
+          "params": [
+            50000014
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000071": {
+      "id": 51000071,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000015,
+          "params": [
+            50000015
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000072": {
+      "id": 51000072,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000016,
+          "params": [
+            50000016
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000073": {
+      "id": 51000073,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000017,
+          "params": [
+            50000017
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000074": {
+      "id": 51000074,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000018,
+          "params": [
+            50000018
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000075": {
+      "id": 51000075,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000019,
+          "params": [
+            50000019
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000076": {
+      "id": 51000076,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000020,
+          "params": [
+            50000020
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000077": {
+      "id": 51000077,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000021,
+          "params": [
+            50000021
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000078": {
+      "id": 51000078,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000022,
+          "params": [
+            50000022
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000079": {
+      "id": 51000079,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000023,
+          "params": [
+            50000023
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000080": {
+      "id": 51000080,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000024,
+          "params": [
+            50000024
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000081": {
+      "id": 51000081,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000025,
+          "params": [
+            50000025
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000082": {
+      "id": 51000082,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000026,
+          "params": [
+            50000026
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000083": {
+      "id": 51000083,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000027,
+          "params": [
+            50000027
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000084": {
+      "id": 51000084,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000028,
+          "params": [
+            50000028
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000085": {
+      "id": 51000085,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000029,
+          "params": [
+            50000029
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000086": {
+      "id": 51000086,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000030,
+          "params": [
+            50000030
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000087": {
+      "id": 51000087,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000031,
+          "params": [
+            50000031
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000088": {
+      "id": 51000088,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000032,
+          "params": [
+            50000032
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000089": {
+      "id": 51000089,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000033,
+          "params": [
+            50000033
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000090": {
+      "id": 51000090,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000034,
+          "params": [
+            50000034
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000091": {
+      "id": 51000091,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000035,
+          "params": [
+            50000035
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000092": {
+      "id": 51000092,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000036,
+          "params": [
+            50000036
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000093": {
+      "id": 51000093,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000037,
+          "params": [
+            50000037
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000094": {
+      "id": 51000094,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000038,
+          "params": [
+            50000038
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000095": {
+      "id": 51000095,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000039,
+          "params": [
+            50000039
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000096": {
+      "id": 51000096,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000040,
+          "params": [
+            50000040
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000097": {
+      "id": 51000097,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000041,
+          "params": [
+            50000041
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000098": {
+      "id": 51000098,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000042,
+          "params": [
+            50000042
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000099": {
+      "id": 51000099,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000043,
+          "params": [
+            50000043
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000100": {
+      "id": 51000100,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000044,
+          "params": [
+            50000044
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000101": {
+      "id": 51000101,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000045,
+          "params": [
+            50000045
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000102": {
+      "id": 51000102,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000046,
+          "params": [
+            50000046
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000103": {
+      "id": 51000103,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000047,
+          "params": [
+            50000047
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000104": {
+      "id": 51000104,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000048,
+          "params": [
+            50000048
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000105": {
+      "id": 51000105,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000049,
+          "params": [
+            50000049
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000106": {
+      "id": 51000106,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000050,
+          "params": [
+            50000050
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000107": {
+      "id": 51000107,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000051,
+          "params": [
+            50000051
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000108": {
+      "id": 51000108,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000052,
+          "params": [
+            50000052
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000109": {
+      "id": 51000109,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000053,
+          "params": [
+            50000053
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000110": {
+      "id": 51000110,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000054,
+          "params": [
+            50000054
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000111": {
+      "id": 51000111,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000055,
+          "params": [
+            50000055
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000112": {
+      "id": 51000112,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 50000056,
+          "params": [
+            50000056
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000113": {
+      "id": 51000113,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000157,
+          "params": [
+            51000157
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000114": {
+      "id": 51000114,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000158,
+          "params": [
+            51000158
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000115": {
+      "id": 51000115,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000159,
+          "params": [
+            51000159
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000116": {
+      "id": 51000116,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000160,
+          "params": [
+            51000160
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000117": {
+      "id": 51000117,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000161,
+          "params": [
+            51000161
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000118": {
+      "id": 51000118,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000162,
+          "params": [
+            51000162
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000119": {
+      "id": 51000119,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000163,
+          "params": [
+            51000163
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000120": {
+      "id": 51000120,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000164,
+          "params": [
+            51000164
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000121": {
+      "id": 51000121,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000165,
+          "params": [
+            51000165
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000122": {
+      "id": 51000122,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000166,
+          "params": [
+            51000166
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000123": {
+      "id": 51000123,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000167,
+          "params": [
+            51000167
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000124": {
+      "id": 51000124,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000168,
+          "params": [
+            51000168
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000125": {
+      "id": 51000125,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000169,
+          "params": [
+            51000169
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000126": {
+      "id": 51000126,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000170,
+          "params": [
+            51000170
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000127": {
+      "id": 51000127,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000171,
+          "params": [
+            51000171
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000128": {
+      "id": 51000128,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000172,
+          "params": [
+            51000172
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000129": {
+      "id": 51000129,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000173,
+          "params": [
+            51000173
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000130": {
+      "id": 51000130,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000174,
+          "params": [
+            51000174
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000131": {
+      "id": 51000131,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000175,
+          "params": [
+            51000175
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000132": {
+      "id": 51000132,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000176,
+          "params": [
+            51000176
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000133": {
+      "id": 51000133,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000177,
+          "params": [
+            51000177
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000134": {
+      "id": 51000134,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000178,
+          "params": [
+            51000178
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000135": {
+      "id": 51000135,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000179,
+          "params": [
+            51000179
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000136": {
+      "id": 51000136,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000180,
+          "params": [
+            51000180
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000137": {
+      "id": 51000137,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000181,
+          "params": [
+            51000181
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000138": {
+      "id": 51000138,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000182,
+          "params": [
+            51000182
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000139": {
+      "id": 51000139,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000183,
+          "params": [
+            51000183
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000140": {
+      "id": 51000140,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000184,
+          "params": [
+            51000184
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000141": {
+      "id": 51000141,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000185,
+          "params": [
+            51000185
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000142": {
+      "id": 51000142,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000186,
+          "params": [
+            51000186
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000143": {
+      "id": 51000143,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000187,
+          "params": [
+            51000187
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000144": {
+      "id": 51000144,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000188,
+          "params": [
+            51000188
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000145": {
+      "id": 51000145,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000189,
+          "params": [
+            51000189
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000146": {
+      "id": 51000146,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000190,
+          "params": [
+            51000190
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000147": {
+      "id": 51000147,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000191,
+          "params": [
+            51000191
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000148": {
+      "id": 51000148,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000192,
+          "params": [
+            51000192
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000149": {
+      "id": 51000149,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000193,
+          "params": [
+            51000193
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000150": {
+      "id": 51000150,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000194,
+          "params": [
+            51000194
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000151": {
+      "id": 51000151,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000195,
+          "params": [
+            51000195
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000152": {
+      "id": 51000152,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000196,
+          "params": [
+            51000196
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000153": {
+      "id": 51000153,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000197,
+          "params": [
+            51000197
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000154": {
+      "id": 51000154,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000198,
+          "params": [
+            51000198
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000155": {
+      "id": 51000155,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000199,
+          "params": [
+            51000199
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000156": {
+      "id": 51000156,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000200,
+          "params": [
+            51000200
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000157": {
+      "id": 51000157,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000201,
+          "params": [
+            51000201
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1008
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000158": {
+      "id": 51000158,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000202,
+          "params": [
+            51000202
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1011
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000159": {
+      "id": 51000159,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000203,
+          "params": [
+            51000203
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1013
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000160": {
+      "id": 51000160,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000204,
+          "params": [
+            51000204
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1003
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000161": {
+      "id": 51000161,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000205,
+          "params": [
+            51000205
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1006
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000162": {
+      "id": 51000162,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000206,
+          "params": [
+            51000206
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1010
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000163": {
+      "id": 51000163,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000207,
+          "params": [
+            51000207
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1012
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000164": {
+      "id": 51000164,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000208,
+          "params": [
+            51000208
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1009
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000165": {
+      "id": 51000165,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000209,
+          "params": [
+            51000209
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1002
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000166": {
+      "id": 51000166,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000210,
+          "params": [
+            51000210
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1004
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000167": {
+      "id": 51000167,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000211,
+          "params": [
+            51000211
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1007
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000168": {
+      "id": 51000168,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000212,
+          "params": [
+            51000212
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1005
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1001
+        }
+      ]
+    },
+    "51000169": {
+      "id": 51000169,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000157,
+          "params": [
+            51000157
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000170": {
+      "id": 51000170,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000158,
+          "params": [
+            51000158
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000171": {
+      "id": 51000171,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000159,
+          "params": [
+            51000159
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000172": {
+      "id": 51000172,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000160,
+          "params": [
+            51000160
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000173": {
+      "id": 51000173,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000161,
+          "params": [
+            51000161
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000174": {
+      "id": 51000174,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000162,
+          "params": [
+            51000162
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000175": {
+      "id": 51000175,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000163,
+          "params": [
+            51000163
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000176": {
+      "id": 51000176,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000164,
+          "params": [
+            51000164
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000177": {
+      "id": 51000177,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000165,
+          "params": [
+            51000165
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000178": {
+      "id": 51000178,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000166,
+          "params": [
+            51000166
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000179": {
+      "id": 51000179,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000167,
+          "params": [
+            51000167
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000180": {
+      "id": 51000180,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000168,
+          "params": [
+            51000168
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000181": {
+      "id": 51000181,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000169,
+          "params": [
+            51000169
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000182": {
+      "id": 51000182,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000170,
+          "params": [
+            51000170
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000183": {
+      "id": 51000183,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000171,
+          "params": [
+            51000171
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000184": {
+      "id": 51000184,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000172,
+          "params": [
+            51000172
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000185": {
+      "id": 51000185,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000173,
+          "params": [
+            51000173
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000186": {
+      "id": 51000186,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000174,
+          "params": [
+            51000174
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000187": {
+      "id": 51000187,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000175,
+          "params": [
+            51000175
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000188": {
+      "id": 51000188,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000176,
+          "params": [
+            51000176
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000189": {
+      "id": 51000189,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000177,
+          "params": [
+            51000177
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000190": {
+      "id": 51000190,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000178,
+          "params": [
+            51000178
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000191": {
+      "id": 51000191,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000179,
+          "params": [
+            51000179
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000192": {
+      "id": 51000192,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000180,
+          "params": [
+            51000180
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000193": {
+      "id": 51000193,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000181,
+          "params": [
+            51000181
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000194": {
+      "id": 51000194,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000182,
+          "params": [
+            51000182
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000195": {
+      "id": 51000195,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000183,
+          "params": [
+            51000183
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000196": {
+      "id": 51000196,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000184,
+          "params": [
+            51000184
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000197": {
+      "id": 51000197,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000185,
+          "params": [
+            51000185
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000198": {
+      "id": 51000198,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000186,
+          "params": [
+            51000186
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000199": {
+      "id": 51000199,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000187,
+          "params": [
+            51000187
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000200": {
+      "id": 51000200,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000188,
+          "params": [
+            51000188
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000201": {
+      "id": 51000201,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000189,
+          "params": [
+            51000189
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000202": {
+      "id": 51000202,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000190,
+          "params": [
+            51000190
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000203": {
+      "id": 51000203,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000191,
+          "params": [
+            51000191
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000204": {
+      "id": 51000204,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000192,
+          "params": [
+            51000192
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000205": {
+      "id": 51000205,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000193,
+          "params": [
+            51000193
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000206": {
+      "id": 51000206,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000194,
+          "params": [
+            51000194
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000207": {
+      "id": 51000207,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000195,
+          "params": [
+            51000195
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000208": {
+      "id": 51000208,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000196,
+          "params": [
+            51000196
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000209": {
+      "id": 51000209,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000197,
+          "params": [
+            51000197
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000210": {
+      "id": 51000210,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000198,
+          "params": [
+            51000198
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000211": {
+      "id": 51000211,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000199,
+          "params": [
+            51000199
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000212": {
+      "id": 51000212,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000200,
+          "params": [
+            51000200
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000213": {
+      "id": 51000213,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000201,
+          "params": [
+            51000201
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "捞船镇",
+          "option_id": 1022
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000214": {
+      "id": 51000214,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000202,
+          "params": [
+            51000202
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "德雷克福德庄园",
+          "option_id": 1025
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000215": {
+      "id": 51000215,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000203,
+          "params": [
+            51000203
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "皇家办事处",
+          "option_id": 1027
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000216": {
+      "id": 51000216,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000204,
+          "params": [
+            51000204
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-光辉庭院",
+          "option_id": 1017
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000217": {
+      "id": 51000217,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000205,
+          "params": [
+            51000205
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "聆风镇",
+          "option_id": 1020
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000218": {
+      "id": 51000218,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000206,
+          "params": [
+            51000206
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "甜水镇",
+          "option_id": 1024
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000219": {
+      "id": 51000219,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000207,
+          "params": [
+            51000207
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "寒霜村",
+          "option_id": 1026
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000220": {
+      "id": 51000220,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000208,
+          "params": [
+            51000208
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "交汇镇",
+          "option_id": 1023
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000221": {
+      "id": 51000221,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000209,
+          "params": [
+            51000209
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "彼得大道",
+          "option_id": 1016
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000222": {
+      "id": 51000222,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000210,
+          "params": [
+            51000210
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "王国城堡-凯旋大道",
+          "option_id": 1018
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000223": {
+      "id": 51000223,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000211,
+          "params": [
+            51000211
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "天旋地转酒馆",
+          "option_id": 1021
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    },
+    "51000224": {
+      "id": 51000224,
+      "slot_group": [
+        {
+          "slot": 1,
+          "slot_function_type": 2,
+          "param": 51000212,
+          "params": [
+            51000212
+          ]
+        },
+        {
+          "slot": 2,
+          "slot_des": "月牙镇",
+          "option_id": 1019
+        },
+        {
+          "slot": 3,
+          "slot_des": "商店街",
+          "option_id": 1015
+        }
+      ]
+    }
+  }
+}

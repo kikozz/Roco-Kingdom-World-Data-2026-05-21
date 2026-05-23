@@ -1,0 +1,259 @@
+{
+  "RocoDataRows": {
+    "1000": {
+      "id": 1000,
+      "chapter": "第一章",
+      "scene_id": 600002,
+      "name": "记忆中的索米亚草原",
+      "chapter_event": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1004
+      ],
+      "start_coord": [
+        -450,
+        1150,
+        52
+      ],
+      "end_coord": [
+        -450,
+        -11040,
+        52
+      ],
+      "refresh_group_id": 246031000,
+      "node_struct": [
+        {
+          "appearance": 86001,
+          "select_option": 8600002
+        },
+        {
+          "node": 1,
+          "appearance": 800002,
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 2,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 3,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 4,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 5,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        }
+      ]
+    },
+    "1001": {
+      "id": 1001,
+      "chapter": "第二章",
+      "scene_id": 600002,
+      "name": "记忆中的巨石阵",
+      "chapter_event": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1004
+      ],
+      "start_coord": [
+        -450,
+        1150,
+        52
+      ],
+      "end_coord": [
+        -450,
+        -11040,
+        52
+      ],
+      "refresh_group_id": 246031001,
+      "node_struct": [
+        {
+          "appearance": 86001,
+          "select_option": 8600002
+        },
+        {
+          "node": 1,
+          "appearance": 800002,
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 2,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 3,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 4,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 5,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        }
+      ]
+    },
+    "1002": {
+      "id": 1002,
+      "chapter": "第三章",
+      "scene_id": 600002,
+      "name": "记忆中的普拉塔草原",
+      "chapter_event": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1004
+      ],
+      "start_coord": [
+        -450,
+        1150,
+        52
+      ],
+      "end_coord": [
+        -450,
+        -11040,
+        52
+      ],
+      "refresh_group_id": 246031002,
+      "node_struct": [
+        {
+          "appearance": 86001,
+          "select_option": 8600002
+        },
+        {
+          "node": 1,
+          "appearance": 800002,
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 2,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 3,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 4,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        },
+        {
+          "node": 5,
+          "appearance": 800002,
+          "node_event": [
+            1002,
+            1003,
+            1004
+          ],
+          "event_num": 3,
+          "select_option": 8600001,
+          "reward_point": 100
+        }
+      ]
+    }
+  }
+}

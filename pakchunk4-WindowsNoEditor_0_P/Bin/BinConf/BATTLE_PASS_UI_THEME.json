@@ -1,0 +1,68 @@
+{
+  "Name": "BATTLE_PASS_UI_THEME",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "theme_name",
+      "Type": "EString",
+      "Offset": 4,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "spine_atlas",
+      "Type": "EString",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "spine_skeletondata",
+      "Type": "EString",
+      "Offset": 12,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "widget_group",
+      "Type": "EStruct",
+      "Offset": 16,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 3,
+      "Struct": {
+        "Name": "BATTLE_PASS_UI_THEME.widget_group",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "umgname",
+            "Type": "EString",
+            "Offset": 0,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "spinewigetname",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+          }
+        ]
+      }
+    },
+    {
+      "Name": "is_theme_a",
+      "Type": "EBool",
+      "Offset": 20,
+      "Size": 1
+    }
+  ]
+}

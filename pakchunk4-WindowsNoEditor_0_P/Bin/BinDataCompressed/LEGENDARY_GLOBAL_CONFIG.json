@@ -1,0 +1,396 @@
+{
+  "RocoDataRows": {
+    "confirm_duration": {
+      "id": 1,
+      "key": "confirm_duration",
+      "num": 30,
+      "is_loc": 2
+    },
+    "beast_challenge_ticket_id": {
+      "id": 2,
+      "key": "beast_challenge_ticket_id",
+      "num": 280000,
+      "is_loc": 2
+    },
+    "ticket_cost": {
+      "id": 3,
+      "key": "ticket_cost",
+      "num": 1,
+      "is_loc": 2
+    },
+    "temp_ball_id": {
+      "id": 4,
+      "key": "temp_ball_id",
+      "num": 280001,
+      "is_loc": 2
+    },
+    "resonance_duration": {
+      "id": 5,
+      "key": "resonance_duration",
+      "num": 120,
+      "is_loc": 2
+    },
+    "active_radius": {
+      "id": 6,
+      "key": "active_radius",
+      "num": 20,
+      "is_loc": 2
+    },
+    "location_check": {
+      "id": 7,
+      "key": "location_check",
+      "num": 1,
+      "is_loc": 2
+    },
+    "teleport_radius_outer": {
+      "id": 8,
+      "key": "teleport_radius_outer",
+      "num": 500,
+      "is_loc": 2
+    },
+    "teleport_radius_inner": {
+      "id": 9,
+      "key": "teleport_radius_inner",
+      "num": 400,
+      "is_loc": 2
+    },
+    "legendary_ticket_exchange": {
+      "id": 10,
+      "key": "legendary_ticket_exchange",
+      "num": 80000000,
+      "str": "消耗<span size=\"24\" color=\"#af3d3e\">%s</>愿望果核，补充<span size=\"24\" color=\"#af3d3e\">%s</>命定印记。",
+      "is_loc": 1
+    },
+    "weekly_star_limit": {
+      "id": 11,
+      "key": "weekly_star_limit",
+      "num": 3,
+      "is_loc": 2
+    },
+    "star_consume": {
+      "id": 12,
+      "key": "star_consume",
+      "num": 40,
+      "is_loc": 2
+    },
+    "star_limit_reset_time": {
+      "id": 13,
+      "key": "star_limit_reset_time",
+      "str": "2024-10-28 4:00:00",
+      "is_loc": 2
+    },
+    "star_limit_reset_period": {
+      "id": 14,
+      "key": "star_limit_reset_period",
+      "str": "7 00:00:00",
+      "is_loc": 2
+    },
+    "assist_npc": {
+      "id": 15,
+      "key": "assist_npc",
+      "numList": [
+        21001,
+        21003
+      ],
+      "is_loc": 2
+    },
+    "level_1_assist_pet": {
+      "id": 16,
+      "key": "level_1_assist_pet",
+      "num": 1,
+      "numList": [
+        812001,
+        812034
+      ],
+      "is_loc": 2
+    },
+    "level_2_assist_pet": {
+      "id": 17,
+      "key": "level_2_assist_pet",
+      "num": 1,
+      "numList": [
+        813001,
+        813034
+      ],
+      "is_loc": 2
+    },
+    "level_3_assist_pet": {
+      "id": 18,
+      "key": "level_3_assist_pet",
+      "num": 1,
+      "numList": [
+        814001,
+        814034
+      ],
+      "is_loc": 2
+    },
+    "level_4_assist_pet": {
+      "id": 19,
+      "key": "level_4_assist_pet",
+      "num": 1,
+      "numList": [
+        815001,
+        815034
+      ],
+      "is_loc": 2
+    },
+    "level_5_assist_pet": {
+      "id": 20,
+      "key": "level_5_assist_pet",
+      "is_loc": 2
+    },
+    "level_6_assist_pet": {
+      "id": 21,
+      "key": "level_6_assist_pet",
+      "is_loc": 2
+    },
+    "level_7_assist_pet": {
+      "id": 22,
+      "key": "level_7_assist_pet",
+      "is_loc": 2
+    },
+    "level_8_assist_pet": {
+      "id": 23,
+      "key": "level_8_assist_pet",
+      "is_loc": 2
+    },
+    "level_9_assist_pet": {
+      "id": 24,
+      "key": "level_9_assist_pet",
+      "is_loc": 2
+    },
+    "level_10_assist_pet": {
+      "id": 25,
+      "key": "level_10_assist_pet",
+      "is_loc": 2
+    },
+    "level_1": {
+      "id": 26,
+      "key": "level_1",
+      "num": 1,
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "I",
+      "is_loc": 2
+    },
+    "level_2": {
+      "id": 27,
+      "key": "level_2",
+      "num": 1,
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "II",
+      "is_loc": 2
+    },
+    "level_3": {
+      "id": 28,
+      "key": "level_3",
+      "num": 1,
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "III",
+      "is_loc": 2
+    },
+    "level_4": {
+      "id": 29,
+      "key": "level_4",
+      "num": 1,
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "IV",
+      "is_loc": 2
+    },
+    "level_5": {
+      "id": 30,
+      "key": "level_5",
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "V",
+      "is_loc": 2
+    },
+    "level_6": {
+      "id": 31,
+      "key": "level_6",
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "VI",
+      "is_loc": 2
+    },
+    "level_7": {
+      "id": 32,
+      "key": "level_7",
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "VII",
+      "is_loc": 2
+    },
+    "level_8": {
+      "id": 33,
+      "key": "level_8",
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "VIII",
+      "is_loc": 2
+    },
+    "level_9": {
+      "id": 34,
+      "key": "level_9",
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "IX",
+      "is_loc": 2
+    },
+    "level_10": {
+      "id": 35,
+      "key": "level_10",
+      "numList": [
+        1002,
+        1004,
+        1005,
+        1006
+      ],
+      "str": "X",
+      "is_loc": 2
+    },
+    "level_1_glassy": {
+      "id": 36,
+      "key": "level_1_glassy",
+      "num": 30000,
+      "is_loc": 2
+    },
+    "level_2_glassy": {
+      "id": 37,
+      "key": "level_2_glassy",
+      "num": 30000,
+      "is_loc": 2
+    },
+    "level_3_glassy": {
+      "id": 38,
+      "key": "level_3_glassy",
+      "num": 30000,
+      "is_loc": 2
+    },
+    "level_4_glassy": {
+      "id": 39,
+      "key": "level_4_glassy",
+      "num": 30000,
+      "is_loc": 2
+    },
+    "level_5_glassy": {
+      "id": 40,
+      "key": "level_5_glassy",
+      "is_loc": 2
+    },
+    "level_6_glassy": {
+      "id": 41,
+      "key": "level_6_glassy",
+      "is_loc": 2
+    },
+    "level_7_glassy": {
+      "id": 42,
+      "key": "level_7_glassy",
+      "is_loc": 2
+    },
+    "level_8_glassy": {
+      "id": 43,
+      "key": "level_8_glassy",
+      "is_loc": 2
+    },
+    "level_9_glassy": {
+      "id": 44,
+      "key": "level_9_glassy",
+      "is_loc": 2
+    },
+    "level_10_glassy": {
+      "id": 45,
+      "key": "level_10_glassy",
+      "is_loc": 2
+    },
+    "level_1_shiny": {
+      "id": 46,
+      "key": "level_1_shiny",
+      "is_loc": 2
+    },
+    "level_2_shiny": {
+      "id": 47,
+      "key": "level_2_shiny",
+      "is_loc": 2
+    },
+    "level_3_shiny": {
+      "id": 48,
+      "key": "level_3_shiny",
+      "is_loc": 2
+    },
+    "level_4_shiny": {
+      "id": 49,
+      "key": "level_4_shiny",
+      "is_loc": 2
+    },
+    "level_5_shiny": {
+      "id": 50,
+      "key": "level_5_shiny",
+      "is_loc": 2
+    },
+    "level_6_shiny": {
+      "id": 51,
+      "key": "level_6_shiny",
+      "is_loc": 2
+    },
+    "level_7_shiny": {
+      "id": 52,
+      "key": "level_7_shiny",
+      "is_loc": 2
+    },
+    "level_8_shiny": {
+      "id": 53,
+      "key": "level_8_shiny",
+      "is_loc": 2
+    },
+    "level_9_shiny": {
+      "id": 54,
+      "key": "level_9_shiny",
+      "is_loc": 2
+    },
+    "level_10_shiny": {
+      "id": 55,
+      "key": "level_10_shiny",
+      "is_loc": 2
+    }
+  }
+}

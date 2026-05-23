@@ -1,0 +1,368 @@
+{
+  "Name": "ROLEPLAY_PROP_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EInt32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "name_text",
+      "Type": "ELocalizedString",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "is_initial_unlock",
+      "Type": "EBool",
+      "Offset": 8,
+      "Size": 1
+    },
+    {
+      "Name": "put_prop_type",
+      "Type": "EInt32",
+      "Offset": 9,
+      "Size": 4
+    },
+    {
+      "Name": "occupy_num",
+      "Type": "EInt32",
+      "Offset": 13,
+      "Size": 4
+    },
+    {
+      "Name": "prop_server_radius",
+      "Type": "EInt32",
+      "Offset": 17,
+      "Size": 4
+    },
+    {
+      "Name": "ray_distance",
+      "Type": "EInt32",
+      "Offset": 21,
+      "Size": 4
+    },
+    {
+      "Name": "prop_eqs_box_custom",
+      "Type": "EString",
+      "Offset": 25,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "lift_box",
+      "Type": "EInt32",
+      "Offset": 29,
+      "Size": 4
+    },
+    {
+      "Name": "prop_recycle_distance",
+      "Type": "EInt32",
+      "Offset": 33,
+      "Size": 4
+    },
+    {
+      "Name": "icon_path",
+      "Type": "EString",
+      "Offset": 37,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "interactive_prop_chat_message_type",
+      "Type": "EInt32",
+      "Offset": 41,
+      "Size": 4
+    },
+    {
+      "Name": "message_group",
+      "Type": "EUint32",
+      "Offset": 45,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "scene_sit_blur_type",
+      "Type": "EInt32",
+      "Offset": 49,
+      "Size": 4
+    },
+    {
+      "Name": "flash_sit_1",
+      "Type": "EBool",
+      "Offset": 53,
+      "Size": 1
+    },
+    {
+      "Name": "flash_sit_specialeffect_1",
+      "Type": "EBool",
+      "Offset": 54,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_1",
+      "Type": "EBool",
+      "Offset": 55,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_specialeffect_1",
+      "Type": "EBool",
+      "Offset": 56,
+      "Size": 1
+    },
+    {
+      "Name": "special_pos_1",
+      "Type": "EString",
+      "Offset": 57,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_start_1",
+      "Type": "EString",
+      "Offset": 61,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_end_1",
+      "Type": "EString",
+      "Offset": 65,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "loop_idle_1_m",
+      "Type": "EInt32",
+      "Offset": 69,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "loop_idle_1_w",
+      "Type": "EInt32",
+      "Offset": 73,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "flash_sit_2",
+      "Type": "EBool",
+      "Offset": 77,
+      "Size": 1
+    },
+    {
+      "Name": "flash_sit_specialeffect_2",
+      "Type": "EBool",
+      "Offset": 78,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_2",
+      "Type": "EBool",
+      "Offset": 79,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_specialeffect_2",
+      "Type": "EBool",
+      "Offset": 80,
+      "Size": 1
+    },
+    {
+      "Name": "special_pos_2",
+      "Type": "EString",
+      "Offset": 81,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_start_2",
+      "Type": "EString",
+      "Offset": 85,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_end_2",
+      "Type": "EString",
+      "Offset": 89,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "loop_idle_2_m",
+      "Type": "EInt32",
+      "Offset": 93,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "loop_idle_2_w",
+      "Type": "EInt32",
+      "Offset": 97,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "flash_sit_3",
+      "Type": "EBool",
+      "Offset": 101,
+      "Size": 1
+    },
+    {
+      "Name": "flash_sit_specialeffect_3",
+      "Type": "EBool",
+      "Offset": 102,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_3",
+      "Type": "EBool",
+      "Offset": 103,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_specialeffect_3",
+      "Type": "EBool",
+      "Offset": 104,
+      "Size": 1
+    },
+    {
+      "Name": "special_pos_3",
+      "Type": "EString",
+      "Offset": 105,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_start_3",
+      "Type": "EString",
+      "Offset": 109,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_end_3",
+      "Type": "EString",
+      "Offset": 113,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "loop_idle_3_m",
+      "Type": "EInt32",
+      "Offset": 117,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "loop_idle_3_w",
+      "Type": "EInt32",
+      "Offset": 121,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "flash_sit_4",
+      "Type": "EBool",
+      "Offset": 125,
+      "Size": 1
+    },
+    {
+      "Name": "flash_sit_specialeffect_4",
+      "Type": "EBool",
+      "Offset": 126,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_4",
+      "Type": "EBool",
+      "Offset": 127,
+      "Size": 1
+    },
+    {
+      "Name": "flash_stand_specialeffect_4",
+      "Type": "EBool",
+      "Offset": 128,
+      "Size": 1
+    },
+    {
+      "Name": "special_pos_4",
+      "Type": "EString",
+      "Offset": 129,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_start_4",
+      "Type": "EString",
+      "Offset": 133,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "special_end_4",
+      "Type": "EString",
+      "Offset": 137,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "loop_idle_4_m",
+      "Type": "EInt32",
+      "Offset": 141,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "loop_idle_4_w",
+      "Type": "EInt32",
+      "Offset": 145,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "blindbox_open_pos",
+      "Type": "EString",
+      "Offset": 149,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "blindbox_out_pos",
+      "Type": "EString",
+      "Offset": 153,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "blindbox_battle_pos",
+      "Type": "EString",
+      "Offset": 157,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "handheld_pos",
+      "Type": "EString",
+      "Offset": 161,
+      "Size": 4,
+      "CompressedSize": 4
+    }
+  ]
+}

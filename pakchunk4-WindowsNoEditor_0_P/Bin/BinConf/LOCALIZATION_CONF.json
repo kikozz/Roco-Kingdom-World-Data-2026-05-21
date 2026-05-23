@@ -1,0 +1,20 @@
+{
+  "Name": "LOCALIZATION_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EString",
+      "Offset": 0,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "msg",
+      "Type": "ELocalizedString",
+      "Offset": 4,
+      "Size": 4
+    }
+  ]
+}

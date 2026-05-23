@@ -1,0 +1,13 @@
+{
+  "Name": "NRC_GROUP_AI_ROLE_TYPE_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EInt32",
+      "Offset": 0,
+      "Size": 4
+    }
+  ]
+}

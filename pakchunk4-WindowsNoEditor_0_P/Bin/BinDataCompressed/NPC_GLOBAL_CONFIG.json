@@ -1,0 +1,1627 @@
+{
+  "RocoDataRows": {
+    "trace_npc_maximum": {
+      "id": 2,
+      "key": "trace_npc_maximum",
+      "num": 10,
+      "is_loc": 2
+    },
+    "trace_npc_response_time": {
+      "id": 52,
+      "key": "trace_npc_response_time",
+      "num": 1,
+      "is_loc": 2
+    },
+    "trace_npc_last_time": {
+      "id": 53,
+      "key": "trace_npc_last_time",
+      "num": 3,
+      "is_loc": 2
+    },
+    "perform_distance": {
+      "id": 61,
+      "key": "perform_distance",
+      "num": 200,
+      "is_loc": 2
+    },
+    "player_hide_complete_time": {
+      "id": 68,
+      "key": "player_hide_complete_time",
+      "num": 3000,
+      "is_loc": 2
+    },
+    "multi_combat_search_range": {
+      "id": 69,
+      "key": "multi_combat_search_range",
+      "num": 600,
+      "is_loc": 2
+    },
+    "multi_combat_enemy_limit": {
+      "id": 70,
+      "key": "multi_combat_enemy_limit",
+      "num": 6,
+      "is_loc": 2
+    },
+    "perform_angle": {
+      "id": 71,
+      "key": "perform_angle",
+      "num": 90,
+      "is_loc": 2
+    },
+    "vison_spread_time": {
+      "id": 72,
+      "key": "vison_spread_time",
+      "num": 500,
+      "is_loc": 2
+    },
+    "flee_last_time": {
+      "id": 73,
+      "key": "flee_last_time",
+      "num": 3500,
+      "is_loc": 2
+    },
+    "flee_complete_time": {
+      "id": 74,
+      "key": "flee_complete_time",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "visible_range_1": {
+      "id": 75,
+      "key": "visible_range_1",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_2": {
+      "id": 76,
+      "key": "visible_range_2",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_3": {
+      "id": 77,
+      "key": "visible_range_3",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "behavior_tree_stop_range": {
+      "id": 79,
+      "key": "behavior_tree_stop_range",
+      "num": 7500,
+      "is_loc": 2
+    },
+    "hard_catch_difference": {
+      "id": 102,
+      "key": "hard_catch_difference",
+      "num": 100,
+      "is_loc": 2
+    },
+    "zero_catch_difference": {
+      "id": 103,
+      "key": "zero_catch_difference",
+      "num": 100,
+      "is_loc": 2
+    },
+    "npc_exist_time": {
+      "id": 120,
+      "key": "npc_exist_time",
+      "num": 24,
+      "is_loc": 2
+    },
+    "is_hide_other_player": {
+      "id": 123,
+      "key": "is_hide_other_player",
+      "num": 1,
+      "is_loc": 2
+    },
+    "item_acquire_jump_distance": {
+      "id": 137,
+      "key": "item_acquire_jump_distance",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_11": {
+      "id": 139,
+      "key": "visible_range_11",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_12": {
+      "id": 140,
+      "key": "visible_range_12",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_13": {
+      "id": 141,
+      "key": "visible_range_13",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_14": {
+      "id": 142,
+      "key": "visible_range_14",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_zone_release_time": {
+      "id": 146,
+      "key": "visible_zone_release_time",
+      "num": 180,
+      "is_loc": 2
+    },
+    "visible_zone_id_partiotion": {
+      "id": 147,
+      "key": "visible_zone_id_partiotion",
+      "num": 4000000,
+      "is_loc": 2
+    },
+    "visible_range_15": {
+      "id": 148,
+      "key": "visible_range_15",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "visible_range_16": {
+      "id": 149,
+      "key": "visible_range_16",
+      "num": 7000,
+      "is_loc": 2
+    },
+    "visible_range_17": {
+      "id": 150,
+      "key": "visible_range_17",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "scene_ninegrid_size": {
+      "id": 153,
+      "key": "scene_ninegrid_size",
+      "num": 20000,
+      "is_loc": 2
+    },
+    "scene_ring_grid_size": {
+      "id": 154,
+      "key": "scene_ring_grid_size",
+      "num": 2500,
+      "is_loc": 2
+    },
+    "npc_instantiate_policy": {
+      "id": 155,
+      "key": "npc_instantiate_policy",
+      "is_loc": 2
+    },
+    "area_load_extent_aoi_ratio": {
+      "id": 156,
+      "key": "area_load_extent_aoi_ratio",
+      "num": 15,
+      "is_loc": 2
+    },
+    "pet_interact_range": {
+      "id": 179,
+      "key": "pet_interact_range",
+      "num": 300,
+      "is_loc": 2
+    },
+    "air_overlap_range_expansion": {
+      "id": 180,
+      "key": "air_overlap_range_expansion",
+      "num": 300,
+      "is_loc": 2
+    },
+    "pet_fight_range": {
+      "id": 182,
+      "key": "pet_fight_range",
+      "num": 300,
+      "is_loc": 2
+    },
+    "throw_linetrace_distance": {
+      "id": 183,
+      "key": "throw_linetrace_distance",
+      "num": 3000,
+      "is_loc": 2
+    },
+    "petrelease_distance": {
+      "id": 184,
+      "key": "petrelease_distance",
+      "num": 6500,
+      "is_loc": 2
+    },
+    "aimcontrol_yaw": {
+      "id": 185,
+      "key": "aimcontrol_yaw",
+      "num": 65,
+      "is_loc": 2
+    },
+    "aimcontrol_pitch": {
+      "id": 186,
+      "key": "aimcontrol_pitch",
+      "num": 25,
+      "is_loc": 2
+    },
+    "CTT_min": {
+      "id": 187,
+      "key": "CTT_min",
+      "num": 1,
+      "is_loc": 2
+    },
+    "camera_angle_speed": {
+      "id": 188,
+      "key": "camera_angle_speed",
+      "str": "0.7",
+      "is_loc": 2
+    },
+    "projectile_bounciness": {
+      "id": 189,
+      "key": "projectile_bounciness",
+      "str": "0.2",
+      "is_loc": 2
+    },
+    "projectile_friction": {
+      "id": 190,
+      "key": "projectile_friction",
+      "str": "0.8",
+      "is_loc": 2
+    },
+    "projectile_bounciness_disturb": {
+      "id": 191,
+      "key": "projectile_bounciness_disturb",
+      "str": "0.05",
+      "is_loc": 2
+    },
+    "projectile_friction_disturb": {
+      "id": 192,
+      "key": "projectile_friction_disturb",
+      "str": "0.05",
+      "is_loc": 2
+    },
+    "npc_turn_time": {
+      "id": 193,
+      "key": "npc_turn_time",
+      "str": "0.5",
+      "is_loc": 2
+    },
+    "player_turn_time": {
+      "id": 194,
+      "key": "player_turn_time",
+      "str": "0.8",
+      "is_loc": 2
+    },
+    "enable_area_load": {
+      "id": 196,
+      "key": "enable_area_load",
+      "is_loc": 2
+    },
+    "behavior_tree_root_path": {
+      "id": 197,
+      "key": "behavior_tree_root_path",
+      "str": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/",
+      "is_loc": 2
+    },
+    "amplitude_dip_bag": {
+      "id": 198,
+      "key": "amplitude_dip_bag",
+      "num": 20,
+      "is_loc": 2
+    },
+    "amplitude_dip_pet": {
+      "id": 199,
+      "key": "amplitude_dip_pet",
+      "num": 30,
+      "is_loc": 2
+    },
+    "amplitude_dip_map": {
+      "id": 200,
+      "key": "amplitude_dip_map",
+      "num": 40,
+      "is_loc": 2
+    },
+    "amplitude_dip_task": {
+      "id": 201,
+      "key": "amplitude_dip_task",
+      "num": 50,
+      "is_loc": 2
+    },
+    "amplitude_dip_handbook": {
+      "id": 202,
+      "key": "amplitude_dip_handbook",
+      "num": 60,
+      "is_loc": 2
+    },
+    "amplitude_dip_battle": {
+      "id": 203,
+      "key": "amplitude_dip_battle",
+      "num": 10,
+      "is_loc": 2
+    },
+    "camera_speed_unfold_compass": {
+      "id": 204,
+      "key": "camera_speed_unfold_compass",
+      "str": "2",
+      "is_loc": 2
+    },
+    "camera_speed_retract_compass": {
+      "id": 205,
+      "key": "camera_speed_retract_compass",
+      "str": "2",
+      "is_loc": 2
+    },
+    "bt_response_range_1": {
+      "id": 206,
+      "key": "bt_response_range_1",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "bt_response_range_2": {
+      "id": 207,
+      "key": "bt_response_range_2",
+      "num": 7500,
+      "is_loc": 2
+    },
+    "bt_response_range_3": {
+      "id": 208,
+      "key": "bt_response_range_3",
+      "num": 7500,
+      "is_loc": 2
+    },
+    "bt_response_range_11": {
+      "id": 209,
+      "key": "bt_response_range_11",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "bt_response_range_12": {
+      "id": 210,
+      "key": "bt_response_range_12",
+      "num": 20000,
+      "is_loc": 2
+    },
+    "bt_response_range_13": {
+      "id": 211,
+      "key": "bt_response_range_13",
+      "num": 30000,
+      "is_loc": 2
+    },
+    "bt_response_range_14": {
+      "id": 212,
+      "key": "bt_response_range_14",
+      "num": 100000,
+      "is_loc": 2
+    },
+    "hd_meteor_height_offset": {
+      "id": 213,
+      "key": "hd_meteor_height_offset",
+      "num": 26000,
+      "is_loc": 2
+    },
+    "hd_meteor_width_offset": {
+      "id": 214,
+      "key": "hd_meteor_width_offset",
+      "num": -40000,
+      "is_loc": 2
+    },
+    "hd_meteor_height_bias": {
+      "id": 215,
+      "key": "hd_meteor_height_bias",
+      "num": -20,
+      "is_loc": 2
+    },
+    "hd_meteor_width_bias": {
+      "id": 216,
+      "key": "hd_meteor_width_bias",
+      "num": 200,
+      "is_loc": 2
+    },
+    "hd_meteor_move_time": {
+      "id": 217,
+      "key": "hd_meteor_move_time",
+      "num": 30,
+      "is_loc": 2
+    },
+    "hd_meteot_wind_offset": {
+      "id": 218,
+      "key": "hd_meteot_wind_offset",
+      "num": 80000,
+      "is_loc": 2
+    },
+    "meta_ai_behavior_tree_path": {
+      "id": 219,
+      "key": "meta_ai_behavior_tree_path",
+      "str": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/BT_MetaAI",
+      "is_loc": 2
+    },
+    "online_npc_option_visible": {
+      "id": 221,
+      "key": "online_npc_option_visible",
+      "num": 1,
+      "is_loc": 2
+    },
+    "throw_pet_ball_npcid": {
+      "id": 222,
+      "key": "throw_pet_ball_npcid",
+      "num": 65460,
+      "is_loc": 2
+    },
+    "npc_behavior_close_recover_CD": {
+      "id": 225,
+      "key": "npc_behavior_close_recover_CD",
+      "num": 4500,
+      "is_loc": 2
+    },
+    "photosynthesis_flower_once": {
+      "id": 226,
+      "key": "photosynthesis_flower_once",
+      "numList": [
+        1,
+        2
+      ],
+      "is_loc": 2
+    },
+    "photosynthesis_flower_id": {
+      "id": 227,
+      "key": "photosynthesis_flower_id",
+      "num": 140330,
+      "is_loc": 2
+    },
+    "photosynthesis_flower_furthest": {
+      "id": 228,
+      "key": "photosynthesis_flower_furthest",
+      "num": 180,
+      "is_loc": 2
+    },
+    "photosynthesis_flower_nearest": {
+      "id": 229,
+      "key": "photosynthesis_flower_nearest",
+      "num": 50,
+      "is_loc": 2
+    },
+    "starmagic_damage": {
+      "id": 230,
+      "key": "starmagic_damage",
+      "numList": [
+        100,
+        150,
+        300,
+        450
+      ],
+      "is_loc": 2
+    },
+    "worldcombat_stun_buff": {
+      "id": 231,
+      "key": "worldcombat_stun_buff",
+      "numList": [
+        30005,
+        30006,
+        30013,
+        30014
+      ],
+      "is_loc": 2
+    },
+    "weakness_buff": {
+      "id": 232,
+      "key": "weakness_buff",
+      "num": 30007,
+      "is_loc": 2
+    },
+    "barrier_buff_invicible_time": {
+      "id": 233,
+      "key": "barrier_buff_invicible_time",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "worldcombat_shield_max_value": {
+      "id": 234,
+      "key": "worldcombat_shield_max_value",
+      "num": 2500,
+      "is_loc": 2
+    },
+    "worldcombat_begin_tips_id": {
+      "id": 235,
+      "key": "worldcombat_begin_tips_id",
+      "str": "worldcombat_tips_1",
+      "is_loc": 2
+    },
+    "worldcombat_barrier_broken_tips_id": {
+      "id": 236,
+      "key": "worldcombat_barrier_broken_tips_id",
+      "str": "worldcombat_tips_2",
+      "is_loc": 2
+    },
+    "worldcombat_internal_battle_finish_tips_id": {
+      "id": 237,
+      "key": "worldcombat_internal_battle_finish_tips_id",
+      "str": "worldcombat_tips_3",
+      "is_loc": 2
+    },
+    "ai_release_npc_play_skill": {
+      "id": 238,
+      "key": "ai_release_npc_play_skill",
+      "str": "/Game/ArtRes/Effects/G6Skill/SceneEffect/791247",
+      "is_loc": 2
+    },
+    "pet_fight_range_height": {
+      "id": 239,
+      "key": "pet_fight_range_height",
+      "num": 150,
+      "is_loc": 2
+    },
+    "npc_overlap_cooldown": {
+      "id": 240,
+      "key": "npc_overlap_cooldown",
+      "num": 500,
+      "is_loc": 2
+    },
+    "owl_npc_refresh_content_id_min": {
+      "id": 241,
+      "key": "owl_npc_refresh_content_id_min",
+      "num": 9000000,
+      "is_loc": 2
+    },
+    "owl_npc_refresh_content_id_max": {
+      "id": 242,
+      "key": "owl_npc_refresh_content_id_max",
+      "num": 9999999,
+      "is_loc": 2
+    },
+    "worldcombat_exit_timer": {
+      "id": 243,
+      "key": "worldcombat_exit_timer",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "shock_stun_buff": {
+      "id": 244,
+      "key": "shock_stun_buff",
+      "num": 50022,
+      "is_loc": 2
+    },
+    "ai_refresh_num": {
+      "id": 245,
+      "key": "ai_refresh_num",
+      "numList": [
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "is_loc": 2
+    },
+    "ai_refresh_id": {
+      "id": 246,
+      "key": "ai_refresh_id",
+      "numList": [
+        140330,
+        2300003,
+        2300004,
+        3810003,
+        3810004,
+        2702226,
+        3810005,
+        3810006,
+        3810007,
+        3810008,
+        3810009,
+        3800003,
+        3820000,
+        3820001,
+        3820002,
+        3820003,
+        3820004,
+        3800010,
+        3800011,
+        3800012,
+        3800013,
+        3800014,
+        3800015,
+        3800016,
+        3800017,
+        3800018,
+        3800019,
+        3800020,
+        3800021,
+        3800022,
+        3800023,
+        3800024,
+        3800025,
+        3800026,
+        3800027,
+        3800028,
+        3800029,
+        3800030,
+        3800031,
+        3800032,
+        3810011,
+        100118,
+        100119,
+        100120,
+        3810015,
+        3000004,
+        3000005,
+        3000006,
+        3000007,
+        3000008,
+        3000009,
+        2800176,
+        2800177,
+        2800178,
+        2800179,
+        2800180,
+        2800181,
+        2800182,
+        2800183,
+        2800184,
+        2800186,
+        2800187,
+        2800188,
+        100379,
+        100379,
+        100379,
+        100378,
+        100378,
+        100378,
+        100378,
+        100378,
+        100378,
+        2800189,
+        2800190,
+        3810016,
+        3810017,
+        3810018,
+        2800191,
+        2800192,
+        2800193,
+        2800194,
+        2800195,
+        2800196,
+        2800197,
+        2800198,
+        2800199,
+        2800200,
+        2800201,
+        2800202,
+        2800203,
+        2800204,
+        2800205,
+        2800206,
+        2800207,
+        2800208,
+        3800033,
+        5300001,
+        5300002,
+        2800209,
+        2800210,
+        2800211,
+        2800212,
+        2800213,
+        2800214,
+        2800215,
+        2800216,
+        2800217,
+        2800218,
+        3800034,
+        5500482,
+        5500483,
+        2300005,
+        2300006,
+        140331,
+        140332,
+        140333,
+        140334,
+        140335
+      ],
+      "is_loc": 2
+    },
+    "players_interact_distance": {
+      "id": 247,
+      "key": "players_interact_distance",
+      "num": 300,
+      "is_loc": 2
+    },
+    "players_interact_option_num": {
+      "id": 248,
+      "key": "players_interact_option_num",
+      "num": 1,
+      "is_loc": 2
+    },
+    "scene_npc_bp_path_prefix": {
+      "id": 249,
+      "key": "scene_npc_bp_path_prefix",
+      "is_loc": 2
+    },
+    "spe_refresh_trig_owl": {
+      "id": 250,
+      "key": "spe_refresh_trig_owl",
+      "num": 141666,
+      "is_loc": 2
+    },
+    "auto_cal_option_distance": {
+      "id": 251,
+      "key": "auto_cal_option_distance",
+      "num": 80,
+      "is_loc": 2
+    },
+    "ai_revise_sals": {
+      "id": 252,
+      "key": "ai_revise_sals",
+      "numList": [
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1200,
+        1501,
+        1601,
+        1801
+      ],
+      "is_loc": 2
+    },
+    "svr_ai_lod_0_radius": {
+      "id": 253,
+      "key": "svr_ai_lod_0_radius",
+      "num": 2000,
+      "is_loc": 2
+    },
+    "npc_block_size": {
+      "id": 254,
+      "key": "npc_block_size",
+      "num": 50400,
+      "is_loc": 2
+    },
+    "sensed_player_switch_player_status": {
+      "id": 255,
+      "key": "sensed_player_switch_player_status",
+      "numList": [
+        8,
+        12,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "is_loc": 2
+    },
+    "ai_npc_retrieval_interval": {
+      "id": 256,
+      "key": "ai_npc_retrieval_interval",
+      "is_loc": 2
+    },
+    "overwrite_world_player_status_type_fsm": {
+      "id": 257,
+      "key": "overwrite_world_player_status_type_fsm",
+      "numList": [
+        3,
+        4,
+        6,
+        12,
+        13,
+        22,
+        23,
+        26,
+        27,
+        28
+      ],
+      "is_loc": 2
+    },
+    "overwrite_action_type_fsm": {
+      "id": 258,
+      "key": "overwrite_action_type_fsm",
+      "numList": [
+        21,
+        10001,
+        10002,
+        10010,
+        10014,
+        10015,
+        10016
+      ],
+      "is_loc": 2
+    },
+    "overwrite_space_actor_logic_status_fsm": {
+      "id": 259,
+      "key": "overwrite_space_actor_logic_status_fsm",
+      "numList": [
+        1100,
+        1101,
+        1102,
+        1104,
+        1111,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1601
+      ],
+      "is_loc": 2
+    },
+    "wild_action_max_range": {
+      "id": 260,
+      "key": "wild_action_max_range",
+      "num": 2000,
+      "is_loc": 2
+    },
+    "act_behavior_overwrite_max_range": {
+      "id": 261,
+      "key": "act_behavior_overwrite_max_range",
+      "num": 3000,
+      "is_loc": 2
+    },
+    "act_perform_conf_overwrite_max_range": {
+      "id": 262,
+      "key": "act_perform_conf_overwrite_max_range",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "trig_npc_refresh_content_id_min": {
+      "id": 263,
+      "key": "trig_npc_refresh_content_id_min",
+      "num": 8100000,
+      "is_loc": 2
+    },
+    "trig_npc_refresh_content_id_max": {
+      "id": 264,
+      "key": "trig_npc_refresh_content_id_max",
+      "num": 8999999,
+      "is_loc": 2
+    },
+    "max_stick_range": {
+      "id": 265,
+      "key": "max_stick_range",
+      "num": 750,
+      "is_loc": 2
+    },
+    "ai_query_navpoly_interval": {
+      "id": 266,
+      "key": "ai_query_navpoly_interval",
+      "num": 2,
+      "is_loc": 2
+    },
+    "detect_position_npc_id": {
+      "id": 267,
+      "key": "detect_position_npc_id",
+      "numList": [
+        29179,
+        29189
+      ],
+      "is_loc": 2
+    },
+    "set_npc_pos_check_param": {
+      "id": 268,
+      "key": "set_npc_pos_check_param",
+      "numList": [
+        0,
+        2000,
+        5000,
+        6000,
+        7000
+      ],
+      "is_loc": 2
+    },
+    "worldcombat_gain_buff": {
+      "id": 269,
+      "key": "worldcombat_gain_buff",
+      "num": 30015,
+      "is_loc": 2
+    },
+    "worldcombat_execution_tips_id": {
+      "id": 270,
+      "key": "worldcombat_execution_tips_id",
+      "str": "worldcombat_execution_tips",
+      "is_loc": 2
+    },
+    "worldcombat_exit_tips_id": {
+      "id": 271,
+      "key": "worldcombat_exit_tips_id",
+      "str": "worldcombat_exit_tips",
+      "is_loc": 2
+    },
+    "sticked_socket_player": {
+      "id": 272,
+      "key": "sticked_socket_player",
+      "numList": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "is_loc": 2
+    },
+    "stick_to_socket_enum_mapping": {
+      "id": 273,
+      "key": "stick_to_socket_enum_mapping",
+      "str": "locator_pos;locator_l_foot;locator_r_foot;locator_hurt;locator_back;locator_overhead;locator_cam;locator_l_shoulder;locator_r_shoulder;locator_pos;locator_body",
+      "is_loc": 2
+    },
+    "role_play_think_behavior_group": {
+      "id": 274,
+      "key": "role_play_think_behavior_group",
+      "num": 10054,
+      "is_loc": 2
+    },
+    "role_play_think_end_fsm": {
+      "id": 275,
+      "key": "role_play_think_end_fsm",
+      "num": 71,
+      "is_loc": 2
+    },
+    "worldcombat_online_hp_compensation": {
+      "id": 276,
+      "key": "worldcombat_online_hp_compensation",
+      "numList": [
+        100,
+        160,
+        180,
+        200
+      ],
+      "is_loc": 2
+    },
+    "worldcombat_online_shield_compensation": {
+      "id": 277,
+      "key": "worldcombat_online_shield_compensation",
+      "numList": [
+        100,
+        200,
+        300,
+        300
+      ],
+      "is_loc": 2
+    },
+    "planeness_allowance_angle": {
+      "id": 278,
+      "key": "planeness_allowance_angle",
+      "num": 15,
+      "is_loc": 2
+    },
+    "nexus_overlap_land_height_allowance": {
+      "id": 279,
+      "key": "nexus_overlap_land_height_allowance",
+      "num": 100,
+      "is_loc": 2
+    },
+    "nexus_to_player_distance_when_creating": {
+      "id": 280,
+      "key": "nexus_to_player_distance_when_creating",
+      "num": 50,
+      "is_loc": 2
+    },
+    "mimic_banned_time_by_light_magic": {
+      "id": 281,
+      "key": "mimic_banned_time_by_light_magic",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "can_light_magic_reveal_mimic": {
+      "id": 282,
+      "key": "can_light_magic_reveal_mimic",
+      "num": 1,
+      "is_loc": 2
+    },
+    "nexus_enable_cam": {
+      "id": 283,
+      "key": "nexus_enable_cam",
+      "num": 1,
+      "is_loc": 2
+    },
+    "wild_limit_glass_num": {
+      "id": 284,
+      "key": "wild_limit_glass_num",
+      "num": 1,
+      "is_loc": 2
+    },
+    "wild_limit_glass_reset_date": {
+      "id": 285,
+      "key": "wild_limit_glass_reset_date",
+      "str": "2024-12-23 04:00:00",
+      "is_loc": 2
+    },
+    "wild_limit_glass_reset_gap": {
+      "id": 286,
+      "key": "wild_limit_glass_reset_gap",
+      "str": "14 00:00:00",
+      "is_loc": 2
+    },
+    "act_teleport_no_loading_max_range": {
+      "id": 287,
+      "key": "act_teleport_no_loading_max_range",
+      "num": 100000,
+      "is_loc": 2
+    },
+    "ban_roleplay_overwrite_statetype_list": {
+      "id": 288,
+      "key": "ban_roleplay_overwrite_statetype_list",
+      "numList": [
+        1,
+        2,
+        4,
+        8,
+        9,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "is_loc": 2
+    },
+    "server_blow_away_force": {
+      "id": 289,
+      "key": "server_blow_away_force",
+      "num": 750,
+      "is_loc": 2
+    },
+    "drop_npc_auto_interact_time": {
+      "id": 290,
+      "key": "drop_npc_auto_interact_time",
+      "num": 5,
+      "is_loc": 2
+    },
+    "default_npc_lookat_distance": {
+      "id": 291,
+      "key": "default_npc_lookat_distance",
+      "num": 400,
+      "is_loc": 2
+    },
+    "default_npc_impact_vibration_cd": {
+      "id": 292,
+      "key": "default_npc_impact_vibration_cd",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "planeness_allowance_height": {
+      "id": 293,
+      "key": "planeness_allowance_height",
+      "num": 30,
+      "is_loc": 2
+    },
+    "planeness_allowance_failed_point_ratio": {
+      "id": 294,
+      "key": "planeness_allowance_failed_point_ratio",
+      "str": "0.3",
+      "is_loc": 2
+    },
+    "throw_npc_ai_pause_timeout": {
+      "id": 295,
+      "key": "throw_npc_ai_pause_timeout",
+      "num": 3,
+      "is_loc": 2
+    },
+    "create_magic_boss_area_distance": {
+      "id": 296,
+      "key": "create_magic_boss_area_distance",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "npc_option_hint_scan_distance": {
+      "id": 297,
+      "key": "npc_option_hint_scan_distance",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "magic_message_create_range": {
+      "id": 298,
+      "key": "magic_message_create_range",
+      "num": 300,
+      "is_loc": 2
+    },
+    "magic_message_create_height": {
+      "id": 299,
+      "key": "magic_message_create_height",
+      "num": 50,
+      "is_loc": 2
+    },
+    "magic_message_create_angle": {
+      "id": 300,
+      "key": "magic_message_create_angle",
+      "num": 40,
+      "is_loc": 2
+    },
+    "home_callin_behavior_group": {
+      "id": 301,
+      "key": "home_callin_behavior_group",
+      "num": 10017,
+      "is_loc": 2
+    },
+    "home_guard_ai_perform_id": {
+      "id": 302,
+      "key": "home_guard_ai_perform_id",
+      "num": 46,
+      "is_loc": 2
+    },
+    "least_turn_to_angle": {
+      "id": 303,
+      "key": "least_turn_to_angle",
+      "num": 10,
+      "is_loc": 2
+    },
+    "home_steal_attack_behavior_group": {
+      "id": 304,
+      "key": "home_steal_attack_behavior_group",
+      "num": 10032,
+      "is_loc": 2
+    },
+    "players_realtion_interact_distance": {
+      "id": 305,
+      "key": "players_realtion_interact_distance",
+      "num": 2000,
+      "is_loc": 2
+    },
+    "pet_bond_option_num": {
+      "id": 306,
+      "key": "pet_bond_option_num",
+      "num": 1,
+      "is_loc": 2
+    },
+    "pet_bond_icon_distance": {
+      "id": 307,
+      "key": "pet_bond_icon_distance",
+      "num": 400,
+      "is_loc": 2
+    },
+    "wild_nightmare_elite_ai_group": {
+      "id": 308,
+      "key": "wild_nightmare_elite_ai_group",
+      "num": 19,
+      "is_loc": 2
+    },
+    "wild_nightma_elite_battle_conf": {
+      "id": 309,
+      "key": "wild_nightma_elite_battle_conf",
+      "num": 100000,
+      "is_loc": 2
+    },
+    "wild_limit_nightmare_num": {
+      "id": 310,
+      "key": "wild_limit_nightmare_num",
+      "num": 30,
+      "is_loc": 2
+    },
+    "wild_limit_nightmare_reset_date": {
+      "id": 311,
+      "key": "wild_limit_nightmare_reset_date",
+      "str": "2024-12-23 04:00:00",
+      "is_loc": 2
+    },
+    "wild_limit_nightmare_reset_gap": {
+      "id": 312,
+      "key": "wild_limit_nightmare_reset_gap",
+      "str": "3 00:00:00",
+      "is_loc": 2
+    },
+    "online_battle_show_player_npc_refresh_radius": {
+      "id": 313,
+      "key": "online_battle_show_player_npc_refresh_radius",
+      "numList": [
+        300,
+        200
+      ],
+      "is_loc": 2
+    },
+    "online_battle_show_enemy_npc_refresh_radius": {
+      "id": 314,
+      "key": "online_battle_show_enemy_npc_refresh_radius",
+      "numList": [
+        500,
+        400
+      ],
+      "is_loc": 2
+    },
+    "online_battle_show_npc_refresh_angle": {
+      "id": 315,
+      "key": "online_battle_show_npc_refresh_angle",
+      "numList": [
+        -30,
+        30
+      ],
+      "is_loc": 2
+    },
+    "online_battle_show_height_max_gap": {
+      "id": 316,
+      "key": "online_battle_show_height_max_gap",
+      "num": 200,
+      "is_loc": 2
+    },
+    "mark_life_flower_id": {
+      "id": 317,
+      "key": "mark_life_flower_id",
+      "num": 55562,
+      "is_loc": 2
+    },
+    "mark_energe_flower_id": {
+      "id": 318,
+      "key": "mark_energe_flower_id",
+      "num": 55563,
+      "is_loc": 2
+    },
+    "mark_magic_message_id": {
+      "id": 319,
+      "key": "mark_magic_message_id",
+      "num": 55561,
+      "is_loc": 2
+    },
+    "mark_fake_magic_message_id": {
+      "id": 320,
+      "key": "mark_fake_magic_message_id",
+      "num": 55566,
+      "is_loc": 2
+    },
+    "bpt_accumulate_factor1_min_p": {
+      "id": 321,
+      "key": "bpt_accumulate_factor1_min_p",
+      "num": 30,
+      "is_loc": 2
+    },
+    "bpt_accumulate_factor2_min_p": {
+      "id": 322,
+      "key": "bpt_accumulate_factor2_min_p",
+      "num": 100,
+      "is_loc": 2
+    },
+    "bpt_accumulate_factor3_min_p": {
+      "id": 323,
+      "key": "bpt_accumulate_factor3_min_p",
+      "num": 100,
+      "is_loc": 2
+    },
+    "bpt_accumulate_factor4_min_p": {
+      "id": 324,
+      "key": "bpt_accumulate_factor4_min_p",
+      "num": 100,
+      "is_loc": 2
+    },
+    "bonus_event_petbase_field_count": {
+      "id": 325,
+      "key": "bonus_event_petbase_field_count",
+      "num": 10,
+      "is_loc": 2
+    },
+    "rft_bonus_rand_range": {
+      "id": 326,
+      "key": "rft_bonus_rand_range",
+      "numList": [
+        0,
+        3000
+      ],
+      "is_loc": 2
+    },
+    "ban_catch_pet_world_hide_type": {
+      "id": 327,
+      "key": "ban_catch_pet_world_hide_type",
+      "str": "WH_MIMIC;WH_MIMIC_OPTION;WH_GHOST;WH_DRILL_IMME",
+      "is_loc": 2
+    },
+    "random_nightmare_elite_scale_fix": {
+      "id": 328,
+      "key": "random_nightmare_elite_scale_fix",
+      "num": 140,
+      "is_loc": 2
+    },
+    "catch_pet_world_cant_colorpet_ball": {
+      "id": 329,
+      "key": "catch_pet_world_cant_colorpet_ball",
+      "numList": [
+        100286,
+        100288,
+        100289
+      ],
+      "is_loc": 2
+    },
+    "is_visit_chaos_can_catch": {
+      "id": 330,
+      "key": "is_visit_chaos_can_catch",
+      "num": 1,
+      "is_loc": 2
+    },
+    "ball_land_effectiveradius": {
+      "id": 331,
+      "key": "ball_land_effectiveradius",
+      "num": 50,
+      "is_loc": 2
+    },
+    "ball_sky_effectiveradius": {
+      "id": 332,
+      "key": "ball_sky_effectiveradius",
+      "num": 100,
+      "is_loc": 2
+    },
+    "refresh_bonus_story_flag": {
+      "id": 333,
+      "key": "refresh_bonus_story_flag",
+      "num": 9881,
+      "is_loc": 2
+    },
+    "visit_owl_fruit_to_num": {
+      "id": 334,
+      "key": "visit_owl_fruit_to_num",
+      "numList": [
+        6,
+        12,
+        18,
+        24,
+        26,
+        28,
+        30,
+        32
+      ],
+      "is_loc": 2
+    },
+    "visit_owl_npc_check_gap": {
+      "id": 335,
+      "key": "visit_owl_npc_check_gap",
+      "str": "00:01:30",
+      "is_loc": 2
+    },
+    "visit_owl_npc_refresh_content_id_min": {
+      "id": 336,
+      "key": "visit_owl_npc_refresh_content_id_min",
+      "num": 15000000,
+      "is_loc": 2
+    },
+    "visit_owl_npc_refresh_content_id_max": {
+      "id": 337,
+      "key": "visit_owl_npc_refresh_content_id_max",
+      "num": 19999999,
+      "is_loc": 2
+    },
+    "visit_owl_npc_refresh_rule": {
+      "id": 338,
+      "key": "visit_owl_npc_refresh_rule",
+      "num": 30,
+      "is_loc": 2
+    },
+    "mimic_aim_dispaly_null": {
+      "id": 339,
+      "key": "mimic_aim_dispaly_null",
+      "str": "WH_MIMIC;WH_MIMIC_OPTION",
+      "is_loc": 2
+    },
+    "tongyongnpc_default_mfbt_tree_path": {
+      "id": 340,
+      "key": "tongyongnpc_default_mfbt_tree_path",
+      "str": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_BossAttack_TongyongNPC",
+      "is_loc": 2
+    },
+    "falling_speed_uplimit": {
+      "id": 341,
+      "key": "falling_speed_uplimit",
+      "num": 1960,
+      "is_loc": 2
+    },
+    "catch_info_record_max_habitat_group_num": {
+      "id": 342,
+      "key": "catch_info_record_max_habitat_group_num",
+      "num": 5,
+      "is_loc": 2
+    },
+    "catch_info_record_max_evolution_num": {
+      "id": 343,
+      "key": "catch_info_record_max_evolution_num",
+      "num": 5,
+      "is_loc": 2
+    },
+    "catch_info_record_max_time": {
+      "id": 344,
+      "key": "catch_info_record_max_time",
+      "num": 3600,
+      "is_loc": 2
+    },
+    "neighbour_max_range": {
+      "id": 345,
+      "key": "neighbour_max_range",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "owl_npc_pet_habitat_group_id_min": {
+      "id": 346,
+      "key": "owl_npc_pet_habitat_group_id_min",
+      "num": 10001,
+      "is_loc": 2
+    },
+    "owl_npc_pet_habitat_group_id_max": {
+      "id": 347,
+      "key": "owl_npc_pet_habitat_group_id_max",
+      "num": 12000,
+      "is_loc": 2
+    },
+    "catch_info_loop_clean_num": {
+      "id": 348,
+      "key": "catch_info_loop_clean_num",
+      "num": 10,
+      "is_loc": 2
+    },
+    "mark_magic_video_id": {
+      "id": 349,
+      "key": "mark_magic_video_id",
+      "num": 55591,
+      "is_loc": 2
+    },
+    "mark_music_vfx_show_distance": {
+      "id": 350,
+      "key": "mark_music_vfx_show_distance",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "trig_bonus_refresh_scene_res_id": {
+      "id": 351,
+      "key": "trig_bonus_refresh_scene_res_id",
+      "numList": [
+        10003,
+        10018
+      ],
+      "is_loc": 2
+    },
+    "ball_water_effectiveradius": {
+      "id": 352,
+      "key": "ball_water_effectiveradius",
+      "num": 50,
+      "is_loc": 2
+    },
+    "nexus_overlap_interactive_position_high": {
+      "id": 353,
+      "key": "nexus_overlap_interactive_position_high",
+      "num": 30,
+      "is_loc": 2
+    },
+    "nexus_overlap_interactive_topcheck_start": {
+      "id": 354,
+      "key": "nexus_overlap_interactive_topcheck_start",
+      "num": 200,
+      "is_loc": 2
+    },
+    "nexus_overlap_interactive_topcheck_end": {
+      "id": 355,
+      "key": "nexus_overlap_interactive_topcheck_end",
+      "num": 550,
+      "is_loc": 2
+    },
+    "bonus_shining_nightmare_keep_zero_switch": {
+      "id": 356,
+      "key": "bonus_shining_nightmare_keep_zero_switch",
+      "num": 1,
+      "is_loc": 2
+    },
+    "judgegiftsetnum_max_num": {
+      "id": 357,
+      "key": "judgegiftsetnum_max_num",
+      "num": 80000,
+      "is_loc": 2
+    },
+    "wild_mutation_change_num": {
+      "id": 358,
+      "key": "wild_mutation_change_num",
+      "num": 2,
+      "is_loc": 2
+    },
+    "wild_mutation_change_reset_date": {
+      "id": 359,
+      "key": "wild_mutation_change_reset_date",
+      "str": "2024-12-23 04:00:00",
+      "is_loc": 2
+    },
+    "wild_mutation_change_reset_gap": {
+      "id": 360,
+      "key": "wild_mutation_change_reset_gap",
+      "str": "7 00:00:00",
+      "is_loc": 2
+    }
+  }
+}

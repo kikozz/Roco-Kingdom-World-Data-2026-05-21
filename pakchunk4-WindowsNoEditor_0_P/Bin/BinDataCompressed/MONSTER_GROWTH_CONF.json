@@ -1,0 +1,8879 @@
+{
+  "RocoDataRows": {
+    "1001": {
+      "id": 1001,
+      "difficulty": 1,
+      "level": 1
+    },
+    "1002": {
+      "id": 1002,
+      "difficulty": 1,
+      "level": 2
+    },
+    "1003": {
+      "id": 1003,
+      "difficulty": 1,
+      "level": 3
+    },
+    "1004": {
+      "id": 1004,
+      "difficulty": 1,
+      "level": 4
+    },
+    "1005": {
+      "id": 1005,
+      "difficulty": 1,
+      "level": 5
+    },
+    "1006": {
+      "id": 1006,
+      "difficulty": 1,
+      "level": 6
+    },
+    "1007": {
+      "id": 1007,
+      "difficulty": 1,
+      "level": 7
+    },
+    "1008": {
+      "id": 1008,
+      "difficulty": 1,
+      "level": 8
+    },
+    "1009": {
+      "id": 1009,
+      "difficulty": 1,
+      "level": 9
+    },
+    "1010": {
+      "id": 1010,
+      "difficulty": 1,
+      "level": 10
+    },
+    "1011": {
+      "id": 1011,
+      "difficulty": 1,
+      "level": 11
+    },
+    "1012": {
+      "id": 1012,
+      "difficulty": 1,
+      "level": 12
+    },
+    "1013": {
+      "id": 1013,
+      "difficulty": 1,
+      "level": 13
+    },
+    "1014": {
+      "id": 1014,
+      "difficulty": 1,
+      "level": 14
+    },
+    "1015": {
+      "id": 1015,
+      "difficulty": 1,
+      "level": 15
+    },
+    "1016": {
+      "id": 1016,
+      "difficulty": 1,
+      "level": 16
+    },
+    "1017": {
+      "id": 1017,
+      "difficulty": 1,
+      "level": 17
+    },
+    "1018": {
+      "id": 1018,
+      "difficulty": 1,
+      "level": 18
+    },
+    "1019": {
+      "id": 1019,
+      "difficulty": 1,
+      "level": 19
+    },
+    "1020": {
+      "id": 1020,
+      "difficulty": 1,
+      "level": 20
+    },
+    "1021": {
+      "id": 1021,
+      "difficulty": 1,
+      "level": 21
+    },
+    "1022": {
+      "id": 1022,
+      "difficulty": 1,
+      "level": 22
+    },
+    "1023": {
+      "id": 1023,
+      "difficulty": 1,
+      "level": 23
+    },
+    "1024": {
+      "id": 1024,
+      "difficulty": 1,
+      "level": 24
+    },
+    "1025": {
+      "id": 1025,
+      "difficulty": 1,
+      "level": 25
+    },
+    "1026": {
+      "id": 1026,
+      "difficulty": 1,
+      "level": 26
+    },
+    "1027": {
+      "id": 1027,
+      "difficulty": 1,
+      "level": 27
+    },
+    "1028": {
+      "id": 1028,
+      "difficulty": 1,
+      "level": 28
+    },
+    "1029": {
+      "id": 1029,
+      "difficulty": 1,
+      "level": 29
+    },
+    "1030": {
+      "id": 1030,
+      "difficulty": 1,
+      "level": 30
+    },
+    "1031": {
+      "id": 1031,
+      "difficulty": 1,
+      "level": 31
+    },
+    "1032": {
+      "id": 1032,
+      "difficulty": 1,
+      "level": 32
+    },
+    "1033": {
+      "id": 1033,
+      "difficulty": 1,
+      "level": 33
+    },
+    "1034": {
+      "id": 1034,
+      "difficulty": 1,
+      "level": 34
+    },
+    "1035": {
+      "id": 1035,
+      "difficulty": 1,
+      "level": 35
+    },
+    "1036": {
+      "id": 1036,
+      "difficulty": 1,
+      "level": 36
+    },
+    "1037": {
+      "id": 1037,
+      "difficulty": 1,
+      "level": 37
+    },
+    "1038": {
+      "id": 1038,
+      "difficulty": 1,
+      "level": 38
+    },
+    "1039": {
+      "id": 1039,
+      "difficulty": 1,
+      "level": 39
+    },
+    "1040": {
+      "id": 1040,
+      "difficulty": 1,
+      "level": 40
+    },
+    "1041": {
+      "id": 1041,
+      "difficulty": 1,
+      "level": 41
+    },
+    "1042": {
+      "id": 1042,
+      "difficulty": 1,
+      "level": 42
+    },
+    "1043": {
+      "id": 1043,
+      "difficulty": 1,
+      "level": 43
+    },
+    "1044": {
+      "id": 1044,
+      "difficulty": 1,
+      "level": 44
+    },
+    "1045": {
+      "id": 1045,
+      "difficulty": 1,
+      "level": 45
+    },
+    "1046": {
+      "id": 1046,
+      "difficulty": 1,
+      "level": 46
+    },
+    "1047": {
+      "id": 1047,
+      "difficulty": 1,
+      "level": 47
+    },
+    "1048": {
+      "id": 1048,
+      "difficulty": 1,
+      "level": 48
+    },
+    "1049": {
+      "id": 1049,
+      "difficulty": 1,
+      "level": 49
+    },
+    "1050": {
+      "id": 1050,
+      "difficulty": 1,
+      "level": 50
+    },
+    "1051": {
+      "id": 1051,
+      "difficulty": 1,
+      "level": 51
+    },
+    "1052": {
+      "id": 1052,
+      "difficulty": 1,
+      "level": 52
+    },
+    "1053": {
+      "id": 1053,
+      "difficulty": 1,
+      "level": 53
+    },
+    "1054": {
+      "id": 1054,
+      "difficulty": 1,
+      "level": 54
+    },
+    "1055": {
+      "id": 1055,
+      "difficulty": 1,
+      "level": 55
+    },
+    "1056": {
+      "id": 1056,
+      "difficulty": 1,
+      "level": 56
+    },
+    "1057": {
+      "id": 1057,
+      "difficulty": 1,
+      "level": 57
+    },
+    "1058": {
+      "id": 1058,
+      "difficulty": 1,
+      "level": 58
+    },
+    "1059": {
+      "id": 1059,
+      "difficulty": 1,
+      "level": 59
+    },
+    "1060": {
+      "id": 1060,
+      "difficulty": 1,
+      "level": 60
+    },
+    "2001": {
+      "id": 2001,
+      "difficulty": 2,
+      "level": 1
+    },
+    "2002": {
+      "id": 2002,
+      "difficulty": 2,
+      "level": 2
+    },
+    "2003": {
+      "id": 2003,
+      "difficulty": 2,
+      "level": 3
+    },
+    "2004": {
+      "id": 2004,
+      "difficulty": 2,
+      "level": 4
+    },
+    "2005": {
+      "id": 2005,
+      "difficulty": 2,
+      "level": 5
+    },
+    "2006": {
+      "id": 2006,
+      "difficulty": 2,
+      "level": 6
+    },
+    "2007": {
+      "id": 2007,
+      "difficulty": 2,
+      "level": 7
+    },
+    "2008": {
+      "id": 2008,
+      "difficulty": 2,
+      "level": 8
+    },
+    "2009": {
+      "id": 2009,
+      "difficulty": 2,
+      "level": 9
+    },
+    "2010": {
+      "id": 2010,
+      "difficulty": 2,
+      "level": 10
+    },
+    "2011": {
+      "id": 2011,
+      "difficulty": 2,
+      "level": 11
+    },
+    "2012": {
+      "id": 2012,
+      "difficulty": 2,
+      "level": 12
+    },
+    "2013": {
+      "id": 2013,
+      "difficulty": 2,
+      "level": 13
+    },
+    "2014": {
+      "id": 2014,
+      "difficulty": 2,
+      "level": 14
+    },
+    "2015": {
+      "id": 2015,
+      "difficulty": 2,
+      "level": 15
+    },
+    "2016": {
+      "id": 2016,
+      "difficulty": 2,
+      "level": 16
+    },
+    "2017": {
+      "id": 2017,
+      "difficulty": 2,
+      "level": 17
+    },
+    "2018": {
+      "id": 2018,
+      "difficulty": 2,
+      "level": 18
+    },
+    "2019": {
+      "id": 2019,
+      "difficulty": 2,
+      "level": 19
+    },
+    "2020": {
+      "id": 2020,
+      "difficulty": 2,
+      "level": 20
+    },
+    "2021": {
+      "id": 2021,
+      "difficulty": 2,
+      "level": 21
+    },
+    "2022": {
+      "id": 2022,
+      "difficulty": 2,
+      "level": 22
+    },
+    "2023": {
+      "id": 2023,
+      "difficulty": 2,
+      "level": 23
+    },
+    "2024": {
+      "id": 2024,
+      "difficulty": 2,
+      "level": 24
+    },
+    "2025": {
+      "id": 2025,
+      "difficulty": 2,
+      "level": 25
+    },
+    "2026": {
+      "id": 2026,
+      "difficulty": 2,
+      "level": 26
+    },
+    "2027": {
+      "id": 2027,
+      "difficulty": 2,
+      "level": 27
+    },
+    "2028": {
+      "id": 2028,
+      "difficulty": 2,
+      "level": 28
+    },
+    "2029": {
+      "id": 2029,
+      "difficulty": 2,
+      "level": 29
+    },
+    "2030": {
+      "id": 2030,
+      "difficulty": 2,
+      "level": 30
+    },
+    "2031": {
+      "id": 2031,
+      "difficulty": 2,
+      "level": 31
+    },
+    "2032": {
+      "id": 2032,
+      "difficulty": 2,
+      "level": 32
+    },
+    "2033": {
+      "id": 2033,
+      "difficulty": 2,
+      "level": 33
+    },
+    "2034": {
+      "id": 2034,
+      "difficulty": 2,
+      "level": 34
+    },
+    "2035": {
+      "id": 2035,
+      "difficulty": 2,
+      "level": 35
+    },
+    "2036": {
+      "id": 2036,
+      "difficulty": 2,
+      "level": 36
+    },
+    "2037": {
+      "id": 2037,
+      "difficulty": 2,
+      "level": 37
+    },
+    "2038": {
+      "id": 2038,
+      "difficulty": 2,
+      "level": 38
+    },
+    "2039": {
+      "id": 2039,
+      "difficulty": 2,
+      "level": 39
+    },
+    "2040": {
+      "id": 2040,
+      "difficulty": 2,
+      "level": 40
+    },
+    "2041": {
+      "id": 2041,
+      "difficulty": 2,
+      "level": 41
+    },
+    "2042": {
+      "id": 2042,
+      "difficulty": 2,
+      "level": 42
+    },
+    "2043": {
+      "id": 2043,
+      "difficulty": 2,
+      "level": 43
+    },
+    "2044": {
+      "id": 2044,
+      "difficulty": 2,
+      "level": 44
+    },
+    "2045": {
+      "id": 2045,
+      "difficulty": 2,
+      "level": 45
+    },
+    "2046": {
+      "id": 2046,
+      "difficulty": 2,
+      "level": 46
+    },
+    "2047": {
+      "id": 2047,
+      "difficulty": 2,
+      "level": 47
+    },
+    "2048": {
+      "id": 2048,
+      "difficulty": 2,
+      "level": 48
+    },
+    "2049": {
+      "id": 2049,
+      "difficulty": 2,
+      "level": 49
+    },
+    "2050": {
+      "id": 2050,
+      "difficulty": 2,
+      "level": 50
+    },
+    "2051": {
+      "id": 2051,
+      "difficulty": 2,
+      "level": 51
+    },
+    "2052": {
+      "id": 2052,
+      "difficulty": 2,
+      "level": 52
+    },
+    "2053": {
+      "id": 2053,
+      "difficulty": 2,
+      "level": 53
+    },
+    "2054": {
+      "id": 2054,
+      "difficulty": 2,
+      "level": 54
+    },
+    "2055": {
+      "id": 2055,
+      "difficulty": 2,
+      "level": 55
+    },
+    "2056": {
+      "id": 2056,
+      "difficulty": 2,
+      "level": 56
+    },
+    "2057": {
+      "id": 2057,
+      "difficulty": 2,
+      "level": 57
+    },
+    "2058": {
+      "id": 2058,
+      "difficulty": 2,
+      "level": 58
+    },
+    "2059": {
+      "id": 2059,
+      "difficulty": 2,
+      "level": 59
+    },
+    "2060": {
+      "id": 2060,
+      "difficulty": 2,
+      "level": 60
+    },
+    "3001": {
+      "id": 3001,
+      "difficulty": 3,
+      "level": 1
+    },
+    "3002": {
+      "id": 3002,
+      "difficulty": 3,
+      "level": 2
+    },
+    "3003": {
+      "id": 3003,
+      "difficulty": 3,
+      "level": 3
+    },
+    "3004": {
+      "id": 3004,
+      "difficulty": 3,
+      "level": 4
+    },
+    "3005": {
+      "id": 3005,
+      "difficulty": 3,
+      "level": 5
+    },
+    "3006": {
+      "id": 3006,
+      "difficulty": 3,
+      "level": 6
+    },
+    "3007": {
+      "id": 3007,
+      "difficulty": 3,
+      "level": 7
+    },
+    "3008": {
+      "id": 3008,
+      "difficulty": 3,
+      "level": 8
+    },
+    "3009": {
+      "id": 3009,
+      "difficulty": 3,
+      "level": 9
+    },
+    "3010": {
+      "id": 3010,
+      "difficulty": 3,
+      "level": 10
+    },
+    "3011": {
+      "id": 3011,
+      "difficulty": 3,
+      "level": 11
+    },
+    "3012": {
+      "id": 3012,
+      "difficulty": 3,
+      "level": 12
+    },
+    "3013": {
+      "id": 3013,
+      "difficulty": 3,
+      "level": 13
+    },
+    "3014": {
+      "id": 3014,
+      "difficulty": 3,
+      "level": 14
+    },
+    "3015": {
+      "id": 3015,
+      "difficulty": 3,
+      "level": 15
+    },
+    "3016": {
+      "id": 3016,
+      "difficulty": 3,
+      "level": 16
+    },
+    "3017": {
+      "id": 3017,
+      "difficulty": 3,
+      "level": 17
+    },
+    "3018": {
+      "id": 3018,
+      "difficulty": 3,
+      "level": 18
+    },
+    "3019": {
+      "id": 3019,
+      "difficulty": 3,
+      "level": 19
+    },
+    "3020": {
+      "id": 3020,
+      "difficulty": 3,
+      "level": 20
+    },
+    "3021": {
+      "id": 3021,
+      "difficulty": 3,
+      "level": 21
+    },
+    "3022": {
+      "id": 3022,
+      "difficulty": 3,
+      "level": 22
+    },
+    "3023": {
+      "id": 3023,
+      "difficulty": 3,
+      "level": 23
+    },
+    "3024": {
+      "id": 3024,
+      "difficulty": 3,
+      "level": 24
+    },
+    "3025": {
+      "id": 3025,
+      "difficulty": 3,
+      "level": 25
+    },
+    "3026": {
+      "id": 3026,
+      "difficulty": 3,
+      "level": 26
+    },
+    "3027": {
+      "id": 3027,
+      "difficulty": 3,
+      "level": 27
+    },
+    "3028": {
+      "id": 3028,
+      "difficulty": 3,
+      "level": 28
+    },
+    "3029": {
+      "id": 3029,
+      "difficulty": 3,
+      "level": 29
+    },
+    "3030": {
+      "id": 3030,
+      "difficulty": 3,
+      "level": 30
+    },
+    "3031": {
+      "id": 3031,
+      "difficulty": 3,
+      "level": 31
+    },
+    "3032": {
+      "id": 3032,
+      "difficulty": 3,
+      "level": 32
+    },
+    "3033": {
+      "id": 3033,
+      "difficulty": 3,
+      "level": 33
+    },
+    "3034": {
+      "id": 3034,
+      "difficulty": 3,
+      "level": 34
+    },
+    "3035": {
+      "id": 3035,
+      "difficulty": 3,
+      "level": 35
+    },
+    "3036": {
+      "id": 3036,
+      "difficulty": 3,
+      "level": 36
+    },
+    "3037": {
+      "id": 3037,
+      "difficulty": 3,
+      "level": 37
+    },
+    "3038": {
+      "id": 3038,
+      "difficulty": 3,
+      "level": 38
+    },
+    "3039": {
+      "id": 3039,
+      "difficulty": 3,
+      "level": 39
+    },
+    "3040": {
+      "id": 3040,
+      "difficulty": 3,
+      "level": 40
+    },
+    "3041": {
+      "id": 3041,
+      "difficulty": 3,
+      "level": 41
+    },
+    "3042": {
+      "id": 3042,
+      "difficulty": 3,
+      "level": 42
+    },
+    "3043": {
+      "id": 3043,
+      "difficulty": 3,
+      "level": 43
+    },
+    "3044": {
+      "id": 3044,
+      "difficulty": 3,
+      "level": 44
+    },
+    "3045": {
+      "id": 3045,
+      "difficulty": 3,
+      "level": 45
+    },
+    "3046": {
+      "id": 3046,
+      "difficulty": 3,
+      "level": 46
+    },
+    "3047": {
+      "id": 3047,
+      "difficulty": 3,
+      "level": 47
+    },
+    "3048": {
+      "id": 3048,
+      "difficulty": 3,
+      "level": 48
+    },
+    "3049": {
+      "id": 3049,
+      "difficulty": 3,
+      "level": 49
+    },
+    "3050": {
+      "id": 3050,
+      "difficulty": 3,
+      "level": 50
+    },
+    "3051": {
+      "id": 3051,
+      "difficulty": 3,
+      "level": 51
+    },
+    "3052": {
+      "id": 3052,
+      "difficulty": 3,
+      "level": 52
+    },
+    "3053": {
+      "id": 3053,
+      "difficulty": 3,
+      "level": 53
+    },
+    "3054": {
+      "id": 3054,
+      "difficulty": 3,
+      "level": 54
+    },
+    "3055": {
+      "id": 3055,
+      "difficulty": 3,
+      "level": 55
+    },
+    "3056": {
+      "id": 3056,
+      "difficulty": 3,
+      "level": 56
+    },
+    "3057": {
+      "id": 3057,
+      "difficulty": 3,
+      "level": 57
+    },
+    "3058": {
+      "id": 3058,
+      "difficulty": 3,
+      "level": 58
+    },
+    "3059": {
+      "id": 3059,
+      "difficulty": 3,
+      "level": 59
+    },
+    "3060": {
+      "id": 3060,
+      "difficulty": 3,
+      "level": 60
+    },
+    "4001": {
+      "id": 4001,
+      "difficulty": 4,
+      "level": 1
+    },
+    "4002": {
+      "id": 4002,
+      "difficulty": 4,
+      "level": 2
+    },
+    "4003": {
+      "id": 4003,
+      "difficulty": 4,
+      "level": 3
+    },
+    "4004": {
+      "id": 4004,
+      "difficulty": 4,
+      "level": 4
+    },
+    "4005": {
+      "id": 4005,
+      "difficulty": 4,
+      "level": 5
+    },
+    "4006": {
+      "id": 4006,
+      "difficulty": 4,
+      "level": 6
+    },
+    "4007": {
+      "id": 4007,
+      "difficulty": 4,
+      "level": 7
+    },
+    "4008": {
+      "id": 4008,
+      "difficulty": 4,
+      "level": 8
+    },
+    "4009": {
+      "id": 4009,
+      "difficulty": 4,
+      "level": 9
+    },
+    "4010": {
+      "id": 4010,
+      "difficulty": 4,
+      "level": 10
+    },
+    "4011": {
+      "id": 4011,
+      "difficulty": 4,
+      "level": 11
+    },
+    "4012": {
+      "id": 4012,
+      "difficulty": 4,
+      "level": 12
+    },
+    "4013": {
+      "id": 4013,
+      "difficulty": 4,
+      "level": 13
+    },
+    "4014": {
+      "id": 4014,
+      "difficulty": 4,
+      "level": 14
+    },
+    "4015": {
+      "id": 4015,
+      "difficulty": 4,
+      "level": 15
+    },
+    "4016": {
+      "id": 4016,
+      "difficulty": 4,
+      "level": 16
+    },
+    "4017": {
+      "id": 4017,
+      "difficulty": 4,
+      "level": 17
+    },
+    "4018": {
+      "id": 4018,
+      "difficulty": 4,
+      "level": 18
+    },
+    "4019": {
+      "id": 4019,
+      "difficulty": 4,
+      "level": 19
+    },
+    "4020": {
+      "id": 4020,
+      "difficulty": 4,
+      "level": 20
+    },
+    "4021": {
+      "id": 4021,
+      "difficulty": 4,
+      "level": 21
+    },
+    "4022": {
+      "id": 4022,
+      "difficulty": 4,
+      "level": 22
+    },
+    "4023": {
+      "id": 4023,
+      "difficulty": 4,
+      "level": 23
+    },
+    "4024": {
+      "id": 4024,
+      "difficulty": 4,
+      "level": 24
+    },
+    "4025": {
+      "id": 4025,
+      "difficulty": 4,
+      "level": 25
+    },
+    "4026": {
+      "id": 4026,
+      "difficulty": 4,
+      "level": 26
+    },
+    "4027": {
+      "id": 4027,
+      "difficulty": 4,
+      "level": 27
+    },
+    "4028": {
+      "id": 4028,
+      "difficulty": 4,
+      "level": 28
+    },
+    "4029": {
+      "id": 4029,
+      "difficulty": 4,
+      "level": 29
+    },
+    "4030": {
+      "id": 4030,
+      "difficulty": 4,
+      "level": 30
+    },
+    "4031": {
+      "id": 4031,
+      "difficulty": 4,
+      "level": 31
+    },
+    "4032": {
+      "id": 4032,
+      "difficulty": 4,
+      "level": 32
+    },
+    "4033": {
+      "id": 4033,
+      "difficulty": 4,
+      "level": 33
+    },
+    "4034": {
+      "id": 4034,
+      "difficulty": 4,
+      "level": 34
+    },
+    "4035": {
+      "id": 4035,
+      "difficulty": 4,
+      "level": 35
+    },
+    "4036": {
+      "id": 4036,
+      "difficulty": 4,
+      "level": 36
+    },
+    "4037": {
+      "id": 4037,
+      "difficulty": 4,
+      "level": 37
+    },
+    "4038": {
+      "id": 4038,
+      "difficulty": 4,
+      "level": 38
+    },
+    "4039": {
+      "id": 4039,
+      "difficulty": 4,
+      "level": 39
+    },
+    "4040": {
+      "id": 4040,
+      "difficulty": 4,
+      "level": 40
+    },
+    "4041": {
+      "id": 4041,
+      "difficulty": 4,
+      "level": 41
+    },
+    "4042": {
+      "id": 4042,
+      "difficulty": 4,
+      "level": 42
+    },
+    "4043": {
+      "id": 4043,
+      "difficulty": 4,
+      "level": 43
+    },
+    "4044": {
+      "id": 4044,
+      "difficulty": 4,
+      "level": 44
+    },
+    "4045": {
+      "id": 4045,
+      "difficulty": 4,
+      "level": 45
+    },
+    "4046": {
+      "id": 4046,
+      "difficulty": 4,
+      "level": 46
+    },
+    "4047": {
+      "id": 4047,
+      "difficulty": 4,
+      "level": 47
+    },
+    "4048": {
+      "id": 4048,
+      "difficulty": 4,
+      "level": 48
+    },
+    "4049": {
+      "id": 4049,
+      "difficulty": 4,
+      "level": 49
+    },
+    "4050": {
+      "id": 4050,
+      "difficulty": 4,
+      "level": 50
+    },
+    "4051": {
+      "id": 4051,
+      "difficulty": 4,
+      "level": 51
+    },
+    "4052": {
+      "id": 4052,
+      "difficulty": 4,
+      "level": 52
+    },
+    "4053": {
+      "id": 4053,
+      "difficulty": 4,
+      "level": 53
+    },
+    "4054": {
+      "id": 4054,
+      "difficulty": 4,
+      "level": 54
+    },
+    "4055": {
+      "id": 4055,
+      "difficulty": 4,
+      "level": 55
+    },
+    "4056": {
+      "id": 4056,
+      "difficulty": 4,
+      "level": 56
+    },
+    "4057": {
+      "id": 4057,
+      "difficulty": 4,
+      "level": 57
+    },
+    "4058": {
+      "id": 4058,
+      "difficulty": 4,
+      "level": 58
+    },
+    "4059": {
+      "id": 4059,
+      "difficulty": 4,
+      "level": 59
+    },
+    "4060": {
+      "id": 4060,
+      "difficulty": 4,
+      "level": 60
+    },
+    "5001": {
+      "id": 5001,
+      "difficulty": 5,
+      "level": 1
+    },
+    "5002": {
+      "id": 5002,
+      "difficulty": 5,
+      "level": 2
+    },
+    "5003": {
+      "id": 5003,
+      "difficulty": 5,
+      "level": 3
+    },
+    "5004": {
+      "id": 5004,
+      "difficulty": 5,
+      "level": 4
+    },
+    "5005": {
+      "id": 5005,
+      "difficulty": 5,
+      "level": 5
+    },
+    "5006": {
+      "id": 5006,
+      "difficulty": 5,
+      "level": 6
+    },
+    "5007": {
+      "id": 5007,
+      "difficulty": 5,
+      "level": 7
+    },
+    "5008": {
+      "id": 5008,
+      "difficulty": 5,
+      "level": 8
+    },
+    "5009": {
+      "id": 5009,
+      "difficulty": 5,
+      "level": 9
+    },
+    "5010": {
+      "id": 5010,
+      "difficulty": 5,
+      "level": 10
+    },
+    "5011": {
+      "id": 5011,
+      "difficulty": 5,
+      "level": 11
+    },
+    "5012": {
+      "id": 5012,
+      "difficulty": 5,
+      "level": 12
+    },
+    "5013": {
+      "id": 5013,
+      "difficulty": 5,
+      "level": 13
+    },
+    "5014": {
+      "id": 5014,
+      "difficulty": 5,
+      "level": 14
+    },
+    "5015": {
+      "id": 5015,
+      "difficulty": 5,
+      "level": 15
+    },
+    "5016": {
+      "id": 5016,
+      "difficulty": 5,
+      "level": 16
+    },
+    "5017": {
+      "id": 5017,
+      "difficulty": 5,
+      "level": 17
+    },
+    "5018": {
+      "id": 5018,
+      "difficulty": 5,
+      "level": 18
+    },
+    "5019": {
+      "id": 5019,
+      "difficulty": 5,
+      "level": 19
+    },
+    "5020": {
+      "id": 5020,
+      "difficulty": 5,
+      "level": 20
+    },
+    "5021": {
+      "id": 5021,
+      "difficulty": 5,
+      "level": 21
+    },
+    "5022": {
+      "id": 5022,
+      "difficulty": 5,
+      "level": 22
+    },
+    "5023": {
+      "id": 5023,
+      "difficulty": 5,
+      "level": 23
+    },
+    "5024": {
+      "id": 5024,
+      "difficulty": 5,
+      "level": 24
+    },
+    "5025": {
+      "id": 5025,
+      "difficulty": 5,
+      "level": 25
+    },
+    "5026": {
+      "id": 5026,
+      "difficulty": 5,
+      "level": 26
+    },
+    "5027": {
+      "id": 5027,
+      "difficulty": 5,
+      "level": 27
+    },
+    "5028": {
+      "id": 5028,
+      "difficulty": 5,
+      "level": 28
+    },
+    "5029": {
+      "id": 5029,
+      "difficulty": 5,
+      "level": 29
+    },
+    "5030": {
+      "id": 5030,
+      "difficulty": 5,
+      "level": 30
+    },
+    "5031": {
+      "id": 5031,
+      "difficulty": 5,
+      "level": 31
+    },
+    "5032": {
+      "id": 5032,
+      "difficulty": 5,
+      "level": 32
+    },
+    "5033": {
+      "id": 5033,
+      "difficulty": 5,
+      "level": 33
+    },
+    "5034": {
+      "id": 5034,
+      "difficulty": 5,
+      "level": 34
+    },
+    "5035": {
+      "id": 5035,
+      "difficulty": 5,
+      "level": 35
+    },
+    "5036": {
+      "id": 5036,
+      "difficulty": 5,
+      "level": 36
+    },
+    "5037": {
+      "id": 5037,
+      "difficulty": 5,
+      "level": 37
+    },
+    "5038": {
+      "id": 5038,
+      "difficulty": 5,
+      "level": 38
+    },
+    "5039": {
+      "id": 5039,
+      "difficulty": 5,
+      "level": 39
+    },
+    "5040": {
+      "id": 5040,
+      "difficulty": 5,
+      "level": 40
+    },
+    "5041": {
+      "id": 5041,
+      "difficulty": 5,
+      "level": 41
+    },
+    "5042": {
+      "id": 5042,
+      "difficulty": 5,
+      "level": 42
+    },
+    "5043": {
+      "id": 5043,
+      "difficulty": 5,
+      "level": 43
+    },
+    "5044": {
+      "id": 5044,
+      "difficulty": 5,
+      "level": 44
+    },
+    "5045": {
+      "id": 5045,
+      "difficulty": 5,
+      "level": 45
+    },
+    "5046": {
+      "id": 5046,
+      "difficulty": 5,
+      "level": 46
+    },
+    "5047": {
+      "id": 5047,
+      "difficulty": 5,
+      "level": 47
+    },
+    "5048": {
+      "id": 5048,
+      "difficulty": 5,
+      "level": 48
+    },
+    "5049": {
+      "id": 5049,
+      "difficulty": 5,
+      "level": 49
+    },
+    "5050": {
+      "id": 5050,
+      "difficulty": 5,
+      "level": 50
+    },
+    "5051": {
+      "id": 5051,
+      "difficulty": 5,
+      "level": 51
+    },
+    "5052": {
+      "id": 5052,
+      "difficulty": 5,
+      "level": 52
+    },
+    "5053": {
+      "id": 5053,
+      "difficulty": 5,
+      "level": 53
+    },
+    "5054": {
+      "id": 5054,
+      "difficulty": 5,
+      "level": 54
+    },
+    "5055": {
+      "id": 5055,
+      "difficulty": 5,
+      "level": 55
+    },
+    "5056": {
+      "id": 5056,
+      "difficulty": 5,
+      "level": 56
+    },
+    "5057": {
+      "id": 5057,
+      "difficulty": 5,
+      "level": 57
+    },
+    "5058": {
+      "id": 5058,
+      "difficulty": 5,
+      "level": 58
+    },
+    "5059": {
+      "id": 5059,
+      "difficulty": 5,
+      "level": 59
+    },
+    "5060": {
+      "id": 5060,
+      "difficulty": 5,
+      "level": 60
+    },
+    "6001": {
+      "id": 6001,
+      "difficulty": 6,
+      "level": 1
+    },
+    "6002": {
+      "id": 6002,
+      "difficulty": 6,
+      "level": 2
+    },
+    "6003": {
+      "id": 6003,
+      "difficulty": 6,
+      "level": 3
+    },
+    "6004": {
+      "id": 6004,
+      "difficulty": 6,
+      "level": 4
+    },
+    "6005": {
+      "id": 6005,
+      "difficulty": 6,
+      "level": 5
+    },
+    "6006": {
+      "id": 6006,
+      "difficulty": 6,
+      "level": 6
+    },
+    "6007": {
+      "id": 6007,
+      "difficulty": 6,
+      "level": 7
+    },
+    "6008": {
+      "id": 6008,
+      "difficulty": 6,
+      "level": 8
+    },
+    "6009": {
+      "id": 6009,
+      "difficulty": 6,
+      "level": 9
+    },
+    "6010": {
+      "id": 6010,
+      "difficulty": 6,
+      "level": 10
+    },
+    "6011": {
+      "id": 6011,
+      "difficulty": 6,
+      "level": 11
+    },
+    "6012": {
+      "id": 6012,
+      "difficulty": 6,
+      "level": 12
+    },
+    "6013": {
+      "id": 6013,
+      "difficulty": 6,
+      "level": 13
+    },
+    "6014": {
+      "id": 6014,
+      "difficulty": 6,
+      "level": 14
+    },
+    "6015": {
+      "id": 6015,
+      "difficulty": 6,
+      "level": 15
+    },
+    "6016": {
+      "id": 6016,
+      "difficulty": 6,
+      "level": 16
+    },
+    "6017": {
+      "id": 6017,
+      "difficulty": 6,
+      "level": 17
+    },
+    "6018": {
+      "id": 6018,
+      "difficulty": 6,
+      "level": 18
+    },
+    "6019": {
+      "id": 6019,
+      "difficulty": 6,
+      "level": 19
+    },
+    "6020": {
+      "id": 6020,
+      "difficulty": 6,
+      "level": 20
+    },
+    "6021": {
+      "id": 6021,
+      "difficulty": 6,
+      "level": 21
+    },
+    "6022": {
+      "id": 6022,
+      "difficulty": 6,
+      "level": 22
+    },
+    "6023": {
+      "id": 6023,
+      "difficulty": 6,
+      "level": 23
+    },
+    "6024": {
+      "id": 6024,
+      "difficulty": 6,
+      "level": 24
+    },
+    "6025": {
+      "id": 6025,
+      "difficulty": 6,
+      "level": 25
+    },
+    "6026": {
+      "id": 6026,
+      "difficulty": 6,
+      "level": 26
+    },
+    "6027": {
+      "id": 6027,
+      "difficulty": 6,
+      "level": 27
+    },
+    "6028": {
+      "id": 6028,
+      "difficulty": 6,
+      "level": 28
+    },
+    "6029": {
+      "id": 6029,
+      "difficulty": 6,
+      "level": 29
+    },
+    "6030": {
+      "id": 6030,
+      "difficulty": 6,
+      "level": 30
+    },
+    "6031": {
+      "id": 6031,
+      "difficulty": 6,
+      "level": 31
+    },
+    "6032": {
+      "id": 6032,
+      "difficulty": 6,
+      "level": 32
+    },
+    "6033": {
+      "id": 6033,
+      "difficulty": 6,
+      "level": 33
+    },
+    "6034": {
+      "id": 6034,
+      "difficulty": 6,
+      "level": 34
+    },
+    "6035": {
+      "id": 6035,
+      "difficulty": 6,
+      "level": 35
+    },
+    "6036": {
+      "id": 6036,
+      "difficulty": 6,
+      "level": 36
+    },
+    "6037": {
+      "id": 6037,
+      "difficulty": 6,
+      "level": 37
+    },
+    "6038": {
+      "id": 6038,
+      "difficulty": 6,
+      "level": 38
+    },
+    "6039": {
+      "id": 6039,
+      "difficulty": 6,
+      "level": 39
+    },
+    "6040": {
+      "id": 6040,
+      "difficulty": 6,
+      "level": 40
+    },
+    "6041": {
+      "id": 6041,
+      "difficulty": 6,
+      "level": 41
+    },
+    "6042": {
+      "id": 6042,
+      "difficulty": 6,
+      "level": 42
+    },
+    "6043": {
+      "id": 6043,
+      "difficulty": 6,
+      "level": 43
+    },
+    "6044": {
+      "id": 6044,
+      "difficulty": 6,
+      "level": 44
+    },
+    "6045": {
+      "id": 6045,
+      "difficulty": 6,
+      "level": 45
+    },
+    "6046": {
+      "id": 6046,
+      "difficulty": 6,
+      "level": 46
+    },
+    "6047": {
+      "id": 6047,
+      "difficulty": 6,
+      "level": 47
+    },
+    "6048": {
+      "id": 6048,
+      "difficulty": 6,
+      "level": 48
+    },
+    "6049": {
+      "id": 6049,
+      "difficulty": 6,
+      "level": 49
+    },
+    "6050": {
+      "id": 6050,
+      "difficulty": 6,
+      "level": 50
+    },
+    "6051": {
+      "id": 6051,
+      "difficulty": 6,
+      "level": 51
+    },
+    "6052": {
+      "id": 6052,
+      "difficulty": 6,
+      "level": 52
+    },
+    "6053": {
+      "id": 6053,
+      "difficulty": 6,
+      "level": 53
+    },
+    "6054": {
+      "id": 6054,
+      "difficulty": 6,
+      "level": 54
+    },
+    "6055": {
+      "id": 6055,
+      "difficulty": 6,
+      "level": 55
+    },
+    "6056": {
+      "id": 6056,
+      "difficulty": 6,
+      "level": 56
+    },
+    "6057": {
+      "id": 6057,
+      "difficulty": 6,
+      "level": 57
+    },
+    "6058": {
+      "id": 6058,
+      "difficulty": 6,
+      "level": 58
+    },
+    "6059": {
+      "id": 6059,
+      "difficulty": 6,
+      "level": 59
+    },
+    "6060": {
+      "id": 6060,
+      "difficulty": 6,
+      "level": 60
+    },
+    "7001": {
+      "id": 7001,
+      "difficulty": 7,
+      "level": 1
+    },
+    "7002": {
+      "id": 7002,
+      "difficulty": 7,
+      "level": 2
+    },
+    "7003": {
+      "id": 7003,
+      "difficulty": 7,
+      "level": 3
+    },
+    "7004": {
+      "id": 7004,
+      "difficulty": 7,
+      "level": 4
+    },
+    "7005": {
+      "id": 7005,
+      "difficulty": 7,
+      "level": 5
+    },
+    "7006": {
+      "id": 7006,
+      "difficulty": 7,
+      "level": 6
+    },
+    "7007": {
+      "id": 7007,
+      "difficulty": 7,
+      "level": 7
+    },
+    "7008": {
+      "id": 7008,
+      "difficulty": 7,
+      "level": 8
+    },
+    "7009": {
+      "id": 7009,
+      "difficulty": 7,
+      "level": 9
+    },
+    "7010": {
+      "id": 7010,
+      "difficulty": 7,
+      "level": 10
+    },
+    "7011": {
+      "id": 7011,
+      "difficulty": 7,
+      "level": 11
+    },
+    "7012": {
+      "id": 7012,
+      "difficulty": 7,
+      "level": 12
+    },
+    "7013": {
+      "id": 7013,
+      "difficulty": 7,
+      "level": 13
+    },
+    "7014": {
+      "id": 7014,
+      "difficulty": 7,
+      "level": 14
+    },
+    "7015": {
+      "id": 7015,
+      "difficulty": 7,
+      "level": 15
+    },
+    "7016": {
+      "id": 7016,
+      "difficulty": 7,
+      "level": 16
+    },
+    "7017": {
+      "id": 7017,
+      "difficulty": 7,
+      "level": 17
+    },
+    "7018": {
+      "id": 7018,
+      "difficulty": 7,
+      "level": 18
+    },
+    "7019": {
+      "id": 7019,
+      "difficulty": 7,
+      "level": 19
+    },
+    "7020": {
+      "id": 7020,
+      "difficulty": 7,
+      "level": 20
+    },
+    "7021": {
+      "id": 7021,
+      "difficulty": 7,
+      "level": 21
+    },
+    "7022": {
+      "id": 7022,
+      "difficulty": 7,
+      "level": 22
+    },
+    "7023": {
+      "id": 7023,
+      "difficulty": 7,
+      "level": 23
+    },
+    "7024": {
+      "id": 7024,
+      "difficulty": 7,
+      "level": 24
+    },
+    "7025": {
+      "id": 7025,
+      "difficulty": 7,
+      "level": 25
+    },
+    "7026": {
+      "id": 7026,
+      "difficulty": 7,
+      "level": 26
+    },
+    "7027": {
+      "id": 7027,
+      "difficulty": 7,
+      "level": 27
+    },
+    "7028": {
+      "id": 7028,
+      "difficulty": 7,
+      "level": 28
+    },
+    "7029": {
+      "id": 7029,
+      "difficulty": 7,
+      "level": 29
+    },
+    "7030": {
+      "id": 7030,
+      "difficulty": 7,
+      "level": 30
+    },
+    "7031": {
+      "id": 7031,
+      "difficulty": 7,
+      "level": 31
+    },
+    "7032": {
+      "id": 7032,
+      "difficulty": 7,
+      "level": 32
+    },
+    "7033": {
+      "id": 7033,
+      "difficulty": 7,
+      "level": 33
+    },
+    "7034": {
+      "id": 7034,
+      "difficulty": 7,
+      "level": 34
+    },
+    "7035": {
+      "id": 7035,
+      "difficulty": 7,
+      "level": 35
+    },
+    "7036": {
+      "id": 7036,
+      "difficulty": 7,
+      "level": 36
+    },
+    "7037": {
+      "id": 7037,
+      "difficulty": 7,
+      "level": 37
+    },
+    "7038": {
+      "id": 7038,
+      "difficulty": 7,
+      "level": 38
+    },
+    "7039": {
+      "id": 7039,
+      "difficulty": 7,
+      "level": 39
+    },
+    "7040": {
+      "id": 7040,
+      "difficulty": 7,
+      "level": 40
+    },
+    "7041": {
+      "id": 7041,
+      "difficulty": 7,
+      "level": 41
+    },
+    "7042": {
+      "id": 7042,
+      "difficulty": 7,
+      "level": 42
+    },
+    "7043": {
+      "id": 7043,
+      "difficulty": 7,
+      "level": 43
+    },
+    "7044": {
+      "id": 7044,
+      "difficulty": 7,
+      "level": 44
+    },
+    "7045": {
+      "id": 7045,
+      "difficulty": 7,
+      "level": 45
+    },
+    "7046": {
+      "id": 7046,
+      "difficulty": 7,
+      "level": 46
+    },
+    "7047": {
+      "id": 7047,
+      "difficulty": 7,
+      "level": 47
+    },
+    "7048": {
+      "id": 7048,
+      "difficulty": 7,
+      "level": 48
+    },
+    "7049": {
+      "id": 7049,
+      "difficulty": 7,
+      "level": 49
+    },
+    "7050": {
+      "id": 7050,
+      "difficulty": 7,
+      "level": 50
+    },
+    "7051": {
+      "id": 7051,
+      "difficulty": 7,
+      "level": 51
+    },
+    "7052": {
+      "id": 7052,
+      "difficulty": 7,
+      "level": 52
+    },
+    "7053": {
+      "id": 7053,
+      "difficulty": 7,
+      "level": 53
+    },
+    "7054": {
+      "id": 7054,
+      "difficulty": 7,
+      "level": 54
+    },
+    "7055": {
+      "id": 7055,
+      "difficulty": 7,
+      "level": 55
+    },
+    "7056": {
+      "id": 7056,
+      "difficulty": 7,
+      "level": 56
+    },
+    "7057": {
+      "id": 7057,
+      "difficulty": 7,
+      "level": 57
+    },
+    "7058": {
+      "id": 7058,
+      "difficulty": 7,
+      "level": 58
+    },
+    "7059": {
+      "id": 7059,
+      "difficulty": 7,
+      "level": 59
+    },
+    "7060": {
+      "id": 7060,
+      "difficulty": 7,
+      "level": 60
+    },
+    "8001": {
+      "id": 8001,
+      "difficulty": 8,
+      "level": 1
+    },
+    "8002": {
+      "id": 8002,
+      "difficulty": 8,
+      "level": 2
+    },
+    "8003": {
+      "id": 8003,
+      "difficulty": 8,
+      "level": 3
+    },
+    "8004": {
+      "id": 8004,
+      "difficulty": 8,
+      "level": 4
+    },
+    "8005": {
+      "id": 8005,
+      "difficulty": 8,
+      "level": 5
+    },
+    "8006": {
+      "id": 8006,
+      "difficulty": 8,
+      "level": 6
+    },
+    "8007": {
+      "id": 8007,
+      "difficulty": 8,
+      "level": 7
+    },
+    "8008": {
+      "id": 8008,
+      "difficulty": 8,
+      "level": 8
+    },
+    "8009": {
+      "id": 8009,
+      "difficulty": 8,
+      "level": 9
+    },
+    "8010": {
+      "id": 8010,
+      "difficulty": 8,
+      "level": 10
+    },
+    "8011": {
+      "id": 8011,
+      "difficulty": 8,
+      "level": 11
+    },
+    "8012": {
+      "id": 8012,
+      "difficulty": 8,
+      "level": 12
+    },
+    "8013": {
+      "id": 8013,
+      "difficulty": 8,
+      "level": 13
+    },
+    "8014": {
+      "id": 8014,
+      "difficulty": 8,
+      "level": 14
+    },
+    "8015": {
+      "id": 8015,
+      "difficulty": 8,
+      "level": 15
+    },
+    "8016": {
+      "id": 8016,
+      "difficulty": 8,
+      "level": 16
+    },
+    "8017": {
+      "id": 8017,
+      "difficulty": 8,
+      "level": 17
+    },
+    "8018": {
+      "id": 8018,
+      "difficulty": 8,
+      "level": 18
+    },
+    "8019": {
+      "id": 8019,
+      "difficulty": 8,
+      "level": 19
+    },
+    "8020": {
+      "id": 8020,
+      "difficulty": 8,
+      "level": 20
+    },
+    "8021": {
+      "id": 8021,
+      "difficulty": 8,
+      "level": 21
+    },
+    "8022": {
+      "id": 8022,
+      "difficulty": 8,
+      "level": 22
+    },
+    "8023": {
+      "id": 8023,
+      "difficulty": 8,
+      "level": 23
+    },
+    "8024": {
+      "id": 8024,
+      "difficulty": 8,
+      "level": 24
+    },
+    "8025": {
+      "id": 8025,
+      "difficulty": 8,
+      "level": 25
+    },
+    "8026": {
+      "id": 8026,
+      "difficulty": 8,
+      "level": 26
+    },
+    "8027": {
+      "id": 8027,
+      "difficulty": 8,
+      "level": 27
+    },
+    "8028": {
+      "id": 8028,
+      "difficulty": 8,
+      "level": 28
+    },
+    "8029": {
+      "id": 8029,
+      "difficulty": 8,
+      "level": 29
+    },
+    "8030": {
+      "id": 8030,
+      "difficulty": 8,
+      "level": 30
+    },
+    "8031": {
+      "id": 8031,
+      "difficulty": 8,
+      "level": 31
+    },
+    "8032": {
+      "id": 8032,
+      "difficulty": 8,
+      "level": 32
+    },
+    "8033": {
+      "id": 8033,
+      "difficulty": 8,
+      "level": 33
+    },
+    "8034": {
+      "id": 8034,
+      "difficulty": 8,
+      "level": 34
+    },
+    "8035": {
+      "id": 8035,
+      "difficulty": 8,
+      "level": 35
+    },
+    "8036": {
+      "id": 8036,
+      "difficulty": 8,
+      "level": 36
+    },
+    "8037": {
+      "id": 8037,
+      "difficulty": 8,
+      "level": 37
+    },
+    "8038": {
+      "id": 8038,
+      "difficulty": 8,
+      "level": 38
+    },
+    "8039": {
+      "id": 8039,
+      "difficulty": 8,
+      "level": 39
+    },
+    "8040": {
+      "id": 8040,
+      "difficulty": 8,
+      "level": 40
+    },
+    "8041": {
+      "id": 8041,
+      "difficulty": 8,
+      "level": 41
+    },
+    "8042": {
+      "id": 8042,
+      "difficulty": 8,
+      "level": 42
+    },
+    "8043": {
+      "id": 8043,
+      "difficulty": 8,
+      "level": 43
+    },
+    "8044": {
+      "id": 8044,
+      "difficulty": 8,
+      "level": 44
+    },
+    "8045": {
+      "id": 8045,
+      "difficulty": 8,
+      "level": 45
+    },
+    "8046": {
+      "id": 8046,
+      "difficulty": 8,
+      "level": 46
+    },
+    "8047": {
+      "id": 8047,
+      "difficulty": 8,
+      "level": 47
+    },
+    "8048": {
+      "id": 8048,
+      "difficulty": 8,
+      "level": 48
+    },
+    "8049": {
+      "id": 8049,
+      "difficulty": 8,
+      "level": 49
+    },
+    "8050": {
+      "id": 8050,
+      "difficulty": 8,
+      "level": 50
+    },
+    "8051": {
+      "id": 8051,
+      "difficulty": 8,
+      "level": 51
+    },
+    "8052": {
+      "id": 8052,
+      "difficulty": 8,
+      "level": 52
+    },
+    "8053": {
+      "id": 8053,
+      "difficulty": 8,
+      "level": 53
+    },
+    "8054": {
+      "id": 8054,
+      "difficulty": 8,
+      "level": 54
+    },
+    "8055": {
+      "id": 8055,
+      "difficulty": 8,
+      "level": 55
+    },
+    "8056": {
+      "id": 8056,
+      "difficulty": 8,
+      "level": 56
+    },
+    "8057": {
+      "id": 8057,
+      "difficulty": 8,
+      "level": 57
+    },
+    "8058": {
+      "id": 8058,
+      "difficulty": 8,
+      "level": 58
+    },
+    "8059": {
+      "id": 8059,
+      "difficulty": 8,
+      "level": 59
+    },
+    "8060": {
+      "id": 8060,
+      "difficulty": 8,
+      "level": 60
+    },
+    "9001": {
+      "id": 9001,
+      "difficulty": 9,
+      "level": 1
+    },
+    "9002": {
+      "id": 9002,
+      "difficulty": 9,
+      "level": 2
+    },
+    "9003": {
+      "id": 9003,
+      "difficulty": 9,
+      "level": 3
+    },
+    "9004": {
+      "id": 9004,
+      "difficulty": 9,
+      "level": 4
+    },
+    "9005": {
+      "id": 9005,
+      "difficulty": 9,
+      "level": 5
+    },
+    "9006": {
+      "id": 9006,
+      "difficulty": 9,
+      "level": 6
+    },
+    "9007": {
+      "id": 9007,
+      "difficulty": 9,
+      "level": 7
+    },
+    "9008": {
+      "id": 9008,
+      "difficulty": 9,
+      "level": 8
+    },
+    "9009": {
+      "id": 9009,
+      "difficulty": 9,
+      "level": 9
+    },
+    "9010": {
+      "id": 9010,
+      "difficulty": 9,
+      "level": 10
+    },
+    "9011": {
+      "id": 9011,
+      "difficulty": 9,
+      "level": 11
+    },
+    "9012": {
+      "id": 9012,
+      "difficulty": 9,
+      "level": 12
+    },
+    "9013": {
+      "id": 9013,
+      "difficulty": 9,
+      "level": 13
+    },
+    "9014": {
+      "id": 9014,
+      "difficulty": 9,
+      "level": 14
+    },
+    "9015": {
+      "id": 9015,
+      "difficulty": 9,
+      "level": 15
+    },
+    "9016": {
+      "id": 9016,
+      "difficulty": 9,
+      "level": 16
+    },
+    "9017": {
+      "id": 9017,
+      "difficulty": 9,
+      "level": 17
+    },
+    "9018": {
+      "id": 9018,
+      "difficulty": 9,
+      "level": 18
+    },
+    "9019": {
+      "id": 9019,
+      "difficulty": 9,
+      "level": 19
+    },
+    "9020": {
+      "id": 9020,
+      "difficulty": 9,
+      "level": 20
+    },
+    "9021": {
+      "id": 9021,
+      "difficulty": 9,
+      "level": 21
+    },
+    "9022": {
+      "id": 9022,
+      "difficulty": 9,
+      "level": 22
+    },
+    "9023": {
+      "id": 9023,
+      "difficulty": 9,
+      "level": 23
+    },
+    "9024": {
+      "id": 9024,
+      "difficulty": 9,
+      "level": 24
+    },
+    "9025": {
+      "id": 9025,
+      "difficulty": 9,
+      "level": 25
+    },
+    "9026": {
+      "id": 9026,
+      "difficulty": 9,
+      "level": 26
+    },
+    "9027": {
+      "id": 9027,
+      "difficulty": 9,
+      "level": 27
+    },
+    "9028": {
+      "id": 9028,
+      "difficulty": 9,
+      "level": 28
+    },
+    "9029": {
+      "id": 9029,
+      "difficulty": 9,
+      "level": 29
+    },
+    "9030": {
+      "id": 9030,
+      "difficulty": 9,
+      "level": 30
+    },
+    "9031": {
+      "id": 9031,
+      "difficulty": 9,
+      "level": 31
+    },
+    "9032": {
+      "id": 9032,
+      "difficulty": 9,
+      "level": 32
+    },
+    "9033": {
+      "id": 9033,
+      "difficulty": 9,
+      "level": 33
+    },
+    "9034": {
+      "id": 9034,
+      "difficulty": 9,
+      "level": 34
+    },
+    "9035": {
+      "id": 9035,
+      "difficulty": 9,
+      "level": 35
+    },
+    "9036": {
+      "id": 9036,
+      "difficulty": 9,
+      "level": 36
+    },
+    "9037": {
+      "id": 9037,
+      "difficulty": 9,
+      "level": 37
+    },
+    "9038": {
+      "id": 9038,
+      "difficulty": 9,
+      "level": 38
+    },
+    "9039": {
+      "id": 9039,
+      "difficulty": 9,
+      "level": 39
+    },
+    "9040": {
+      "id": 9040,
+      "difficulty": 9,
+      "level": 40
+    },
+    "9041": {
+      "id": 9041,
+      "difficulty": 9,
+      "level": 41
+    },
+    "9042": {
+      "id": 9042,
+      "difficulty": 9,
+      "level": 42
+    },
+    "9043": {
+      "id": 9043,
+      "difficulty": 9,
+      "level": 43
+    },
+    "9044": {
+      "id": 9044,
+      "difficulty": 9,
+      "level": 44
+    },
+    "9045": {
+      "id": 9045,
+      "difficulty": 9,
+      "level": 45
+    },
+    "9046": {
+      "id": 9046,
+      "difficulty": 9,
+      "level": 46
+    },
+    "9047": {
+      "id": 9047,
+      "difficulty": 9,
+      "level": 47
+    },
+    "9048": {
+      "id": 9048,
+      "difficulty": 9,
+      "level": 48
+    },
+    "9049": {
+      "id": 9049,
+      "difficulty": 9,
+      "level": 49
+    },
+    "9050": {
+      "id": 9050,
+      "difficulty": 9,
+      "level": 50
+    },
+    "9051": {
+      "id": 9051,
+      "difficulty": 9,
+      "level": 51
+    },
+    "9052": {
+      "id": 9052,
+      "difficulty": 9,
+      "level": 52
+    },
+    "9053": {
+      "id": 9053,
+      "difficulty": 9,
+      "level": 53
+    },
+    "9054": {
+      "id": 9054,
+      "difficulty": 9,
+      "level": 54
+    },
+    "9055": {
+      "id": 9055,
+      "difficulty": 9,
+      "level": 55
+    },
+    "9056": {
+      "id": 9056,
+      "difficulty": 9,
+      "level": 56
+    },
+    "9057": {
+      "id": 9057,
+      "difficulty": 9,
+      "level": 57
+    },
+    "9058": {
+      "id": 9058,
+      "difficulty": 9,
+      "level": 58
+    },
+    "9059": {
+      "id": 9059,
+      "difficulty": 9,
+      "level": 59
+    },
+    "9060": {
+      "id": 9060,
+      "difficulty": 9,
+      "level": 60
+    },
+    "10001": {
+      "id": 10001,
+      "difficulty": 10,
+      "level": 1
+    },
+    "10002": {
+      "id": 10002,
+      "difficulty": 10,
+      "level": 2
+    },
+    "10003": {
+      "id": 10003,
+      "difficulty": 10,
+      "level": 3
+    },
+    "10004": {
+      "id": 10004,
+      "difficulty": 10,
+      "level": 4
+    },
+    "10005": {
+      "id": 10005,
+      "difficulty": 10,
+      "level": 5
+    },
+    "10006": {
+      "id": 10006,
+      "difficulty": 10,
+      "level": 6
+    },
+    "10007": {
+      "id": 10007,
+      "difficulty": 10,
+      "level": 7
+    },
+    "10008": {
+      "id": 10008,
+      "difficulty": 10,
+      "level": 8
+    },
+    "10009": {
+      "id": 10009,
+      "difficulty": 10,
+      "level": 9
+    },
+    "10010": {
+      "id": 10010,
+      "difficulty": 10,
+      "level": 10
+    },
+    "10011": {
+      "id": 10011,
+      "difficulty": 10,
+      "level": 11
+    },
+    "10012": {
+      "id": 10012,
+      "difficulty": 10,
+      "level": 12
+    },
+    "10013": {
+      "id": 10013,
+      "difficulty": 10,
+      "level": 13
+    },
+    "10014": {
+      "id": 10014,
+      "difficulty": 10,
+      "level": 14
+    },
+    "10015": {
+      "id": 10015,
+      "difficulty": 10,
+      "level": 15
+    },
+    "10016": {
+      "id": 10016,
+      "difficulty": 10,
+      "level": 16
+    },
+    "10017": {
+      "id": 10017,
+      "difficulty": 10,
+      "level": 17
+    },
+    "10018": {
+      "id": 10018,
+      "difficulty": 10,
+      "level": 18
+    },
+    "10019": {
+      "id": 10019,
+      "difficulty": 10,
+      "level": 19
+    },
+    "10020": {
+      "id": 10020,
+      "difficulty": 10,
+      "level": 20
+    },
+    "10021": {
+      "id": 10021,
+      "difficulty": 10,
+      "level": 21
+    },
+    "10022": {
+      "id": 10022,
+      "difficulty": 10,
+      "level": 22
+    },
+    "10023": {
+      "id": 10023,
+      "difficulty": 10,
+      "level": 23
+    },
+    "10024": {
+      "id": 10024,
+      "difficulty": 10,
+      "level": 24
+    },
+    "10025": {
+      "id": 10025,
+      "difficulty": 10,
+      "level": 25
+    },
+    "10026": {
+      "id": 10026,
+      "difficulty": 10,
+      "level": 26
+    },
+    "10027": {
+      "id": 10027,
+      "difficulty": 10,
+      "level": 27
+    },
+    "10028": {
+      "id": 10028,
+      "difficulty": 10,
+      "level": 28
+    },
+    "10029": {
+      "id": 10029,
+      "difficulty": 10,
+      "level": 29
+    },
+    "10030": {
+      "id": 10030,
+      "difficulty": 10,
+      "level": 30
+    },
+    "10031": {
+      "id": 10031,
+      "difficulty": 10,
+      "level": 31
+    },
+    "10032": {
+      "id": 10032,
+      "difficulty": 10,
+      "level": 32
+    },
+    "10033": {
+      "id": 10033,
+      "difficulty": 10,
+      "level": 33
+    },
+    "10034": {
+      "id": 10034,
+      "difficulty": 10,
+      "level": 34
+    },
+    "10035": {
+      "id": 10035,
+      "difficulty": 10,
+      "level": 35
+    },
+    "10036": {
+      "id": 10036,
+      "difficulty": 10,
+      "level": 36
+    },
+    "10037": {
+      "id": 10037,
+      "difficulty": 10,
+      "level": 37
+    },
+    "10038": {
+      "id": 10038,
+      "difficulty": 10,
+      "level": 38
+    },
+    "10039": {
+      "id": 10039,
+      "difficulty": 10,
+      "level": 39
+    },
+    "10040": {
+      "id": 10040,
+      "difficulty": 10,
+      "level": 40
+    },
+    "10041": {
+      "id": 10041,
+      "difficulty": 10,
+      "level": 41
+    },
+    "10042": {
+      "id": 10042,
+      "difficulty": 10,
+      "level": 42
+    },
+    "10043": {
+      "id": 10043,
+      "difficulty": 10,
+      "level": 43
+    },
+    "10044": {
+      "id": 10044,
+      "difficulty": 10,
+      "level": 44
+    },
+    "10045": {
+      "id": 10045,
+      "difficulty": 10,
+      "level": 45
+    },
+    "10046": {
+      "id": 10046,
+      "difficulty": 10,
+      "level": 46
+    },
+    "10047": {
+      "id": 10047,
+      "difficulty": 10,
+      "level": 47
+    },
+    "10048": {
+      "id": 10048,
+      "difficulty": 10,
+      "level": 48
+    },
+    "10049": {
+      "id": 10049,
+      "difficulty": 10,
+      "level": 49
+    },
+    "10050": {
+      "id": 10050,
+      "difficulty": 10,
+      "level": 50
+    },
+    "10051": {
+      "id": 10051,
+      "difficulty": 10,
+      "level": 51
+    },
+    "10052": {
+      "id": 10052,
+      "difficulty": 10,
+      "level": 52
+    },
+    "10053": {
+      "id": 10053,
+      "difficulty": 10,
+      "level": 53
+    },
+    "10054": {
+      "id": 10054,
+      "difficulty": 10,
+      "level": 54
+    },
+    "10055": {
+      "id": 10055,
+      "difficulty": 10,
+      "level": 55
+    },
+    "10056": {
+      "id": 10056,
+      "difficulty": 10,
+      "level": 56
+    },
+    "10057": {
+      "id": 10057,
+      "difficulty": 10,
+      "level": 57
+    },
+    "10058": {
+      "id": 10058,
+      "difficulty": 10,
+      "level": 58
+    },
+    "10059": {
+      "id": 10059,
+      "difficulty": 10,
+      "level": 59
+    },
+    "10060": {
+      "id": 10060,
+      "difficulty": 10,
+      "level": 60
+    },
+    "11001": {
+      "id": 11001,
+      "difficulty": 11,
+      "level": 1
+    },
+    "11002": {
+      "id": 11002,
+      "difficulty": 11,
+      "level": 2
+    },
+    "11003": {
+      "id": 11003,
+      "difficulty": 11,
+      "level": 3
+    },
+    "11004": {
+      "id": 11004,
+      "difficulty": 11,
+      "level": 4
+    },
+    "11005": {
+      "id": 11005,
+      "difficulty": 11,
+      "level": 5
+    },
+    "11006": {
+      "id": 11006,
+      "difficulty": 11,
+      "level": 6
+    },
+    "11007": {
+      "id": 11007,
+      "difficulty": 11,
+      "level": 7
+    },
+    "11008": {
+      "id": 11008,
+      "difficulty": 11,
+      "level": 8
+    },
+    "11009": {
+      "id": 11009,
+      "difficulty": 11,
+      "level": 9
+    },
+    "11010": {
+      "id": 11010,
+      "difficulty": 11,
+      "level": 10
+    },
+    "11011": {
+      "id": 11011,
+      "difficulty": 11,
+      "level": 11
+    },
+    "11012": {
+      "id": 11012,
+      "difficulty": 11,
+      "level": 12
+    },
+    "11013": {
+      "id": 11013,
+      "difficulty": 11,
+      "level": 13
+    },
+    "11014": {
+      "id": 11014,
+      "difficulty": 11,
+      "level": 14
+    },
+    "11015": {
+      "id": 11015,
+      "difficulty": 11,
+      "level": 15
+    },
+    "11016": {
+      "id": 11016,
+      "difficulty": 11,
+      "level": 16
+    },
+    "11017": {
+      "id": 11017,
+      "difficulty": 11,
+      "level": 17
+    },
+    "11018": {
+      "id": 11018,
+      "difficulty": 11,
+      "level": 18
+    },
+    "11019": {
+      "id": 11019,
+      "difficulty": 11,
+      "level": 19
+    },
+    "11020": {
+      "id": 11020,
+      "difficulty": 11,
+      "level": 20
+    },
+    "11021": {
+      "id": 11021,
+      "difficulty": 11,
+      "level": 21
+    },
+    "11022": {
+      "id": 11022,
+      "difficulty": 11,
+      "level": 22
+    },
+    "11023": {
+      "id": 11023,
+      "difficulty": 11,
+      "level": 23
+    },
+    "11024": {
+      "id": 11024,
+      "difficulty": 11,
+      "level": 24
+    },
+    "11025": {
+      "id": 11025,
+      "difficulty": 11,
+      "level": 25
+    },
+    "11026": {
+      "id": 11026,
+      "difficulty": 11,
+      "level": 26
+    },
+    "11027": {
+      "id": 11027,
+      "difficulty": 11,
+      "level": 27
+    },
+    "11028": {
+      "id": 11028,
+      "difficulty": 11,
+      "level": 28
+    },
+    "11029": {
+      "id": 11029,
+      "difficulty": 11,
+      "level": 29
+    },
+    "11030": {
+      "id": 11030,
+      "difficulty": 11,
+      "level": 30
+    },
+    "11031": {
+      "id": 11031,
+      "difficulty": 11,
+      "level": 31
+    },
+    "11032": {
+      "id": 11032,
+      "difficulty": 11,
+      "level": 32
+    },
+    "11033": {
+      "id": 11033,
+      "difficulty": 11,
+      "level": 33
+    },
+    "11034": {
+      "id": 11034,
+      "difficulty": 11,
+      "level": 34
+    },
+    "11035": {
+      "id": 11035,
+      "difficulty": 11,
+      "level": 35
+    },
+    "11036": {
+      "id": 11036,
+      "difficulty": 11,
+      "level": 36
+    },
+    "11037": {
+      "id": 11037,
+      "difficulty": 11,
+      "level": 37
+    },
+    "11038": {
+      "id": 11038,
+      "difficulty": 11,
+      "level": 38
+    },
+    "11039": {
+      "id": 11039,
+      "difficulty": 11,
+      "level": 39
+    },
+    "11040": {
+      "id": 11040,
+      "difficulty": 11,
+      "level": 40
+    },
+    "11041": {
+      "id": 11041,
+      "difficulty": 11,
+      "level": 41
+    },
+    "11042": {
+      "id": 11042,
+      "difficulty": 11,
+      "level": 42
+    },
+    "11043": {
+      "id": 11043,
+      "difficulty": 11,
+      "level": 43
+    },
+    "11044": {
+      "id": 11044,
+      "difficulty": 11,
+      "level": 44
+    },
+    "11045": {
+      "id": 11045,
+      "difficulty": 11,
+      "level": 45
+    },
+    "11046": {
+      "id": 11046,
+      "difficulty": 11,
+      "level": 46
+    },
+    "11047": {
+      "id": 11047,
+      "difficulty": 11,
+      "level": 47
+    },
+    "11048": {
+      "id": 11048,
+      "difficulty": 11,
+      "level": 48
+    },
+    "11049": {
+      "id": 11049,
+      "difficulty": 11,
+      "level": 49
+    },
+    "11050": {
+      "id": 11050,
+      "difficulty": 11,
+      "level": 50
+    },
+    "11051": {
+      "id": 11051,
+      "difficulty": 11,
+      "level": 51
+    },
+    "11052": {
+      "id": 11052,
+      "difficulty": 11,
+      "level": 52
+    },
+    "11053": {
+      "id": 11053,
+      "difficulty": 11,
+      "level": 53
+    },
+    "11054": {
+      "id": 11054,
+      "difficulty": 11,
+      "level": 54
+    },
+    "11055": {
+      "id": 11055,
+      "difficulty": 11,
+      "level": 55
+    },
+    "11056": {
+      "id": 11056,
+      "difficulty": 11,
+      "level": 56
+    },
+    "11057": {
+      "id": 11057,
+      "difficulty": 11,
+      "level": 57
+    },
+    "11058": {
+      "id": 11058,
+      "difficulty": 11,
+      "level": 58
+    },
+    "11059": {
+      "id": 11059,
+      "difficulty": 11,
+      "level": 59
+    },
+    "11060": {
+      "id": 11060,
+      "difficulty": 11,
+      "level": 60
+    },
+    "12001": {
+      "id": 12001,
+      "difficulty": 12,
+      "level": 1
+    },
+    "12002": {
+      "id": 12002,
+      "difficulty": 12,
+      "level": 2
+    },
+    "12003": {
+      "id": 12003,
+      "difficulty": 12,
+      "level": 3
+    },
+    "12004": {
+      "id": 12004,
+      "difficulty": 12,
+      "level": 4
+    },
+    "12005": {
+      "id": 12005,
+      "difficulty": 12,
+      "level": 5
+    },
+    "12006": {
+      "id": 12006,
+      "difficulty": 12,
+      "level": 6
+    },
+    "12007": {
+      "id": 12007,
+      "difficulty": 12,
+      "level": 7
+    },
+    "12008": {
+      "id": 12008,
+      "difficulty": 12,
+      "level": 8
+    },
+    "12009": {
+      "id": 12009,
+      "difficulty": 12,
+      "level": 9
+    },
+    "12010": {
+      "id": 12010,
+      "difficulty": 12,
+      "level": 10
+    },
+    "12011": {
+      "id": 12011,
+      "difficulty": 12,
+      "level": 11
+    },
+    "12012": {
+      "id": 12012,
+      "difficulty": 12,
+      "level": 12
+    },
+    "12013": {
+      "id": 12013,
+      "difficulty": 12,
+      "level": 13
+    },
+    "12014": {
+      "id": 12014,
+      "difficulty": 12,
+      "level": 14
+    },
+    "12015": {
+      "id": 12015,
+      "difficulty": 12,
+      "level": 15
+    },
+    "12016": {
+      "id": 12016,
+      "difficulty": 12,
+      "level": 16
+    },
+    "12017": {
+      "id": 12017,
+      "difficulty": 12,
+      "level": 17
+    },
+    "12018": {
+      "id": 12018,
+      "difficulty": 12,
+      "level": 18
+    },
+    "12019": {
+      "id": 12019,
+      "difficulty": 12,
+      "level": 19
+    },
+    "12020": {
+      "id": 12020,
+      "difficulty": 12,
+      "level": 20
+    },
+    "12021": {
+      "id": 12021,
+      "difficulty": 12,
+      "level": 21
+    },
+    "12022": {
+      "id": 12022,
+      "difficulty": 12,
+      "level": 22
+    },
+    "12023": {
+      "id": 12023,
+      "difficulty": 12,
+      "level": 23
+    },
+    "12024": {
+      "id": 12024,
+      "difficulty": 12,
+      "level": 24
+    },
+    "12025": {
+      "id": 12025,
+      "difficulty": 12,
+      "level": 25
+    },
+    "12026": {
+      "id": 12026,
+      "difficulty": 12,
+      "level": 26
+    },
+    "12027": {
+      "id": 12027,
+      "difficulty": 12,
+      "level": 27
+    },
+    "12028": {
+      "id": 12028,
+      "difficulty": 12,
+      "level": 28
+    },
+    "12029": {
+      "id": 12029,
+      "difficulty": 12,
+      "level": 29
+    },
+    "12030": {
+      "id": 12030,
+      "difficulty": 12,
+      "level": 30
+    },
+    "12031": {
+      "id": 12031,
+      "difficulty": 12,
+      "level": 31
+    },
+    "12032": {
+      "id": 12032,
+      "difficulty": 12,
+      "level": 32
+    },
+    "12033": {
+      "id": 12033,
+      "difficulty": 12,
+      "level": 33
+    },
+    "12034": {
+      "id": 12034,
+      "difficulty": 12,
+      "level": 34
+    },
+    "12035": {
+      "id": 12035,
+      "difficulty": 12,
+      "level": 35
+    },
+    "12036": {
+      "id": 12036,
+      "difficulty": 12,
+      "level": 36
+    },
+    "12037": {
+      "id": 12037,
+      "difficulty": 12,
+      "level": 37
+    },
+    "12038": {
+      "id": 12038,
+      "difficulty": 12,
+      "level": 38
+    },
+    "12039": {
+      "id": 12039,
+      "difficulty": 12,
+      "level": 39
+    },
+    "12040": {
+      "id": 12040,
+      "difficulty": 12,
+      "level": 40
+    },
+    "12041": {
+      "id": 12041,
+      "difficulty": 12,
+      "level": 41
+    },
+    "12042": {
+      "id": 12042,
+      "difficulty": 12,
+      "level": 42
+    },
+    "12043": {
+      "id": 12043,
+      "difficulty": 12,
+      "level": 43
+    },
+    "12044": {
+      "id": 12044,
+      "difficulty": 12,
+      "level": 44
+    },
+    "12045": {
+      "id": 12045,
+      "difficulty": 12,
+      "level": 45
+    },
+    "12046": {
+      "id": 12046,
+      "difficulty": 12,
+      "level": 46
+    },
+    "12047": {
+      "id": 12047,
+      "difficulty": 12,
+      "level": 47
+    },
+    "12048": {
+      "id": 12048,
+      "difficulty": 12,
+      "level": 48
+    },
+    "12049": {
+      "id": 12049,
+      "difficulty": 12,
+      "level": 49
+    },
+    "12050": {
+      "id": 12050,
+      "difficulty": 12,
+      "level": 50
+    },
+    "12051": {
+      "id": 12051,
+      "difficulty": 12,
+      "level": 51
+    },
+    "12052": {
+      "id": 12052,
+      "difficulty": 12,
+      "level": 52
+    },
+    "12053": {
+      "id": 12053,
+      "difficulty": 12,
+      "level": 53
+    },
+    "12054": {
+      "id": 12054,
+      "difficulty": 12,
+      "level": 54
+    },
+    "12055": {
+      "id": 12055,
+      "difficulty": 12,
+      "level": 55
+    },
+    "12056": {
+      "id": 12056,
+      "difficulty": 12,
+      "level": 56
+    },
+    "12057": {
+      "id": 12057,
+      "difficulty": 12,
+      "level": 57
+    },
+    "12058": {
+      "id": 12058,
+      "difficulty": 12,
+      "level": 58
+    },
+    "12059": {
+      "id": 12059,
+      "difficulty": 12,
+      "level": 59
+    },
+    "12060": {
+      "id": 12060,
+      "difficulty": 12,
+      "level": 60
+    },
+    "13001": {
+      "id": 13001,
+      "difficulty": 13,
+      "level": 1
+    },
+    "13002": {
+      "id": 13002,
+      "difficulty": 13,
+      "level": 2
+    },
+    "13003": {
+      "id": 13003,
+      "difficulty": 13,
+      "level": 3
+    },
+    "13004": {
+      "id": 13004,
+      "difficulty": 13,
+      "level": 4
+    },
+    "13005": {
+      "id": 13005,
+      "difficulty": 13,
+      "level": 5
+    },
+    "13006": {
+      "id": 13006,
+      "difficulty": 13,
+      "level": 6
+    },
+    "13007": {
+      "id": 13007,
+      "difficulty": 13,
+      "level": 7
+    },
+    "13008": {
+      "id": 13008,
+      "difficulty": 13,
+      "level": 8
+    },
+    "13009": {
+      "id": 13009,
+      "difficulty": 13,
+      "level": 9
+    },
+    "13010": {
+      "id": 13010,
+      "difficulty": 13,
+      "level": 10
+    },
+    "13011": {
+      "id": 13011,
+      "difficulty": 13,
+      "level": 11
+    },
+    "13012": {
+      "id": 13012,
+      "difficulty": 13,
+      "level": 12
+    },
+    "13013": {
+      "id": 13013,
+      "difficulty": 13,
+      "level": 13
+    },
+    "13014": {
+      "id": 13014,
+      "difficulty": 13,
+      "level": 14
+    },
+    "13015": {
+      "id": 13015,
+      "difficulty": 13,
+      "level": 15
+    },
+    "13016": {
+      "id": 13016,
+      "difficulty": 13,
+      "level": 16
+    },
+    "13017": {
+      "id": 13017,
+      "difficulty": 13,
+      "level": 17
+    },
+    "13018": {
+      "id": 13018,
+      "difficulty": 13,
+      "level": 18
+    },
+    "13019": {
+      "id": 13019,
+      "difficulty": 13,
+      "level": 19
+    },
+    "13020": {
+      "id": 13020,
+      "difficulty": 13,
+      "level": 20
+    },
+    "13021": {
+      "id": 13021,
+      "difficulty": 13,
+      "level": 21
+    },
+    "13022": {
+      "id": 13022,
+      "difficulty": 13,
+      "level": 22
+    },
+    "13023": {
+      "id": 13023,
+      "difficulty": 13,
+      "level": 23
+    },
+    "13024": {
+      "id": 13024,
+      "difficulty": 13,
+      "level": 24
+    },
+    "13025": {
+      "id": 13025,
+      "difficulty": 13,
+      "level": 25
+    },
+    "13026": {
+      "id": 13026,
+      "difficulty": 13,
+      "level": 26
+    },
+    "13027": {
+      "id": 13027,
+      "difficulty": 13,
+      "level": 27
+    },
+    "13028": {
+      "id": 13028,
+      "difficulty": 13,
+      "level": 28
+    },
+    "13029": {
+      "id": 13029,
+      "difficulty": 13,
+      "level": 29
+    },
+    "13030": {
+      "id": 13030,
+      "difficulty": 13,
+      "level": 30
+    },
+    "13031": {
+      "id": 13031,
+      "difficulty": 13,
+      "level": 31
+    },
+    "13032": {
+      "id": 13032,
+      "difficulty": 13,
+      "level": 32
+    },
+    "13033": {
+      "id": 13033,
+      "difficulty": 13,
+      "level": 33
+    },
+    "13034": {
+      "id": 13034,
+      "difficulty": 13,
+      "level": 34
+    },
+    "13035": {
+      "id": 13035,
+      "difficulty": 13,
+      "level": 35
+    },
+    "13036": {
+      "id": 13036,
+      "difficulty": 13,
+      "level": 36
+    },
+    "13037": {
+      "id": 13037,
+      "difficulty": 13,
+      "level": 37
+    },
+    "13038": {
+      "id": 13038,
+      "difficulty": 13,
+      "level": 38
+    },
+    "13039": {
+      "id": 13039,
+      "difficulty": 13,
+      "level": 39
+    },
+    "13040": {
+      "id": 13040,
+      "difficulty": 13,
+      "level": 40
+    },
+    "13041": {
+      "id": 13041,
+      "difficulty": 13,
+      "level": 41
+    },
+    "13042": {
+      "id": 13042,
+      "difficulty": 13,
+      "level": 42
+    },
+    "13043": {
+      "id": 13043,
+      "difficulty": 13,
+      "level": 43
+    },
+    "13044": {
+      "id": 13044,
+      "difficulty": 13,
+      "level": 44
+    },
+    "13045": {
+      "id": 13045,
+      "difficulty": 13,
+      "level": 45
+    },
+    "13046": {
+      "id": 13046,
+      "difficulty": 13,
+      "level": 46
+    },
+    "13047": {
+      "id": 13047,
+      "difficulty": 13,
+      "level": 47
+    },
+    "13048": {
+      "id": 13048,
+      "difficulty": 13,
+      "level": 48
+    },
+    "13049": {
+      "id": 13049,
+      "difficulty": 13,
+      "level": 49
+    },
+    "13050": {
+      "id": 13050,
+      "difficulty": 13,
+      "level": 50
+    },
+    "13051": {
+      "id": 13051,
+      "difficulty": 13,
+      "level": 51
+    },
+    "13052": {
+      "id": 13052,
+      "difficulty": 13,
+      "level": 52
+    },
+    "13053": {
+      "id": 13053,
+      "difficulty": 13,
+      "level": 53
+    },
+    "13054": {
+      "id": 13054,
+      "difficulty": 13,
+      "level": 54
+    },
+    "13055": {
+      "id": 13055,
+      "difficulty": 13,
+      "level": 55
+    },
+    "13056": {
+      "id": 13056,
+      "difficulty": 13,
+      "level": 56
+    },
+    "13057": {
+      "id": 13057,
+      "difficulty": 13,
+      "level": 57
+    },
+    "13058": {
+      "id": 13058,
+      "difficulty": 13,
+      "level": 58
+    },
+    "13059": {
+      "id": 13059,
+      "difficulty": 13,
+      "level": 59
+    },
+    "13060": {
+      "id": 13060,
+      "difficulty": 13,
+      "level": 60
+    },
+    "14001": {
+      "id": 14001,
+      "difficulty": 14,
+      "level": 1
+    },
+    "14002": {
+      "id": 14002,
+      "difficulty": 14,
+      "level": 2
+    },
+    "14003": {
+      "id": 14003,
+      "difficulty": 14,
+      "level": 3
+    },
+    "14004": {
+      "id": 14004,
+      "difficulty": 14,
+      "level": 4
+    },
+    "14005": {
+      "id": 14005,
+      "difficulty": 14,
+      "level": 5
+    },
+    "14006": {
+      "id": 14006,
+      "difficulty": 14,
+      "level": 6
+    },
+    "14007": {
+      "id": 14007,
+      "difficulty": 14,
+      "level": 7
+    },
+    "14008": {
+      "id": 14008,
+      "difficulty": 14,
+      "level": 8
+    },
+    "14009": {
+      "id": 14009,
+      "difficulty": 14,
+      "level": 9
+    },
+    "14010": {
+      "id": 14010,
+      "difficulty": 14,
+      "level": 10
+    },
+    "14011": {
+      "id": 14011,
+      "difficulty": 14,
+      "level": 11
+    },
+    "14012": {
+      "id": 14012,
+      "difficulty": 14,
+      "level": 12
+    },
+    "14013": {
+      "id": 14013,
+      "difficulty": 14,
+      "level": 13
+    },
+    "14014": {
+      "id": 14014,
+      "difficulty": 14,
+      "level": 14
+    },
+    "14015": {
+      "id": 14015,
+      "difficulty": 14,
+      "level": 15
+    },
+    "14016": {
+      "id": 14016,
+      "difficulty": 14,
+      "level": 16
+    },
+    "14017": {
+      "id": 14017,
+      "difficulty": 14,
+      "level": 17
+    },
+    "14018": {
+      "id": 14018,
+      "difficulty": 14,
+      "level": 18
+    },
+    "14019": {
+      "id": 14019,
+      "difficulty": 14,
+      "level": 19
+    },
+    "14020": {
+      "id": 14020,
+      "difficulty": 14,
+      "level": 20
+    },
+    "14021": {
+      "id": 14021,
+      "difficulty": 14,
+      "level": 21
+    },
+    "14022": {
+      "id": 14022,
+      "difficulty": 14,
+      "level": 22
+    },
+    "14023": {
+      "id": 14023,
+      "difficulty": 14,
+      "level": 23
+    },
+    "14024": {
+      "id": 14024,
+      "difficulty": 14,
+      "level": 24
+    },
+    "14025": {
+      "id": 14025,
+      "difficulty": 14,
+      "level": 25
+    },
+    "14026": {
+      "id": 14026,
+      "difficulty": 14,
+      "level": 26
+    },
+    "14027": {
+      "id": 14027,
+      "difficulty": 14,
+      "level": 27
+    },
+    "14028": {
+      "id": 14028,
+      "difficulty": 14,
+      "level": 28
+    },
+    "14029": {
+      "id": 14029,
+      "difficulty": 14,
+      "level": 29
+    },
+    "14030": {
+      "id": 14030,
+      "difficulty": 14,
+      "level": 30
+    },
+    "14031": {
+      "id": 14031,
+      "difficulty": 14,
+      "level": 31
+    },
+    "14032": {
+      "id": 14032,
+      "difficulty": 14,
+      "level": 32
+    },
+    "14033": {
+      "id": 14033,
+      "difficulty": 14,
+      "level": 33
+    },
+    "14034": {
+      "id": 14034,
+      "difficulty": 14,
+      "level": 34
+    },
+    "14035": {
+      "id": 14035,
+      "difficulty": 14,
+      "level": 35
+    },
+    "14036": {
+      "id": 14036,
+      "difficulty": 14,
+      "level": 36
+    },
+    "14037": {
+      "id": 14037,
+      "difficulty": 14,
+      "level": 37
+    },
+    "14038": {
+      "id": 14038,
+      "difficulty": 14,
+      "level": 38
+    },
+    "14039": {
+      "id": 14039,
+      "difficulty": 14,
+      "level": 39
+    },
+    "14040": {
+      "id": 14040,
+      "difficulty": 14,
+      "level": 40
+    },
+    "14041": {
+      "id": 14041,
+      "difficulty": 14,
+      "level": 41
+    },
+    "14042": {
+      "id": 14042,
+      "difficulty": 14,
+      "level": 42
+    },
+    "14043": {
+      "id": 14043,
+      "difficulty": 14,
+      "level": 43
+    },
+    "14044": {
+      "id": 14044,
+      "difficulty": 14,
+      "level": 44
+    },
+    "14045": {
+      "id": 14045,
+      "difficulty": 14,
+      "level": 45
+    },
+    "14046": {
+      "id": 14046,
+      "difficulty": 14,
+      "level": 46
+    },
+    "14047": {
+      "id": 14047,
+      "difficulty": 14,
+      "level": 47
+    },
+    "14048": {
+      "id": 14048,
+      "difficulty": 14,
+      "level": 48
+    },
+    "14049": {
+      "id": 14049,
+      "difficulty": 14,
+      "level": 49
+    },
+    "14050": {
+      "id": 14050,
+      "difficulty": 14,
+      "level": 50
+    },
+    "14051": {
+      "id": 14051,
+      "difficulty": 14,
+      "level": 51
+    },
+    "14052": {
+      "id": 14052,
+      "difficulty": 14,
+      "level": 52
+    },
+    "14053": {
+      "id": 14053,
+      "difficulty": 14,
+      "level": 53
+    },
+    "14054": {
+      "id": 14054,
+      "difficulty": 14,
+      "level": 54
+    },
+    "14055": {
+      "id": 14055,
+      "difficulty": 14,
+      "level": 55
+    },
+    "14056": {
+      "id": 14056,
+      "difficulty": 14,
+      "level": 56
+    },
+    "14057": {
+      "id": 14057,
+      "difficulty": 14,
+      "level": 57
+    },
+    "14058": {
+      "id": 14058,
+      "difficulty": 14,
+      "level": 58
+    },
+    "14059": {
+      "id": 14059,
+      "difficulty": 14,
+      "level": 59
+    },
+    "14060": {
+      "id": 14060,
+      "difficulty": 14,
+      "level": 60
+    },
+    "15001": {
+      "id": 15001,
+      "difficulty": 15,
+      "level": 1
+    },
+    "15002": {
+      "id": 15002,
+      "difficulty": 15,
+      "level": 2
+    },
+    "15003": {
+      "id": 15003,
+      "difficulty": 15,
+      "level": 3
+    },
+    "15004": {
+      "id": 15004,
+      "difficulty": 15,
+      "level": 4
+    },
+    "15005": {
+      "id": 15005,
+      "difficulty": 15,
+      "level": 5
+    },
+    "15006": {
+      "id": 15006,
+      "difficulty": 15,
+      "level": 6
+    },
+    "15007": {
+      "id": 15007,
+      "difficulty": 15,
+      "level": 7
+    },
+    "15008": {
+      "id": 15008,
+      "difficulty": 15,
+      "level": 8
+    },
+    "15009": {
+      "id": 15009,
+      "difficulty": 15,
+      "level": 9
+    },
+    "15010": {
+      "id": 15010,
+      "difficulty": 15,
+      "level": 10
+    },
+    "15011": {
+      "id": 15011,
+      "difficulty": 15,
+      "level": 11
+    },
+    "15012": {
+      "id": 15012,
+      "difficulty": 15,
+      "level": 12
+    },
+    "15013": {
+      "id": 15013,
+      "difficulty": 15,
+      "level": 13
+    },
+    "15014": {
+      "id": 15014,
+      "difficulty": 15,
+      "level": 14
+    },
+    "15015": {
+      "id": 15015,
+      "difficulty": 15,
+      "level": 15
+    },
+    "15016": {
+      "id": 15016,
+      "difficulty": 15,
+      "level": 16
+    },
+    "15017": {
+      "id": 15017,
+      "difficulty": 15,
+      "level": 17
+    },
+    "15018": {
+      "id": 15018,
+      "difficulty": 15,
+      "level": 18
+    },
+    "15019": {
+      "id": 15019,
+      "difficulty": 15,
+      "level": 19
+    },
+    "15020": {
+      "id": 15020,
+      "difficulty": 15,
+      "level": 20
+    },
+    "15021": {
+      "id": 15021,
+      "difficulty": 15,
+      "level": 21
+    },
+    "15022": {
+      "id": 15022,
+      "difficulty": 15,
+      "level": 22
+    },
+    "15023": {
+      "id": 15023,
+      "difficulty": 15,
+      "level": 23
+    },
+    "15024": {
+      "id": 15024,
+      "difficulty": 15,
+      "level": 24
+    },
+    "15025": {
+      "id": 15025,
+      "difficulty": 15,
+      "level": 25
+    },
+    "15026": {
+      "id": 15026,
+      "difficulty": 15,
+      "level": 26
+    },
+    "15027": {
+      "id": 15027,
+      "difficulty": 15,
+      "level": 27
+    },
+    "15028": {
+      "id": 15028,
+      "difficulty": 15,
+      "level": 28
+    },
+    "15029": {
+      "id": 15029,
+      "difficulty": 15,
+      "level": 29
+    },
+    "15030": {
+      "id": 15030,
+      "difficulty": 15,
+      "level": 30
+    },
+    "15031": {
+      "id": 15031,
+      "difficulty": 15,
+      "level": 31
+    },
+    "15032": {
+      "id": 15032,
+      "difficulty": 15,
+      "level": 32
+    },
+    "15033": {
+      "id": 15033,
+      "difficulty": 15,
+      "level": 33
+    },
+    "15034": {
+      "id": 15034,
+      "difficulty": 15,
+      "level": 34
+    },
+    "15035": {
+      "id": 15035,
+      "difficulty": 15,
+      "level": 35
+    },
+    "15036": {
+      "id": 15036,
+      "difficulty": 15,
+      "level": 36
+    },
+    "15037": {
+      "id": 15037,
+      "difficulty": 15,
+      "level": 37
+    },
+    "15038": {
+      "id": 15038,
+      "difficulty": 15,
+      "level": 38
+    },
+    "15039": {
+      "id": 15039,
+      "difficulty": 15,
+      "level": 39
+    },
+    "15040": {
+      "id": 15040,
+      "difficulty": 15,
+      "level": 40
+    },
+    "15041": {
+      "id": 15041,
+      "difficulty": 15,
+      "level": 41
+    },
+    "15042": {
+      "id": 15042,
+      "difficulty": 15,
+      "level": 42
+    },
+    "15043": {
+      "id": 15043,
+      "difficulty": 15,
+      "level": 43
+    },
+    "15044": {
+      "id": 15044,
+      "difficulty": 15,
+      "level": 44
+    },
+    "15045": {
+      "id": 15045,
+      "difficulty": 15,
+      "level": 45
+    },
+    "15046": {
+      "id": 15046,
+      "difficulty": 15,
+      "level": 46
+    },
+    "15047": {
+      "id": 15047,
+      "difficulty": 15,
+      "level": 47
+    },
+    "15048": {
+      "id": 15048,
+      "difficulty": 15,
+      "level": 48
+    },
+    "15049": {
+      "id": 15049,
+      "difficulty": 15,
+      "level": 49
+    },
+    "15050": {
+      "id": 15050,
+      "difficulty": 15,
+      "level": 50
+    },
+    "15051": {
+      "id": 15051,
+      "difficulty": 15,
+      "level": 51
+    },
+    "15052": {
+      "id": 15052,
+      "difficulty": 15,
+      "level": 52
+    },
+    "15053": {
+      "id": 15053,
+      "difficulty": 15,
+      "level": 53
+    },
+    "15054": {
+      "id": 15054,
+      "difficulty": 15,
+      "level": 54
+    },
+    "15055": {
+      "id": 15055,
+      "difficulty": 15,
+      "level": 55
+    },
+    "15056": {
+      "id": 15056,
+      "difficulty": 15,
+      "level": 56
+    },
+    "15057": {
+      "id": 15057,
+      "difficulty": 15,
+      "level": 57
+    },
+    "15058": {
+      "id": 15058,
+      "difficulty": 15,
+      "level": 58
+    },
+    "15059": {
+      "id": 15059,
+      "difficulty": 15,
+      "level": 59
+    },
+    "15060": {
+      "id": 15060,
+      "difficulty": 15,
+      "level": 60
+    },
+    "16001": {
+      "id": 16001,
+      "difficulty": 16,
+      "level": 1
+    },
+    "16002": {
+      "id": 16002,
+      "difficulty": 16,
+      "level": 2
+    },
+    "16003": {
+      "id": 16003,
+      "difficulty": 16,
+      "level": 3
+    },
+    "16004": {
+      "id": 16004,
+      "difficulty": 16,
+      "level": 4
+    },
+    "16005": {
+      "id": 16005,
+      "difficulty": 16,
+      "level": 5
+    },
+    "16006": {
+      "id": 16006,
+      "difficulty": 16,
+      "level": 6
+    },
+    "16007": {
+      "id": 16007,
+      "difficulty": 16,
+      "level": 7
+    },
+    "16008": {
+      "id": 16008,
+      "difficulty": 16,
+      "level": 8
+    },
+    "16009": {
+      "id": 16009,
+      "difficulty": 16,
+      "level": 9
+    },
+    "16010": {
+      "id": 16010,
+      "difficulty": 16,
+      "level": 10
+    },
+    "16011": {
+      "id": 16011,
+      "difficulty": 16,
+      "level": 11
+    },
+    "16012": {
+      "id": 16012,
+      "difficulty": 16,
+      "level": 12
+    },
+    "16013": {
+      "id": 16013,
+      "difficulty": 16,
+      "level": 13
+    },
+    "16014": {
+      "id": 16014,
+      "difficulty": 16,
+      "level": 14
+    },
+    "16015": {
+      "id": 16015,
+      "difficulty": 16,
+      "level": 15
+    },
+    "16016": {
+      "id": 16016,
+      "difficulty": 16,
+      "level": 16
+    },
+    "16017": {
+      "id": 16017,
+      "difficulty": 16,
+      "level": 17
+    },
+    "16018": {
+      "id": 16018,
+      "difficulty": 16,
+      "level": 18
+    },
+    "16019": {
+      "id": 16019,
+      "difficulty": 16,
+      "level": 19
+    },
+    "16020": {
+      "id": 16020,
+      "difficulty": 16,
+      "level": 20
+    },
+    "16021": {
+      "id": 16021,
+      "difficulty": 16,
+      "level": 21
+    },
+    "16022": {
+      "id": 16022,
+      "difficulty": 16,
+      "level": 22
+    },
+    "16023": {
+      "id": 16023,
+      "difficulty": 16,
+      "level": 23
+    },
+    "16024": {
+      "id": 16024,
+      "difficulty": 16,
+      "level": 24
+    },
+    "16025": {
+      "id": 16025,
+      "difficulty": 16,
+      "level": 25
+    },
+    "16026": {
+      "id": 16026,
+      "difficulty": 16,
+      "level": 26
+    },
+    "16027": {
+      "id": 16027,
+      "difficulty": 16,
+      "level": 27
+    },
+    "16028": {
+      "id": 16028,
+      "difficulty": 16,
+      "level": 28
+    },
+    "16029": {
+      "id": 16029,
+      "difficulty": 16,
+      "level": 29
+    },
+    "16030": {
+      "id": 16030,
+      "difficulty": 16,
+      "level": 30
+    },
+    "16031": {
+      "id": 16031,
+      "difficulty": 16,
+      "level": 31
+    },
+    "16032": {
+      "id": 16032,
+      "difficulty": 16,
+      "level": 32
+    },
+    "16033": {
+      "id": 16033,
+      "difficulty": 16,
+      "level": 33
+    },
+    "16034": {
+      "id": 16034,
+      "difficulty": 16,
+      "level": 34
+    },
+    "16035": {
+      "id": 16035,
+      "difficulty": 16,
+      "level": 35
+    },
+    "16036": {
+      "id": 16036,
+      "difficulty": 16,
+      "level": 36
+    },
+    "16037": {
+      "id": 16037,
+      "difficulty": 16,
+      "level": 37
+    },
+    "16038": {
+      "id": 16038,
+      "difficulty": 16,
+      "level": 38
+    },
+    "16039": {
+      "id": 16039,
+      "difficulty": 16,
+      "level": 39
+    },
+    "16040": {
+      "id": 16040,
+      "difficulty": 16,
+      "level": 40
+    },
+    "16041": {
+      "id": 16041,
+      "difficulty": 16,
+      "level": 41
+    },
+    "16042": {
+      "id": 16042,
+      "difficulty": 16,
+      "level": 42
+    },
+    "16043": {
+      "id": 16043,
+      "difficulty": 16,
+      "level": 43
+    },
+    "16044": {
+      "id": 16044,
+      "difficulty": 16,
+      "level": 44
+    },
+    "16045": {
+      "id": 16045,
+      "difficulty": 16,
+      "level": 45
+    },
+    "16046": {
+      "id": 16046,
+      "difficulty": 16,
+      "level": 46
+    },
+    "16047": {
+      "id": 16047,
+      "difficulty": 16,
+      "level": 47
+    },
+    "16048": {
+      "id": 16048,
+      "difficulty": 16,
+      "level": 48
+    },
+    "16049": {
+      "id": 16049,
+      "difficulty": 16,
+      "level": 49
+    },
+    "16050": {
+      "id": 16050,
+      "difficulty": 16,
+      "level": 50
+    },
+    "16051": {
+      "id": 16051,
+      "difficulty": 16,
+      "level": 51
+    },
+    "16052": {
+      "id": 16052,
+      "difficulty": 16,
+      "level": 52
+    },
+    "16053": {
+      "id": 16053,
+      "difficulty": 16,
+      "level": 53
+    },
+    "16054": {
+      "id": 16054,
+      "difficulty": 16,
+      "level": 54
+    },
+    "16055": {
+      "id": 16055,
+      "difficulty": 16,
+      "level": 55
+    },
+    "16056": {
+      "id": 16056,
+      "difficulty": 16,
+      "level": 56
+    },
+    "16057": {
+      "id": 16057,
+      "difficulty": 16,
+      "level": 57
+    },
+    "16058": {
+      "id": 16058,
+      "difficulty": 16,
+      "level": 58
+    },
+    "16059": {
+      "id": 16059,
+      "difficulty": 16,
+      "level": 59
+    },
+    "16060": {
+      "id": 16060,
+      "difficulty": 16,
+      "level": 60
+    },
+    "16061": {
+      "id": 16061,
+      "difficulty": 16,
+      "level": 61
+    },
+    "16062": {
+      "id": 16062,
+      "difficulty": 16,
+      "level": 62
+    },
+    "16063": {
+      "id": 16063,
+      "difficulty": 16,
+      "level": 63
+    },
+    "16064": {
+      "id": 16064,
+      "difficulty": 16,
+      "level": 64
+    },
+    "16065": {
+      "id": 16065,
+      "difficulty": 16,
+      "level": 65
+    },
+    "16066": {
+      "id": 16066,
+      "difficulty": 16,
+      "level": 66
+    },
+    "16067": {
+      "id": 16067,
+      "difficulty": 16,
+      "level": 67
+    },
+    "16068": {
+      "id": 16068,
+      "difficulty": 16,
+      "level": 68
+    },
+    "16069": {
+      "id": 16069,
+      "difficulty": 16,
+      "level": 69
+    },
+    "16070": {
+      "id": 16070,
+      "difficulty": 16,
+      "level": 70
+    },
+    "16071": {
+      "id": 16071,
+      "difficulty": 16,
+      "level": 71
+    },
+    "16072": {
+      "id": 16072,
+      "difficulty": 16,
+      "level": 72
+    },
+    "16073": {
+      "id": 16073,
+      "difficulty": 16,
+      "level": 73
+    },
+    "16074": {
+      "id": 16074,
+      "difficulty": 16,
+      "level": 74
+    },
+    "16075": {
+      "id": 16075,
+      "difficulty": 16,
+      "level": 75
+    },
+    "16076": {
+      "id": 16076,
+      "difficulty": 16,
+      "level": 76
+    },
+    "16077": {
+      "id": 16077,
+      "difficulty": 16,
+      "level": 77
+    },
+    "16078": {
+      "id": 16078,
+      "difficulty": 16,
+      "level": 78
+    },
+    "16079": {
+      "id": 16079,
+      "difficulty": 16,
+      "level": 79
+    },
+    "16080": {
+      "id": 16080,
+      "difficulty": 16,
+      "level": 80
+    },
+    "16081": {
+      "id": 16081,
+      "difficulty": 16,
+      "level": 81
+    },
+    "16082": {
+      "id": 16082,
+      "difficulty": 16,
+      "level": 82
+    },
+    "16083": {
+      "id": 16083,
+      "difficulty": 16,
+      "level": 83
+    },
+    "16084": {
+      "id": 16084,
+      "difficulty": 16,
+      "level": 84
+    },
+    "16085": {
+      "id": 16085,
+      "difficulty": 16,
+      "level": 85
+    },
+    "16086": {
+      "id": 16086,
+      "difficulty": 16,
+      "level": 86
+    },
+    "16087": {
+      "id": 16087,
+      "difficulty": 16,
+      "level": 87
+    },
+    "16088": {
+      "id": 16088,
+      "difficulty": 16,
+      "level": 88
+    },
+    "16089": {
+      "id": 16089,
+      "difficulty": 16,
+      "level": 89
+    },
+    "16090": {
+      "id": 16090,
+      "difficulty": 16,
+      "level": 90
+    },
+    "16091": {
+      "id": 16091,
+      "difficulty": 16,
+      "level": 91
+    },
+    "16092": {
+      "id": 16092,
+      "difficulty": 16,
+      "level": 92
+    },
+    "16093": {
+      "id": 16093,
+      "difficulty": 16,
+      "level": 93
+    },
+    "16094": {
+      "id": 16094,
+      "difficulty": 16,
+      "level": 94
+    },
+    "16095": {
+      "id": 16095,
+      "difficulty": 16,
+      "level": 95
+    },
+    "17001": {
+      "id": 17001,
+      "difficulty": 17,
+      "level": 1
+    },
+    "17002": {
+      "id": 17002,
+      "difficulty": 17,
+      "level": 2
+    },
+    "17003": {
+      "id": 17003,
+      "difficulty": 17,
+      "level": 3
+    },
+    "17004": {
+      "id": 17004,
+      "difficulty": 17,
+      "level": 4
+    },
+    "17005": {
+      "id": 17005,
+      "difficulty": 17,
+      "level": 5
+    },
+    "17006": {
+      "id": 17006,
+      "difficulty": 17,
+      "level": 6
+    },
+    "17007": {
+      "id": 17007,
+      "difficulty": 17,
+      "level": 7
+    },
+    "17008": {
+      "id": 17008,
+      "difficulty": 17,
+      "level": 8
+    },
+    "17009": {
+      "id": 17009,
+      "difficulty": 17,
+      "level": 9
+    },
+    "17010": {
+      "id": 17010,
+      "difficulty": 17,
+      "level": 10
+    },
+    "17011": {
+      "id": 17011,
+      "difficulty": 17,
+      "level": 11
+    },
+    "17012": {
+      "id": 17012,
+      "difficulty": 17,
+      "level": 12
+    },
+    "17013": {
+      "id": 17013,
+      "difficulty": 17,
+      "level": 13
+    },
+    "17014": {
+      "id": 17014,
+      "difficulty": 17,
+      "level": 14
+    },
+    "17015": {
+      "id": 17015,
+      "difficulty": 17,
+      "level": 15
+    },
+    "17016": {
+      "id": 17016,
+      "difficulty": 17,
+      "level": 16
+    },
+    "17017": {
+      "id": 17017,
+      "difficulty": 17,
+      "level": 17
+    },
+    "17018": {
+      "id": 17018,
+      "difficulty": 17,
+      "level": 18
+    },
+    "17019": {
+      "id": 17019,
+      "difficulty": 17,
+      "level": 19
+    },
+    "17020": {
+      "id": 17020,
+      "difficulty": 17,
+      "level": 20
+    },
+    "17021": {
+      "id": 17021,
+      "difficulty": 17,
+      "level": 21
+    },
+    "17022": {
+      "id": 17022,
+      "difficulty": 17,
+      "level": 22
+    },
+    "17023": {
+      "id": 17023,
+      "difficulty": 17,
+      "level": 23
+    },
+    "17024": {
+      "id": 17024,
+      "difficulty": 17,
+      "level": 24
+    },
+    "17025": {
+      "id": 17025,
+      "difficulty": 17,
+      "level": 25
+    },
+    "17026": {
+      "id": 17026,
+      "difficulty": 17,
+      "level": 26
+    },
+    "17027": {
+      "id": 17027,
+      "difficulty": 17,
+      "level": 27
+    },
+    "17028": {
+      "id": 17028,
+      "difficulty": 17,
+      "level": 28
+    },
+    "17029": {
+      "id": 17029,
+      "difficulty": 17,
+      "level": 29
+    },
+    "17030": {
+      "id": 17030,
+      "difficulty": 17,
+      "level": 30
+    },
+    "17031": {
+      "id": 17031,
+      "difficulty": 17,
+      "level": 31
+    },
+    "17032": {
+      "id": 17032,
+      "difficulty": 17,
+      "level": 32
+    },
+    "17033": {
+      "id": 17033,
+      "difficulty": 17,
+      "level": 33
+    },
+    "17034": {
+      "id": 17034,
+      "difficulty": 17,
+      "level": 34
+    },
+    "17035": {
+      "id": 17035,
+      "difficulty": 17,
+      "level": 35
+    },
+    "17036": {
+      "id": 17036,
+      "difficulty": 17,
+      "level": 36
+    },
+    "17037": {
+      "id": 17037,
+      "difficulty": 17,
+      "level": 37
+    },
+    "17038": {
+      "id": 17038,
+      "difficulty": 17,
+      "level": 38
+    },
+    "17039": {
+      "id": 17039,
+      "difficulty": 17,
+      "level": 39
+    },
+    "17040": {
+      "id": 17040,
+      "difficulty": 17,
+      "level": 40
+    },
+    "17041": {
+      "id": 17041,
+      "difficulty": 17,
+      "level": 41
+    },
+    "17042": {
+      "id": 17042,
+      "difficulty": 17,
+      "level": 42
+    },
+    "17043": {
+      "id": 17043,
+      "difficulty": 17,
+      "level": 43
+    },
+    "17044": {
+      "id": 17044,
+      "difficulty": 17,
+      "level": 44
+    },
+    "17045": {
+      "id": 17045,
+      "difficulty": 17,
+      "level": 45
+    },
+    "17046": {
+      "id": 17046,
+      "difficulty": 17,
+      "level": 46
+    },
+    "17047": {
+      "id": 17047,
+      "difficulty": 17,
+      "level": 47
+    },
+    "17048": {
+      "id": 17048,
+      "difficulty": 17,
+      "level": 48
+    },
+    "17049": {
+      "id": 17049,
+      "difficulty": 17,
+      "level": 49
+    },
+    "17050": {
+      "id": 17050,
+      "difficulty": 17,
+      "level": 50
+    },
+    "17051": {
+      "id": 17051,
+      "difficulty": 17,
+      "level": 51
+    },
+    "17052": {
+      "id": 17052,
+      "difficulty": 17,
+      "level": 52
+    },
+    "17053": {
+      "id": 17053,
+      "difficulty": 17,
+      "level": 53
+    },
+    "17054": {
+      "id": 17054,
+      "difficulty": 17,
+      "level": 54
+    },
+    "17055": {
+      "id": 17055,
+      "difficulty": 17,
+      "level": 55
+    },
+    "17056": {
+      "id": 17056,
+      "difficulty": 17,
+      "level": 56
+    },
+    "17057": {
+      "id": 17057,
+      "difficulty": 17,
+      "level": 57
+    },
+    "17058": {
+      "id": 17058,
+      "difficulty": 17,
+      "level": 58
+    },
+    "17059": {
+      "id": 17059,
+      "difficulty": 17,
+      "level": 59
+    },
+    "17060": {
+      "id": 17060,
+      "difficulty": 17,
+      "level": 60
+    },
+    "18001": {
+      "id": 18001,
+      "difficulty": 18,
+      "level": 1
+    },
+    "18002": {
+      "id": 18002,
+      "difficulty": 18,
+      "level": 2
+    },
+    "18003": {
+      "id": 18003,
+      "difficulty": 18,
+      "level": 3
+    },
+    "18004": {
+      "id": 18004,
+      "difficulty": 18,
+      "level": 4
+    },
+    "18005": {
+      "id": 18005,
+      "difficulty": 18,
+      "level": 5
+    },
+    "18006": {
+      "id": 18006,
+      "difficulty": 18,
+      "level": 6
+    },
+    "18007": {
+      "id": 18007,
+      "difficulty": 18,
+      "level": 7
+    },
+    "18008": {
+      "id": 18008,
+      "difficulty": 18,
+      "level": 8
+    },
+    "18009": {
+      "id": 18009,
+      "difficulty": 18,
+      "level": 9
+    },
+    "18010": {
+      "id": 18010,
+      "difficulty": 18,
+      "level": 10
+    },
+    "18011": {
+      "id": 18011,
+      "difficulty": 18,
+      "level": 11
+    },
+    "18012": {
+      "id": 18012,
+      "difficulty": 18,
+      "level": 12
+    },
+    "18013": {
+      "id": 18013,
+      "difficulty": 18,
+      "level": 13
+    },
+    "18014": {
+      "id": 18014,
+      "difficulty": 18,
+      "level": 14
+    },
+    "18015": {
+      "id": 18015,
+      "difficulty": 18,
+      "level": 15
+    },
+    "18016": {
+      "id": 18016,
+      "difficulty": 18,
+      "level": 16
+    },
+    "18017": {
+      "id": 18017,
+      "difficulty": 18,
+      "level": 17
+    },
+    "18018": {
+      "id": 18018,
+      "difficulty": 18,
+      "level": 18
+    },
+    "18019": {
+      "id": 18019,
+      "difficulty": 18,
+      "level": 19
+    },
+    "18020": {
+      "id": 18020,
+      "difficulty": 18,
+      "level": 20
+    },
+    "18021": {
+      "id": 18021,
+      "difficulty": 18,
+      "level": 21
+    },
+    "18022": {
+      "id": 18022,
+      "difficulty": 18,
+      "level": 22
+    },
+    "18023": {
+      "id": 18023,
+      "difficulty": 18,
+      "level": 23
+    },
+    "18024": {
+      "id": 18024,
+      "difficulty": 18,
+      "level": 24
+    },
+    "18025": {
+      "id": 18025,
+      "difficulty": 18,
+      "level": 25
+    },
+    "18026": {
+      "id": 18026,
+      "difficulty": 18,
+      "level": 26
+    },
+    "18027": {
+      "id": 18027,
+      "difficulty": 18,
+      "level": 27
+    },
+    "18028": {
+      "id": 18028,
+      "difficulty": 18,
+      "level": 28
+    },
+    "18029": {
+      "id": 18029,
+      "difficulty": 18,
+      "level": 29
+    },
+    "18030": {
+      "id": 18030,
+      "difficulty": 18,
+      "level": 30
+    },
+    "18031": {
+      "id": 18031,
+      "difficulty": 18,
+      "level": 31
+    },
+    "18032": {
+      "id": 18032,
+      "difficulty": 18,
+      "level": 32
+    },
+    "18033": {
+      "id": 18033,
+      "difficulty": 18,
+      "level": 33
+    },
+    "18034": {
+      "id": 18034,
+      "difficulty": 18,
+      "level": 34
+    },
+    "18035": {
+      "id": 18035,
+      "difficulty": 18,
+      "level": 35
+    },
+    "18036": {
+      "id": 18036,
+      "difficulty": 18,
+      "level": 36
+    },
+    "18037": {
+      "id": 18037,
+      "difficulty": 18,
+      "level": 37
+    },
+    "18038": {
+      "id": 18038,
+      "difficulty": 18,
+      "level": 38
+    },
+    "18039": {
+      "id": 18039,
+      "difficulty": 18,
+      "level": 39
+    },
+    "18040": {
+      "id": 18040,
+      "difficulty": 18,
+      "level": 40
+    },
+    "18041": {
+      "id": 18041,
+      "difficulty": 18,
+      "level": 41
+    },
+    "18042": {
+      "id": 18042,
+      "difficulty": 18,
+      "level": 42
+    },
+    "18043": {
+      "id": 18043,
+      "difficulty": 18,
+      "level": 43
+    },
+    "18044": {
+      "id": 18044,
+      "difficulty": 18,
+      "level": 44
+    },
+    "18045": {
+      "id": 18045,
+      "difficulty": 18,
+      "level": 45
+    },
+    "18046": {
+      "id": 18046,
+      "difficulty": 18,
+      "level": 46
+    },
+    "18047": {
+      "id": 18047,
+      "difficulty": 18,
+      "level": 47
+    },
+    "18048": {
+      "id": 18048,
+      "difficulty": 18,
+      "level": 48
+    },
+    "18049": {
+      "id": 18049,
+      "difficulty": 18,
+      "level": 49
+    },
+    "18050": {
+      "id": 18050,
+      "difficulty": 18,
+      "level": 50
+    },
+    "18051": {
+      "id": 18051,
+      "difficulty": 18,
+      "level": 51
+    },
+    "18052": {
+      "id": 18052,
+      "difficulty": 18,
+      "level": 52
+    },
+    "18053": {
+      "id": 18053,
+      "difficulty": 18,
+      "level": 53
+    },
+    "18054": {
+      "id": 18054,
+      "difficulty": 18,
+      "level": 54
+    },
+    "18055": {
+      "id": 18055,
+      "difficulty": 18,
+      "level": 55
+    },
+    "18056": {
+      "id": 18056,
+      "difficulty": 18,
+      "level": 56
+    },
+    "18057": {
+      "id": 18057,
+      "difficulty": 18,
+      "level": 57
+    },
+    "18058": {
+      "id": 18058,
+      "difficulty": 18,
+      "level": 58
+    },
+    "18059": {
+      "id": 18059,
+      "difficulty": 18,
+      "level": 59
+    },
+    "18060": {
+      "id": 18060,
+      "difficulty": 18,
+      "level": 60
+    },
+    "19001": {
+      "id": 19001,
+      "difficulty": 19,
+      "level": 1
+    },
+    "19002": {
+      "id": 19002,
+      "difficulty": 19,
+      "level": 2
+    },
+    "19003": {
+      "id": 19003,
+      "difficulty": 19,
+      "level": 3
+    },
+    "19004": {
+      "id": 19004,
+      "difficulty": 19,
+      "level": 4
+    },
+    "19005": {
+      "id": 19005,
+      "difficulty": 19,
+      "level": 5
+    },
+    "19006": {
+      "id": 19006,
+      "difficulty": 19,
+      "level": 6
+    },
+    "19007": {
+      "id": 19007,
+      "difficulty": 19,
+      "level": 7
+    },
+    "19008": {
+      "id": 19008,
+      "difficulty": 19,
+      "level": 8
+    },
+    "19009": {
+      "id": 19009,
+      "difficulty": 19,
+      "level": 9
+    },
+    "19010": {
+      "id": 19010,
+      "difficulty": 19,
+      "level": 10
+    },
+    "19011": {
+      "id": 19011,
+      "difficulty": 19,
+      "level": 11
+    },
+    "19012": {
+      "id": 19012,
+      "difficulty": 19,
+      "level": 12
+    },
+    "19013": {
+      "id": 19013,
+      "difficulty": 19,
+      "level": 13
+    },
+    "19014": {
+      "id": 19014,
+      "difficulty": 19,
+      "level": 14
+    },
+    "19015": {
+      "id": 19015,
+      "difficulty": 19,
+      "level": 15
+    },
+    "19016": {
+      "id": 19016,
+      "difficulty": 19,
+      "level": 16
+    },
+    "19017": {
+      "id": 19017,
+      "difficulty": 19,
+      "level": 17
+    },
+    "19018": {
+      "id": 19018,
+      "difficulty": 19,
+      "level": 18
+    },
+    "19019": {
+      "id": 19019,
+      "difficulty": 19,
+      "level": 19
+    },
+    "19020": {
+      "id": 19020,
+      "difficulty": 19,
+      "level": 20
+    },
+    "19021": {
+      "id": 19021,
+      "difficulty": 19,
+      "level": 21
+    },
+    "19022": {
+      "id": 19022,
+      "difficulty": 19,
+      "level": 22
+    },
+    "19023": {
+      "id": 19023,
+      "difficulty": 19,
+      "level": 23
+    },
+    "19024": {
+      "id": 19024,
+      "difficulty": 19,
+      "level": 24
+    },
+    "19025": {
+      "id": 19025,
+      "difficulty": 19,
+      "level": 25
+    },
+    "19026": {
+      "id": 19026,
+      "difficulty": 19,
+      "level": 26
+    },
+    "19027": {
+      "id": 19027,
+      "difficulty": 19,
+      "level": 27
+    },
+    "19028": {
+      "id": 19028,
+      "difficulty": 19,
+      "level": 28
+    },
+    "19029": {
+      "id": 19029,
+      "difficulty": 19,
+      "level": 29
+    },
+    "19030": {
+      "id": 19030,
+      "difficulty": 19,
+      "level": 30
+    },
+    "19031": {
+      "id": 19031,
+      "difficulty": 19,
+      "level": 31
+    },
+    "19032": {
+      "id": 19032,
+      "difficulty": 19,
+      "level": 32
+    },
+    "19033": {
+      "id": 19033,
+      "difficulty": 19,
+      "level": 33
+    },
+    "19034": {
+      "id": 19034,
+      "difficulty": 19,
+      "level": 34
+    },
+    "19035": {
+      "id": 19035,
+      "difficulty": 19,
+      "level": 35
+    },
+    "19036": {
+      "id": 19036,
+      "difficulty": 19,
+      "level": 36
+    },
+    "19037": {
+      "id": 19037,
+      "difficulty": 19,
+      "level": 37
+    },
+    "19038": {
+      "id": 19038,
+      "difficulty": 19,
+      "level": 38
+    },
+    "19039": {
+      "id": 19039,
+      "difficulty": 19,
+      "level": 39
+    },
+    "19040": {
+      "id": 19040,
+      "difficulty": 19,
+      "level": 40
+    },
+    "19041": {
+      "id": 19041,
+      "difficulty": 19,
+      "level": 41
+    },
+    "19042": {
+      "id": 19042,
+      "difficulty": 19,
+      "level": 42
+    },
+    "19043": {
+      "id": 19043,
+      "difficulty": 19,
+      "level": 43
+    },
+    "19044": {
+      "id": 19044,
+      "difficulty": 19,
+      "level": 44
+    },
+    "19045": {
+      "id": 19045,
+      "difficulty": 19,
+      "level": 45
+    },
+    "19046": {
+      "id": 19046,
+      "difficulty": 19,
+      "level": 46
+    },
+    "19047": {
+      "id": 19047,
+      "difficulty": 19,
+      "level": 47
+    },
+    "19048": {
+      "id": 19048,
+      "difficulty": 19,
+      "level": 48
+    },
+    "19049": {
+      "id": 19049,
+      "difficulty": 19,
+      "level": 49
+    },
+    "19050": {
+      "id": 19050,
+      "difficulty": 19,
+      "level": 50
+    },
+    "19051": {
+      "id": 19051,
+      "difficulty": 19,
+      "level": 51
+    },
+    "19052": {
+      "id": 19052,
+      "difficulty": 19,
+      "level": 52
+    },
+    "19053": {
+      "id": 19053,
+      "difficulty": 19,
+      "level": 53
+    },
+    "19054": {
+      "id": 19054,
+      "difficulty": 19,
+      "level": 54
+    },
+    "19055": {
+      "id": 19055,
+      "difficulty": 19,
+      "level": 55
+    },
+    "19056": {
+      "id": 19056,
+      "difficulty": 19,
+      "level": 56
+    },
+    "19057": {
+      "id": 19057,
+      "difficulty": 19,
+      "level": 57
+    },
+    "19058": {
+      "id": 19058,
+      "difficulty": 19,
+      "level": 58
+    },
+    "19059": {
+      "id": 19059,
+      "difficulty": 19,
+      "level": 59
+    },
+    "19060": {
+      "id": 19060,
+      "difficulty": 19,
+      "level": 60
+    },
+    "20001": {
+      "id": 20001,
+      "difficulty": 20,
+      "level": 1
+    },
+    "20002": {
+      "id": 20002,
+      "difficulty": 20,
+      "level": 2
+    },
+    "20003": {
+      "id": 20003,
+      "difficulty": 20,
+      "level": 3
+    },
+    "20004": {
+      "id": 20004,
+      "difficulty": 20,
+      "level": 4
+    },
+    "20005": {
+      "id": 20005,
+      "difficulty": 20,
+      "level": 5
+    },
+    "20006": {
+      "id": 20006,
+      "difficulty": 20,
+      "level": 6
+    },
+    "20007": {
+      "id": 20007,
+      "difficulty": 20,
+      "level": 7
+    },
+    "20008": {
+      "id": 20008,
+      "difficulty": 20,
+      "level": 8
+    },
+    "20009": {
+      "id": 20009,
+      "difficulty": 20,
+      "level": 9
+    },
+    "20010": {
+      "id": 20010,
+      "difficulty": 20,
+      "level": 10
+    },
+    "20011": {
+      "id": 20011,
+      "difficulty": 20,
+      "level": 11
+    },
+    "20012": {
+      "id": 20012,
+      "difficulty": 20,
+      "level": 12
+    },
+    "20013": {
+      "id": 20013,
+      "difficulty": 20,
+      "level": 13
+    },
+    "20014": {
+      "id": 20014,
+      "difficulty": 20,
+      "level": 14
+    },
+    "20015": {
+      "id": 20015,
+      "difficulty": 20,
+      "level": 15
+    },
+    "20016": {
+      "id": 20016,
+      "difficulty": 20,
+      "level": 16
+    },
+    "20017": {
+      "id": 20017,
+      "difficulty": 20,
+      "level": 17
+    },
+    "20018": {
+      "id": 20018,
+      "difficulty": 20,
+      "level": 18
+    },
+    "20019": {
+      "id": 20019,
+      "difficulty": 20,
+      "level": 19
+    },
+    "20020": {
+      "id": 20020,
+      "difficulty": 20,
+      "level": 20
+    },
+    "20021": {
+      "id": 20021,
+      "difficulty": 20,
+      "level": 21
+    },
+    "20022": {
+      "id": 20022,
+      "difficulty": 20,
+      "level": 22
+    },
+    "20023": {
+      "id": 20023,
+      "difficulty": 20,
+      "level": 23
+    },
+    "20024": {
+      "id": 20024,
+      "difficulty": 20,
+      "level": 24
+    },
+    "20025": {
+      "id": 20025,
+      "difficulty": 20,
+      "level": 25
+    },
+    "20026": {
+      "id": 20026,
+      "difficulty": 20,
+      "level": 26
+    },
+    "20027": {
+      "id": 20027,
+      "difficulty": 20,
+      "level": 27
+    },
+    "20028": {
+      "id": 20028,
+      "difficulty": 20,
+      "level": 28
+    },
+    "20029": {
+      "id": 20029,
+      "difficulty": 20,
+      "level": 29
+    },
+    "20030": {
+      "id": 20030,
+      "difficulty": 20,
+      "level": 30
+    },
+    "20031": {
+      "id": 20031,
+      "difficulty": 20,
+      "level": 31
+    },
+    "20032": {
+      "id": 20032,
+      "difficulty": 20,
+      "level": 32
+    },
+    "20033": {
+      "id": 20033,
+      "difficulty": 20,
+      "level": 33
+    },
+    "20034": {
+      "id": 20034,
+      "difficulty": 20,
+      "level": 34
+    },
+    "20035": {
+      "id": 20035,
+      "difficulty": 20,
+      "level": 35
+    },
+    "20036": {
+      "id": 20036,
+      "difficulty": 20,
+      "level": 36
+    },
+    "20037": {
+      "id": 20037,
+      "difficulty": 20,
+      "level": 37
+    },
+    "20038": {
+      "id": 20038,
+      "difficulty": 20,
+      "level": 38
+    },
+    "20039": {
+      "id": 20039,
+      "difficulty": 20,
+      "level": 39
+    },
+    "20040": {
+      "id": 20040,
+      "difficulty": 20,
+      "level": 40
+    },
+    "20041": {
+      "id": 20041,
+      "difficulty": 20,
+      "level": 41
+    },
+    "20042": {
+      "id": 20042,
+      "difficulty": 20,
+      "level": 42
+    },
+    "20043": {
+      "id": 20043,
+      "difficulty": 20,
+      "level": 43
+    },
+    "20044": {
+      "id": 20044,
+      "difficulty": 20,
+      "level": 44
+    },
+    "20045": {
+      "id": 20045,
+      "difficulty": 20,
+      "level": 45
+    },
+    "20046": {
+      "id": 20046,
+      "difficulty": 20,
+      "level": 46
+    },
+    "20047": {
+      "id": 20047,
+      "difficulty": 20,
+      "level": 47
+    },
+    "20048": {
+      "id": 20048,
+      "difficulty": 20,
+      "level": 48
+    },
+    "20049": {
+      "id": 20049,
+      "difficulty": 20,
+      "level": 49
+    },
+    "20050": {
+      "id": 20050,
+      "difficulty": 20,
+      "level": 50
+    },
+    "20051": {
+      "id": 20051,
+      "difficulty": 20,
+      "level": 51
+    },
+    "20052": {
+      "id": 20052,
+      "difficulty": 20,
+      "level": 52
+    },
+    "20053": {
+      "id": 20053,
+      "difficulty": 20,
+      "level": 53
+    },
+    "20054": {
+      "id": 20054,
+      "difficulty": 20,
+      "level": 54
+    },
+    "20055": {
+      "id": 20055,
+      "difficulty": 20,
+      "level": 55
+    },
+    "20056": {
+      "id": 20056,
+      "difficulty": 20,
+      "level": 56
+    },
+    "20057": {
+      "id": 20057,
+      "difficulty": 20,
+      "level": 57
+    },
+    "20058": {
+      "id": 20058,
+      "difficulty": 20,
+      "level": 58
+    },
+    "20059": {
+      "id": 20059,
+      "difficulty": 20,
+      "level": 59
+    },
+    "20060": {
+      "id": 20060,
+      "difficulty": 20,
+      "level": 60
+    },
+    "21001": {
+      "id": 21001,
+      "difficulty": 21,
+      "level": 1
+    },
+    "21002": {
+      "id": 21002,
+      "difficulty": 21,
+      "level": 2
+    },
+    "21003": {
+      "id": 21003,
+      "difficulty": 21,
+      "level": 3
+    },
+    "21004": {
+      "id": 21004,
+      "difficulty": 21,
+      "level": 4
+    },
+    "21005": {
+      "id": 21005,
+      "difficulty": 21,
+      "level": 5
+    },
+    "21006": {
+      "id": 21006,
+      "difficulty": 21,
+      "level": 6
+    },
+    "21007": {
+      "id": 21007,
+      "difficulty": 21,
+      "level": 7
+    },
+    "21008": {
+      "id": 21008,
+      "difficulty": 21,
+      "level": 8
+    },
+    "21009": {
+      "id": 21009,
+      "difficulty": 21,
+      "level": 9
+    },
+    "21010": {
+      "id": 21010,
+      "difficulty": 21,
+      "level": 10
+    },
+    "21011": {
+      "id": 21011,
+      "difficulty": 21,
+      "level": 11
+    },
+    "21012": {
+      "id": 21012,
+      "difficulty": 21,
+      "level": 12
+    },
+    "21013": {
+      "id": 21013,
+      "difficulty": 21,
+      "level": 13
+    },
+    "21014": {
+      "id": 21014,
+      "difficulty": 21,
+      "level": 14
+    },
+    "21015": {
+      "id": 21015,
+      "difficulty": 21,
+      "level": 15
+    },
+    "21016": {
+      "id": 21016,
+      "difficulty": 21,
+      "level": 16
+    },
+    "21017": {
+      "id": 21017,
+      "difficulty": 21,
+      "level": 17
+    },
+    "21018": {
+      "id": 21018,
+      "difficulty": 21,
+      "level": 18
+    },
+    "21019": {
+      "id": 21019,
+      "difficulty": 21,
+      "level": 19
+    },
+    "21020": {
+      "id": 21020,
+      "difficulty": 21,
+      "level": 20
+    },
+    "21021": {
+      "id": 21021,
+      "difficulty": 21,
+      "level": 21
+    },
+    "21022": {
+      "id": 21022,
+      "difficulty": 21,
+      "level": 22
+    },
+    "21023": {
+      "id": 21023,
+      "difficulty": 21,
+      "level": 23
+    },
+    "21024": {
+      "id": 21024,
+      "difficulty": 21,
+      "level": 24
+    },
+    "21025": {
+      "id": 21025,
+      "difficulty": 21,
+      "level": 25
+    },
+    "21026": {
+      "id": 21026,
+      "difficulty": 21,
+      "level": 26
+    },
+    "21027": {
+      "id": 21027,
+      "difficulty": 21,
+      "level": 27
+    },
+    "21028": {
+      "id": 21028,
+      "difficulty": 21,
+      "level": 28
+    },
+    "21029": {
+      "id": 21029,
+      "difficulty": 21,
+      "level": 29
+    },
+    "21030": {
+      "id": 21030,
+      "difficulty": 21,
+      "level": 30
+    },
+    "21031": {
+      "id": 21031,
+      "difficulty": 21,
+      "level": 31
+    },
+    "21032": {
+      "id": 21032,
+      "difficulty": 21,
+      "level": 32
+    },
+    "21033": {
+      "id": 21033,
+      "difficulty": 21,
+      "level": 33
+    },
+    "21034": {
+      "id": 21034,
+      "difficulty": 21,
+      "level": 34
+    },
+    "21035": {
+      "id": 21035,
+      "difficulty": 21,
+      "level": 35
+    },
+    "21036": {
+      "id": 21036,
+      "difficulty": 21,
+      "level": 36
+    },
+    "21037": {
+      "id": 21037,
+      "difficulty": 21,
+      "level": 37
+    },
+    "21038": {
+      "id": 21038,
+      "difficulty": 21,
+      "level": 38
+    },
+    "21039": {
+      "id": 21039,
+      "difficulty": 21,
+      "level": 39
+    },
+    "21040": {
+      "id": 21040,
+      "difficulty": 21,
+      "level": 40
+    },
+    "21041": {
+      "id": 21041,
+      "difficulty": 21,
+      "level": 41
+    },
+    "21042": {
+      "id": 21042,
+      "difficulty": 21,
+      "level": 42
+    },
+    "21043": {
+      "id": 21043,
+      "difficulty": 21,
+      "level": 43
+    },
+    "21044": {
+      "id": 21044,
+      "difficulty": 21,
+      "level": 44
+    },
+    "21045": {
+      "id": 21045,
+      "difficulty": 21,
+      "level": 45
+    },
+    "21046": {
+      "id": 21046,
+      "difficulty": 21,
+      "level": 46
+    },
+    "21047": {
+      "id": 21047,
+      "difficulty": 21,
+      "level": 47
+    },
+    "21048": {
+      "id": 21048,
+      "difficulty": 21,
+      "level": 48
+    },
+    "21049": {
+      "id": 21049,
+      "difficulty": 21,
+      "level": 49
+    },
+    "21050": {
+      "id": 21050,
+      "difficulty": 21,
+      "level": 50
+    },
+    "21051": {
+      "id": 21051,
+      "difficulty": 21,
+      "level": 51
+    },
+    "21052": {
+      "id": 21052,
+      "difficulty": 21,
+      "level": 52
+    },
+    "21053": {
+      "id": 21053,
+      "difficulty": 21,
+      "level": 53
+    },
+    "21054": {
+      "id": 21054,
+      "difficulty": 21,
+      "level": 54
+    },
+    "21055": {
+      "id": 21055,
+      "difficulty": 21,
+      "level": 55
+    },
+    "21056": {
+      "id": 21056,
+      "difficulty": 21,
+      "level": 56
+    },
+    "21057": {
+      "id": 21057,
+      "difficulty": 21,
+      "level": 57
+    },
+    "21058": {
+      "id": 21058,
+      "difficulty": 21,
+      "level": 58
+    },
+    "21059": {
+      "id": 21059,
+      "difficulty": 21,
+      "level": 59
+    },
+    "21060": {
+      "id": 21060,
+      "difficulty": 21,
+      "level": 60
+    },
+    "22001": {
+      "id": 22001,
+      "difficulty": 22,
+      "level": 1
+    },
+    "22002": {
+      "id": 22002,
+      "difficulty": 22,
+      "level": 2
+    },
+    "22003": {
+      "id": 22003,
+      "difficulty": 22,
+      "level": 3
+    },
+    "22004": {
+      "id": 22004,
+      "difficulty": 22,
+      "level": 4
+    },
+    "22005": {
+      "id": 22005,
+      "difficulty": 22,
+      "level": 5
+    },
+    "22006": {
+      "id": 22006,
+      "difficulty": 22,
+      "level": 6
+    },
+    "22007": {
+      "id": 22007,
+      "difficulty": 22,
+      "level": 7
+    },
+    "22008": {
+      "id": 22008,
+      "difficulty": 22,
+      "level": 8
+    },
+    "22009": {
+      "id": 22009,
+      "difficulty": 22,
+      "level": 9
+    },
+    "22010": {
+      "id": 22010,
+      "difficulty": 22,
+      "level": 10
+    },
+    "22011": {
+      "id": 22011,
+      "difficulty": 22,
+      "level": 11
+    },
+    "22012": {
+      "id": 22012,
+      "difficulty": 22,
+      "level": 12
+    },
+    "22013": {
+      "id": 22013,
+      "difficulty": 22,
+      "level": 13
+    },
+    "22014": {
+      "id": 22014,
+      "difficulty": 22,
+      "level": 14
+    },
+    "22015": {
+      "id": 22015,
+      "difficulty": 22,
+      "level": 15
+    },
+    "22016": {
+      "id": 22016,
+      "difficulty": 22,
+      "level": 16
+    },
+    "22017": {
+      "id": 22017,
+      "difficulty": 22,
+      "level": 17
+    },
+    "22018": {
+      "id": 22018,
+      "difficulty": 22,
+      "level": 18
+    },
+    "22019": {
+      "id": 22019,
+      "difficulty": 22,
+      "level": 19
+    },
+    "22020": {
+      "id": 22020,
+      "difficulty": 22,
+      "level": 20
+    },
+    "22021": {
+      "id": 22021,
+      "difficulty": 22,
+      "level": 21
+    },
+    "22022": {
+      "id": 22022,
+      "difficulty": 22,
+      "level": 22
+    },
+    "22023": {
+      "id": 22023,
+      "difficulty": 22,
+      "level": 23
+    },
+    "22024": {
+      "id": 22024,
+      "difficulty": 22,
+      "level": 24
+    },
+    "22025": {
+      "id": 22025,
+      "difficulty": 22,
+      "level": 25
+    },
+    "22026": {
+      "id": 22026,
+      "difficulty": 22,
+      "level": 26
+    },
+    "22027": {
+      "id": 22027,
+      "difficulty": 22,
+      "level": 27
+    },
+    "22028": {
+      "id": 22028,
+      "difficulty": 22,
+      "level": 28
+    },
+    "22029": {
+      "id": 22029,
+      "difficulty": 22,
+      "level": 29
+    },
+    "22030": {
+      "id": 22030,
+      "difficulty": 22,
+      "level": 30
+    },
+    "22031": {
+      "id": 22031,
+      "difficulty": 22,
+      "level": 31
+    },
+    "22032": {
+      "id": 22032,
+      "difficulty": 22,
+      "level": 32
+    },
+    "22033": {
+      "id": 22033,
+      "difficulty": 22,
+      "level": 33
+    },
+    "22034": {
+      "id": 22034,
+      "difficulty": 22,
+      "level": 34
+    },
+    "22035": {
+      "id": 22035,
+      "difficulty": 22,
+      "level": 35
+    },
+    "22036": {
+      "id": 22036,
+      "difficulty": 22,
+      "level": 36
+    },
+    "22037": {
+      "id": 22037,
+      "difficulty": 22,
+      "level": 37
+    },
+    "22038": {
+      "id": 22038,
+      "difficulty": 22,
+      "level": 38
+    },
+    "22039": {
+      "id": 22039,
+      "difficulty": 22,
+      "level": 39
+    },
+    "22040": {
+      "id": 22040,
+      "difficulty": 22,
+      "level": 40
+    },
+    "22041": {
+      "id": 22041,
+      "difficulty": 22,
+      "level": 41
+    },
+    "22042": {
+      "id": 22042,
+      "difficulty": 22,
+      "level": 42
+    },
+    "22043": {
+      "id": 22043,
+      "difficulty": 22,
+      "level": 43
+    },
+    "22044": {
+      "id": 22044,
+      "difficulty": 22,
+      "level": 44
+    },
+    "22045": {
+      "id": 22045,
+      "difficulty": 22,
+      "level": 45
+    },
+    "22046": {
+      "id": 22046,
+      "difficulty": 22,
+      "level": 46
+    },
+    "22047": {
+      "id": 22047,
+      "difficulty": 22,
+      "level": 47
+    },
+    "22048": {
+      "id": 22048,
+      "difficulty": 22,
+      "level": 48
+    },
+    "22049": {
+      "id": 22049,
+      "difficulty": 22,
+      "level": 49
+    },
+    "22050": {
+      "id": 22050,
+      "difficulty": 22,
+      "level": 50
+    },
+    "22051": {
+      "id": 22051,
+      "difficulty": 22,
+      "level": 51
+    },
+    "22052": {
+      "id": 22052,
+      "difficulty": 22,
+      "level": 52
+    },
+    "22053": {
+      "id": 22053,
+      "difficulty": 22,
+      "level": 53
+    },
+    "22054": {
+      "id": 22054,
+      "difficulty": 22,
+      "level": 54
+    },
+    "22055": {
+      "id": 22055,
+      "difficulty": 22,
+      "level": 55
+    },
+    "22056": {
+      "id": 22056,
+      "difficulty": 22,
+      "level": 56
+    },
+    "22057": {
+      "id": 22057,
+      "difficulty": 22,
+      "level": 57
+    },
+    "22058": {
+      "id": 22058,
+      "difficulty": 22,
+      "level": 58
+    },
+    "22059": {
+      "id": 22059,
+      "difficulty": 22,
+      "level": 59
+    },
+    "22060": {
+      "id": 22060,
+      "difficulty": 22,
+      "level": 60
+    },
+    "23001": {
+      "id": 23001,
+      "difficulty": 23,
+      "level": 1
+    },
+    "23002": {
+      "id": 23002,
+      "difficulty": 23,
+      "level": 2
+    },
+    "23003": {
+      "id": 23003,
+      "difficulty": 23,
+      "level": 3
+    },
+    "23004": {
+      "id": 23004,
+      "difficulty": 23,
+      "level": 4
+    },
+    "23005": {
+      "id": 23005,
+      "difficulty": 23,
+      "level": 5
+    },
+    "23006": {
+      "id": 23006,
+      "difficulty": 23,
+      "level": 6
+    },
+    "23007": {
+      "id": 23007,
+      "difficulty": 23,
+      "level": 7
+    },
+    "23008": {
+      "id": 23008,
+      "difficulty": 23,
+      "level": 8
+    },
+    "23009": {
+      "id": 23009,
+      "difficulty": 23,
+      "level": 9
+    },
+    "23010": {
+      "id": 23010,
+      "difficulty": 23,
+      "level": 10
+    },
+    "23011": {
+      "id": 23011,
+      "difficulty": 23,
+      "level": 11
+    },
+    "23012": {
+      "id": 23012,
+      "difficulty": 23,
+      "level": 12
+    },
+    "23013": {
+      "id": 23013,
+      "difficulty": 23,
+      "level": 13
+    },
+    "23014": {
+      "id": 23014,
+      "difficulty": 23,
+      "level": 14
+    },
+    "23015": {
+      "id": 23015,
+      "difficulty": 23,
+      "level": 15
+    },
+    "23016": {
+      "id": 23016,
+      "difficulty": 23,
+      "level": 16
+    },
+    "23017": {
+      "id": 23017,
+      "difficulty": 23,
+      "level": 17
+    },
+    "23018": {
+      "id": 23018,
+      "difficulty": 23,
+      "level": 18
+    },
+    "23019": {
+      "id": 23019,
+      "difficulty": 23,
+      "level": 19
+    },
+    "23020": {
+      "id": 23020,
+      "difficulty": 23,
+      "level": 20
+    },
+    "23021": {
+      "id": 23021,
+      "difficulty": 23,
+      "level": 21
+    },
+    "23022": {
+      "id": 23022,
+      "difficulty": 23,
+      "level": 22
+    },
+    "23023": {
+      "id": 23023,
+      "difficulty": 23,
+      "level": 23
+    },
+    "23024": {
+      "id": 23024,
+      "difficulty": 23,
+      "level": 24
+    },
+    "23025": {
+      "id": 23025,
+      "difficulty": 23,
+      "level": 25
+    },
+    "23026": {
+      "id": 23026,
+      "difficulty": 23,
+      "level": 26
+    },
+    "23027": {
+      "id": 23027,
+      "difficulty": 23,
+      "level": 27
+    },
+    "23028": {
+      "id": 23028,
+      "difficulty": 23,
+      "level": 28
+    },
+    "23029": {
+      "id": 23029,
+      "difficulty": 23,
+      "level": 29
+    },
+    "23030": {
+      "id": 23030,
+      "difficulty": 23,
+      "level": 30
+    },
+    "23031": {
+      "id": 23031,
+      "difficulty": 23,
+      "level": 31
+    },
+    "23032": {
+      "id": 23032,
+      "difficulty": 23,
+      "level": 32
+    },
+    "23033": {
+      "id": 23033,
+      "difficulty": 23,
+      "level": 33
+    },
+    "23034": {
+      "id": 23034,
+      "difficulty": 23,
+      "level": 34
+    },
+    "23035": {
+      "id": 23035,
+      "difficulty": 23,
+      "level": 35
+    },
+    "23036": {
+      "id": 23036,
+      "difficulty": 23,
+      "level": 36
+    },
+    "23037": {
+      "id": 23037,
+      "difficulty": 23,
+      "level": 37
+    },
+    "23038": {
+      "id": 23038,
+      "difficulty": 23,
+      "level": 38
+    },
+    "23039": {
+      "id": 23039,
+      "difficulty": 23,
+      "level": 39
+    },
+    "23040": {
+      "id": 23040,
+      "difficulty": 23,
+      "level": 40
+    },
+    "23041": {
+      "id": 23041,
+      "difficulty": 23,
+      "level": 41
+    },
+    "23042": {
+      "id": 23042,
+      "difficulty": 23,
+      "level": 42
+    },
+    "23043": {
+      "id": 23043,
+      "difficulty": 23,
+      "level": 43
+    },
+    "23044": {
+      "id": 23044,
+      "difficulty": 23,
+      "level": 44
+    },
+    "23045": {
+      "id": 23045,
+      "difficulty": 23,
+      "level": 45
+    },
+    "23046": {
+      "id": 23046,
+      "difficulty": 23,
+      "level": 46
+    },
+    "23047": {
+      "id": 23047,
+      "difficulty": 23,
+      "level": 47
+    },
+    "23048": {
+      "id": 23048,
+      "difficulty": 23,
+      "level": 48
+    },
+    "23049": {
+      "id": 23049,
+      "difficulty": 23,
+      "level": 49
+    },
+    "23050": {
+      "id": 23050,
+      "difficulty": 23,
+      "level": 50
+    },
+    "23051": {
+      "id": 23051,
+      "difficulty": 23,
+      "level": 51
+    },
+    "23052": {
+      "id": 23052,
+      "difficulty": 23,
+      "level": 52
+    },
+    "23053": {
+      "id": 23053,
+      "difficulty": 23,
+      "level": 53
+    },
+    "23054": {
+      "id": 23054,
+      "difficulty": 23,
+      "level": 54
+    },
+    "23055": {
+      "id": 23055,
+      "difficulty": 23,
+      "level": 55
+    },
+    "23056": {
+      "id": 23056,
+      "difficulty": 23,
+      "level": 56
+    },
+    "23057": {
+      "id": 23057,
+      "difficulty": 23,
+      "level": 57
+    },
+    "23058": {
+      "id": 23058,
+      "difficulty": 23,
+      "level": 58
+    },
+    "23059": {
+      "id": 23059,
+      "difficulty": 23,
+      "level": 59
+    },
+    "23060": {
+      "id": 23060,
+      "difficulty": 23,
+      "level": 60
+    },
+    "24001": {
+      "id": 24001,
+      "difficulty": 24,
+      "level": 1
+    },
+    "24002": {
+      "id": 24002,
+      "difficulty": 24,
+      "level": 2
+    },
+    "24003": {
+      "id": 24003,
+      "difficulty": 24,
+      "level": 3
+    },
+    "24004": {
+      "id": 24004,
+      "difficulty": 24,
+      "level": 4
+    },
+    "24005": {
+      "id": 24005,
+      "difficulty": 24,
+      "level": 5
+    },
+    "24006": {
+      "id": 24006,
+      "difficulty": 24,
+      "level": 6
+    },
+    "24007": {
+      "id": 24007,
+      "difficulty": 24,
+      "level": 7
+    },
+    "24008": {
+      "id": 24008,
+      "difficulty": 24,
+      "level": 8
+    },
+    "24009": {
+      "id": 24009,
+      "difficulty": 24,
+      "level": 9
+    },
+    "24010": {
+      "id": 24010,
+      "difficulty": 24,
+      "level": 10
+    },
+    "24011": {
+      "id": 24011,
+      "difficulty": 24,
+      "level": 11
+    },
+    "24012": {
+      "id": 24012,
+      "difficulty": 24,
+      "level": 12
+    },
+    "24013": {
+      "id": 24013,
+      "difficulty": 24,
+      "level": 13
+    },
+    "24014": {
+      "id": 24014,
+      "difficulty": 24,
+      "level": 14
+    },
+    "24015": {
+      "id": 24015,
+      "difficulty": 24,
+      "level": 15
+    },
+    "24016": {
+      "id": 24016,
+      "difficulty": 24,
+      "level": 16
+    },
+    "24017": {
+      "id": 24017,
+      "difficulty": 24,
+      "level": 17
+    },
+    "24018": {
+      "id": 24018,
+      "difficulty": 24,
+      "level": 18
+    },
+    "24019": {
+      "id": 24019,
+      "difficulty": 24,
+      "level": 19
+    },
+    "24020": {
+      "id": 24020,
+      "difficulty": 24,
+      "level": 20
+    },
+    "24021": {
+      "id": 24021,
+      "difficulty": 24,
+      "level": 21
+    },
+    "24022": {
+      "id": 24022,
+      "difficulty": 24,
+      "level": 22
+    },
+    "24023": {
+      "id": 24023,
+      "difficulty": 24,
+      "level": 23
+    },
+    "24024": {
+      "id": 24024,
+      "difficulty": 24,
+      "level": 24
+    },
+    "24025": {
+      "id": 24025,
+      "difficulty": 24,
+      "level": 25
+    },
+    "24026": {
+      "id": 24026,
+      "difficulty": 24,
+      "level": 26
+    },
+    "24027": {
+      "id": 24027,
+      "difficulty": 24,
+      "level": 27
+    },
+    "24028": {
+      "id": 24028,
+      "difficulty": 24,
+      "level": 28
+    },
+    "24029": {
+      "id": 24029,
+      "difficulty": 24,
+      "level": 29
+    },
+    "24030": {
+      "id": 24030,
+      "difficulty": 24,
+      "level": 30
+    },
+    "24031": {
+      "id": 24031,
+      "difficulty": 24,
+      "level": 31
+    },
+    "24032": {
+      "id": 24032,
+      "difficulty": 24,
+      "level": 32
+    },
+    "24033": {
+      "id": 24033,
+      "difficulty": 24,
+      "level": 33
+    },
+    "24034": {
+      "id": 24034,
+      "difficulty": 24,
+      "level": 34
+    },
+    "24035": {
+      "id": 24035,
+      "difficulty": 24,
+      "level": 35
+    },
+    "24036": {
+      "id": 24036,
+      "difficulty": 24,
+      "level": 36
+    },
+    "24037": {
+      "id": 24037,
+      "difficulty": 24,
+      "level": 37
+    },
+    "24038": {
+      "id": 24038,
+      "difficulty": 24,
+      "level": 38
+    },
+    "24039": {
+      "id": 24039,
+      "difficulty": 24,
+      "level": 39
+    },
+    "24040": {
+      "id": 24040,
+      "difficulty": 24,
+      "level": 40
+    },
+    "24041": {
+      "id": 24041,
+      "difficulty": 24,
+      "level": 41
+    },
+    "24042": {
+      "id": 24042,
+      "difficulty": 24,
+      "level": 42
+    },
+    "24043": {
+      "id": 24043,
+      "difficulty": 24,
+      "level": 43
+    },
+    "24044": {
+      "id": 24044,
+      "difficulty": 24,
+      "level": 44
+    },
+    "24045": {
+      "id": 24045,
+      "difficulty": 24,
+      "level": 45
+    },
+    "24046": {
+      "id": 24046,
+      "difficulty": 24,
+      "level": 46
+    },
+    "24047": {
+      "id": 24047,
+      "difficulty": 24,
+      "level": 47
+    },
+    "24048": {
+      "id": 24048,
+      "difficulty": 24,
+      "level": 48
+    },
+    "24049": {
+      "id": 24049,
+      "difficulty": 24,
+      "level": 49
+    },
+    "24050": {
+      "id": 24050,
+      "difficulty": 24,
+      "level": 50
+    },
+    "24051": {
+      "id": 24051,
+      "difficulty": 24,
+      "level": 51
+    },
+    "24052": {
+      "id": 24052,
+      "difficulty": 24,
+      "level": 52
+    },
+    "24053": {
+      "id": 24053,
+      "difficulty": 24,
+      "level": 53
+    },
+    "24054": {
+      "id": 24054,
+      "difficulty": 24,
+      "level": 54
+    },
+    "24055": {
+      "id": 24055,
+      "difficulty": 24,
+      "level": 55
+    },
+    "24056": {
+      "id": 24056,
+      "difficulty": 24,
+      "level": 56
+    },
+    "24057": {
+      "id": 24057,
+      "difficulty": 24,
+      "level": 57
+    },
+    "24058": {
+      "id": 24058,
+      "difficulty": 24,
+      "level": 58
+    },
+    "24059": {
+      "id": 24059,
+      "difficulty": 24,
+      "level": 59
+    },
+    "24060": {
+      "id": 24060,
+      "difficulty": 24,
+      "level": 60
+    },
+    "25001": {
+      "id": 25001,
+      "difficulty": 25,
+      "level": 1
+    },
+    "25002": {
+      "id": 25002,
+      "difficulty": 25,
+      "level": 2
+    },
+    "25003": {
+      "id": 25003,
+      "difficulty": 25,
+      "level": 3
+    },
+    "25004": {
+      "id": 25004,
+      "difficulty": 25,
+      "level": 4
+    },
+    "25005": {
+      "id": 25005,
+      "difficulty": 25,
+      "level": 5
+    },
+    "25006": {
+      "id": 25006,
+      "difficulty": 25,
+      "level": 6
+    },
+    "25007": {
+      "id": 25007,
+      "difficulty": 25,
+      "level": 7
+    },
+    "25008": {
+      "id": 25008,
+      "difficulty": 25,
+      "level": 8
+    },
+    "25009": {
+      "id": 25009,
+      "difficulty": 25,
+      "level": 9
+    },
+    "25010": {
+      "id": 25010,
+      "difficulty": 25,
+      "level": 10
+    },
+    "25011": {
+      "id": 25011,
+      "difficulty": 25,
+      "level": 11
+    },
+    "25012": {
+      "id": 25012,
+      "difficulty": 25,
+      "level": 12
+    },
+    "25013": {
+      "id": 25013,
+      "difficulty": 25,
+      "level": 13
+    },
+    "25014": {
+      "id": 25014,
+      "difficulty": 25,
+      "level": 14
+    },
+    "25015": {
+      "id": 25015,
+      "difficulty": 25,
+      "level": 15
+    },
+    "25016": {
+      "id": 25016,
+      "difficulty": 25,
+      "level": 16
+    },
+    "25017": {
+      "id": 25017,
+      "difficulty": 25,
+      "level": 17
+    },
+    "25018": {
+      "id": 25018,
+      "difficulty": 25,
+      "level": 18
+    },
+    "25019": {
+      "id": 25019,
+      "difficulty": 25,
+      "level": 19
+    },
+    "25020": {
+      "id": 25020,
+      "difficulty": 25,
+      "level": 20
+    },
+    "25021": {
+      "id": 25021,
+      "difficulty": 25,
+      "level": 21
+    },
+    "25022": {
+      "id": 25022,
+      "difficulty": 25,
+      "level": 22
+    },
+    "25023": {
+      "id": 25023,
+      "difficulty": 25,
+      "level": 23
+    },
+    "25024": {
+      "id": 25024,
+      "difficulty": 25,
+      "level": 24
+    },
+    "25025": {
+      "id": 25025,
+      "difficulty": 25,
+      "level": 25
+    },
+    "25026": {
+      "id": 25026,
+      "difficulty": 25,
+      "level": 26
+    },
+    "25027": {
+      "id": 25027,
+      "difficulty": 25,
+      "level": 27
+    },
+    "25028": {
+      "id": 25028,
+      "difficulty": 25,
+      "level": 28
+    },
+    "25029": {
+      "id": 25029,
+      "difficulty": 25,
+      "level": 29
+    },
+    "25030": {
+      "id": 25030,
+      "difficulty": 25,
+      "level": 30
+    },
+    "25031": {
+      "id": 25031,
+      "difficulty": 25,
+      "level": 31
+    },
+    "25032": {
+      "id": 25032,
+      "difficulty": 25,
+      "level": 32
+    },
+    "25033": {
+      "id": 25033,
+      "difficulty": 25,
+      "level": 33
+    },
+    "25034": {
+      "id": 25034,
+      "difficulty": 25,
+      "level": 34
+    },
+    "25035": {
+      "id": 25035,
+      "difficulty": 25,
+      "level": 35
+    },
+    "25036": {
+      "id": 25036,
+      "difficulty": 25,
+      "level": 36
+    },
+    "25037": {
+      "id": 25037,
+      "difficulty": 25,
+      "level": 37
+    },
+    "25038": {
+      "id": 25038,
+      "difficulty": 25,
+      "level": 38
+    },
+    "25039": {
+      "id": 25039,
+      "difficulty": 25,
+      "level": 39
+    },
+    "25040": {
+      "id": 25040,
+      "difficulty": 25,
+      "level": 40
+    },
+    "25041": {
+      "id": 25041,
+      "difficulty": 25,
+      "level": 41
+    },
+    "25042": {
+      "id": 25042,
+      "difficulty": 25,
+      "level": 42
+    },
+    "25043": {
+      "id": 25043,
+      "difficulty": 25,
+      "level": 43
+    },
+    "25044": {
+      "id": 25044,
+      "difficulty": 25,
+      "level": 44
+    },
+    "25045": {
+      "id": 25045,
+      "difficulty": 25,
+      "level": 45
+    },
+    "25046": {
+      "id": 25046,
+      "difficulty": 25,
+      "level": 46
+    },
+    "25047": {
+      "id": 25047,
+      "difficulty": 25,
+      "level": 47
+    },
+    "25048": {
+      "id": 25048,
+      "difficulty": 25,
+      "level": 48
+    },
+    "25049": {
+      "id": 25049,
+      "difficulty": 25,
+      "level": 49
+    },
+    "25050": {
+      "id": 25050,
+      "difficulty": 25,
+      "level": 50
+    },
+    "25051": {
+      "id": 25051,
+      "difficulty": 25,
+      "level": 51
+    },
+    "25052": {
+      "id": 25052,
+      "difficulty": 25,
+      "level": 52
+    },
+    "25053": {
+      "id": 25053,
+      "difficulty": 25,
+      "level": 53
+    },
+    "25054": {
+      "id": 25054,
+      "difficulty": 25,
+      "level": 54
+    },
+    "25055": {
+      "id": 25055,
+      "difficulty": 25,
+      "level": 55
+    },
+    "25056": {
+      "id": 25056,
+      "difficulty": 25,
+      "level": 56
+    },
+    "25057": {
+      "id": 25057,
+      "difficulty": 25,
+      "level": 57
+    },
+    "25058": {
+      "id": 25058,
+      "difficulty": 25,
+      "level": 58
+    },
+    "25059": {
+      "id": 25059,
+      "difficulty": 25,
+      "level": 59
+    },
+    "25060": {
+      "id": 25060,
+      "difficulty": 25,
+      "level": 60
+    },
+    "26001": {
+      "id": 26001,
+      "difficulty": 26,
+      "level": 1
+    },
+    "26002": {
+      "id": 26002,
+      "difficulty": 26,
+      "level": 2
+    },
+    "26003": {
+      "id": 26003,
+      "difficulty": 26,
+      "level": 3
+    },
+    "26004": {
+      "id": 26004,
+      "difficulty": 26,
+      "level": 4
+    },
+    "26005": {
+      "id": 26005,
+      "difficulty": 26,
+      "level": 5
+    },
+    "26006": {
+      "id": 26006,
+      "difficulty": 26,
+      "level": 6
+    },
+    "26007": {
+      "id": 26007,
+      "difficulty": 26,
+      "level": 7
+    },
+    "26008": {
+      "id": 26008,
+      "difficulty": 26,
+      "level": 8
+    },
+    "26009": {
+      "id": 26009,
+      "difficulty": 26,
+      "level": 9
+    },
+    "26010": {
+      "id": 26010,
+      "difficulty": 26,
+      "level": 10
+    },
+    "26011": {
+      "id": 26011,
+      "difficulty": 26,
+      "level": 11
+    },
+    "26012": {
+      "id": 26012,
+      "difficulty": 26,
+      "level": 12
+    },
+    "26013": {
+      "id": 26013,
+      "difficulty": 26,
+      "level": 13
+    },
+    "26014": {
+      "id": 26014,
+      "difficulty": 26,
+      "level": 14
+    },
+    "26015": {
+      "id": 26015,
+      "difficulty": 26,
+      "level": 15
+    },
+    "26016": {
+      "id": 26016,
+      "difficulty": 26,
+      "level": 16
+    },
+    "26017": {
+      "id": 26017,
+      "difficulty": 26,
+      "level": 17
+    },
+    "26018": {
+      "id": 26018,
+      "difficulty": 26,
+      "level": 18
+    },
+    "26019": {
+      "id": 26019,
+      "difficulty": 26,
+      "level": 19
+    },
+    "26020": {
+      "id": 26020,
+      "difficulty": 26,
+      "level": 20
+    },
+    "26021": {
+      "id": 26021,
+      "difficulty": 26,
+      "level": 21
+    },
+    "26022": {
+      "id": 26022,
+      "difficulty": 26,
+      "level": 22
+    },
+    "26023": {
+      "id": 26023,
+      "difficulty": 26,
+      "level": 23
+    },
+    "26024": {
+      "id": 26024,
+      "difficulty": 26,
+      "level": 24
+    },
+    "26025": {
+      "id": 26025,
+      "difficulty": 26,
+      "level": 25
+    },
+    "26026": {
+      "id": 26026,
+      "difficulty": 26,
+      "level": 26
+    },
+    "26027": {
+      "id": 26027,
+      "difficulty": 26,
+      "level": 27
+    },
+    "26028": {
+      "id": 26028,
+      "difficulty": 26,
+      "level": 28
+    },
+    "26029": {
+      "id": 26029,
+      "difficulty": 26,
+      "level": 29
+    },
+    "26030": {
+      "id": 26030,
+      "difficulty": 26,
+      "level": 30
+    },
+    "26031": {
+      "id": 26031,
+      "difficulty": 26,
+      "level": 31
+    },
+    "26032": {
+      "id": 26032,
+      "difficulty": 26,
+      "level": 32
+    },
+    "26033": {
+      "id": 26033,
+      "difficulty": 26,
+      "level": 33
+    },
+    "26034": {
+      "id": 26034,
+      "difficulty": 26,
+      "level": 34
+    },
+    "26035": {
+      "id": 26035,
+      "difficulty": 26,
+      "level": 35
+    },
+    "26036": {
+      "id": 26036,
+      "difficulty": 26,
+      "level": 36
+    },
+    "26037": {
+      "id": 26037,
+      "difficulty": 26,
+      "level": 37
+    },
+    "26038": {
+      "id": 26038,
+      "difficulty": 26,
+      "level": 38
+    },
+    "26039": {
+      "id": 26039,
+      "difficulty": 26,
+      "level": 39
+    },
+    "26040": {
+      "id": 26040,
+      "difficulty": 26,
+      "level": 40
+    },
+    "26041": {
+      "id": 26041,
+      "difficulty": 26,
+      "level": 41
+    },
+    "26042": {
+      "id": 26042,
+      "difficulty": 26,
+      "level": 42
+    },
+    "26043": {
+      "id": 26043,
+      "difficulty": 26,
+      "level": 43
+    },
+    "26044": {
+      "id": 26044,
+      "difficulty": 26,
+      "level": 44
+    },
+    "26045": {
+      "id": 26045,
+      "difficulty": 26,
+      "level": 45
+    },
+    "26046": {
+      "id": 26046,
+      "difficulty": 26,
+      "level": 46
+    },
+    "26047": {
+      "id": 26047,
+      "difficulty": 26,
+      "level": 47
+    },
+    "26048": {
+      "id": 26048,
+      "difficulty": 26,
+      "level": 48
+    },
+    "26049": {
+      "id": 26049,
+      "difficulty": 26,
+      "level": 49
+    },
+    "26050": {
+      "id": 26050,
+      "difficulty": 26,
+      "level": 50
+    },
+    "26051": {
+      "id": 26051,
+      "difficulty": 26,
+      "level": 51
+    },
+    "26052": {
+      "id": 26052,
+      "difficulty": 26,
+      "level": 52
+    },
+    "26053": {
+      "id": 26053,
+      "difficulty": 26,
+      "level": 53
+    },
+    "26054": {
+      "id": 26054,
+      "difficulty": 26,
+      "level": 54
+    },
+    "26055": {
+      "id": 26055,
+      "difficulty": 26,
+      "level": 55
+    },
+    "26056": {
+      "id": 26056,
+      "difficulty": 26,
+      "level": 56
+    },
+    "26057": {
+      "id": 26057,
+      "difficulty": 26,
+      "level": 57
+    },
+    "26058": {
+      "id": 26058,
+      "difficulty": 26,
+      "level": 58
+    },
+    "26059": {
+      "id": 26059,
+      "difficulty": 26,
+      "level": 59
+    },
+    "26060": {
+      "id": 26060,
+      "difficulty": 26,
+      "level": 60
+    },
+    "27001": {
+      "id": 27001,
+      "difficulty": 27,
+      "level": 1
+    },
+    "27002": {
+      "id": 27002,
+      "difficulty": 27,
+      "level": 2
+    },
+    "27003": {
+      "id": 27003,
+      "difficulty": 27,
+      "level": 3
+    },
+    "27004": {
+      "id": 27004,
+      "difficulty": 27,
+      "level": 4
+    },
+    "27005": {
+      "id": 27005,
+      "difficulty": 27,
+      "level": 5
+    },
+    "27006": {
+      "id": 27006,
+      "difficulty": 27,
+      "level": 6
+    },
+    "27007": {
+      "id": 27007,
+      "difficulty": 27,
+      "level": 7
+    },
+    "27008": {
+      "id": 27008,
+      "difficulty": 27,
+      "level": 8
+    },
+    "27009": {
+      "id": 27009,
+      "difficulty": 27,
+      "level": 9
+    },
+    "27010": {
+      "id": 27010,
+      "difficulty": 27,
+      "level": 10
+    },
+    "27011": {
+      "id": 27011,
+      "difficulty": 27,
+      "level": 11
+    },
+    "27012": {
+      "id": 27012,
+      "difficulty": 27,
+      "level": 12
+    },
+    "27013": {
+      "id": 27013,
+      "difficulty": 27,
+      "level": 13
+    },
+    "27014": {
+      "id": 27014,
+      "difficulty": 27,
+      "level": 14
+    },
+    "27015": {
+      "id": 27015,
+      "difficulty": 27,
+      "level": 15
+    },
+    "27016": {
+      "id": 27016,
+      "difficulty": 27,
+      "level": 16
+    },
+    "27017": {
+      "id": 27017,
+      "difficulty": 27,
+      "level": 17
+    },
+    "27018": {
+      "id": 27018,
+      "difficulty": 27,
+      "level": 18
+    },
+    "27019": {
+      "id": 27019,
+      "difficulty": 27,
+      "level": 19
+    },
+    "27020": {
+      "id": 27020,
+      "difficulty": 27,
+      "level": 20
+    },
+    "27021": {
+      "id": 27021,
+      "difficulty": 27,
+      "level": 21
+    },
+    "27022": {
+      "id": 27022,
+      "difficulty": 27,
+      "level": 22
+    },
+    "27023": {
+      "id": 27023,
+      "difficulty": 27,
+      "level": 23
+    },
+    "27024": {
+      "id": 27024,
+      "difficulty": 27,
+      "level": 24
+    },
+    "27025": {
+      "id": 27025,
+      "difficulty": 27,
+      "level": 25
+    },
+    "27026": {
+      "id": 27026,
+      "difficulty": 27,
+      "level": 26
+    },
+    "27027": {
+      "id": 27027,
+      "difficulty": 27,
+      "level": 27
+    },
+    "27028": {
+      "id": 27028,
+      "difficulty": 27,
+      "level": 28
+    },
+    "27029": {
+      "id": 27029,
+      "difficulty": 27,
+      "level": 29
+    },
+    "27030": {
+      "id": 27030,
+      "difficulty": 27,
+      "level": 30
+    },
+    "27031": {
+      "id": 27031,
+      "difficulty": 27,
+      "level": 31
+    },
+    "27032": {
+      "id": 27032,
+      "difficulty": 27,
+      "level": 32
+    },
+    "27033": {
+      "id": 27033,
+      "difficulty": 27,
+      "level": 33
+    },
+    "27034": {
+      "id": 27034,
+      "difficulty": 27,
+      "level": 34
+    },
+    "27035": {
+      "id": 27035,
+      "difficulty": 27,
+      "level": 35
+    },
+    "27036": {
+      "id": 27036,
+      "difficulty": 27,
+      "level": 36
+    },
+    "27037": {
+      "id": 27037,
+      "difficulty": 27,
+      "level": 37
+    },
+    "27038": {
+      "id": 27038,
+      "difficulty": 27,
+      "level": 38
+    },
+    "27039": {
+      "id": 27039,
+      "difficulty": 27,
+      "level": 39
+    },
+    "27040": {
+      "id": 27040,
+      "difficulty": 27,
+      "level": 40
+    },
+    "27041": {
+      "id": 27041,
+      "difficulty": 27,
+      "level": 41
+    },
+    "27042": {
+      "id": 27042,
+      "difficulty": 27,
+      "level": 42
+    },
+    "27043": {
+      "id": 27043,
+      "difficulty": 27,
+      "level": 43
+    },
+    "27044": {
+      "id": 27044,
+      "difficulty": 27,
+      "level": 44
+    },
+    "27045": {
+      "id": 27045,
+      "difficulty": 27,
+      "level": 45
+    },
+    "27046": {
+      "id": 27046,
+      "difficulty": 27,
+      "level": 46
+    },
+    "27047": {
+      "id": 27047,
+      "difficulty": 27,
+      "level": 47
+    },
+    "27048": {
+      "id": 27048,
+      "difficulty": 27,
+      "level": 48
+    },
+    "27049": {
+      "id": 27049,
+      "difficulty": 27,
+      "level": 49
+    },
+    "27050": {
+      "id": 27050,
+      "difficulty": 27,
+      "level": 50
+    },
+    "27051": {
+      "id": 27051,
+      "difficulty": 27,
+      "level": 51
+    },
+    "27052": {
+      "id": 27052,
+      "difficulty": 27,
+      "level": 52
+    },
+    "27053": {
+      "id": 27053,
+      "difficulty": 27,
+      "level": 53
+    },
+    "27054": {
+      "id": 27054,
+      "difficulty": 27,
+      "level": 54
+    },
+    "27055": {
+      "id": 27055,
+      "difficulty": 27,
+      "level": 55
+    },
+    "27056": {
+      "id": 27056,
+      "difficulty": 27,
+      "level": 56
+    },
+    "27057": {
+      "id": 27057,
+      "difficulty": 27,
+      "level": 57
+    },
+    "27058": {
+      "id": 27058,
+      "difficulty": 27,
+      "level": 58
+    },
+    "27059": {
+      "id": 27059,
+      "difficulty": 27,
+      "level": 59
+    },
+    "27060": {
+      "id": 27060,
+      "difficulty": 27,
+      "level": 60
+    },
+    "28001": {
+      "id": 28001,
+      "difficulty": 28,
+      "level": 1
+    },
+    "28002": {
+      "id": 28002,
+      "difficulty": 28,
+      "level": 2
+    },
+    "28003": {
+      "id": 28003,
+      "difficulty": 28,
+      "level": 3
+    },
+    "28004": {
+      "id": 28004,
+      "difficulty": 28,
+      "level": 4
+    },
+    "28005": {
+      "id": 28005,
+      "difficulty": 28,
+      "level": 5
+    },
+    "28006": {
+      "id": 28006,
+      "difficulty": 28,
+      "level": 6
+    },
+    "28007": {
+      "id": 28007,
+      "difficulty": 28,
+      "level": 7
+    },
+    "28008": {
+      "id": 28008,
+      "difficulty": 28,
+      "level": 8
+    },
+    "28009": {
+      "id": 28009,
+      "difficulty": 28,
+      "level": 9
+    },
+    "28010": {
+      "id": 28010,
+      "difficulty": 28,
+      "level": 10
+    },
+    "28011": {
+      "id": 28011,
+      "difficulty": 28,
+      "level": 11
+    },
+    "28012": {
+      "id": 28012,
+      "difficulty": 28,
+      "level": 12
+    },
+    "28013": {
+      "id": 28013,
+      "difficulty": 28,
+      "level": 13
+    },
+    "28014": {
+      "id": 28014,
+      "difficulty": 28,
+      "level": 14
+    },
+    "28015": {
+      "id": 28015,
+      "difficulty": 28,
+      "level": 15
+    },
+    "28016": {
+      "id": 28016,
+      "difficulty": 28,
+      "level": 16
+    },
+    "28017": {
+      "id": 28017,
+      "difficulty": 28,
+      "level": 17
+    },
+    "28018": {
+      "id": 28018,
+      "difficulty": 28,
+      "level": 18
+    },
+    "28019": {
+      "id": 28019,
+      "difficulty": 28,
+      "level": 19
+    },
+    "28020": {
+      "id": 28020,
+      "difficulty": 28,
+      "level": 20
+    },
+    "28021": {
+      "id": 28021,
+      "difficulty": 28,
+      "level": 21
+    },
+    "28022": {
+      "id": 28022,
+      "difficulty": 28,
+      "level": 22
+    },
+    "28023": {
+      "id": 28023,
+      "difficulty": 28,
+      "level": 23
+    },
+    "28024": {
+      "id": 28024,
+      "difficulty": 28,
+      "level": 24
+    },
+    "28025": {
+      "id": 28025,
+      "difficulty": 28,
+      "level": 25
+    },
+    "28026": {
+      "id": 28026,
+      "difficulty": 28,
+      "level": 26
+    },
+    "28027": {
+      "id": 28027,
+      "difficulty": 28,
+      "level": 27
+    },
+    "28028": {
+      "id": 28028,
+      "difficulty": 28,
+      "level": 28
+    },
+    "28029": {
+      "id": 28029,
+      "difficulty": 28,
+      "level": 29
+    },
+    "28030": {
+      "id": 28030,
+      "difficulty": 28,
+      "level": 30
+    },
+    "28031": {
+      "id": 28031,
+      "difficulty": 28,
+      "level": 31
+    },
+    "28032": {
+      "id": 28032,
+      "difficulty": 28,
+      "level": 32
+    },
+    "28033": {
+      "id": 28033,
+      "difficulty": 28,
+      "level": 33
+    },
+    "28034": {
+      "id": 28034,
+      "difficulty": 28,
+      "level": 34
+    },
+    "28035": {
+      "id": 28035,
+      "difficulty": 28,
+      "level": 35
+    },
+    "28036": {
+      "id": 28036,
+      "difficulty": 28,
+      "level": 36
+    },
+    "28037": {
+      "id": 28037,
+      "difficulty": 28,
+      "level": 37
+    },
+    "28038": {
+      "id": 28038,
+      "difficulty": 28,
+      "level": 38
+    },
+    "28039": {
+      "id": 28039,
+      "difficulty": 28,
+      "level": 39
+    },
+    "28040": {
+      "id": 28040,
+      "difficulty": 28,
+      "level": 40
+    },
+    "28041": {
+      "id": 28041,
+      "difficulty": 28,
+      "level": 41
+    },
+    "28042": {
+      "id": 28042,
+      "difficulty": 28,
+      "level": 42
+    },
+    "28043": {
+      "id": 28043,
+      "difficulty": 28,
+      "level": 43
+    },
+    "28044": {
+      "id": 28044,
+      "difficulty": 28,
+      "level": 44
+    },
+    "28045": {
+      "id": 28045,
+      "difficulty": 28,
+      "level": 45
+    },
+    "28046": {
+      "id": 28046,
+      "difficulty": 28,
+      "level": 46
+    },
+    "28047": {
+      "id": 28047,
+      "difficulty": 28,
+      "level": 47
+    },
+    "28048": {
+      "id": 28048,
+      "difficulty": 28,
+      "level": 48
+    },
+    "28049": {
+      "id": 28049,
+      "difficulty": 28,
+      "level": 49
+    },
+    "28050": {
+      "id": 28050,
+      "difficulty": 28,
+      "level": 50
+    },
+    "28051": {
+      "id": 28051,
+      "difficulty": 28,
+      "level": 51
+    },
+    "28052": {
+      "id": 28052,
+      "difficulty": 28,
+      "level": 52
+    },
+    "28053": {
+      "id": 28053,
+      "difficulty": 28,
+      "level": 53
+    },
+    "28054": {
+      "id": 28054,
+      "difficulty": 28,
+      "level": 54
+    },
+    "28055": {
+      "id": 28055,
+      "difficulty": 28,
+      "level": 55
+    },
+    "28056": {
+      "id": 28056,
+      "difficulty": 28,
+      "level": 56
+    },
+    "28057": {
+      "id": 28057,
+      "difficulty": 28,
+      "level": 57
+    },
+    "28058": {
+      "id": 28058,
+      "difficulty": 28,
+      "level": 58
+    },
+    "28059": {
+      "id": 28059,
+      "difficulty": 28,
+      "level": 59
+    },
+    "28060": {
+      "id": 28060,
+      "difficulty": 28,
+      "level": 60
+    },
+    "31001": {
+      "id": 31001,
+      "difficulty": 31,
+      "level": 1
+    },
+    "31002": {
+      "id": 31002,
+      "difficulty": 31,
+      "level": 2
+    },
+    "31003": {
+      "id": 31003,
+      "difficulty": 31,
+      "level": 3
+    },
+    "31004": {
+      "id": 31004,
+      "difficulty": 31,
+      "level": 4
+    },
+    "31005": {
+      "id": 31005,
+      "difficulty": 31,
+      "level": 5
+    },
+    "31006": {
+      "id": 31006,
+      "difficulty": 31,
+      "level": 6
+    },
+    "31007": {
+      "id": 31007,
+      "difficulty": 31,
+      "level": 7
+    },
+    "31008": {
+      "id": 31008,
+      "difficulty": 31,
+      "level": 8
+    },
+    "31009": {
+      "id": 31009,
+      "difficulty": 31,
+      "level": 9
+    },
+    "31010": {
+      "id": 31010,
+      "difficulty": 31,
+      "level": 10
+    },
+    "31011": {
+      "id": 31011,
+      "difficulty": 31,
+      "level": 11
+    },
+    "31012": {
+      "id": 31012,
+      "difficulty": 31,
+      "level": 12
+    },
+    "31013": {
+      "id": 31013,
+      "difficulty": 31,
+      "level": 13
+    },
+    "31014": {
+      "id": 31014,
+      "difficulty": 31,
+      "level": 14
+    },
+    "31015": {
+      "id": 31015,
+      "difficulty": 31,
+      "level": 15
+    },
+    "31016": {
+      "id": 31016,
+      "difficulty": 31,
+      "level": 16
+    },
+    "31017": {
+      "id": 31017,
+      "difficulty": 31,
+      "level": 17
+    },
+    "31018": {
+      "id": 31018,
+      "difficulty": 31,
+      "level": 18
+    },
+    "31019": {
+      "id": 31019,
+      "difficulty": 31,
+      "level": 19
+    },
+    "31020": {
+      "id": 31020,
+      "difficulty": 31,
+      "level": 20
+    },
+    "31021": {
+      "id": 31021,
+      "difficulty": 31,
+      "level": 21
+    },
+    "31022": {
+      "id": 31022,
+      "difficulty": 31,
+      "level": 22
+    },
+    "31023": {
+      "id": 31023,
+      "difficulty": 31,
+      "level": 23
+    },
+    "31024": {
+      "id": 31024,
+      "difficulty": 31,
+      "level": 24
+    },
+    "31025": {
+      "id": 31025,
+      "difficulty": 31,
+      "level": 25
+    },
+    "31026": {
+      "id": 31026,
+      "difficulty": 31,
+      "level": 26
+    },
+    "31027": {
+      "id": 31027,
+      "difficulty": 31,
+      "level": 27
+    },
+    "31028": {
+      "id": 31028,
+      "difficulty": 31,
+      "level": 28
+    },
+    "31029": {
+      "id": 31029,
+      "difficulty": 31,
+      "level": 29
+    },
+    "31030": {
+      "id": 31030,
+      "difficulty": 31,
+      "level": 30
+    },
+    "31031": {
+      "id": 31031,
+      "difficulty": 31,
+      "level": 31
+    },
+    "31032": {
+      "id": 31032,
+      "difficulty": 31,
+      "level": 32
+    },
+    "31033": {
+      "id": 31033,
+      "difficulty": 31,
+      "level": 33
+    },
+    "31034": {
+      "id": 31034,
+      "difficulty": 31,
+      "level": 34
+    },
+    "31035": {
+      "id": 31035,
+      "difficulty": 31,
+      "level": 35
+    },
+    "31036": {
+      "id": 31036,
+      "difficulty": 31,
+      "level": 36
+    },
+    "31037": {
+      "id": 31037,
+      "difficulty": 31,
+      "level": 37
+    },
+    "31038": {
+      "id": 31038,
+      "difficulty": 31,
+      "level": 38
+    },
+    "31039": {
+      "id": 31039,
+      "difficulty": 31,
+      "level": 39
+    },
+    "31040": {
+      "id": 31040,
+      "difficulty": 31,
+      "level": 40
+    },
+    "31041": {
+      "id": 31041,
+      "difficulty": 31,
+      "level": 41
+    },
+    "31042": {
+      "id": 31042,
+      "difficulty": 31,
+      "level": 42
+    },
+    "31043": {
+      "id": 31043,
+      "difficulty": 31,
+      "level": 43
+    },
+    "31044": {
+      "id": 31044,
+      "difficulty": 31,
+      "level": 44
+    },
+    "31045": {
+      "id": 31045,
+      "difficulty": 31,
+      "level": 45
+    },
+    "31046": {
+      "id": 31046,
+      "difficulty": 31,
+      "level": 46
+    },
+    "31047": {
+      "id": 31047,
+      "difficulty": 31,
+      "level": 47
+    },
+    "31048": {
+      "id": 31048,
+      "difficulty": 31,
+      "level": 48
+    },
+    "31049": {
+      "id": 31049,
+      "difficulty": 31,
+      "level": 49
+    },
+    "31050": {
+      "id": 31050,
+      "difficulty": 31,
+      "level": 50
+    },
+    "31051": {
+      "id": 31051,
+      "difficulty": 31,
+      "level": 51
+    },
+    "31052": {
+      "id": 31052,
+      "difficulty": 31,
+      "level": 52
+    },
+    "31053": {
+      "id": 31053,
+      "difficulty": 31,
+      "level": 53
+    },
+    "31054": {
+      "id": 31054,
+      "difficulty": 31,
+      "level": 54
+    },
+    "31055": {
+      "id": 31055,
+      "difficulty": 31,
+      "level": 55
+    },
+    "31056": {
+      "id": 31056,
+      "difficulty": 31,
+      "level": 56
+    },
+    "31057": {
+      "id": 31057,
+      "difficulty": 31,
+      "level": 57
+    },
+    "31058": {
+      "id": 31058,
+      "difficulty": 31,
+      "level": 58
+    },
+    "31059": {
+      "id": 31059,
+      "difficulty": 31,
+      "level": 59
+    },
+    "31060": {
+      "id": 31060,
+      "difficulty": 31,
+      "level": 60
+    }
+  }
+}

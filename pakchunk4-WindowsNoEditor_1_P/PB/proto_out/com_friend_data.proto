@@ -1,0 +1,47 @@
+package Next;
+
+enum FriendInteractEventType {
+  FRIEND_INTERACT_EVENT_TYPE_NONE = 0;
+  FRIEND_INTERACT_EVENT_TYPE_VISIT = 1;
+  FRIEND_INTERACT_EVENT_TYPE_RIST_HOLD_HANDS = 2;
+  FRIEND_INTERACT_EVENT_TYPE_INVITE_TOGETHER = 3;
+  FRIEND_INTERACT_EVENT_TYPE_FRIEND_BATTLE = 4;
+  FRIEND_INTERACT_EVENT_TYPE_WORLD_LEADER_FIGHT = 5;
+  FRIEND_INTERACT_EVENT_TYPE_LENENDARY_BATTLE = 6;
+  FRIEND_INTERACT_EVENT_TYPE_BLOOD_BATTLE = 7;
+  FRIEND_INTERACT_EVENT_TYPE_PVP = 8;
+  FRIEND_INTERACT_EVENT_TYPE_VISIT_HOME = 9;
+  FRIEND_INTERACT_EVENT_TYPE_TOY_INTERACTION = 10;
+}
+
+enum FriendSource {
+  FRIEND_SOURCE_NONE = 0;
+  FS_VISIT = 1;
+  FS_PVP = 2;
+  FS_PET_EGG_EXCHANGE = 3;
+  FS_PVP_COMBAT = 4;
+  FS_TOGETHER = 5;
+  FS_TEAM_COMBAT = 6;
+  FS_TOY_INTERACTION = 7;
+  FS_VISIT_HOME = 8;
+}
+
+message FriendInteractEvent {
+  uint32 recommend_uin = 1;
+  Next.FriendInteractEventType ev_type = 2;
+}
+
+message FriendInteractRecord {
+  uint32 recommend_uin = 1;
+  Next.FriendInteractEventType ev_type = 2;
+  uint32 ev_time = 3;
+}
+
+message FriendInteractRecordList {
+  Next.FriendSource source = 1;
+  repeated Next.FriendInteractRecord records = 2;
+}
+
+message FriendRecommendInfo {
+  repeated Next.FriendInteractRecordList record_lists = 1;
+}

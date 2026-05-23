@@ -1,0 +1,65 @@
+{
+  "RocoDataRows": {
+    "1001": {
+      "id": 1001,
+      "group_id": 3500002,
+      "change_goods_type": 1,
+      "change_goods_id": 320020,
+      "points_condition": 10,
+      "reward_type": 1,
+      "reward_id": 320064,
+      "reward_count": 1
+    },
+    "1002": {
+      "id": 1002,
+      "group_id": 3500002,
+      "change_goods_type": 1,
+      "change_goods_id": 320020,
+      "points_condition": 50,
+      "reward_type": 17,
+      "reward_id": 16,
+      "reward_count": 1
+    },
+    "1003": {
+      "id": 1003,
+      "group_id": 3500002,
+      "change_goods_type": 1,
+      "change_goods_id": 320020,
+      "points_condition": 100,
+      "reward_type": 1,
+      "reward_id": 107208,
+      "reward_count": 1
+    },
+    "1004": {
+      "id": 1004,
+      "group_id": 3500002,
+      "change_goods_type": 1,
+      "change_goods_id": 320020,
+      "points_condition": 200,
+      "reward_type": 1,
+      "reward_id": 310046,
+      "reward_count": 1
+    },
+    "1005": {
+      "id": 1005,
+      "group_id": 3500002,
+      "change_goods_type": 1,
+      "change_goods_id": 320020,
+      "points_condition": 300,
+      "reward_type": 30,
+      "reward_id": 103,
+      "reward_count": 1
+    },
+    "1006": {
+      "id": 1006,
+      "group_id": 3500002,
+      "change_goods_type": 1,
+      "change_goods_id": 320020,
+      "points_condition": 450,
+      "reward_type": 15,
+      "reward_id": 3005,
+      "reward_count": 1,
+      "if_reward_jackpot": true
+    }
+  }
+}

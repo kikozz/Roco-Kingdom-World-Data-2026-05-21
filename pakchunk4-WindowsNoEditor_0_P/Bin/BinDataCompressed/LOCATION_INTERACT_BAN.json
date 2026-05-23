@@ -1,0 +1,111 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "locaion_interact_ban_list": [
+        {},
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {},
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "locaion_interact_ban_list": [
+        {
+          "location_interact_ban": true
+        },
+        {},
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {},
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "locaion_interact_ban_list": [
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {},
+        {
+          "location_interact_ban": true
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "locaion_interact_ban_list": [
+        {},
+        {
+          "location_interact_ban": true
+        },
+        {
+          "location_interact_ban": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "5": {
+      "id": 5,
+      "locaion_interact_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  }
+}

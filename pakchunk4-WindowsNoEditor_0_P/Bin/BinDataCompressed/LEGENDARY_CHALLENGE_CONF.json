@@ -1,0 +1,66 @@
+{
+  "RocoDataRows": {
+    "2700007": {
+      "id": 2700007,
+      "sorting": 2,
+      "activity_type": 27,
+      "slot_des1": "羽毛大乱斗",
+      "slot_des2": "完成凡鹰剧情任务后开启",
+      "slot_des3": "已完成",
+      "task_required": 70000448,
+      "redirect_sub": 1014,
+      "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FireHorseBg1_png.img_FireHorseBg1_png'"
+    },
+    "4500003": {
+      "id": 4500003,
+      "sorting": 1,
+      "task_conf_id": [
+        70000420,
+        70000421,
+        70000422,
+        70000423,
+        70000424,
+        70000425,
+        70000426,
+        70000427,
+        70000428,
+        70000429,
+        70000430,
+        70000431,
+        70000432,
+        70000433,
+        70000434,
+        70000435,
+        70000436,
+        70000437,
+        70000438,
+        70000439,
+        70000440,
+        70000441,
+        70000442,
+        70000443,
+        70000444,
+        70000445,
+        70000446,
+        70000447,
+        70000448
+      ],
+      "slot_des2": "暂未开启",
+      "slot_des3": "已完成",
+      "redirect_top": 29,
+      "goods_type": 2,
+      "goods_id": 51,
+      "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FireHorseBg1_png.img_FireHorseBg1_png'"
+    },
+    "4500005": {
+      "id": 4500005,
+      "sorting": 3,
+      "slot_des1": "传说精灵挑战",
+      "slot_des2": "完成凡鹰剧情任务后开启",
+      "slot_des3": "已完成",
+      "task_required": 70000448,
+      "redirect_sub": 20017,
+      "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FireHorseBg1_png.img_FireHorseBg1_png'"
+    }
+  }
+}

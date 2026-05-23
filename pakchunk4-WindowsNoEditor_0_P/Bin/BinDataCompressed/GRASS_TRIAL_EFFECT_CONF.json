@@ -1,0 +1,35 @@
+{
+  "RocoDataRows": {
+    "1000": {
+      "id": 1000,
+      "name": "生命恢复",
+      "info": "每个章节完成后，我方精灵回复100%的生命值",
+      "trial_effect": [
+        1
+      ],
+      "param1": 10000,
+      "visible": true
+    },
+    "1001": {
+      "id": 1001,
+      "name": "融合次数",
+      "info": "本次挑战中，每个技能最多可以融合5次",
+      "trial_effect": [
+        3
+      ],
+      "param1": 5,
+      "visible": true
+    },
+    "1002": {
+      "id": 1002,
+      "name": "能量上限",
+      "info": "本次挑战中，我方精灵初始能量上限为15",
+      "trial_effect": [
+        2
+      ],
+      "param1": 1,
+      "param2": 5,
+      "visible": true
+    }
+  }
+}

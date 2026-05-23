@@ -1,0 +1,19 @@
+{
+  "Name": "ACTIVITY_PET_TRIP_RULE",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "addtime",
+      "Type": "EUint32",
+      "Offset": 4,
+      "Size": 4
+    }
+  ]
+}

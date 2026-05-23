@@ -1,0 +1,25 @@
+{
+  "Name": "PREATTACK_SKILL",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "preattack_tag",
+      "Type": "EInt32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "preattack_trans_skill_id",
+      "Type": "EUint32",
+      "Offset": 8,
+      "Size": 4
+    }
+  ]
+}

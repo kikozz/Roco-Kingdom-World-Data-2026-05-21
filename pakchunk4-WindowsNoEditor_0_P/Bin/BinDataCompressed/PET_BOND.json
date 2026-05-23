@@ -1,0 +1,996 @@
+{
+  "RocoDataRows": {
+    "101": {
+      "id": 101,
+      "mbti": [
+        30,
+        50,
+        100
+      ],
+      "period_weight": [
+        150
+      ],
+      "default_scale": 100,
+      "minimum_factor": 200,
+      "maximum_alarm": 140001,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 10000
+    },
+    "102": {
+      "id": 102,
+      "mbti": [
+        30,
+        50,
+        100
+      ],
+      "period_weight": [
+        150
+      ],
+      "default_scale": 100,
+      "minimum_factor": 200,
+      "maximum_alarm": 140001,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        38,
+        44,
+        45,
+        41,
+        46
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 10000
+    },
+    "201": {
+      "id": 201,
+      "mbti": [
+        30,
+        50,
+        100
+      ],
+      "period_weight": [
+        150
+      ],
+      "default_scale": 100,
+      "minimum_factor": 200,
+      "maximum_alarm": 140002,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        38,
+        39,
+        40,
+        47,
+        42
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 10000
+    },
+    "202": {
+      "id": 202,
+      "mbti": [
+        30,
+        50,
+        100
+      ],
+      "period_weight": [
+        150
+      ],
+      "default_scale": 100,
+      "minimum_factor": 200,
+      "maximum_alarm": 140002,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        38,
+        44,
+        45,
+        47,
+        46
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 10000
+    },
+    "301": {
+      "id": 301,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        1347702345
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140003,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 1300
+    },
+    "302": {
+      "id": 302,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        1347702345
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140003,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        48,
+        53,
+        54,
+        51,
+        55
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 1300
+    },
+    "401": {
+      "id": 401,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 50,
+      "minimum_factor": 300,
+      "maximum_alarm": 140004,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        56,
+        57,
+        40,
+        41,
+        58
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 6200
+    },
+    "402": {
+      "id": 402,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 50,
+      "minimum_factor": 300,
+      "maximum_alarm": 140004,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        56,
+        44,
+        59,
+        41,
+        46
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 6200
+    },
+    "501": {
+      "id": 501,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 50,
+      "minimum_factor": 300,
+      "maximum_alarm": 140005,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        60,
+        61,
+        40,
+        62,
+        63
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 6200
+    },
+    "502": {
+      "id": 502,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 50,
+      "minimum_factor": 300,
+      "maximum_alarm": 140005,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        60,
+        44,
+        64,
+        62,
+        46
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 6200
+    },
+    "601": {
+      "id": 601,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140006,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        65,
+        66,
+        40,
+        41,
+        67
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 3600
+    },
+    "602": {
+      "id": 602,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140006,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        65,
+        44,
+        68,
+        41,
+        46
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 3600
+    },
+    "701": {
+      "id": 701,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140007,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        48,
+        66,
+        40,
+        47,
+        67
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 3600
+    },
+    "702": {
+      "id": 702,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140007,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        48,
+        44,
+        68,
+        47,
+        46
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 3600
+    },
+    "801": {
+      "id": 801,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        1347702345
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140008,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        48,
+        49,
+        69,
+        70,
+        52
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 1300
+    },
+    "802": {
+      "id": 802,
+      "mbti": [
+        10,
+        20,
+        30,
+        30,
+        50
+      ],
+      "period_weight": [
+        1347702345
+      ],
+      "default_scale": 80,
+      "minimum_factor": 120,
+      "maximum_alarm": 140008,
+      "option_id": 140010,
+      "find_gift_option": 3,
+      "close_level": [
+        150,
+        500,
+        1100,
+        2350,
+        5850,
+        5850
+      ],
+      "close_level_need_exp": [
+        48,
+        53,
+        71,
+        70,
+        55
+      ],
+      "bond_random": [
+        {
+          "type": 18,
+          "weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "required_interact_count": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+      ],
+      "required_interact_count": [
+        2528,
+        22784,
+        19968
+      ],
+      "base_friendly_param_value": 1300
+    }
+  }
+}

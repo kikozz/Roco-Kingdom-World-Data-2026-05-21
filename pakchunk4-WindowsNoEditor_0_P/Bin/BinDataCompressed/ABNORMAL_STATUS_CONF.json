@@ -1,0 +1,66 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "editor_name": "催眠状态",
+      "status_type": 1,
+      "status_priority": 300,
+      "perform_delete": true,
+      "max_duration": 5000,
+      "cooldown": 12000,
+      "class_name": "AbnormalStatus_Hypnosis"
+    },
+    "2": {
+      "id": 2,
+      "editor_name": "中毒状态",
+      "status_type": 3,
+      "status_priority": 100,
+      "perform_delete": true,
+      "max_duration": 10000,
+      "cooldown": 12000,
+      "whitelist_source_pet": [
+        3151,
+        3152,
+        3153,
+        3225,
+        3226,
+        3419,
+        3420,
+        3621,
+        3622
+      ],
+      "class_name": "AbnormalStatus_Toxicity"
+    },
+    "3": {
+      "id": 3,
+      "editor_name": "致幻状态",
+      "status_type": 3,
+      "status_priority": 100,
+      "perform_delete": true,
+      "max_duration": 10000,
+      "cooldown": 12000,
+      "whitelist_source_pet": [
+        3369,
+        3370,
+        3371,
+        3543,
+        3544
+      ],
+      "class_name": "AbnormalStatus_Illusionist"
+    },
+    "4": {
+      "id": 4,
+      "editor_name": "燃烧状态",
+      "status_type": 2,
+      "status_priority": 200,
+      "class_name": "AbnormalStatus_Hot"
+    },
+    "5": {
+      "id": 5,
+      "editor_name": "冰冻状态",
+      "status_type": 2,
+      "status_priority": 200,
+      "class_name": "AbnormalStatus_Cold"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Name": "ACTIVITY_RECALL_CLASS_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "lost_min_day",
+      "Type": "EUint32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "lost_max_day",
+      "Type": "EUint32",
+      "Offset": 8,
+      "Size": 4
+    },
+    {
+      "Name": "duration_days",
+      "Type": "EUint32",
+      "Offset": 12,
+      "Size": 4
+    },
+    {
+      "Name": "disposable_reward_id",
+      "Type": "EUint32",
+      "Offset": 16,
+      "Size": 4
+    },
+    {
+      "Name": "begin_taskid",
+      "Type": "EUint32",
+      "Offset": 20,
+      "Size": 4
+    },
+    {
+      "Name": "subactivity_task_condition",
+      "Type": "EUint32",
+      "Offset": 24,
+      "Size": 4
+    },
+    {
+      "Name": "subactivity_ids",
+      "Type": "EUint32",
+      "Offset": 28,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "sign_in_txt",
+      "Type": "EString",
+      "Offset": 32,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "bp_welcome_txt",
+      "Type": "EString",
+      "Offset": 36,
+      "Size": 4,
+      "CompressedSize": 4
+    }
+  ]
+}

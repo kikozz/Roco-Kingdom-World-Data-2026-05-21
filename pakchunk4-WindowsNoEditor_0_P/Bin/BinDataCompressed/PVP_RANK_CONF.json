@@ -1,0 +1,3321 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "name": "<span color=\"#999182\">见习决斗家I</>",
+      "name_only": "见习决斗家I",
+      "icon": "jianxi-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 1,
+      "star_total": 1,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi6.qizi6'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "<span color=\"#999182\">见习决斗家II</>",
+      "name_only": "见习决斗家II",
+      "icon": "jianxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_total": 2,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "<span color=\"#999182\">见习决斗家II</>",
+      "name_only": "见习决斗家II",
+      "icon": "jianxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 1,
+      "star_total": 2,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "<span color=\"#999182\">见习决斗家II</>",
+      "name_only": "见习决斗家II",
+      "icon": "jianxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 2,
+      "star_total": 2,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi7.qizi7'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "<span color=\"#999182\">见习决斗家III</>",
+      "name_only": "见习决斗家III",
+      "icon": "jianxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "<span color=\"#999182\">见习决斗家III</>",
+      "name_only": "见习决斗家III",
+      "icon": "jianxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "<span color=\"#999182\">见习决斗家III</>",
+      "name_only": "见习决斗家III",
+      "icon": "jianxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "<span color=\"#999182\">见习决斗家III</>",
+      "name_only": "见习决斗家III",
+      "icon": "jianxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi8.qizi8'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "<span color=\"#999182\">见习决斗家IV</>",
+      "name_only": "见习决斗家IV",
+      "icon": "jianxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "<span color=\"#999182\">见习决斗家IV</>",
+      "name_only": "见习决斗家IV",
+      "icon": "jianxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "<span color=\"#999182\">见习决斗家IV</>",
+      "name_only": "见习决斗家IV",
+      "icon": "jianxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "<span color=\"#999182\">见习决斗家IV</>",
+      "name_only": "见习决斗家IV",
+      "icon": "jianxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi9.qizi9'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "<span color=\"#999182\">见习决斗家V</>",
+      "name_only": "见习决斗家V",
+      "icon": "jianxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "<span color=\"#999182\">见习决斗家V</>",
+      "name_only": "见习决斗家V",
+      "icon": "jianxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "<span color=\"#999182\">见习决斗家V</>",
+      "name_only": "见习决斗家V",
+      "icon": "jianxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "16": {
+      "id": 16,
+      "name": "<span color=\"#999182\">见习决斗家V</>",
+      "name_only": "见习决斗家V",
+      "icon": "jianxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "robot": true,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 1,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hui_png.img_duanwei_hui_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi10.qizi10'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "17": {
+      "id": 17,
+      "name": "<span color=\"#5ca011\">初级决斗家I</>",
+      "name_only": "初级决斗家I",
+      "icon": "chuji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "18": {
+      "id": 18,
+      "name": "<span color=\"#5ca011\">初级决斗家I</>",
+      "name_only": "初级决斗家I",
+      "icon": "chuji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "19": {
+      "id": 19,
+      "name": "<span color=\"#5ca011\">初级决斗家I</>",
+      "name_only": "初级决斗家I",
+      "icon": "chuji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "20": {
+      "id": 20,
+      "name": "<span color=\"#5ca011\">初级决斗家I</>",
+      "name_only": "初级决斗家I",
+      "icon": "chuji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi18.qizi18'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi001.S2qizi001'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "21": {
+      "id": 21,
+      "name": "<span color=\"#5ca011\">初级决斗家II</>",
+      "name_only": "初级决斗家II",
+      "icon": "chuji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "22": {
+      "id": 22,
+      "name": "<span color=\"#5ca011\">初级决斗家II</>",
+      "name_only": "初级决斗家II",
+      "icon": "chuji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "23": {
+      "id": 23,
+      "name": "<span color=\"#5ca011\">初级决斗家II</>",
+      "name_only": "初级决斗家II",
+      "icon": "chuji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "24": {
+      "id": 24,
+      "name": "<span color=\"#5ca011\">初级决斗家II</>",
+      "name_only": "初级决斗家II",
+      "icon": "chuji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi19.qizi19'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi002.S2qizi002'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "25": {
+      "id": 25,
+      "name": "<span color=\"#5ca011\">初级决斗家III</>",
+      "name_only": "初级决斗家III",
+      "icon": "chuji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "26": {
+      "id": 26,
+      "name": "<span color=\"#5ca011\">初级决斗家III</>",
+      "name_only": "初级决斗家III",
+      "icon": "chuji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "27": {
+      "id": 27,
+      "name": "<span color=\"#5ca011\">初级决斗家III</>",
+      "name_only": "初级决斗家III",
+      "icon": "chuji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "28": {
+      "id": 28,
+      "name": "<span color=\"#5ca011\">初级决斗家III</>",
+      "name_only": "初级决斗家III",
+      "icon": "chuji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi20.qizi20'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi003.S2qizi003'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "29": {
+      "id": 29,
+      "name": "<span color=\"#5ca011\">初级决斗家IV</>",
+      "name_only": "初级决斗家IV",
+      "icon": "chuji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "30": {
+      "id": 30,
+      "name": "<span color=\"#5ca011\">初级决斗家IV</>",
+      "name_only": "初级决斗家IV",
+      "icon": "chuji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "31": {
+      "id": 31,
+      "name": "<span color=\"#5ca011\">初级决斗家IV</>",
+      "name_only": "初级决斗家IV",
+      "icon": "chuji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "32": {
+      "id": 32,
+      "name": "<span color=\"#5ca011\">初级决斗家IV</>",
+      "name_only": "初级决斗家IV",
+      "icon": "chuji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi21.qizi21'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi004.S2qizi004'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "33": {
+      "id": 33,
+      "name": "<span color=\"#5ca011\">初级决斗家V</>",
+      "name_only": "初级决斗家V",
+      "icon": "chuji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "34": {
+      "id": 34,
+      "name": "<span color=\"#5ca011\">初级决斗家V</>",
+      "name_only": "初级决斗家V",
+      "icon": "chuji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "35": {
+      "id": 35,
+      "name": "<span color=\"#5ca011\">初级决斗家V</>",
+      "name_only": "初级决斗家V",
+      "icon": "chuji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "36": {
+      "id": 36,
+      "name": "<span color=\"#5ca011\">初级决斗家V</>",
+      "name_only": "初级决斗家V",
+      "icon": "chuji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up_add": 1,
+      "rank_up": 2,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lv_png.img_duanwei_lv_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi22.qizi22'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_001_png.img_duanweuS2_001_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi005.S2qizi005'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "37": {
+      "id": 37,
+      "name": "<span color=\"#42a7cc\">中级决斗家I</>",
+      "name_only": "中级决斗家I",
+      "icon": "zhongji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "38": {
+      "id": 38,
+      "name": "<span color=\"#42a7cc\">中级决斗家I</>",
+      "name_only": "中级决斗家I",
+      "icon": "zhongji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "39": {
+      "id": 39,
+      "name": "<span color=\"#42a7cc\">中级决斗家I</>",
+      "name_only": "中级决斗家I",
+      "icon": "zhongji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "40": {
+      "id": 40,
+      "name": "<span color=\"#42a7cc\">中级决斗家I</>",
+      "name_only": "中级决斗家I",
+      "icon": "zhongji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi.qizi'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi006.S2qizi006'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "41": {
+      "id": 41,
+      "name": "<span color=\"#42a7cc\">中级决斗家II</>",
+      "name_only": "中级决斗家II",
+      "icon": "zhongji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "42": {
+      "id": 42,
+      "name": "<span color=\"#42a7cc\">中级决斗家II</>",
+      "name_only": "中级决斗家II",
+      "icon": "zhongji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "43": {
+      "id": 43,
+      "name": "<span color=\"#42a7cc\">中级决斗家II</>",
+      "name_only": "中级决斗家II",
+      "icon": "zhongji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "44": {
+      "id": 44,
+      "name": "<span color=\"#42a7cc\">中级决斗家II</>",
+      "name_only": "中级决斗家II",
+      "icon": "zhongji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi2.qizi2'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi007.S2qizi007'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "45": {
+      "id": 45,
+      "name": "<span color=\"#42a7cc\">中级决斗家III</>",
+      "name_only": "中级决斗家III",
+      "icon": "zhongji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "46": {
+      "id": 46,
+      "name": "<span color=\"#42a7cc\">中级决斗家III</>",
+      "name_only": "中级决斗家III",
+      "icon": "zhongji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "47": {
+      "id": 47,
+      "name": "<span color=\"#42a7cc\">中级决斗家III</>",
+      "name_only": "中级决斗家III",
+      "icon": "zhongji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "48": {
+      "id": 48,
+      "name": "<span color=\"#42a7cc\">中级决斗家III</>",
+      "name_only": "中级决斗家III",
+      "icon": "zhongji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi3.qizi3'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi008.S2qizi008'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "49": {
+      "id": 49,
+      "name": "<span color=\"#42a7cc\">中级决斗家IV</>",
+      "name_only": "中级决斗家IV",
+      "icon": "zhongji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "50": {
+      "id": 50,
+      "name": "<span color=\"#42a7cc\">中级决斗家IV</>",
+      "name_only": "中级决斗家IV",
+      "icon": "zhongji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "51": {
+      "id": 51,
+      "name": "<span color=\"#42a7cc\">中级决斗家IV</>",
+      "name_only": "中级决斗家IV",
+      "icon": "zhongji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "52": {
+      "id": 52,
+      "name": "<span color=\"#42a7cc\">中级决斗家IV</>",
+      "name_only": "中级决斗家IV",
+      "icon": "zhongji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi4.qizi4'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi009.S2qizi009'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "53": {
+      "id": 53,
+      "name": "<span color=\"#42a7cc\">中级决斗家V</>",
+      "name_only": "中级决斗家V",
+      "icon": "zhongji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "54": {
+      "id": 54,
+      "name": "<span color=\"#42a7cc\">中级决斗家V</>",
+      "name_only": "中级决斗家V",
+      "icon": "zhongji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "55": {
+      "id": 55,
+      "name": "<span color=\"#42a7cc\">中级决斗家V</>",
+      "name_only": "中级决斗家V",
+      "icon": "zhongji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "56": {
+      "id": 56,
+      "name": "<span color=\"#42a7cc\">中级决斗家V</>",
+      "name_only": "中级决斗家V",
+      "icon": "zhongji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 3,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_lan_png.img_duanwei_lan_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi5.qizi5'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_002_png.img_duanweuS2_002_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi010.S2qizi010'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "57": {
+      "id": 57,
+      "name": "<span color=\"#956bff\">高级决斗家I</>",
+      "name_only": "高级决斗家I",
+      "icon": "gaoji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "58": {
+      "id": 58,
+      "name": "<span color=\"#956bff\">高级决斗家I</>",
+      "name_only": "高级决斗家I",
+      "icon": "gaoji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "59": {
+      "id": 59,
+      "name": "<span color=\"#956bff\">高级决斗家I</>",
+      "name_only": "高级决斗家I",
+      "icon": "gaoji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "60": {
+      "id": 60,
+      "name": "<span color=\"#956bff\">高级决斗家I</>",
+      "name_only": "高级决斗家I",
+      "icon": "gaoji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi28.qizi28'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi011.S2qizi011'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "61": {
+      "id": 61,
+      "name": "<span color=\"#956bff\">高级决斗家II</>",
+      "name_only": "高级决斗家II",
+      "icon": "gaoji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "62": {
+      "id": 62,
+      "name": "<span color=\"#956bff\">高级决斗家II</>",
+      "name_only": "高级决斗家II",
+      "icon": "gaoji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "63": {
+      "id": 63,
+      "name": "<span color=\"#956bff\">高级决斗家II</>",
+      "name_only": "高级决斗家II",
+      "icon": "gaoji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "64": {
+      "id": 64,
+      "name": "<span color=\"#956bff\">高级决斗家II</>",
+      "name_only": "高级决斗家II",
+      "icon": "gaoji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi29.qizi29'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi012.S2qizi012'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "65": {
+      "id": 65,
+      "name": "<span color=\"#956bff\">高级决斗家III</>",
+      "name_only": "高级决斗家III",
+      "icon": "gaoji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "66": {
+      "id": 66,
+      "name": "<span color=\"#956bff\">高级决斗家III</>",
+      "name_only": "高级决斗家III",
+      "icon": "gaoji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "67": {
+      "id": 67,
+      "name": "<span color=\"#956bff\">高级决斗家III</>",
+      "name_only": "高级决斗家III",
+      "icon": "gaoji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "68": {
+      "id": 68,
+      "name": "<span color=\"#956bff\">高级决斗家III</>",
+      "name_only": "高级决斗家III",
+      "icon": "gaoji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi30.qizi30'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi013.S2qizi013'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "69": {
+      "id": 69,
+      "name": "<span color=\"#956bff\">高级决斗家IV</>",
+      "name_only": "高级决斗家IV",
+      "icon": "gaoji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "70": {
+      "id": 70,
+      "name": "<span color=\"#956bff\">高级决斗家IV</>",
+      "name_only": "高级决斗家IV",
+      "icon": "gaoji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "71": {
+      "id": 71,
+      "name": "<span color=\"#956bff\">高级决斗家IV</>",
+      "name_only": "高级决斗家IV",
+      "icon": "gaoji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "72": {
+      "id": 72,
+      "name": "<span color=\"#956bff\">高级决斗家IV</>",
+      "name_only": "高级决斗家IV",
+      "icon": "gaoji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi31.qizi31'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi014.S2qizi014'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "73": {
+      "id": 73,
+      "name": "<span color=\"#956bff\">高级决斗家V</>",
+      "name_only": "高级决斗家V",
+      "icon": "gaoji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "74": {
+      "id": 74,
+      "name": "<span color=\"#956bff\">高级决斗家V</>",
+      "name_only": "高级决斗家V",
+      "icon": "gaoji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "75": {
+      "id": 75,
+      "name": "<span color=\"#956bff\">高级决斗家V</>",
+      "name_only": "高级决斗家V",
+      "icon": "gaoji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "76": {
+      "id": 76,
+      "name": "<span color=\"#956bff\">高级决斗家V</>",
+      "name_only": "高级决斗家V",
+      "icon": "gaoji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 1,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 4,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_zi_png.img_duanwei_zi_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi32.qizi32'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_003_png.img_duanweuS2_003_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi015.S2qizi015'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "77": {
+      "id": 77,
+      "name": "<span color=\"#d56c1f\">特级决斗家I</>",
+      "name_only": "特级决斗家I",
+      "icon": "teji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_unchanged": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "78": {
+      "id": 78,
+      "name": "<span color=\"#d56c1f\">特级决斗家I</>",
+      "name_only": "特级决斗家I",
+      "icon": "teji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "79": {
+      "id": 79,
+      "name": "<span color=\"#d56c1f\">特级决斗家I</>",
+      "name_only": "特级决斗家I",
+      "icon": "teji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "80": {
+      "id": 80,
+      "name": "<span color=\"#d56c1f\">特级决斗家I</>",
+      "name_only": "特级决斗家I",
+      "icon": "teji-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi13.qizi13'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi016.S2qizi016'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "81": {
+      "id": 81,
+      "name": "<span color=\"#d56c1f\">特级决斗家II</>",
+      "name_only": "特级决斗家II",
+      "icon": "teji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "82": {
+      "id": 82,
+      "name": "<span color=\"#d56c1f\">特级决斗家II</>",
+      "name_only": "特级决斗家II",
+      "icon": "teji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "83": {
+      "id": 83,
+      "name": "<span color=\"#d56c1f\">特级决斗家II</>",
+      "name_only": "特级决斗家II",
+      "icon": "teji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "84": {
+      "id": 84,
+      "name": "<span color=\"#d56c1f\">特级决斗家II</>",
+      "name_only": "特级决斗家II",
+      "icon": "teji-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi14.qizi14'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi017.S2qizi017'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "85": {
+      "id": 85,
+      "name": "<span color=\"#d56c1f\">特级决斗家III</>",
+      "name_only": "特级决斗家III",
+      "icon": "teji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "86": {
+      "id": 86,
+      "name": "<span color=\"#d56c1f\">特级决斗家III</>",
+      "name_only": "特级决斗家III",
+      "icon": "teji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "87": {
+      "id": 87,
+      "name": "<span color=\"#d56c1f\">特级决斗家III</>",
+      "name_only": "特级决斗家III",
+      "icon": "teji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "88": {
+      "id": 88,
+      "name": "<span color=\"#d56c1f\">特级决斗家III</>",
+      "name_only": "特级决斗家III",
+      "icon": "teji-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi15.qizi15'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi018.S2qizi018'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "89": {
+      "id": 89,
+      "name": "<span color=\"#d56c1f\">特级决斗家IV</>",
+      "name_only": "特级决斗家IV",
+      "icon": "teji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "90": {
+      "id": 90,
+      "name": "<span color=\"#d56c1f\">特级决斗家IV</>",
+      "name_only": "特级决斗家IV",
+      "icon": "teji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "91": {
+      "id": 91,
+      "name": "<span color=\"#d56c1f\">特级决斗家IV</>",
+      "name_only": "特级决斗家IV",
+      "icon": "teji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "92": {
+      "id": 92,
+      "name": "<span color=\"#d56c1f\">特级决斗家IV</>",
+      "name_only": "特级决斗家IV",
+      "icon": "teji-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi16.qizi16'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi019.S2qizi019'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "93": {
+      "id": 93,
+      "name": "<span color=\"#d56c1f\">特级决斗家V</>",
+      "name_only": "特级决斗家V",
+      "icon": "teji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "94": {
+      "id": 94,
+      "name": "<span color=\"#d56c1f\">特级决斗家V</>",
+      "name_only": "特级决斗家V",
+      "icon": "teji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "95": {
+      "id": 95,
+      "name": "<span color=\"#d56c1f\">特级决斗家V</>",
+      "name_only": "特级决斗家V",
+      "icon": "teji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "96": {
+      "id": 96,
+      "name": "<span color=\"#d56c1f\">特级决斗家V</>",
+      "name_only": "特级决斗家V",
+      "icon": "teji-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "win_streak": true,
+      "rank_up_add": 1,
+      "rank_up": 5,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_cheng_png.img_duanwei_cheng_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi17.qizi17'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_004_png.img_duanweuS2_004_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi020.S2qizi020'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "97": {
+      "id": 97,
+      "name": "<span color=\"#c7494a\">首席决斗家I</>",
+      "name_only": "首席决斗家I",
+      "icon": "shouxi-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_total": 3,
+      "reset": 37,
+      "rank_unchanged": true,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "98": {
+      "id": 98,
+      "name": "<span color=\"#c7494a\">首席决斗家I</>",
+      "name_only": "首席决斗家I",
+      "icon": "shouxi-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "99": {
+      "id": 99,
+      "name": "<span color=\"#c7494a\">首席决斗家I</>",
+      "name_only": "首席决斗家I",
+      "icon": "shouxi-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "100": {
+      "id": 100,
+      "name": "<span color=\"#c7494a\">首席决斗家I</>",
+      "name_only": "首席决斗家I",
+      "icon": "shouxi-1",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_1_png.img_1_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up_add": 1,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi23.qizi23'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi021.S2qizi021'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "101": {
+      "id": 101,
+      "name": "<span color=\"#c7494a\">首席决斗家II</>",
+      "name_only": "首席决斗家II",
+      "icon": "shouxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "102": {
+      "id": 102,
+      "name": "<span color=\"#c7494a\">首席决斗家II</>",
+      "name_only": "首席决斗家II",
+      "icon": "shouxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "103": {
+      "id": 103,
+      "name": "<span color=\"#c7494a\">首席决斗家II</>",
+      "name_only": "首席决斗家II",
+      "icon": "shouxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "104": {
+      "id": 104,
+      "name": "<span color=\"#c7494a\">首席决斗家II</>",
+      "name_only": "首席决斗家II",
+      "icon": "shouxi-2",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_2_png.img_2_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up_add": 1,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi24.qizi24'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi022.S2qizi022'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "105": {
+      "id": 105,
+      "name": "<span color=\"#c7494a\">首席决斗家III</>",
+      "name_only": "首席决斗家III",
+      "icon": "shouxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "106": {
+      "id": 106,
+      "name": "<span color=\"#c7494a\">首席决斗家III</>",
+      "name_only": "首席决斗家III",
+      "icon": "shouxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "107": {
+      "id": 107,
+      "name": "<span color=\"#c7494a\">首席决斗家III</>",
+      "name_only": "首席决斗家III",
+      "icon": "shouxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "108": {
+      "id": 108,
+      "name": "<span color=\"#c7494a\">首席决斗家III</>",
+      "name_only": "首席决斗家III",
+      "icon": "shouxi-3",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_3_png.img_3_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up_add": 1,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi25.qizi25'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi023.S2qizi023'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "109": {
+      "id": 109,
+      "name": "<span color=\"#c7494a\">首席决斗家IV</>",
+      "name_only": "首席决斗家IV",
+      "icon": "shouxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "110": {
+      "id": 110,
+      "name": "<span color=\"#c7494a\">首席决斗家IV</>",
+      "name_only": "首席决斗家IV",
+      "icon": "shouxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "111": {
+      "id": 111,
+      "name": "<span color=\"#c7494a\">首席决斗家IV</>",
+      "name_only": "首席决斗家IV",
+      "icon": "shouxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "112": {
+      "id": 112,
+      "name": "<span color=\"#c7494a\">首席决斗家IV</>",
+      "name_only": "首席决斗家IV",
+      "icon": "shouxi-4",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_4_png.img_4_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up_add": 1,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi26.qizi26'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi024.S2qizi024'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "113": {
+      "id": 113,
+      "name": "<span color=\"#c7494a\">首席决斗家V</>",
+      "name_only": "首席决斗家V",
+      "icon": "shouxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "114": {
+      "id": 114,
+      "name": "<span color=\"#c7494a\">首席决斗家V</>",
+      "name_only": "首席决斗家V",
+      "icon": "shouxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 1,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "115": {
+      "id": 115,
+      "name": "<span color=\"#c7494a\">首席决斗家V</>",
+      "name_only": "首席决斗家V",
+      "icon": "shouxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 2,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "116": {
+      "id": 116,
+      "name": "<span color=\"#c7494a\">首席决斗家V</>",
+      "name_only": "首席决斗家V",
+      "icon": "shouxi-5",
+      "number": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_5_png.img_5_png'",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+      "star_num": 3,
+      "star_total": 3,
+      "reset": 37,
+      "rank_up_add": 1,
+      "rank_up": 6,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_hong_png.img_duanwei_hong_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi27.qizi27'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_005_png.img_duanweuS2_005_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi025.S2qizi025'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    },
+    "117": {
+      "id": 117,
+      "name": "<span color=\"#e59d01\">大师决斗家</>",
+      "name_only": "大师决斗家",
+      "icon": "dashi",
+      "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_huang_png.img_duanwei_huang_png'",
+      "star_num": 1,
+      "star_total": 2,
+      "reset": 57,
+      "rank_unchanged": true,
+      "rank_up": 7,
+      "is_show_enemy_pet": true,
+      "rank_effect": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi34.qizi34'",
+      "rank_list": [
+        {
+          "season": 9,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_huang_png.img_duanwei_huang_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/qizi34.qizi34'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-spine3/qizi"
+        },
+        {
+          "season": 10,
+          "mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_006_png.img_duanweuS2_006_png'",
+          "tex_path": "Texture2D'/Game/ArtRes/UI/Effects/Spine/PVP-spine2/Textures/S2qizi026.S2qizi026'",
+          "spine": "/Game/ArtRes/UI/Effects/Spine/PVP-S2-spine/qizi"
+        }
+      ]
+    }
+  }
+}

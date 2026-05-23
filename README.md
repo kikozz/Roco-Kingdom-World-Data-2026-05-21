@@ -1,13 +1,12 @@
-# Roco-Kingdom-World-Data-2026-05-21
+# Roco Kingdom World Data 2026-05-24 Pak Split
 
-洛克王国世界数据导出，更新时间：2026-05-21。
+This directory keeps files from each pak chunk separated.
+No same-path files are merged together.
 
-## 内容
+Pak folders:
+- `pakchunk4-WindowsNoEditor`
+- `pakchunk4-WindowsNoEditor_0_P`
+- `pakchunk4-WindowsNoEditor_1_P`
 
-- `Bin/`：解码后的 Bin 数据与本地化数据
-- `Config/`：配置数据
-- `PB/`：Protobuf 相关输出
-
-## 说明
-
-本仓库只保存解码后的可读数据，不包含原始导出缓存与本地解码日志。
+Each pak folder keeps the decoded repo-style structure: `Bin/`, `Config/`, `PB/`, `_logs/`.
+When a data file needs a schema that is not present in the same pak, only the schema is used for decoding and the source is recorded in `_logs/schema_usage.csv`.

@@ -1,0 +1,381 @@
+{
+  "Name": "ACTIVITY_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "activity_type",
+      "Type": "EInt32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "base_id",
+      "Type": "EUint32",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "type_param",
+      "Type": "EUint32",
+      "Offset": 12,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "activity_name",
+      "Type": "ELocalizedString",
+      "Offset": 16,
+      "Size": 4
+    },
+    {
+      "Name": "tab_id",
+      "Type": "EUint32",
+      "Offset": 20,
+      "Size": 4
+    },
+    {
+      "Name": "prompt_text",
+      "Type": "EString",
+      "Offset": 24,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "activity_txt",
+      "Type": "EString",
+      "Offset": 28,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "activity_special_txt",
+      "Type": "EUint32",
+      "Offset": 32,
+      "Size": 4
+    },
+    {
+      "Name": "appear_time",
+      "Type": "EString",
+      "Offset": 36,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "disappear_time",
+      "Type": "EString",
+      "Offset": 40,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "world_level_required",
+      "Type": "EUint32",
+      "Offset": 44,
+      "Size": 4
+    },
+    {
+      "Name": "world_level_end_required",
+      "Type": "EUint32",
+      "Offset": 48,
+      "Size": 4
+    },
+    {
+      "Name": "recommend_task_id",
+      "Type": "EUint32",
+      "Offset": 52,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "unfinished_tips",
+      "Type": "EString",
+      "Offset": 56,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "login_channel",
+      "Type": "EInt32",
+      "Offset": 60,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "login_plat",
+      "Type": "EInt32",
+      "Offset": 64,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "account_registration_time",
+      "Type": "EString",
+      "Offset": 68,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "if_hide",
+      "Type": "EBool",
+      "Offset": 72,
+      "Size": 1
+    },
+    {
+      "Name": "if_appear",
+      "Type": "EBool",
+      "Offset": 73,
+      "Size": 1
+    },
+    {
+      "Name": "appear_world_level_require",
+      "Type": "EUint32",
+      "Offset": 74,
+      "Size": 4
+    },
+    {
+      "Name": "ban_text",
+      "Type": "ELocalizedString",
+      "Offset": 78,
+      "Size": 4
+    },
+    {
+      "Name": "success_if_disappear",
+      "Type": "EBool",
+      "Offset": 82,
+      "Size": 1
+    },
+    {
+      "Name": "delete_bagitem",
+      "Type": "EUint32",
+      "Offset": 83,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "maintab_id",
+      "Type": "EUint32",
+      "Offset": 87,
+      "Size": 4
+    },
+    {
+      "Name": "belong_system",
+      "Type": "EInt32",
+      "Offset": 91,
+      "Size": 4
+    },
+    {
+      "Name": "priority",
+      "Type": "EUint32",
+      "Offset": 95,
+      "Size": 4
+    },
+    {
+      "Name": "bgm",
+      "Type": "EString",
+      "Offset": 99,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "umg_path",
+      "Type": "EString",
+      "Offset": 103,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "image_path",
+      "Type": "EString",
+      "Offset": 107,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "icon",
+      "Type": "EString",
+      "Offset": 111,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "icon_select",
+      "Type": "EString",
+      "Offset": 115,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "title_icon",
+      "Type": "EString",
+      "Offset": 119,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "title_icon_text",
+      "Type": "ELocalizedString",
+      "Offset": 123,
+      "Size": 4
+    },
+    {
+      "Name": "ae_start",
+      "Type": "EString",
+      "Offset": 127,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "ae_loop",
+      "Type": "EString",
+      "Offset": 131,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "ae_end",
+      "Type": "EString",
+      "Offset": 135,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_path",
+      "Type": "EString",
+      "Offset": 139,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_text",
+      "Type": "EString",
+      "Offset": 143,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "reissue_reward_ignore",
+      "Type": "EStruct",
+      "Offset": 147,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 3,
+      "Struct": {
+        "Name": "ACTIVITY_CONF.reissue_reward_ignore",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "goods_type",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+          },
+          {
+            "Name": "goods_id",
+            "Type": "EUint32",
+            "Offset": 4,
+            "Size": 4
+          }
+        ]
+      }
+    },
+    {
+      "Name": "refresh_type",
+      "Type": "EInt32",
+      "Offset": 151,
+      "Size": 4
+    },
+    {
+      "Name": "daily_refresh_event_group",
+      "Type": "EStruct",
+      "Offset": 155,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 1,
+      "Struct": {
+        "Name": "ACTIVITY_CONF.daily_refresh_event_group",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "daily_refresh_start_time",
+            "Type": "EString",
+            "Offset": 0,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "daily_refresh_end_time",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "daily_refresh_content_id",
+            "Type": "EUint32",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          }
+        ]
+      }
+    },
+    {
+      "Name": "refresh_event_group",
+      "Type": "EStruct",
+      "Offset": 159,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 5,
+      "Struct": {
+        "Name": "ACTIVITY_CONF.refresh_event_group",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "refresh_content",
+            "Type": "EUint32",
+            "Offset": 0,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          },
+          {
+            "Name": "start_time",
+            "Type": "EString",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "end_time",
+            "Type": "EString",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4
+          }
+        ]
+      }
+    },
+    {
+      "Name": "cdn_bg",
+      "Type": "EString",
+      "Offset": 163,
+      "Size": 4,
+      "CompressedSize": 4
+    }
+  ]
+}

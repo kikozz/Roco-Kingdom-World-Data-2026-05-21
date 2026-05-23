@@ -1,9 +1,0 @@
-{
-  "LocalizationStrings": {
-    "1": "目前暂无可用标记，请先删除一个标记点",
-    "2": "契约印记达到或超过上限时，将随时间恢复凝练印记\n每满24小时恢复20点，最多储存600点",
-    "3": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_lvxingshangren_png.img_lvxingshangren_png'",
-    "4": "一只炫彩精灵出现在了这个位置，快去看看吧！\n该精灵的拥有者为：%s，需要这位小洛克同行才可捕捉。",
-    "5": "一只惊喜盒子出现在了这个位置，快去看看吧！\n该盒子的拥有者为：{0}，需要这位小洛克同行才可互动。"
-  }
-}

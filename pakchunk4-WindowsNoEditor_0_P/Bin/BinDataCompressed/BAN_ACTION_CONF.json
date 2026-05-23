@@ -1,0 +1,153 @@
+{
+  "RocoDataRows": {
+    "13": {
+      "id": 1,
+      "type": 13,
+      "allow_list": [
+        {
+          "allowed_list": 30001
+        },
+        {
+          "allowed_list": 10076
+        },
+        {
+          "allowed_list": 106
+        },
+        {
+          "allowed_list": 80
+        },
+        {
+          "allowed_list": 21
+        },
+        {
+          "allowed_list": 10040
+        },
+        {
+          "allowed_list": 10048
+        },
+        {
+          "allowed_list": 10097
+        },
+        {
+          "allowed_list": 10001
+        },
+        {},
+        {
+          "allowed_list": 104
+        },
+        {
+          "allowed_list": 104
+        },
+        {
+          "allowed_list": 104
+        }
+      ]
+    },
+    "16": {
+      "id": 2,
+      "type": 16,
+      "allow_list": [
+        {
+          "allowed_list": 10041
+        },
+        {
+          "allowed_list": 10099
+        },
+        {
+          "allowed_list": 10100
+        },
+        {
+          "allowed_list": 10001
+        },
+        {
+          "allowed_list": 10056
+        },
+        {
+          "allowed_list": 10040
+        },
+        {
+          "allowed_list": 10119
+        },
+        {},
+        {
+          "allowed_list": 10097
+        },
+        {
+          "allowed_list": 108
+        },
+        {
+          "allowed_list": 142
+        },
+        {
+          "allowed_list": 10023
+        },
+        {
+          "allowed_list": 145
+        }
+      ]
+    },
+    "107": {
+      "id": 3,
+      "type": 107,
+      "allow_list": [
+        {
+          "allowed_list": 76
+        },
+        {
+          "allowed_list": 46
+        },
+        {
+          "allowed_list": 10023
+        },
+        {
+          "allowed_list": 10164
+        },
+        {
+          "allowed_list": 372
+        },
+        {
+          "allowed_list": 207
+        }
+      ]
+    },
+    "106": {
+      "id": 8,
+      "type": 106,
+      "banned_cond_list": [
+        {
+          "banned_list": 108
+        }
+      ]
+    },
+    "22": {
+      "id": 9,
+      "type": 22,
+      "banned_cond_list": [
+        {
+          "banned_list": 10131
+        },
+        {
+          "banned_list": 10133
+        }
+      ]
+    },
+    "124": {
+      "id": 10,
+      "type": 124,
+      "allow_list": [
+        {
+          "allowed_list": 209
+        }
+      ]
+    },
+    "128": {
+      "id": 11,
+      "type": 128,
+      "banned_cond_list": [
+        {
+          "banned_list": 108
+        }
+      ]
+    }
+  }
+}

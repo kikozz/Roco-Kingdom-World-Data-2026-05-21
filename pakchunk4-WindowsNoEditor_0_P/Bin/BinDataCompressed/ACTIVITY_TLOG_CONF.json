@@ -1,0 +1,303 @@
+{
+  "RocoDataRows": {
+    "7": {
+      "id": 7,
+      "activity_id": 1600003,
+      "base_id": 1600007
+    },
+    "8": {
+      "id": 8,
+      "activity_id": 1600003,
+      "base_id": 1600008
+    },
+    "9": {
+      "id": 9,
+      "activity_id": 1600003,
+      "base_id": 1600009
+    },
+    "10": {
+      "id": 10,
+      "activity_id": 1600003,
+      "base_id": 1600010
+    },
+    "11": {
+      "id": 11,
+      "activity_id": 1600003,
+      "base_id": 1600011
+    },
+    "12": {
+      "id": 12,
+      "activity_id": 1600003,
+      "base_id": 1600012
+    },
+    "13": {
+      "id": 13,
+      "activity_id": 1600003,
+      "base_id": 1600013
+    },
+    "14": {
+      "id": 14,
+      "activity_id": 1600004,
+      "base_id": 1600014
+    },
+    "15": {
+      "id": 15,
+      "activity_id": 1600004,
+      "base_id": 1600015
+    },
+    "16": {
+      "id": 16,
+      "activity_id": 1600004,
+      "base_id": 1600016
+    },
+    "17": {
+      "id": 17,
+      "activity_id": 1600004,
+      "base_id": 1600017
+    },
+    "18": {
+      "id": 18,
+      "activity_id": 1600004,
+      "base_id": 1600018
+    },
+    "19": {
+      "id": 19,
+      "activity_id": 1600004,
+      "base_id": 1600019
+    },
+    "20": {
+      "id": 20,
+      "activity_id": 1600004,
+      "base_id": 1600020
+    },
+    "27": {
+      "id": 27,
+      "activity_id": 1600007,
+      "base_id": 1600027
+    },
+    "28": {
+      "id": 28,
+      "activity_id": 1600007,
+      "base_id": 1600028
+    },
+    "29": {
+      "id": 29,
+      "activity_id": 1600007,
+      "base_id": 1600029
+    },
+    "30": {
+      "id": 30,
+      "activity_id": 1600007,
+      "base_id": 1600030
+    },
+    "31": {
+      "id": 31,
+      "activity_id": 1600007,
+      "base_id": 1600031
+    },
+    "32": {
+      "id": 32,
+      "activity_id": 1600007,
+      "base_id": 1600032
+    },
+    "33": {
+      "id": 33,
+      "activity_id": 1600007,
+      "base_id": 1600126
+    },
+    "34": {
+      "id": 34,
+      "activity_id": 1600007,
+      "base_id": 1600135
+    },
+    "39": {
+      "id": 39,
+      "activity_id": 1600018,
+      "base_id": 1600102
+    },
+    "40": {
+      "id": 40,
+      "activity_id": 1600019,
+      "base_id": 1600111
+    },
+    "41": {
+      "id": 41,
+      "activity_id": 1600019,
+      "base_id": 1600112
+    },
+    "42": {
+      "id": 42,
+      "activity_id": 1600019,
+      "base_id": 1600113
+    },
+    "43": {
+      "id": 43,
+      "activity_id": 1600019,
+      "base_id": 1600114
+    },
+    "44": {
+      "id": 44,
+      "activity_id": 1600019,
+      "base_id": 1600115
+    },
+    "45": {
+      "id": 45,
+      "activity_id": 1600019,
+      "base_id": 1600116
+    },
+    "46": {
+      "id": 46,
+      "activity_id": 1600023,
+      "base_id": 1600140
+    },
+    "47": {
+      "id": 47,
+      "activity_id": 1600023,
+      "base_id": 1600141
+    },
+    "48": {
+      "id": 48,
+      "activity_id": 1600023,
+      "base_id": 1600142
+    },
+    "49": {
+      "id": 49,
+      "activity_id": 1600023
+    },
+    "50": {
+      "id": 50,
+      "activity_id": 1600023
+    },
+    "51": {
+      "id": 51,
+      "activity_id": 1600023
+    },
+    "52": {
+      "id": 52,
+      "activity_id": 1600023
+    },
+    "53": {
+      "id": 53,
+      "activity_id": 1600023
+    },
+    "54": {
+      "id": 54,
+      "activity_id": 1600023
+    },
+    "55": {
+      "id": 55,
+      "activity_id": 1600023,
+      "base_id": 1600160
+    },
+    "56": {
+      "id": 56,
+      "activity_id": 1600023,
+      "base_id": 1600161
+    },
+    "57": {
+      "id": 57,
+      "activity_id": 1600023,
+      "base_id": 1600162
+    },
+    "58": {
+      "id": 58,
+      "activity_id": 1600023,
+      "base_id": 1600163
+    },
+    "59": {
+      "id": 59,
+      "activity_id": 1600023,
+      "base_id": 1600164
+    },
+    "60": {
+      "id": 60,
+      "activity_id": 1600023,
+      "base_id": 1600165
+    },
+    "61": {
+      "id": 61,
+      "activity_id": 1600023,
+      "base_id": 1600166
+    },
+    "62": {
+      "id": 62,
+      "activity_id": 1600023,
+      "base_id": 1600167
+    },
+    "63": {
+      "id": 63,
+      "activity_id": 1600023,
+      "base_id": 1600168
+    },
+    "64": {
+      "id": 64,
+      "activity_id": 1600024,
+      "base_id": 1600172
+    },
+    "65": {
+      "id": 65,
+      "activity_id": 1600024,
+      "base_id": 1600173
+    },
+    "66": {
+      "id": 66,
+      "activity_id": 1600024,
+      "base_id": 1600174
+    },
+    "67": {
+      "id": 67,
+      "activity_id": 1600024,
+      "base_id": 1600175
+    },
+    "68": {
+      "id": 68,
+      "activity_id": 1600024,
+      "base_id": 1600176
+    },
+    "69": {
+      "id": 69,
+      "activity_id": 1600024,
+      "base_id": 1600177
+    },
+    "70": {
+      "id": 70,
+      "activity_id": 1600024,
+      "base_id": 1600178
+    },
+    "71": {
+      "id": 71,
+      "activity_id": 1600025,
+      "base_id": 1600179
+    },
+    "72": {
+      "id": 72,
+      "activity_id": 1600025,
+      "base_id": 1600180
+    },
+    "73": {
+      "id": 73,
+      "activity_id": 1600025,
+      "base_id": 1600181
+    },
+    "74": {
+      "id": 74,
+      "activity_id": 1600025,
+      "base_id": 1600182
+    },
+    "75": {
+      "id": 75,
+      "activity_id": 1600025,
+      "base_id": 1600183
+    },
+    "76": {
+      "id": 76,
+      "activity_id": 1600025,
+      "base_id": 1600184
+    },
+    "77": {
+      "id": 77,
+      "activity_id": 1600025,
+      "base_id": 1600185
+    }
+  }
+}

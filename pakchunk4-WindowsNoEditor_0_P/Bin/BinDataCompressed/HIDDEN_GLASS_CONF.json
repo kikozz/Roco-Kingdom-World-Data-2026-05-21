@@ -1,0 +1,396 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "name": "<span color=\"#eebf31\">暗夜拾光</>",
+      "type": 2,
+      "active_season": 1,
+      "weight": 100,
+      "season_pet": 3182,
+      "glass_color_1": [
+        0.07,
+        0.03,
+        0.15,
+        1.0
+      ],
+      "glass_color_2": [
+        0.9,
+        0.82,
+        0.3,
+        1.0
+      ],
+      "egg_icon_mat": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_RandomEgg_Season1.MI_UI_RandomEgg_Season1'",
+      "tex_param": [
+        {
+          "tex_param_name": "MainTex",
+          "tex_param_comment": "材质贴图",
+          "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS1_001.T_PetGlassyNoiseS1_001'"
+        },
+        {
+          "tex_param_name": "StarStickTex",
+          "tex_param_comment": "粒子贴图",
+          "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/Tex_PetGlassyStarS1_001.Tex_PetGlassyStarS1_001'"
+        }
+      ],
+      "color_param": [
+        {
+          "color_param_name": "RedChannel",
+          "color_param_comment": "材质颜色1",
+          "color_param_value": [
+            0.07,
+            0.03,
+            0.15,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "GreenChannel",
+          "color_param_comment": "材质颜色2",
+          "color_param_value": [
+            0.9,
+            0.82,
+            0.3,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor01",
+          "color_param_comment": "粒子颜色1",
+          "color_param_value": [
+            1.0,
+            0.0,
+            0.7,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor02",
+          "color_param_comment": "粒子颜色2",
+          "color_param_value": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor03",
+          "color_param_comment": "粒子颜色3",
+          "color_param_value": [
+            0.4,
+            0.42,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor04",
+          "color_param_comment": "粒子颜色4",
+          "color_param_value": [
+            1.0,
+            0.95,
+            0.45,
+            1.0
+          ]
+        }
+      ],
+      "num_param": [
+        {
+          "num_param_name": "StarIntensity",
+          "num_param_comment": "星星闪烁强度",
+          "num_param_value": 1.0
+        },
+        {
+          "num_param_name": "GlobalRefraction",
+          "num_param_comment": "反射强度",
+          "num_param_value": 2.0
+        },
+        {
+          "num_param_name": "MainTexFlowSpeedX",
+          "num_param_comment": "X轴流动速度",
+          "num_param_value": 0.1
+        },
+        {
+          "num_param_name": "MainTexFlowSpeedY",
+          "num_param_comment": "Y轴流动速度",
+          "num_param_value": 0.1
+        },
+        {
+          "num_param_name": "GlobalDepth",
+          "num_param_comment": "纹理缩放深度",
+          "num_param_value": 100.0
+        },
+        {
+          "num_param_name": "NormalEffectAmount",
+          "num_param_comment": "法线",
+          "num_param_value": 0.5
+        }
+      ],
+      "ball_fx": "S1",
+      "hatch_fx": "S1",
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_HideDazzling_png.img_HideDazzling_png'",
+      "long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_HideDazzlingBg_png.img_HideDazzlingBg_png'",
+      "stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_SeasonBrilliance_png.img_SeasonBrilliance_png'",
+      "stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_SeasonBrilliance_png.img_SeasonBrilliance_png'",
+      "glass_tips_pic": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_dazzling_Bg7_png.img_dazzling_Bg7_png'",
+      "particle_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_Star_S1_png.img_Star_S1_png'",
+      "yise_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_SeasonDazzling_png.img_SeasonDazzling_png'",
+      "yise_long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_SeasonDazzlingBg_png.img_SeasonDazzlingBg_png'",
+      "yise_stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_SeasonBrilliance_DifferentColors_png.img_SeasonBrilliance_DifferentColors_png'",
+      "yise_stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_SeasonBrilliance_DifferentColors_png.img_SeasonBrilliance_DifferentColors_png'",
+      "headicon_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_Season1.MI_UI_PetDazz_Season1'",
+      "pet_art_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetCloseUp.MI_UI_PetCloseUp'",
+      "main_ui_tips_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetCloseUp2.MI_UI_PetCloseUp2'",
+      "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS1_001.T_PetGlassyNoiseS1_001'"
+    },
+    "2": {
+      "id": 2,
+      "name": "<span color=\"#c63e2c\">狂欢怪谈</>",
+      "type": 2,
+      "active_season": 2,
+      "weight": 100,
+      "season_pet": 3735,
+      "glass_color_1": [
+        0.4,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "glass_color_2": [
+        0.03,
+        0.01,
+        0.01,
+        1.0
+      ],
+      "egg_icon_mat": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_RandomEgg_Season2.MI_UI_RandomEgg_Season2'",
+      "tex_param": [
+        {
+          "tex_param_name": "MainTex",
+          "tex_param_comment": "材质贴图",
+          "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS2_003.T_PetGlassyNoiseS2_003'"
+        },
+        {
+          "tex_param_name": "StarStickTex",
+          "tex_param_comment": "粒子贴图",
+          "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/Tex_PetGlassyStarS2_002.Tex_PetGlassyStarS2_002'"
+        }
+      ],
+      "color_param": [
+        {
+          "color_param_name": "RedChannel",
+          "color_param_comment": "材质颜色1",
+          "color_param_value": [
+            0.4,
+            0.04,
+            0.04,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "GreenChannel",
+          "color_param_comment": "材质颜色2",
+          "color_param_value": [
+            0.03,
+            0.01,
+            0.01,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor02",
+          "color_param_comment": "粒子颜色2",
+          "color_param_value": [
+            0.3,
+            0.2,
+            0.2,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor03",
+          "color_param_comment": "粒子颜色3",
+          "color_param_value": [
+            0.24,
+            0.27,
+            0.3,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor04",
+          "color_param_comment": "粒子颜色4",
+          "color_param_value": [
+            0.5,
+            0.6,
+            0.8,
+            1.0
+          ]
+        }
+      ],
+      "num_param": [
+        {
+          "num_param_name": "StarIntensity",
+          "num_param_comment": "星星闪烁强度"
+        },
+        {
+          "num_param_name": "GlobalRefraction",
+          "num_param_comment": "反射强度",
+          "num_param_value": 1.1
+        },
+        {
+          "num_param_name": "MainTexFlowSpeedX",
+          "num_param_comment": "X轴流动速度"
+        },
+        {
+          "num_param_name": "MainTexFlowSpeedY",
+          "num_param_comment": "Y轴流动速度"
+        },
+        {
+          "num_param_name": "GlobalDepth",
+          "num_param_comment": "纹理缩放深度",
+          "num_param_value": 100.0
+        }
+      ],
+      "ball_fx": "S2",
+      "hatch_fx": "S2",
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_S2Dazzling_png.img_S2Dazzling_png'",
+      "long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_S2DazzlingColors_png.img_S2DazzlingColors_png'",
+      "stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_xuancai_s2_png.img_xuancai_s2_png'",
+      "stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_S2Dazzling_png.img_S2Dazzling_png'",
+      "glass_tips_pic": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_dazzling_Bg9_png.img_dazzling_Bg9_png'",
+      "particle_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_Star_S3_png.img_Star_S3_png'",
+      "yise_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_S2DazzlingYise_png.img_S2DazzlingYise_png'",
+      "yise_long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_S2DazzlingColors_yise_png.img_S2DazzlingColors_yise_png'",
+      "yise_stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_yisexuancai_s2_png.img_yisexuancai_s2_png'",
+      "yise_stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_S2DazzlingYise_png.img_S2DazzlingYise_png'",
+      "headicon_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_Season2.MI_UI_PetDazz_Season2'",
+      "pet_art_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_SeasonCloseUp.MI_UI_PetDazz_SeasonCloseUp'",
+      "main_ui_tips_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_SeasonCloseUp2.MI_UI_PetDazz_SeasonCloseUp2'",
+      "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS2_003.T_PetGlassyNoiseS2_003'"
+    },
+    "1000": {
+      "id": 1000,
+      "name": "<span color=\"#f4eee1\">黑白</>",
+      "type": 1,
+      "weight": 100,
+      "glass_color_1": [
+        0.6,
+        0.6,
+        0.6,
+        1.0
+      ],
+      "glass_color_2": [
+        0.015,
+        0.015,
+        0.015,
+        1.0
+      ],
+      "egg_icon_mat": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_RandomEgg_Glassy_HB.MI_UI_RandomEgg_Glassy_HB'",
+      "tex_param": [
+        {
+          "tex_param_name": "MainTex",
+          "tex_param_comment": "材质贴图",
+          "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseHB_003.T_PetGlassyNoiseHB_003'"
+        },
+        {
+          "tex_param_name": "StarStickTex",
+          "tex_param_comment": "粒子贴图",
+          "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/Tex_PetGlassyStar_005.Tex_PetGlassyStar_005'"
+        }
+      ],
+      "color_param": [
+        {
+          "color_param_name": "RedChannel",
+          "color_param_comment": "材质颜色1",
+          "color_param_value": [
+            0.6,
+            0.6,
+            0.6,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "GreenChannel",
+          "color_param_comment": "材质颜色2",
+          "color_param_value": [
+            0.015,
+            0.015,
+            0.015,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor02",
+          "color_param_comment": "粒子颜色2",
+          "color_param_value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor03",
+          "color_param_comment": "粒子颜色3",
+          "color_param_value": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ]
+        },
+        {
+          "color_param_name": "StickRandomColor04",
+          "color_param_comment": "粒子颜色4",
+          "color_param_value": [
+            0.01,
+            0.01,
+            0.01,
+            1.0
+          ]
+        }
+      ],
+      "num_param": [
+        {
+          "num_param_name": "StarIntensity",
+          "num_param_comment": "星星闪烁强度"
+        },
+        {
+          "num_param_name": "GlobalRefraction",
+          "num_param_comment": "反射强度",
+          "num_param_value": 1.1
+        },
+        {
+          "num_param_name": "MainTexFlowSpeedX",
+          "num_param_comment": "X轴流动速度"
+        },
+        {
+          "num_param_name": "MainTexFlowSpeedY",
+          "num_param_comment": "Y轴流动速度",
+          "num_param_value": 0.1
+        },
+        {
+          "num_param_name": "GlobalDepth",
+          "num_param_comment": "纹理缩放深度",
+          "num_param_value": 100.0
+        }
+      ],
+      "ball_fx": "BW",
+      "hatch_fx": "BlackWhite",
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_BlackWhiteDazzling_png.img_BlackWhiteDazzling_png'",
+      "long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_BlackWhiteDazzlingColors_png.img_BlackWhiteDazzlingColors_png'",
+      "stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_IconBlackWhiteDazzlingColors_png.img_IconBlackWhiteDazzlingColors_png'",
+      "stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_IconBlackWhiteDazzlingColors_png.img_IconBlackWhiteDazzlingColors_png'",
+      "glass_tips_pic": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_dazzling_Bg8_png.img_dazzling_Bg8_png'",
+      "particle_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_Star_S2_png.img_Star_S2_png'",
+      "yise_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_BlackWhiteDazzlingYise_png.img_BlackWhiteDazzlingYise_png'",
+      "yise_long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_BlackWhiteDazzlingColors_yise_png.img_BlackWhiteDazzlingColors_yise_png'",
+      "yise_stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_IconBlackWhiteDazzlingColors_yise_png.img_IconBlackWhiteDazzlingColors_yise_png'",
+      "yise_stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_IconBlackWhiteDazzlingColors_yise_png.img_IconBlackWhiteDazzlingColors_yise_png'",
+      "headicon_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazzleHB.MI_UI_PetDazzleHB'",
+      "pet_art_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazzleHBCloseUp.MI_UI_PetDazzleHBCloseUp'",
+      "main_ui_tips_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazzleHBCloseUp2.MI_UI_PetDazzleHBCloseUp2'",
+      "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseHB_003.T_PetGlassyNoiseHB_003'"
+    }
+  }
+}

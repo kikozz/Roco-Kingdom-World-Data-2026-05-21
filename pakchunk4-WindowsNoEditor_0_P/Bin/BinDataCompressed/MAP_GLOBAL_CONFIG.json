@@ -1,0 +1,591 @@
+{
+  "RocoDataRows": {
+    "world_map_scale_percent": {
+      "id": 1,
+      "key": "world_map_scale_percent",
+      "num": 40,
+      "is_loc": 2
+    },
+    "world_map_segment_time": {
+      "id": 2,
+      "key": "world_map_segment_time",
+      "numList": [
+        8,
+        18
+      ],
+      "is_loc": 2
+    },
+    "world_map_info_sync_tick_interval": {
+      "id": 3,
+      "key": "world_map_info_sync_tick_interval",
+      "num": 15,
+      "is_loc": 2
+    },
+    "world_map_info_sync_tick_timeout": {
+      "id": 4,
+      "key": "world_map_info_sync_tick_timeout",
+      "num": 180,
+      "is_loc": 2
+    },
+    "h_drange_a": {
+      "id": 5,
+      "key": "h_drange_a",
+      "num": 15,
+      "is_loc": 2
+    },
+    "h_drange_b": {
+      "id": 6,
+      "key": "h_drange_b",
+      "num": 160,
+      "is_loc": 2
+    },
+    "h_drange_c": {
+      "id": 7,
+      "key": "h_drange_c",
+      "num": 320,
+      "is_loc": 2
+    },
+    "v_drange_a": {
+      "id": 8,
+      "key": "v_drange_a",
+      "num": 15,
+      "is_loc": 2
+    },
+    "v_drange_b": {
+      "id": 9,
+      "key": "v_drange_b",
+      "num": 150,
+      "is_loc": 2
+    },
+    "v_drange_c": {
+      "id": 10,
+      "key": "v_drange_c",
+      "num": 260,
+      "is_loc": 2
+    },
+    "detection_angle": {
+      "id": 11,
+      "key": "detection_angle",
+      "num": 120,
+      "is_loc": 2
+    },
+    "icon_size": {
+      "id": 12,
+      "key": "icon_size",
+      "num": 80,
+      "is_loc": 2
+    },
+    "high_divide_angle": {
+      "id": 13,
+      "key": "high_divide_angle",
+      "num": 20,
+      "is_loc": 2
+    },
+    "min_divide_range": {
+      "id": 14,
+      "key": "min_divide_range",
+      "num": 10,
+      "is_loc": 2
+    },
+    "task_distance": {
+      "id": 15,
+      "key": "task_distance",
+      "num": 300,
+      "is_loc": 2
+    },
+    "weather_check_time_gap": {
+      "id": 16,
+      "key": "weather_check_time_gap",
+      "num": 8,
+      "is_loc": 2
+    },
+    "gray_png_min_size": {
+      "id": 17,
+      "key": "gray_png_min_size",
+      "num": 200,
+      "is_loc": 2
+    },
+    "npc_guide_min": {
+      "id": 18,
+      "key": "npc_guide_min",
+      "num": 5,
+      "is_loc": 2
+    },
+    "npc_guide_max": {
+      "id": 19,
+      "key": "npc_guide_max",
+      "num": 100,
+      "is_loc": 2
+    },
+    "trigger_guide_min": {
+      "id": 20,
+      "key": "trigger_guide_min",
+      "num": 5,
+      "is_loc": 2
+    },
+    "trigger_guide_max": {
+      "id": 21,
+      "key": "trigger_guide_max",
+      "num": 30,
+      "is_loc": 2
+    },
+    "navigation_to_target_min_distance": {
+      "id": 22,
+      "key": "navigation_to_target_min_distance",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "navigation_to_target_max_distance": {
+      "id": 23,
+      "key": "navigation_to_target_max_distance",
+      "num": 550000,
+      "is_loc": 2
+    },
+    "navigation_showline_min_distance": {
+      "id": 26,
+      "key": "navigation_showline_min_distance",
+      "num": 20,
+      "is_loc": 2
+    },
+    "navigation_showline_max_distance": {
+      "id": 27,
+      "key": "navigation_showline_max_distance",
+      "num": 1700,
+      "is_loc": 2
+    },
+    "navigation_showline_time": {
+      "id": 28,
+      "key": "navigation_showline_time",
+      "num": 100,
+      "is_loc": 2
+    },
+    "normalleaf_hidden_distance": {
+      "id": 29,
+      "key": "normalleaf_hidden_distance",
+      "num": 200,
+      "is_loc": 2
+    },
+    "climbleaf_hidden_distance": {
+      "id": 30,
+      "key": "climbleaf_hidden_distance",
+      "num": 700,
+      "is_loc": 2
+    },
+    "batleaf_hidden_distance": {
+      "id": 31,
+      "key": "batleaf_hidden_distance",
+      "num": 1200,
+      "is_loc": 2
+    },
+    "token_draw_price": {
+      "id": 32,
+      "key": "token_draw_price",
+      "numList": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "is_loc": 2
+    },
+    "oneself_mark_scale": {
+      "id": 33,
+      "key": "oneself_mark_scale",
+      "num": 4,
+      "is_loc": 2
+    },
+    "worldmap_fix_point_num": {
+      "id": 34,
+      "key": "worldmap_fix_point_num",
+      "num": 5,
+      "is_loc": 2
+    },
+    "compass_show_distance_detection": {
+      "id": 35,
+      "key": "compass_show_distance_detection",
+      "num": 1000000,
+      "is_loc": 2
+    },
+    "compass_show_distance_angle": {
+      "id": 36,
+      "key": "compass_show_distance_angle",
+      "num": 60,
+      "is_loc": 2
+    },
+    "oneself_mark_delete_distance": {
+      "id": 37,
+      "key": "oneself_mark_delete_distance",
+      "num": 1000,
+      "is_loc": 2
+    },
+    "map_show_radius": {
+      "id": 64,
+      "key": "map_show_radius",
+      "num": 800,
+      "is_loc": 2
+    },
+    "minimap_icon_percentage": {
+      "id": 142,
+      "key": "minimap_icon_percentage",
+      "num": 50,
+      "is_loc": 2
+    },
+    "boss_light_show_distance": {
+      "id": 143,
+      "key": "boss_light_show_distance",
+      "numList": [
+        3000,
+        15000
+      ],
+      "is_loc": 2
+    },
+    "camp_area_name_broadcast": {
+      "id": 144,
+      "key": "camp_area_name_broadcast",
+      "num": 2,
+      "is_loc": 2
+    },
+    "storm_harm": {
+      "id": 145,
+      "key": "storm_harm",
+      "numList": [
+        2,
+        1
+      ],
+      "is_loc": 2
+    },
+    "fadetime": {
+      "id": 146,
+      "key": "fadetime",
+      "num": 3,
+      "is_loc": 2
+    },
+    "sense_dis_knowledge_stele": {
+      "id": 147,
+      "key": "sense_dis_knowledge_stele",
+      "numList": [
+        55,
+        30,
+        15
+      ],
+      "is_loc": 2
+    },
+    "sense_dis_document_stele": {
+      "id": 148,
+      "key": "sense_dis_document_stele",
+      "numList": [
+        30,
+        20,
+        10
+      ],
+      "is_loc": 2
+    },
+    "map_slide_range_cut": {
+      "id": 149,
+      "key": "map_slide_range_cut",
+      "numList": [
+        40,
+        0,
+        0,
+        0
+      ],
+      "is_loc": 2
+    },
+    "h_drange_DoSearch": {
+      "id": 150,
+      "key": "h_drange_DoSearch",
+      "num": 15,
+      "is_loc": 2
+    },
+    "h_drange_InTown": {
+      "id": 151,
+      "key": "h_drange_InTown",
+      "num": 50,
+      "is_loc": 2
+    },
+    "h_drange_DropBy": {
+      "id": 152,
+      "key": "h_drange_DropBy",
+      "num": 75,
+      "is_loc": 2
+    },
+    "h_drange_Waypoint": {
+      "id": 153,
+      "key": "h_drange_Waypoint",
+      "num": 100,
+      "is_loc": 2
+    },
+    "h_drange_Destination": {
+      "id": 154,
+      "key": "h_drange_Destination",
+      "num": 200,
+      "is_loc": 2
+    },
+    "v_drange_DoSearch": {
+      "id": 155,
+      "key": "v_drange_DoSearch",
+      "num": 15,
+      "is_loc": 2
+    },
+    "v_drange_InTown": {
+      "id": 156,
+      "key": "v_drange_InTown",
+      "num": 20,
+      "is_loc": 2
+    },
+    "v_drange_DropBy": {
+      "id": 157,
+      "key": "v_drange_DropBy",
+      "num": 20,
+      "is_loc": 2
+    },
+    "v_drange_Waypoint": {
+      "id": 158,
+      "key": "v_drange_Waypoint",
+      "num": 100,
+      "is_loc": 2
+    },
+    "v_drange_Destination": {
+      "id": 159,
+      "key": "v_drange_Destination",
+      "num": 100,
+      "is_loc": 2
+    },
+    "air_block_offset_dis": {
+      "id": 160,
+      "key": "air_block_offset_dis",
+      "num": 5000,
+      "is_loc": 2
+    },
+    "max_normal_point_num": {
+      "id": 162,
+      "key": "max_normal_point_num",
+      "num": 200,
+      "is_loc": 2
+    },
+    "max_pet_point_num": {
+      "id": 163,
+      "key": "max_pet_point_num",
+      "num": 5,
+      "is_loc": 2
+    },
+    "funcban_static_scene_res_id": {
+      "id": 164,
+      "key": "funcban_static_scene_res_id",
+      "numList": [
+        10019,
+        10020
+      ],
+      "is_loc": 2
+    },
+    "map_show_inter": {
+      "id": 165,
+      "key": "map_show_inter",
+      "is_loc": 2
+    },
+    "create_magic_nexus_map_id": {
+      "id": 166,
+      "key": "create_magic_nexus_map_id",
+      "num": 101,
+      "is_loc": 2
+    },
+    "create_magic_ironpan_map_id": {
+      "id": 167,
+      "key": "create_magic_ironpan_map_id",
+      "num": 102,
+      "is_loc": 2
+    },
+    "create_magic_campfire_map_id": {
+      "id": 168,
+      "key": "create_magic_campfire_map_id",
+      "num": 103,
+      "is_loc": 2
+    },
+    "create_magic_nexus_npc_id": {
+      "id": 169,
+      "key": "create_magic_nexus_npc_id",
+      "num": 55554,
+      "is_loc": 2
+    },
+    "create_magic_ironpan_npc_id": {
+      "id": 170,
+      "key": "create_magic_ironpan_npc_id",
+      "num": 55556,
+      "is_loc": 2
+    },
+    "create_magic_campfire_npc_id": {
+      "id": 171,
+      "key": "create_magic_campfire_npc_id",
+      "num": 55555,
+      "is_loc": 2
+    },
+    "Map_Mark_Is_Full_Tips": {
+      "id": 172,
+      "key": "Map_Mark_Is_Full_Tips",
+      "str": "目前暂无可用标记，请先删除一个标记点",
+      "is_loc": 1
+    },
+    "Star_Debris_Recover_Rule": {
+      "id": 173,
+      "key": "Star_Debris_Recover_Rule",
+      "str": "契约印记达到或超过上限时，将随时间恢复凝练印记\n每满24小时恢复20点，最多储存600点",
+      "is_loc": 1
+    },
+    "cross_border_return_safe_time": {
+      "id": 174,
+      "key": "cross_border_return_safe_time",
+      "num": 5,
+      "is_loc": 2
+    },
+    "map_move_time": {
+      "id": 175,
+      "key": "map_move_time",
+      "num": 300,
+      "is_loc": 2
+    },
+    "hud_x_axis_scale": {
+      "id": 176,
+      "key": "hud_x_axis_scale",
+      "num": 65,
+      "is_loc": 2
+    },
+    "hud_y_axis_scale": {
+      "id": 177,
+      "key": "hud_y_axis_scale",
+      "num": 60,
+      "is_loc": 2
+    },
+    "main_compass_task_icon_show": {
+      "id": 178,
+      "key": "main_compass_task_icon_show",
+      "num": 1,
+      "is_loc": 2
+    },
+    "main_map_icon_resource_scale": {
+      "id": 181,
+      "key": "main_map_icon_resource_scale",
+      "num": 6700,
+      "is_loc": 2
+    },
+    "create_magic_teleport_rule_id": {
+      "id": 182,
+      "key": "create_magic_teleport_rule_id",
+      "num": 4,
+      "is_loc": 2
+    },
+    "layered_map_name_show_duration": {
+      "id": 183,
+      "key": "layered_map_name_show_duration",
+      "num": 2,
+      "is_loc": 2
+    },
+    "tailor_stage_center": {
+      "id": 184,
+      "key": "tailor_stage_center",
+      "numList": [
+        10019,
+        -986144,
+        937678,
+        686,
+        180,
+        10036,
+        -936152,
+        937677,
+        686,
+        180,
+        10037,
+        -936444,
+        887975,
+        686,
+        180
+      ],
+      "is_loc": 2
+    },
+    "tailor_fitting_room_door": {
+      "id": 185,
+      "key": "tailor_fitting_room_door",
+      "numList": [
+        10019,
+        -986863,
+        936659,
+        618,
+        -90,
+        10036,
+        -936870,
+        936653,
+        618,
+        -90,
+        10037,
+        -937171,
+        886914,
+        618,
+        -90
+      ],
+      "is_loc": 2
+    },
+    "all_tailor_scene": {
+      "id": 186,
+      "key": "all_tailor_scene",
+      "numList": [
+        10019,
+        10036,
+        10037
+      ],
+      "is_loc": 2
+    },
+    "map_random_shop_icon": {
+      "id": 187,
+      "key": "map_random_shop_icon",
+      "str": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_lvxingshangren_png.img_lvxingshangren_png'",
+      "is_loc": 2
+    },
+    "main_compass_icon_resource_scale": {
+      "id": 188,
+      "key": "main_compass_icon_resource_scale",
+      "num": 10000,
+      "is_loc": 2
+    },
+    "is_block_detection_used": {
+      "id": 189,
+      "key": "is_block_detection_used",
+      "num": 1,
+      "is_loc": 2
+    },
+    "main_map_inner_outer_dif": {
+      "id": 199,
+      "key": "main_map_inner_outer_dif",
+      "num": -16,
+      "is_loc": 2
+    },
+    "online_number_teleport_rules_id": {
+      "id": 200,
+      "key": "online_number_teleport_rules_id",
+      "num": 6,
+      "is_loc": 2
+    },
+    "h_drange_PassBy": {
+      "id": 201,
+      "key": "h_drange_PassBy",
+      "num": 30,
+      "is_loc": 2
+    },
+    "v_drange_PassBy": {
+      "id": 202,
+      "key": "v_drange_PassBy",
+      "num": 20,
+      "is_loc": 2
+    },
+    "highvalue_pet_track_not_owner": {
+      "id": 203,
+      "key": "highvalue_pet_track_not_owner",
+      "str": "一只炫彩精灵出现在了这个位置，快去看看吧！\n该精灵的拥有者为：%s，需要这位小洛克同行才可捕捉。",
+      "is_loc": 1
+    },
+    "highvalue_nightmare_pet_track_not_owner": {
+      "id": 204,
+      "key": "highvalue_nightmare_pet_track_not_owner",
+      "str": "一只惊喜盒子出现在了这个位置，快去看看吧！\n该盒子的拥有者为：{0}，需要这位小洛克同行才可互动。",
+      "is_loc": 1
+    }
+  }
+}

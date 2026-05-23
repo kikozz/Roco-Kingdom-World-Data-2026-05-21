@@ -1,0 +1,86 @@
+{
+  "RocoDataRows": {
+    "230011": {
+      "id": 230011,
+      "theme_name": "右（蓝色）",
+      "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/Season_Pass/jiguangqianshou/spineboy.spineboy-atlas'",
+      "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/Season_Pass/jiguangqianshou/spineboy.spineboy-data'",
+      "widget_group": [
+        {
+          "umgname": "UMG_Pass_Select",
+          "spinewigetname": "SpineWidget_Blue"
+        },
+        {
+          "umgname": "UMG_Pass_AwardMain",
+          "spinewigetname": "SpineWidget_Blue"
+        },
+        {
+          "umgname": "UMG_Pass_Purchase",
+          "spinewigetname": "SpineWidget_Blue"
+        }
+      ],
+      "is_theme_a": true
+    },
+    "230012": {
+      "id": 230012,
+      "theme_name": "左（粉色）",
+      "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/Season_Pass/rongxianzi/spineboy.spineboy-atlas'",
+      "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/Season_Pass/rongxianzi/spineboy.spineboy-data'",
+      "widget_group": [
+        {
+          "umgname": "UMG_Pass_Select",
+          "spinewigetname": "SpineWidget_Pink"
+        },
+        {
+          "umgname": "UMG_Pass_AwardMain",
+          "spinewigetname": "SpineWidget_Pink"
+        },
+        {
+          "umgname": "UMG_Pass_Purchase",
+          "spinewigetname": "SpineWidget_Pink"
+        }
+      ]
+    },
+    "230021": {
+      "id": 230021,
+      "theme_name": "右（红色）",
+      "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/S2bp/baoyanfeilong/baoyanfeilong.baoyanfeilong-atlas'",
+      "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/S2bp/baoyanfeilong/baoyanfeilong.baoyanfeilong-data'",
+      "widget_group": [
+        {
+          "umgname": "UMG_Pass_Select",
+          "spinewigetname": "SpineWidget_Blue"
+        },
+        {
+          "umgname": "UMG_Pass_AwardMain",
+          "spinewigetname": "SpineWidget_Blue"
+        },
+        {
+          "umgname": "UMG_Pass_Purchase",
+          "spinewigetname": "SpineWidget_Blue"
+        }
+      ],
+      "is_theme_a": true
+    },
+    "230022": {
+      "id": 230022,
+      "theme_name": "左（白色）",
+      "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/S2bp/xueguai/xueguai.xueguai-atlas'",
+      "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/S2bp/xueguai/xueguai.xueguai-data'",
+      "widget_group": [
+        {
+          "umgname": "UMG_Pass_Select",
+          "spinewigetname": "SpineWidget_Pink"
+        },
+        {
+          "umgname": "UMG_Pass_AwardMain",
+          "spinewigetname": "SpineWidget_Pink"
+        },
+        {
+          "umgname": "UMG_Pass_Purchase",
+          "spinewigetname": "SpineWidget_Pink"
+        }
+      ]
+    }
+  }
+}

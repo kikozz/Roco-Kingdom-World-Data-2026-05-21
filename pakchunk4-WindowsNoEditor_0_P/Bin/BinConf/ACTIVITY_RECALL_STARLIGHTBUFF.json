@@ -1,0 +1,33 @@
+{
+  "Name": "ACTIVITY_RECALL_STARLIGHTBUFF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "starlight_buff",
+      "Type": "EUint32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "starlight_buff_text",
+      "Type": "EString",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "starlight_buff_describe",
+      "Type": "EString",
+      "Offset": 12,
+      "Size": 4,
+      "CompressedSize": 4
+    }
+  ]
+}

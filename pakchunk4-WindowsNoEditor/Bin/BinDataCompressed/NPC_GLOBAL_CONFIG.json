@@ -1,0 +1,2527 @@
+{
+  "RocoDataRows": {
+    "trace_npc_maximum": {
+      "id": 2,
+      "key": "trace_npc_maximum",
+      "num": 2,
+      "numList": [
+        -441872665,
+        -1175931218,
+        -1883446094,
+        -390686746,
+        -1712741465,
+        -1095571548,
+        -390757913,
+        -2014986817,
+        -2070222917,
+        -373909530,
+        -1125141353,
+        -1785862776,
+        -275923484,
+        -1343841604,
+        -1834489941,
+        -276185873,
+        -1712747332,
+        -1514412892,
+        808464433,
+        -460418843,
+        -1796751427
+      ]
+    },
+    "trace_npc_response_time": {
+      "id": 52,
+      "key": "trace_npc_response_time",
+      "num": 4,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "trace_npc_last_time": {
+      "id": 53,
+      "key": "trace_npc_last_time",
+      "num": 6,
+      "numList": [
+        1667330676,
+        1886281573,
+        1701994339,
+        1852797043,
+        1952408947
+      ]
+    },
+    "perform_distance": {
+      "id": 61,
+      "key": "perform_distance",
+      "num": 8,
+      "numList": [
+        -376002839,
+        -1998158174,
+        -1146689640,
+        -444547867,
+        -1612334452,
+        -1582372705,
+        -441018394
+      ]
+    },
+    "player_hide_complete_time": {
+      "id": 68,
+      "key": "player_hide_complete_time",
+      "num": 10,
+      "numList": [
+        3000
+      ]
+    },
+    "multi_combat_search_range": {
+      "id": 69,
+      "key": "multi_combat_search_range",
+      "num": 12,
+      "numList": [
+        600
+      ]
+    },
+    "multi_combat_enemy_limit": {
+      "id": 70,
+      "key": "multi_combat_enemy_limit",
+      "num": 14,
+      "numList": [
+        -390217752,
+        1347332792,
+        -2121472445,
+        -391267353,
+        -1192706625,
+        -1231558998,
+        -273377303,
+        -1477998404,
+        -1984106606
+      ]
+    },
+    "perform_angle": {
+      "id": 71,
+      "key": "perform_angle",
+      "num": 16,
+      "numList": []
+    },
+    "vison_spread_time": {
+      "id": 72,
+      "key": "vison_spread_time",
+      "num": 18,
+      "numList": [
+        500
+      ]
+    },
+    "flee_last_time": {
+      "id": 73,
+      "key": "flee_last_time",
+      "num": 20,
+      "numList": [
+        3500
+      ]
+    },
+    "flee_complete_time": {
+      "id": 74,
+      "key": "flee_complete_time",
+      "num": 22,
+      "numList": [
+        1000
+      ]
+    },
+    "visible_range_1": {
+      "id": 75,
+      "key": "visible_range_1",
+      "num": 24,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_2": {
+      "id": 76,
+      "key": "visible_range_2",
+      "num": 26,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_3": {
+      "id": 77,
+      "key": "visible_range_3",
+      "num": 28,
+      "numList": [
+        5000
+      ]
+    },
+    "behavior_tree_stop_range": {
+      "id": 79,
+      "key": "behavior_tree_stop_range",
+      "num": 30,
+      "numList": [
+        7500
+      ]
+    },
+    "hard_catch_difference": {
+      "id": 102,
+      "key": "hard_catch_difference",
+      "num": 32,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "zero_catch_difference": {
+      "id": 103,
+      "key": "zero_catch_difference",
+      "num": 34,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "npc_exist_time": {
+      "id": 120,
+      "key": "npc_exist_time",
+      "num": 36,
+      "numList": [
+        -443302428,
+        -1377334370,
+        -1480923255,
+        834320612,
+        -410739993,
+        -2115518798,
+        -2070222923,
+        -391147547,
+        -1209499225,
+        -1146689635
+      ]
+    },
+    "is_hide_other_player": {
+      "id": 123,
+      "key": "is_hide_other_player",
+      "num": 38,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "item_acquire_jump_distance": {
+      "id": 137,
+      "key": "item_acquire_jump_distance",
+      "num": 40,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_11": {
+      "id": 139,
+      "key": "visible_range_11",
+      "num": 42,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_12": {
+      "id": 140,
+      "key": "visible_range_12",
+      "num": 44,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_13": {
+      "id": 141,
+      "key": "visible_range_13",
+      "num": 46,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_14": {
+      "id": 142,
+      "key": "visible_range_14",
+      "num": 48,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_zone_release_time": {
+      "id": 146,
+      "key": "visible_zone_release_time",
+      "num": 50,
+      "numList": [
+        -376002839,
+        -1998158174,
+        -2135104104,
+        -427055131,
+        -1377466474,
+        -1869617513,
+        1773839591
+      ]
+    },
+    "visible_zone_id_partiotion": {
+      "id": 147,
+      "key": "visible_zone_id_partiotion",
+      "num": 52,
+      "numList": [
+        4000000
+      ]
+    },
+    "visible_range_15": {
+      "id": 148,
+      "key": "visible_range_15",
+      "num": 54,
+      "numList": [
+        5000
+      ]
+    },
+    "visible_range_16": {
+      "id": 149,
+      "key": "visible_range_16",
+      "num": 56,
+      "numList": [
+        7000
+      ]
+    },
+    "visible_range_17": {
+      "id": 150,
+      "key": "visible_range_17",
+      "num": 58,
+      "numList": [
+        10000
+      ]
+    },
+    "scene_ninegrid_size": {
+      "id": 153,
+      "key": "scene_ninegrid_size",
+      "num": 60,
+      "numList": [
+        20000
+      ]
+    },
+    "scene_ring_grid_size": {
+      "id": 154,
+      "key": "scene_ring_grid_size",
+      "num": 60,
+      "numList": [
+        2500
+      ]
+    },
+    "npc_instantiate_policy": {
+      "id": 155,
+      "key": "npc_instantiate_policy",
+      "num": 63
+    },
+    "area_load_extent_aoi_ratio": {
+      "id": 156,
+      "key": "area_load_extent_aoi_ratio",
+      "num": 65,
+      "numList": [
+        1718773104,
+        1601008239,
+        1818717793
+      ]
+    },
+    "pet_interact_range": {
+      "id": 179,
+      "key": "pet_interact_range",
+      "num": 67,
+      "numList": [
+        875704370,
+        758264109,
+        807416626,
+        808466996
+      ]
+    },
+    "air_overlap_range_expansion": {
+      "id": 180,
+      "key": "air_overlap_range_expansion",
+      "num": 69,
+      "numList": [
+        875704370,
+        758264109,
+        807416626,
+        808466996
+      ]
+    },
+    "pet_fight_range": {
+      "id": 182,
+      "key": "pet_fight_range",
+      "num": 71,
+      "numList": [
+        875704370,
+        758264109,
+        807416626,
+        808466996
+      ]
+    },
+    "throw_linetrace_distance": {
+      "id": 183,
+      "key": "throw_linetrace_distance",
+      "num": 73,
+      "numList": [
+        3000
+      ]
+    },
+    "petrelease_distance": {
+      "id": 184,
+      "key": "petrelease_distance",
+      "num": 75,
+      "numList": [
+        6500
+      ]
+    },
+    "aimcontrol_yaw": {
+      "id": 185,
+      "key": "aimcontrol_yaw",
+      "num": 77,
+      "numList": [
+        -444167963,
+        -1964655988,
+        -1111627616,
+        -409555481,
+        -1192974955,
+        -1933774965,
+        -392131867,
+        -1931100739,
+        -1616910918,
+        1638897894,
+        -1930925713,
+        -1264851581,
+        -444294425,
+        -1897427584,
+        539633799,
+        689975345
+      ]
+    },
+    "aimcontrol_pitch": {
+      "id": 186,
+      "key": "aimcontrol_pitch",
+      "num": 79,
+      "numList": [
+        1769171318,
+        1600482402,
+        1735287154
+      ]
+    },
+    "CTT_min": {
+      "id": 187,
+      "key": "CTT_min",
+      "num": 81,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "camera_angle_speed": {
+      "id": 188,
+      "key": "camera_angle_speed",
+      "num": 83,
+      "is_svr_ctl": 84
+    },
+    "projectile_bounciness": {
+      "id": 189,
+      "key": "projectile_bounciness",
+      "num": 86,
+      "is_svr_ctl": 87
+    },
+    "projectile_friction": {
+      "id": 190,
+      "key": "projectile_friction",
+      "num": 89,
+      "is_svr_ctl": 90
+    },
+    "projectile_bounciness_disturb": {
+      "id": 191,
+      "key": "projectile_bounciness_disturb",
+      "num": 92,
+      "is_svr_ctl": 93
+    },
+    "projectile_friction_disturb": {
+      "id": 192,
+      "key": "projectile_friction_disturb",
+      "num": 95,
+      "is_svr_ctl": 93
+    },
+    "npc_turn_time": {
+      "id": 193,
+      "key": "npc_turn_time",
+      "num": 97,
+      "is_svr_ctl": 98
+    },
+    "player_turn_time": {
+      "id": 194,
+      "key": "player_turn_time",
+      "num": 100,
+      "is_svr_ctl": 90
+    },
+    "enable_area_load": {
+      "id": 196,
+      "key": "enable_area_load",
+      "num": 102
+    },
+    "behavior_tree_root_path": {
+      "id": 197,
+      "key": "behavior_tree_root_path",
+      "num": 104,
+      "is_svr_ctl": 105
+    },
+    "amplitude_dip_bag": {
+      "id": 198,
+      "key": "amplitude_dip_bag",
+      "num": 107,
+      "numList": [
+        -394034967,
+        -1931046473,
+        -1380194431,
+        -373909530,
+        -1125141353,
+        -1414535544,
+        -275601433,
+        -1125152324,
+        -1533417076,
+        832945124,
+        -449826768,
+        -1109094768,
+        -1466636353
+      ]
+    },
+    "amplitude_dip_pet": {
+      "id": 199,
+      "key": "amplitude_dip_pet",
+      "num": 109,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "amplitude_dip_map": {
+      "id": 200,
+      "key": "amplitude_dip_map",
+      "num": 111,
+      "numList": [
+        -440827161,
+        -2115388537,
+        -1215961709,
+        1936746868,
+        -410339100,
+        -1897364326,
+        -1768954441,
+        -443252503,
+        -1209498434,
+        -1396840269,
+        -393962777,
+        -1494770249,
+        -1665144645,
+        -409878552,
+        -1914338150,
+        -2067864182,
+        -443381531,
+        1663600264,
+        -1984106643
+      ]
+    },
+    "amplitude_dip_task": {
+      "id": 201,
+      "key": "amplitude_dip_task",
+      "num": 113,
+      "numList": [
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585,
+        -1231558978,
+        682924009,
+        697477095,
+        -410206993,
+        -1159419756,
+        -1466112626,
+        -441872665,
+        -1192970578,
+        -1078270069,
+        -424241178,
+        -1964667492,
+        -1466309215,
+        -442257946,
+        -2014724699,
+        -1349458547,
+        -425688855,
+        -1780051832,
+        -1366432080,
+        -460474140,
+        -2014805832,
+        -1231558988,
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585
+      ]
+    },
+    "amplitude_dip_handbook": {
+      "id": 202,
+      "key": "amplitude_dip_handbook",
+      "num": 115,
+      "numList": [
+        -407924507,
+        -1897420652,
+        -1078336081,
+        -441609498,
+        -1746491239,
+        -1933774922,
+        -423977755,
+        -1595494503,
+        -1867651652,
+        -440749851,
+        -1125140305,
+        -1735465592,
+        -273436185
+      ]
+    },
+    "amplitude_dip_battle": {
+      "id": 203,
+      "key": "amplitude_dip_battle",
+      "num": 117,
+      "numList": [
+        -441872665,
+        -1175931218,
+        -1883446094,
+        -390686746,
+        -1712741465,
+        -1095571548,
+        -390757913,
+        -2014986817,
+        -2070222917,
+        -373909530,
+        -1125141353,
+        -1785862776,
+        -275923484,
+        -1343841604,
+        -1834489941,
+        -276185873,
+        -1712747332,
+        -1514412892,
+        808464433,
+        -460418843,
+        -1796751427
+      ]
+    },
+    "camera_speed_unfold_compass": {
+      "id": 204,
+      "key": "camera_speed_unfold_compass",
+      "num": 119,
+      "is_svr_ctl": 120
+    },
+    "camera_speed_retract_compass": {
+      "id": 205,
+      "key": "camera_speed_retract_compass",
+      "num": 122,
+      "is_svr_ctl": 120
+    },
+    "bt_response_range_1": {
+      "id": 206,
+      "key": "bt_response_range_1",
+      "num": 124,
+      "numList": [
+        5000
+      ]
+    },
+    "bt_response_range_2": {
+      "id": 207,
+      "key": "bt_response_range_2",
+      "num": 126,
+      "numList": [
+        7500
+      ]
+    },
+    "bt_response_range_3": {
+      "id": 208,
+      "key": "bt_response_range_3",
+      "num": 128,
+      "numList": [
+        7500
+      ]
+    },
+    "bt_response_range_11": {
+      "id": 209,
+      "key": "bt_response_range_11",
+      "num": 130,
+      "numList": [
+        10000
+      ]
+    },
+    "bt_response_range_12": {
+      "id": 210,
+      "key": "bt_response_range_12",
+      "num": 132,
+      "numList": [
+        20000
+      ]
+    },
+    "bt_response_range_13": {
+      "id": 211,
+      "key": "bt_response_range_13",
+      "num": 134,
+      "numList": [
+        30000
+      ]
+    },
+    "bt_response_range_14": {
+      "id": 212,
+      "key": "bt_response_range_14",
+      "num": 136,
+      "numList": [
+        100000
+      ]
+    },
+    "hd_meteor_height_offset": {
+      "id": 213,
+      "key": "hd_meteor_height_offset",
+      "num": 138,
+      "numList": [
+        26000
+      ]
+    },
+    "hd_meteor_width_offset": {
+      "id": 214,
+      "key": "hd_meteor_width_offset",
+      "num": 140,
+      "numList": [
+        -40000
+      ]
+    },
+    "hd_meteor_height_bias": {
+      "id": 215,
+      "key": "hd_meteor_height_bias",
+      "num": 142,
+      "numList": [
+        -20
+      ]
+    },
+    "hd_meteor_width_bias": {
+      "id": 216,
+      "key": "hd_meteor_width_bias",
+      "num": 144,
+      "numList": [
+        -376002839,
+        -1998158174,
+        -1146689640,
+        -444547867,
+        -1612334452,
+        -1582372705,
+        -441018394
+      ]
+    },
+    "hd_meteor_move_time": {
+      "id": 217,
+      "key": "hd_meteor_move_time",
+      "num": 146,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "hd_meteot_wind_offset": {
+      "id": 218,
+      "key": "hd_meteot_wind_offset",
+      "num": 148,
+      "numList": [
+        80000
+      ]
+    },
+    "meta_ai_behavior_tree_path": {
+      "id": 219,
+      "key": "meta_ai_behavior_tree_path",
+      "num": 150,
+      "is_svr_ctl": 151
+    },
+    "online_npc_option_visible": {
+      "id": 221,
+      "key": "online_npc_option_visible",
+      "num": 153,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "throw_pet_ball_npcid": {
+      "id": 222,
+      "key": "throw_pet_ball_npcid",
+      "num": 155,
+      "numList": [
+        65460
+      ]
+    },
+    "npc_behavior_close_recover_CD": {
+      "id": 225,
+      "key": "npc_behavior_close_recover_CD",
+      "num": 157,
+      "numList": [
+        4500
+      ]
+    },
+    "photosynthesis_flower_once": {
+      "id": 226,
+      "key": "photosynthesis_flower_once",
+      "num": 159,
+      "str": [
+        1,
+        2
+      ]
+    },
+    "photosynthesis_flower_id": {
+      "id": 227,
+      "key": "photosynthesis_flower_id",
+      "num": 162,
+      "numList": [
+        140330
+      ]
+    },
+    "photosynthesis_flower_furthest": {
+      "id": 228,
+      "key": "photosynthesis_flower_furthest",
+      "num": 164,
+      "numList": [
+        -376002839,
+        -1998158174,
+        -2135104104,
+        -427055131,
+        -1377466474,
+        -1869617513,
+        1773839591
+      ]
+    },
+    "photosynthesis_flower_nearest": {
+      "id": 229,
+      "key": "photosynthesis_flower_nearest",
+      "num": 166,
+      "numList": [
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585,
+        -1231558978,
+        682924009,
+        697477095,
+        -410206993,
+        -1159419756,
+        -1466112626,
+        -441872665,
+        -1192970578,
+        -1078270069,
+        -424241178,
+        -1964667492,
+        -1466309215,
+        -442257946,
+        -2014724699,
+        -1349458547,
+        -425688855,
+        -1780051832,
+        -1366432080,
+        -460474140,
+        -2014805832,
+        -1231558988,
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585
+      ]
+    },
+    "starmagic_damage": {
+      "id": 230,
+      "key": "starmagic_damage",
+      "num": 168,
+      "str": [
+        100,
+        150,
+        300,
+        450
+      ]
+    },
+    "worldcombat_stun_buff": {
+      "id": 231,
+      "key": "worldcombat_stun_buff",
+      "num": 171,
+      "str": [
+        30005,
+        30006,
+        30013,
+        30014
+      ]
+    },
+    "weakness_buff": {
+      "id": 232,
+      "key": "weakness_buff",
+      "num": 174,
+      "numList": [
+        30007
+      ]
+    },
+    "barrier_buff_invicible_time": {
+      "id": 233,
+      "key": "barrier_buff_invicible_time",
+      "num": 176,
+      "numList": [
+        1000
+      ]
+    },
+    "worldcombat_shield_max_value": {
+      "id": 234,
+      "key": "worldcombat_shield_max_value",
+      "num": 178,
+      "numList": [
+        2500
+      ]
+    },
+    "worldcombat_begin_tips_id": {
+      "id": 235,
+      "key": "worldcombat_begin_tips_id",
+      "num": 180,
+      "is_svr_ctl": 181
+    },
+    "worldcombat_barrier_broken_tips_id": {
+      "id": 236,
+      "key": "worldcombat_barrier_broken_tips_id",
+      "num": 183,
+      "is_svr_ctl": 184
+    },
+    "worldcombat_internal_battle_finish_tips_id": {
+      "id": 237,
+      "key": "worldcombat_internal_battle_finish_tips_id",
+      "num": 186,
+      "is_svr_ctl": 187
+    },
+    "ai_release_npc_play_skill": {
+      "id": 238,
+      "key": "ai_release_npc_play_skill",
+      "num": 189,
+      "is_svr_ctl": 190
+    },
+    "pet_fight_range_height": {
+      "id": 239,
+      "key": "pet_fight_range_height",
+      "num": 192,
+      "numList": [
+        1937010532,
+        -393166872,
+        1701678241,
+        1633640820,
+        -1935546263,
+        -423970588,
+        -1209495136,
+        -2067864145
+      ]
+    },
+    "npc_overlap_cooldown": {
+      "id": 240,
+      "key": "npc_overlap_cooldown",
+      "num": 194,
+      "numList": [
+        500
+      ]
+    },
+    "owl_npc_refresh_content_id_min": {
+      "id": 241,
+      "key": "owl_npc_refresh_content_id_min",
+      "num": 196,
+      "numList": [
+        9000000
+      ]
+    },
+    "owl_npc_refresh_content_id_max": {
+      "id": 242,
+      "key": "owl_npc_refresh_content_id_max",
+      "num": 198,
+      "numList": [
+        9999999
+      ]
+    },
+    "worldcombat_exit_timer": {
+      "id": 243,
+      "key": "worldcombat_exit_timer",
+      "num": 200,
+      "numList": [
+        10000
+      ]
+    },
+    "shock_stun_buff": {
+      "id": 244,
+      "key": "shock_stun_buff",
+      "num": 202,
+      "numList": [
+        50022
+      ]
+    },
+    "ai_refresh_num": {
+      "id": 245,
+      "key": "ai_refresh_num",
+      "num": 204,
+      "str": [
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    "ai_refresh_id": {
+      "id": 246,
+      "key": "ai_refresh_id",
+      "num": 207,
+      "str": [
+        140330,
+        2300003,
+        2300004,
+        3810003,
+        3810004,
+        2702226,
+        3810005,
+        3810006,
+        3810007,
+        3810008,
+        3810009,
+        3800003,
+        3820000,
+        3820001,
+        3820002,
+        3820003,
+        3820004,
+        3800010,
+        3800011,
+        3800012,
+        3800013,
+        3800014,
+        3800015,
+        3800016,
+        3800017,
+        3800018,
+        3800019,
+        3800020,
+        3800021,
+        3800022,
+        3800023,
+        3800024,
+        3800025,
+        3800026,
+        3800027,
+        3800028,
+        3800029,
+        3800030,
+        3800031,
+        3800032,
+        3810011,
+        100118,
+        100119,
+        100120,
+        3810015,
+        3000004,
+        3000005,
+        3000006,
+        3000007,
+        3000008,
+        3000009,
+        2800176,
+        2800177,
+        2800178,
+        2800179,
+        2800180,
+        2800181,
+        2800182,
+        2800183,
+        2800184,
+        2800186,
+        2800187,
+        2800188,
+        100379,
+        100379,
+        100379,
+        100378,
+        100378,
+        100378,
+        100378,
+        100378,
+        100378,
+        2800189,
+        2800190,
+        3810016,
+        3810017,
+        3810018,
+        2800191,
+        2800192,
+        2800193,
+        2800194,
+        2800195,
+        2800196,
+        2800197,
+        2800198,
+        2800199,
+        2800200,
+        2800201,
+        2800202,
+        2800203,
+        2800204,
+        2800205,
+        2800206,
+        2800207,
+        2800208,
+        3800033,
+        5300001,
+        5300002,
+        2800209,
+        2800210,
+        2800211,
+        2800212,
+        2800213,
+        2800214,
+        2800215,
+        2800216,
+        2800217,
+        2800218,
+        3800034,
+        5500482,
+        5500483
+      ]
+    },
+    "players_interact_distance": {
+      "id": 247,
+      "key": "players_interact_distance",
+      "num": 210,
+      "numList": [
+        875704370,
+        758264109,
+        807416626,
+        808466996
+      ]
+    },
+    "players_interact_option_num": {
+      "id": 248,
+      "key": "players_interact_option_num",
+      "num": 212,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "scene_npc_bp_path_prefix": {
+      "id": 249,
+      "key": "scene_npc_bp_path_prefix",
+      "num": 214
+    },
+    "spe_refresh_trig_owl": {
+      "id": 250,
+      "key": "spe_refresh_trig_owl",
+      "num": 216,
+      "numList": [
+        141666
+      ]
+    },
+    "auto_cal_option_distance": {
+      "id": 251,
+      "key": "auto_cal_option_distance",
+      "num": 218,
+      "numList": [
+        1599362115
+      ]
+    },
+    "ai_revise_sals": {
+      "id": 252,
+      "key": "ai_revise_sals",
+      "num": 220,
+      "str": [
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1200,
+        1501,
+        1601,
+        1801
+      ]
+    },
+    "svr_ai_lod_0_radius": {
+      "id": 253,
+      "key": "svr_ai_lod_0_radius",
+      "num": 223,
+      "numList": [
+        2000
+      ]
+    },
+    "npc_block_size": {
+      "id": 254,
+      "key": "npc_block_size",
+      "num": 225,
+      "numList": [
+        50400
+      ]
+    },
+    "sensed_player_switch_player_status": {
+      "id": 255,
+      "key": "sensed_player_switch_player_status",
+      "num": 227,
+      "str": [
+        8,
+        12,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    "ai_npc_retrieval_interval": {
+      "id": 256,
+      "key": "ai_npc_retrieval_interval",
+      "num": 230
+    },
+    "overwrite_world_player_status_type_fsm": {
+      "id": 257,
+      "key": "overwrite_world_player_status_type_fsm",
+      "num": 232,
+      "str": [
+        3,
+        4,
+        6,
+        12,
+        13,
+        22,
+        23,
+        26,
+        27,
+        28
+      ]
+    },
+    "overwrite_action_type_fsm": {
+      "id": 258,
+      "key": "overwrite_action_type_fsm",
+      "num": 235,
+      "str": [
+        21,
+        10001,
+        10002,
+        10010,
+        10014,
+        10015,
+        10016
+      ]
+    },
+    "overwrite_space_actor_logic_status_fsm": {
+      "id": 259,
+      "key": "overwrite_space_actor_logic_status_fsm",
+      "num": 238,
+      "str": [
+        1100,
+        1101,
+        1102,
+        1104,
+        1111,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1601
+      ]
+    },
+    "wild_action_max_range": {
+      "id": 260,
+      "key": "wild_action_max_range",
+      "num": 241,
+      "numList": [
+        2000
+      ]
+    },
+    "act_behavior_overwrite_max_range": {
+      "id": 261,
+      "key": "act_behavior_overwrite_max_range",
+      "num": 243,
+      "numList": [
+        3000
+      ]
+    },
+    "act_perform_conf_overwrite_max_range": {
+      "id": 262,
+      "key": "act_perform_conf_overwrite_max_range",
+      "num": 245,
+      "numList": [
+        10000
+      ]
+    },
+    "trig_npc_refresh_content_id_min": {
+      "id": 263,
+      "key": "trig_npc_refresh_content_id_min",
+      "num": 247,
+      "numList": [
+        8100000
+      ]
+    },
+    "trig_npc_refresh_content_id_max": {
+      "id": 264,
+      "key": "trig_npc_refresh_content_id_max",
+      "num": 249,
+      "numList": [
+        8999999
+      ]
+    },
+    "max_stick_range": {
+      "id": 265,
+      "key": "max_stick_range",
+      "num": 251,
+      "numList": [
+        750
+      ]
+    },
+    "ai_query_navpoly_interval": {
+      "id": 266,
+      "key": "ai_query_navpoly_interval",
+      "num": 253,
+      "numList": [
+        -426995483,
+        -1075267945,
+        -1430722371,
+        -441872665,
+        -1696090450,
+        -1434392956,
+        -458651161,
+        -1712747848
+      ]
+    },
+    "detect_position_npc_id": {
+      "id": 267,
+      "key": "detect_position_npc_id",
+      "num": 255,
+      "str": [
+        29179,
+        29189
+      ]
+    },
+    "set_npc_pos_check_param": {
+      "id": 268,
+      "key": "set_npc_pos_check_param",
+      "num": 258,
+      "str": [
+        0,
+        2000,
+        5000,
+        6000,
+        7000
+      ]
+    },
+    "worldcombat_gain_buff": {
+      "id": 269,
+      "key": "worldcombat_gain_buff",
+      "num": 261,
+      "numList": [
+        30015
+      ]
+    },
+    "worldcombat_execution_tips_id": {
+      "id": 270,
+      "key": "worldcombat_execution_tips_id",
+      "num": 263,
+      "is_svr_ctl": 264
+    },
+    "worldcombat_exit_tips_id": {
+      "id": 271,
+      "key": "worldcombat_exit_tips_id",
+      "num": 266,
+      "is_svr_ctl": 267
+    },
+    "sticked_socket_player": {
+      "id": 272,
+      "key": "sticked_socket_player",
+      "num": 269,
+      "str": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "stick_to_socket_enum_mapping": {
+      "id": 273,
+      "key": "stick_to_socket_enum_mapping",
+      "num": 272,
+      "is_svr_ctl": 273
+    },
+    "role_play_think_behavior_group": {
+      "id": 274,
+      "key": "role_play_think_behavior_group",
+      "num": 275,
+      "numList": [
+        10054
+      ]
+    },
+    "role_play_think_end_fsm": {
+      "id": 275,
+      "key": "role_play_think_end_fsm",
+      "num": 277,
+      "numList": [
+        -408899867,
+        -2014729847,
+        -1097537910,
+        -423983131,
+        -1863998051,
+        -1735858546,
+        -409495834,
+        -1545173862,
+        -1699814016,
+        -444363544,
+        -1125141349,
+        -1735465592,
+        -273436185
+      ]
+    },
+    "worldcombat_online_hp_compensation": {
+      "id": 276,
+      "key": "worldcombat_online_hp_compensation",
+      "num": 279,
+      "str": [
+        100,
+        160,
+        180,
+        200
+      ]
+    },
+    "worldcombat_online_shield_compensation": {
+      "id": 277,
+      "key": "worldcombat_online_shield_compensation",
+      "num": 282,
+      "str": [
+        100,
+        200,
+        300,
+        300
+      ]
+    },
+    "planeness_allowance_angle": {
+      "id": 278,
+      "key": "planeness_allowance_angle",
+      "num": 285,
+      "numList": [
+        1718773104,
+        1601008239,
+        1818717793
+      ]
+    },
+    "nexus_overlap_land_height_allowance": {
+      "id": 279,
+      "key": "nexus_overlap_land_height_allowance",
+      "num": 287,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "nexus_to_player_distance_when_creating": {
+      "id": 280,
+      "key": "nexus_to_player_distance_when_creating",
+      "num": 289,
+      "numList": [
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585,
+        -1231558978,
+        682924009,
+        697477095,
+        -410206993,
+        -1159419756,
+        -1466112626,
+        -441872665,
+        -1192970578,
+        -1078270069,
+        -424241178,
+        -1964667492,
+        -1466309215,
+        -442257946,
+        -2014724699,
+        -1349458547,
+        -425688855,
+        -1780051832,
+        -1366432080,
+        -460474140,
+        -2014805832,
+        -1231558988,
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585
+      ]
+    },
+    "mimic_banned_time_by_light_magic": {
+      "id": 281,
+      "key": "mimic_banned_time_by_light_magic",
+      "num": 291,
+      "numList": [
+        10000
+      ]
+    },
+    "can_light_magic_reveal_mimic": {
+      "id": 282,
+      "key": "can_light_magic_reveal_mimic",
+      "num": 293,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "nexus_enable_cam": {
+      "id": 283,
+      "key": "nexus_enable_cam",
+      "num": 295,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "wild_limit_glass_num": {
+      "id": 284,
+      "key": "wild_limit_glass_num",
+      "num": 297,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "wild_limit_glass_reset_date": {
+      "id": 285,
+      "key": "wild_limit_glass_reset_date",
+      "num": 299,
+      "is_svr_ctl": 300
+    },
+    "wild_limit_glass_reset_gap": {
+      "id": 286,
+      "key": "wild_limit_glass_reset_gap",
+      "num": 302,
+      "is_svr_ctl": 303
+    },
+    "act_teleport_no_loading_max_range": {
+      "id": 287,
+      "key": "act_teleport_no_loading_max_range",
+      "num": 305,
+      "numList": [
+        100000
+      ]
+    },
+    "ban_roleplay_overwrite_statetype_list": {
+      "id": 288,
+      "key": "ban_roleplay_overwrite_statetype_list",
+      "num": 307,
+      "str": [
+        1,
+        2,
+        4,
+        8,
+        9,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    "server_blow_away_force": {
+      "id": 289,
+      "key": "server_blow_away_force",
+      "num": 310,
+      "numList": [
+        750
+      ]
+    },
+    "drop_npc_auto_interact_time": {
+      "id": 290,
+      "key": "drop_npc_auto_interact_time",
+      "num": 312,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634492259,
+        1952412787
+      ]
+    },
+    "default_npc_lookat_distance": {
+      "id": 291,
+      "key": "default_npc_lookat_distance",
+      "num": 314,
+      "numList": [
+        -407197209,
+        -1343913072,
+        -1331894855,
+        -424631577,
+        -1914331502,
+        -2067864182,
+        695034664
+      ]
+    },
+    "default_npc_impact_vibration_cd": {
+      "id": 292,
+      "key": "default_npc_impact_vibration_cd",
+      "num": 316,
+      "numList": [
+        5000
+      ]
+    },
+    "planeness_allowance_height": {
+      "id": 293,
+      "key": "planeness_allowance_height",
+      "num": 318,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "planeness_allowance_failed_point_ratio": {
+      "id": 294,
+      "key": "planeness_allowance_failed_point_ratio",
+      "num": 320,
+      "is_svr_ctl": 321
+    },
+    "throw_npc_ai_pause_timeout": {
+      "id": 295,
+      "key": "throw_npc_ai_pause_timeout",
+      "num": 323,
+      "numList": [
+        1667330676,
+        1886281573,
+        1701994339,
+        1852797043,
+        1952408947
+      ]
+    },
+    "create_magic_boss_area_distance": {
+      "id": 296,
+      "key": "create_magic_boss_area_distance",
+      "num": 325,
+      "numList": [
+        1000
+      ]
+    },
+    "npc_option_hint_scan_distance": {
+      "id": 297,
+      "key": "npc_option_hint_scan_distance",
+      "num": 327,
+      "numList": [
+        1000
+      ]
+    },
+    "magic_message_create_range": {
+      "id": 298,
+      "key": "magic_message_create_range",
+      "num": 329,
+      "numList": [
+        875704370,
+        758264109,
+        807416626,
+        808466996
+      ]
+    },
+    "magic_message_create_height": {
+      "id": 299,
+      "key": "magic_message_create_height",
+      "num": 331,
+      "numList": [
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585,
+        -1231558978,
+        682924009,
+        697477095,
+        -410206993,
+        -1159419756,
+        -1466112626,
+        -441872665,
+        -1192970578,
+        -1078270069,
+        -424241178,
+        -1964667492,
+        -1466309215,
+        -442257946,
+        -2014724699,
+        -1349458547,
+        -425688855,
+        -1780051832,
+        -1366432080,
+        -460474140,
+        -2014805832,
+        -1231558988,
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585
+      ]
+    },
+    "magic_message_create_angle": {
+      "id": 300,
+      "key": "magic_message_create_angle",
+      "num": 333,
+      "numList": [
+        -440827161,
+        -2115388537,
+        -1215961709,
+        1936746868,
+        -410339100,
+        -1897364326,
+        -1768954441,
+        -443252503,
+        -1209498434,
+        -1396840269,
+        -393962777,
+        -1494770249,
+        -1665144645,
+        -409878552,
+        -1914338150,
+        -2067864182,
+        -443381531,
+        1663600264,
+        -1984106643
+      ]
+    },
+    "home_callin_behavior_group": {
+      "id": 301,
+      "key": "home_callin_behavior_group",
+      "num": 335,
+      "numList": [
+        10017
+      ]
+    },
+    "home_guard_ai_perform_id": {
+      "id": 302,
+      "key": "home_guard_ai_perform_id",
+      "num": 337,
+      "numList": [
+        -440684057,
+        858885022,
+        -391147547,
+        -1209499225,
+        -1146689635,
+        -410739993,
+        -1142642295
+      ]
+    },
+    "least_turn_to_angle": {
+      "id": 303,
+      "key": "least_turn_to_angle",
+      "num": 339,
+      "numList": [
+        -441872665,
+        -1175931218,
+        -1883446094,
+        -390686746,
+        -1712741465,
+        -1095571548,
+        -390757913,
+        -2014986817,
+        -2070222917,
+        -373909530,
+        -1125141353,
+        -1785862776,
+        -275923484,
+        -1343841604,
+        -1834489941,
+        -276185873,
+        -1712747332,
+        -1514412892,
+        808464433,
+        -460418843,
+        -1796751427
+      ]
+    },
+    "home_steal_attack_behavior_group": {
+      "id": 304,
+      "key": "home_steal_attack_behavior_group",
+      "num": 341,
+      "numList": [
+        10032
+      ]
+    },
+    "players_realtion_interact_distance": {
+      "id": 305,
+      "key": "players_realtion_interact_distance",
+      "numList": [
+        2000
+      ]
+    },
+    "pet_bond_option_num": {
+      "id": 306,
+      "key": "pet_bond_option_num",
+      "num": 344,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "pet_bond_icon_distance": {
+      "id": 307,
+      "key": "pet_bond_icon_distance",
+      "num": 346,
+      "numList": [
+        -407197209,
+        -1343913072,
+        -1331894855,
+        -424631577,
+        -1914331502,
+        -2067864182,
+        695034664
+      ]
+    },
+    "wild_nightmare_elite_ai_group": {
+      "id": 308,
+      "key": "wild_nightmare_elite_ai_group",
+      "num": 348,
+      "numList": [
+        1701145702,
+        1935764575,
+        1769234292
+      ]
+    },
+    "wild_nightma_elite_battle_conf": {
+      "id": 309,
+      "key": "wild_nightma_elite_battle_conf",
+      "num": 350,
+      "numList": [
+        100000
+      ]
+    },
+    "wild_limit_nightmare_num": {
+      "id": 310,
+      "key": "wild_limit_nightmare_num",
+      "num": 352,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "wild_limit_nightmare_reset_date": {
+      "id": 311,
+      "key": "wild_limit_nightmare_reset_date",
+      "num": 354,
+      "is_svr_ctl": 300
+    },
+    "wild_limit_nightmare_reset_gap": {
+      "id": 312,
+      "key": "wild_limit_nightmare_reset_gap",
+      "num": 302,
+      "is_svr_ctl": 356
+    },
+    "online_battle_show_player_npc_refresh_radius": {
+      "id": 313,
+      "key": "online_battle_show_player_npc_refresh_radius",
+      "num": 358,
+      "str": [
+        300,
+        200
+      ]
+    },
+    "online_battle_show_enemy_npc_refresh_radius": {
+      "id": 314,
+      "key": "online_battle_show_enemy_npc_refresh_radius",
+      "num": 361,
+      "str": [
+        500,
+        400
+      ]
+    },
+    "online_battle_show_npc_refresh_angle": {
+      "id": 315,
+      "key": "online_battle_show_npc_refresh_angle",
+      "num": 364,
+      "str": [
+        4294967266,
+        30
+      ]
+    },
+    "online_battle_show_height_max_gap": {
+      "id": 316,
+      "key": "online_battle_show_height_max_gap",
+      "num": 367,
+      "numList": [
+        -376002839,
+        -1998158174,
+        -1146689640,
+        -444547867,
+        -1612334452,
+        -1582372705,
+        -441018394
+      ]
+    },
+    "mark_life_flower_id": {
+      "id": 317,
+      "key": "mark_life_flower_id",
+      "num": 369,
+      "numList": [
+        55562
+      ]
+    },
+    "mark_energe_flower_id": {
+      "id": 318,
+      "key": "mark_energe_flower_id",
+      "num": 371,
+      "numList": [
+        55563
+      ]
+    },
+    "mark_magic_message_id": {
+      "id": 319,
+      "key": "mark_magic_message_id",
+      "num": 373,
+      "numList": [
+        55561
+      ]
+    },
+    "mark_fake_magic_message_id": {
+      "id": 320,
+      "key": "mark_fake_magic_message_id",
+      "num": 375,
+      "numList": [
+        55566
+      ]
+    },
+    "bpt_accumulate_factor1_min_p": {
+      "id": 321,
+      "key": "bpt_accumulate_factor1_min_p",
+      "num": 377,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "bpt_accumulate_factor2_min_p": {
+      "id": 322,
+      "key": "bpt_accumulate_factor2_min_p",
+      "num": 379,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "bpt_accumulate_factor3_min_p": {
+      "id": 323,
+      "key": "bpt_accumulate_factor3_min_p",
+      "num": 381,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "bpt_accumulate_factor4_min_p": {
+      "id": 324,
+      "key": "bpt_accumulate_factor4_min_p",
+      "num": 383,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "bonus_event_petbase_field_count": {
+      "id": 325,
+      "key": "bonus_event_petbase_field_count",
+      "num": 385,
+      "numList": [
+        -441872665,
+        -1175931218,
+        -1883446094,
+        -390686746,
+        -1712741465,
+        -1095571548,
+        -390757913,
+        -2014986817,
+        -2070222917,
+        -373909530,
+        -1125141353,
+        -1785862776,
+        -275923484,
+        -1343841604,
+        -1834489941,
+        -276185873,
+        -1712747332,
+        -1514412892,
+        808464433,
+        -460418843,
+        -1796751427
+      ]
+    },
+    "rft_bonus_rand_range": {
+      "id": 326,
+      "key": "rft_bonus_rand_range",
+      "num": 387,
+      "str": [
+        0,
+        3000
+      ]
+    },
+    "ban_catch_pet_world_hide_type": {
+      "id": 327,
+      "key": "ban_catch_pet_world_hide_type",
+      "num": 390,
+      "is_svr_ctl": 391
+    },
+    "random_nightmare_elite_scale_fix": {
+      "id": 328,
+      "key": "random_nightmare_elite_scale_fix",
+      "num": 393,
+      "numList": [
+        -390099739,
+        -433149256,
+        -1729723979,
+        -1327092065,
+        -1279662668,
+        -409094168,
+        -2115650650,
+        -1146624113,
+        695034664
+      ]
+    },
+    "catch_pet_world_cant_colorpet_ball": {
+      "id": 329,
+      "key": "catch_pet_world_cant_colorpet_ball",
+      "num": 395,
+      "str": [
+        100286,
+        100288
+      ]
+    },
+    "is_visit_chaos_can_catch": {
+      "id": 330,
+      "key": "is_visit_chaos_can_catch",
+      "num": 398,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    },
+    "ball_land_effectiveradius": {
+      "id": 331,
+      "key": "ball_land_effectiveradius",
+      "num": 400,
+      "numList": [
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585,
+        -1231558978,
+        682924009,
+        697477095,
+        -410206993,
+        -1159419756,
+        -1466112626,
+        -441872665,
+        -1192970578,
+        -1078270069,
+        -424241178,
+        -1964667492,
+        -1466309215,
+        -442257946,
+        -2014724699,
+        -1349458547,
+        -425688855,
+        -1780051832,
+        -1366432080,
+        -460474140,
+        -2014805832,
+        -1231558988,
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585
+      ]
+    },
+    "ball_sky_effectiveradius": {
+      "id": 332,
+      "key": "ball_sky_effectiveradius",
+      "num": 402,
+      "numList": [
+        -392643607,
+        -1108826962,
+        -1413814100,
+        -373909530,
+        -416762729,
+        -1360680562
+      ]
+    },
+    "refresh_bonus_story_flag": {
+      "id": 333,
+      "key": "refresh_bonus_story_flag",
+      "num": 404,
+      "numList": [
+        9881
+      ]
+    },
+    "visit_owl_fruit_to_num": {
+      "id": 334,
+      "key": "visit_owl_fruit_to_num",
+      "num": 406,
+      "str": [
+        4,
+        8,
+        16,
+        24,
+        26,
+        28,
+        30,
+        32
+      ]
+    },
+    "visit_owl_npc_check_gap": {
+      "id": 335,
+      "key": "visit_owl_npc_check_gap",
+      "num": 409,
+      "is_svr_ctl": 410
+    },
+    "visit_owl_npc_refresh_content_id_min": {
+      "id": 336,
+      "key": "visit_owl_npc_refresh_content_id_min",
+      "num": 412,
+      "numList": [
+        15000000
+      ]
+    },
+    "visit_owl_npc_refresh_content_id_max": {
+      "id": 337,
+      "key": "visit_owl_npc_refresh_content_id_max",
+      "num": 414,
+      "numList": [
+        19999999
+      ]
+    },
+    "visit_owl_npc_refresh_rule": {
+      "id": 338,
+      "key": "visit_owl_npc_refresh_rule",
+      "num": 416,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "mimic_aim_dispaly_null": {
+      "id": 339,
+      "key": "mimic_aim_dispaly_null",
+      "num": 418,
+      "is_svr_ctl": 419
+    },
+    "tongyongnpc_default_mfbt_tree_path": {
+      "id": 340,
+      "key": "tongyongnpc_default_mfbt_tree_path",
+      "num": 421,
+      "is_svr_ctl": 422
+    },
+    "falling_speed_uplimit": {
+      "id": 341,
+      "key": "falling_speed_uplimit",
+      "num": 424,
+      "numList": [
+        1960
+      ]
+    },
+    "catch_info_record_max_habitat_group_num": {
+      "id": 342,
+      "key": "catch_info_record_max_habitat_group_num",
+      "num": 426,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634492259,
+        1952412787
+      ]
+    },
+    "catch_info_record_max_evolution_num": {
+      "id": 343,
+      "key": "catch_info_record_max_evolution_num",
+      "num": 428,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634492259,
+        1952412787
+      ]
+    },
+    "catch_info_record_max_time": {
+      "id": 344,
+      "key": "catch_info_record_max_time",
+      "num": 430,
+      "numList": [
+        3600
+      ]
+    },
+    "neighbour_max_range": {
+      "id": 345,
+      "key": "neighbour_max_range",
+      "num": 432,
+      "numList": [
+        5000
+      ]
+    },
+    "owl_npc_pet_habitat_group_id_min": {
+      "id": 346,
+      "key": "owl_npc_pet_habitat_group_id_min",
+      "num": 434,
+      "numList": [
+        10001
+      ]
+    },
+    "owl_npc_pet_habitat_group_id_max": {
+      "id": 347,
+      "key": "owl_npc_pet_habitat_group_id_max",
+      "num": 436,
+      "numList": [
+        12000
+      ]
+    },
+    "catch_info_loop_clean_num": {
+      "id": 348,
+      "key": "catch_info_loop_clean_num",
+      "num": 438,
+      "numList": [
+        -441872665,
+        -1175931218,
+        -1883446094,
+        -390686746,
+        -1712741465,
+        -1095571548,
+        -390757913,
+        -2014986817,
+        -2070222917,
+        -373909530,
+        -1125141353,
+        -1785862776,
+        -275923484,
+        -1343841604,
+        -1834489941,
+        -276185873,
+        -1712747332,
+        -1514412892,
+        808464433,
+        -460418843,
+        -1796751427
+      ]
+    },
+    "mark_magic_video_id": {
+      "id": 349,
+      "key": "mark_magic_video_id",
+      "num": 440,
+      "numList": [
+        55591
+      ]
+    },
+    "mark_music_vfx_show_distance": {
+      "id": 350,
+      "key": "mark_music_vfx_show_distance",
+      "num": 442,
+      "numList": [
+        1000
+      ]
+    },
+    "trig_bonus_refresh_scene_res_id": {
+      "id": 351,
+      "key": "trig_bonus_refresh_scene_res_id",
+      "num": 444,
+      "str": [
+        10003,
+        10018
+      ]
+    },
+    "ball_water_effectiveradius": {
+      "id": 352,
+      "key": "ball_water_effectiveradius",
+      "num": 447,
+      "numList": [
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585,
+        -1231558978,
+        682924009,
+        697477095,
+        -410206993,
+        -1159419756,
+        -1466112626,
+        -441872665,
+        -1192970578,
+        -1078270069,
+        -424241178,
+        -1964667492,
+        -1466309215,
+        -442257946,
+        -2014724699,
+        -1349458547,
+        -425688855,
+        -1780051832,
+        -1366432080,
+        -460474140,
+        -2014805832,
+        -1231558988,
+        -391147547,
+        -1310293593,
+        -1919883872,
+        -375545111,
+        -1796830585
+      ]
+    },
+    "nexus_overlap_interactive_position_high": {
+      "id": 353,
+      "key": "nexus_overlap_interactive_position_high",
+      "num": 449,
+      "numList": [
+        -393890072,
+        -1746499649,
+        -1669208650,
+        -441936665,
+        -1712932196,
+        -1095571537,
+        -390757913,
+        -1192981343,
+        -1851726150,
+        -393962777,
+        -1494770249
+      ]
+    },
+    "nexus_overlap_interactive_topcheck_start": {
+      "id": 354,
+      "key": "nexus_overlap_interactive_topcheck_start",
+      "num": 451,
+      "numList": [
+        -376002839,
+        -1998158174,
+        -1146689640,
+        -444547867,
+        -1612334452,
+        -1582372705,
+        -441018394
+      ]
+    },
+    "nexus_overlap_interactive_topcheck_end": {
+      "id": 355,
+      "key": "nexus_overlap_interactive_topcheck_end",
+      "num": 453,
+      "numList": [
+        550
+      ]
+    },
+    "bonus_shining_nightmare_keep_zero_switch": {
+      "id": 356,
+      "key": "bonus_shining_nightmare_keep_zero_switch",
+      "num": 455,
+      "numList": [
+        1667330676,
+        1886281573,
+        1634557795,
+        1970104696
+      ]
+    }
+  }
+}

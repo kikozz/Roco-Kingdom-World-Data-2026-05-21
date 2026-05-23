@@ -1,0 +1,488 @@
+{
+  "RocoDataRows": {
+    "602800101": {
+      "id": 602800101,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800102": {
+      "id": 602800102,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800201": {
+      "id": 602800201,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800202": {
+      "id": 602800202,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800301": {
+      "id": 602800301,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3004"
+          ]
+        }
+      ]
+    },
+    "602800401": {
+      "id": 602800401,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800402": {
+      "id": 602800402,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800501": {
+      "id": 602800501,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800502": {
+      "id": 602800502,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800601": {
+      "id": 602800601,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3062"
+          ]
+        }
+      ]
+    },
+    "602800701": {
+      "id": 602800701,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3545"
+          ]
+        }
+      ]
+    },
+    "602800801": {
+      "id": 602800801,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800802": {
+      "id": 602800802,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800901": {
+      "id": 602800901,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602800902": {
+      "id": 602800902,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801001": {
+      "id": 602801001,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801002": {
+      "id": 602801002,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801101": {
+      "id": 602801101,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801102": {
+      "id": 602801102,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801301": {
+      "id": 602801301,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801302": {
+      "id": 602801302,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801401": {
+      "id": 602801401,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801402": {
+      "id": 602801402,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801601": {
+      "id": 602801601,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3550"
+          ]
+        }
+      ]
+    },
+    "602801602": {
+      "id": 602801602,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3555"
+          ]
+        }
+      ]
+    },
+    "602801701": {
+      "id": 602801701,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801702": {
+      "id": 602801702,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801801": {
+      "id": 602801801,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3618"
+          ]
+        }
+      ]
+    },
+    "602801901": {
+      "id": 602801901,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602801902": {
+      "id": 602801902,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802001": {
+      "id": 602802001,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802002": {
+      "id": 602802002,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802201": {
+      "id": 602802201,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802202": {
+      "id": 602802202,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802401": {
+      "id": 602802401,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802402": {
+      "id": 602802402,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802501": {
+      "id": 602802501,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802502": {
+      "id": 602802502,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802701": {
+      "id": 602802701,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3058"
+          ]
+        }
+      ]
+    },
+    "602802801": {
+      "id": 602802801,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602802802": {
+      "id": 602802802,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803001": {
+      "id": 602803001,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3410"
+          ]
+        }
+      ]
+    },
+    "602803002": {
+      "id": 602803002,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803101": {
+      "id": 602803101,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803102": {
+      "id": 602803102,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803201": {
+      "id": 602803201,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3012"
+          ]
+        }
+      ]
+    },
+    "602803202": {
+      "id": 602803202,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3036"
+          ]
+        }
+      ]
+    },
+    "602803301": {
+      "id": 602803301,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3115"
+          ]
+        }
+      ]
+    },
+    "602803401": {
+      "id": 602803401,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803402": {
+      "id": 602803402,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803501": {
+      "id": 602803501,
+      "interact_cond_group": [
+        {
+          "interact_cond": 7,
+          "interact_cond_param": [
+            "3145"
+          ]
+        }
+      ]
+    },
+    "602803502": {
+      "id": 602803502,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803601": {
+      "id": 602803601,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803602": {
+      "id": 602803602,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803701": {
+      "id": 602803701,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    },
+    "602803702": {
+      "id": 602803702,
+      "interact_cond_group": [
+        {
+          "interact_cond": 13
+        }
+      ]
+    }
+  }
+}

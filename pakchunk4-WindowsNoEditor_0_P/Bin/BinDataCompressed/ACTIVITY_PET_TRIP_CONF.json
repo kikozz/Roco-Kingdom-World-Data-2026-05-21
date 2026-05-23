@@ -1,0 +1,208 @@
+{
+  "RocoDataRows": {
+    "4800001": {
+      "id": 4800001,
+      "stop_time": "2026-07-12 23:59:59",
+      "draw_time": "2026-07-13 08:00:00",
+      "pet_num": 4,
+      "pet_max": 9,
+      "condition": 30000,
+      "initial_quota": 10,
+      "happiness_value": 3,
+      "playtime": 480,
+      "chose_max": 100,
+      "change_time": 3,
+      "mail_id": 80053,
+      "bgm": "Book_Party",
+      "award_id": 1,
+      "condition_group1": [
+        {
+          "happiness_num": 2000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 4000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 6000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 8000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 10000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 12000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 14000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 16000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 18000,
+          "add_quota": 1
+        },
+        {
+          "happiness_num": 20000,
+          "add_quota": 1
+        }
+      ],
+      "condition_group2": [
+        {
+          "happiness_stage": 3500,
+          "goods_type": 1,
+          "goods_id": 100213,
+          "stage_num": 30
+        },
+        {
+          "happiness_stage": 8000,
+          "goods_type": 1,
+          "goods_id": 100628,
+          "stage_num": 20
+        },
+        {
+          "happiness_stage": 12000,
+          "goods_type": 1,
+          "goods_id": 100003,
+          "stage_num": 30
+        },
+        {
+          "happiness_stage": 16000,
+          "goods_type": 1,
+          "goods_id": 100675,
+          "stage_num": 20
+        },
+        {
+          "happiness_stage": 20000,
+          "goods_type": 2,
+          "goods_id": 3,
+          "stage_num": 20
+        },
+        {
+          "happiness_stage": 25000,
+          "goods_type": 1,
+          "goods_id": 100676,
+          "stage_num": 20
+        },
+        {
+          "happiness_stage": 30000,
+          "goods_type": 1,
+          "goods_id": 100699,
+          "stage_num": 300
+        },
+        {
+          "happiness_stage": 35000,
+          "goods_type": 1,
+          "goods_id": 100255,
+          "stage_num": 1
+        },
+        {
+          "happiness_stage": 40000,
+          "goods_type": 1,
+          "goods_id": 100677,
+          "stage_num": 20
+        },
+        {
+          "happiness_stage": 45000,
+          "goods_type": 1,
+          "goods_id": 100201,
+          "stage_num": 300
+        },
+        {
+          "happiness_stage": 50000,
+          "goods_type": 1,
+          "goods_id": 100203,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 55000,
+          "goods_type": 1,
+          "goods_id": 100423,
+          "stage_num": 30
+        },
+        {
+          "happiness_stage": 60000,
+          "goods_type": 1,
+          "goods_id": 100626,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 65000,
+          "goods_type": 1,
+          "goods_id": 100699,
+          "stage_num": 300
+        },
+        {
+          "happiness_stage": 70000,
+          "goods_type": 2,
+          "goods_id": 3,
+          "stage_num": 20
+        },
+        {
+          "happiness_stage": 75000,
+          "goods_type": 1,
+          "goods_id": 100688,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 80000,
+          "goods_type": 1,
+          "goods_id": 100003,
+          "stage_num": 30
+        },
+        {
+          "happiness_stage": 90000,
+          "goods_type": 1,
+          "goods_id": 100213,
+          "stage_num": 30
+        },
+        {
+          "happiness_stage": 100000,
+          "goods_type": 1,
+          "goods_id": 100690,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 110000,
+          "goods_type": 1,
+          "goods_id": 100693,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 120000,
+          "goods_type": 1,
+          "goods_id": 100694,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 130000,
+          "goods_type": 1,
+          "goods_id": 100695,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 140000,
+          "goods_type": 1,
+          "goods_id": 100696,
+          "stage_num": 5
+        },
+        {
+          "happiness_stage": 150000,
+          "goods_type": 1,
+          "goods_id": 100698,
+          "stage_num": 5
+        }
+      ]
+    }
+  }
+}

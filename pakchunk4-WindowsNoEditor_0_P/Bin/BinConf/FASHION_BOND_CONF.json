@@ -1,0 +1,202 @@
+{
+  "Name": "FASHION_BOND_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EInt32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "name",
+      "Type": "ELocalizedString",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "fashion_bond_quality",
+      "Type": "EInt32",
+      "Offset": 8,
+      "Size": 4
+    },
+    {
+      "Name": "suits_id",
+      "Type": "EUint32",
+      "Offset": 12,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "petbase_id",
+      "Type": "EUint32",
+      "Offset": 16,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "pet_interact_id",
+      "Type": "EUint32",
+      "Offset": 20,
+      "Size": 4
+    },
+    {
+      "Name": "perform_id",
+      "Type": "EUint32",
+      "Offset": 24,
+      "Size": 4
+    },
+    {
+      "Name": "launch_item",
+      "Type": "EBool",
+      "Offset": 28,
+      "Size": 1
+    },
+    {
+      "Name": "launch_suits",
+      "Type": "EBool",
+      "Offset": 29,
+      "Size": 1
+    },
+    {
+      "Name": "color_suits_id",
+      "Type": "EUint32",
+      "Offset": 30,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    },
+    {
+      "Name": "fashion_bond_source",
+      "Type": "EInt32",
+      "Offset": 34,
+      "Size": 4
+    },
+    {
+      "Name": "fashion_bond_icon",
+      "Type": "EString",
+      "Offset": 38,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "fashion_bond_big_icon",
+      "Type": "EString",
+      "Offset": 42,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "fashion_bond_band",
+      "Type": "EInt32",
+      "Offset": 46,
+      "Size": 4
+    },
+    {
+      "Name": "fashion_bond_style",
+      "Type": "ELocalizedString",
+      "Offset": 50,
+      "Size": 4
+    },
+    {
+      "Name": "popup_text_color",
+      "Type": "EString",
+      "Offset": 54,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_text_tint",
+      "Type": "EString",
+      "Offset": 58,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_image_male",
+      "Type": "EString",
+      "Offset": 62,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_image_female",
+      "Type": "EString",
+      "Offset": 66,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_text",
+      "Type": "ELocalizedString",
+      "Offset": 70,
+      "Size": 4
+    },
+    {
+      "Name": "popup_text_interact",
+      "Type": "EString",
+      "Offset": 74,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "fashion_bond_album_male",
+      "Type": "EString",
+      "Offset": 78,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "fashion_bond_album_female",
+      "Type": "EString",
+      "Offset": 82,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_text_normal",
+      "Type": "EString",
+      "Offset": 86,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_callout_male",
+      "Type": "EString",
+      "Offset": 90,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_callout_female",
+      "Type": "EString",
+      "Offset": 94,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "popup_text_callout",
+      "Type": "EString",
+      "Offset": 98,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "exhibit_text",
+      "Type": "ELocalizedString",
+      "Offset": 102,
+      "Size": 4
+    },
+    {
+      "Name": "petbase_all_id",
+      "Type": "EUint32",
+      "Offset": 106,
+      "Size": 4,
+      "CompressedSize": 4,
+      "DynamicArray": true
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo1.xueliyuenzuo1'",
+      "text": "1句开始播放BGM",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 20,
+      "background_music": "1",
+      "next_picture": 2
+    },
+    "2": {
+      "id": 2,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo2.xueliyuenzuo2'",
+      "text": "2句有配音",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 20,
+      "dialogue_sound": "dialog165000251",
+      "next_picture": 3
+    },
+    "3": {
+      "id": 3,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo3.xueliyuenzuo3'",
+      "text": "3句有配音",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 20,
+      "dialogue_sound": "dialog165000202",
+      "next_picture": 4
+    },
+    "4": {
+      "id": 4,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo4.xueliyuenzuo4'",
+      "text": "4句切换BGM",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 20,
+      "background_music": "6",
+      "next_picture": 5
+    },
+    "5": {
+      "id": 5,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo5.xueliyuenzuo5'",
+      "text": "淡入淡出效果测试1",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 20,
+      "next_picture": 6
+    },
+    "6": {
+      "id": 6,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo6.xueliyuenzuo6'",
+      "text": "淡入淡出效果测试2",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 20,
+      "next_picture": 7
+    },
+    "7": {
+      "id": 7,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo7.xueliyuenzuo7'",
+      "text": "淡入淡出效果测试3",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 20,
+      "next_picture": 8
+    },
+    "8": {
+      "id": 8,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo8.xueliyuenzuo8'",
+      "text": "淡入淡出效果测试4",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 20,
+      "next_picture": 9
+    },
+    "9": {
+      "id": 9,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/xueliyuenzuo9.xueliyuenzuo9'",
+      "text": "淡入淡出效果测试5",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 20
+    },
+    "101": {
+      "id": 101,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide1.S1_season_task_slide1'",
+      "text": "我最得意的发明，打嗝箱，也许这是我最后一次麻烦你了。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 10,
+      "background_music": "1",
+      "next_picture": 102
+    },
+    "102": {
+      "id": 102,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide2.S1_season_task_slide2'",
+      "text": "这个魔法失败过很多次，但这一次，请一定要成功啊。嘿！「魔力果超级大爆发」——",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 15,
+      "next_picture": 103
+    },
+    "103": {
+      "id": 103,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide3.S1_season_task_slide3'",
+      "text": "喂，那边的……大家伙！看这里！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 5,
+      "background_music": "5",
+      "next_picture": 104
+    },
+    "104": {
+      "id": 104,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide4.S1_season_task_slide4'",
+      "text": "没错，乖——乖——就是这样。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 5,
+      "next_picture": 105
+    },
+    "105": {
+      "id": 105,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide5.S1_season_task_slide5'",
+      "text": "老大！怎、怎么办……那个菜鸟研究员把噩梦龙息帕尔变没了！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "next_picture": 106
+    },
+    "106": {
+      "id": 106,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide6.S1_season_task_slide6'",
+      "text": "急什么急，我们也追上去！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 5,
+      "next_picture": 107
+    },
+    "107": {
+      "id": 107,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide7.S1_season_task_slide7'",
+      "text": "到手的传说精灵，没了我怎么给上面交差！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "next_picture": 108
+    },
+    "108": {
+      "id": 108,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide8.S1_season_task_slide8'",
+      "text": "里面怎么黑咕隆咚的？！什么也看不见啊，哎哟！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 5,
+      "background_music": "2",
+      "next_picture": 109
+    },
+    "109": {
+      "id": 109,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide9.S1_season_task_slide9'",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "next_picture": 110
+    },
+    "110": {
+      "id": 110,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_season_task_slide10.S1_season_task_slide10'",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5
+    },
+    "111": {
+      "id": 111,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_Activity_HuoMa1.S1_Activity_HuoMa1'",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 4,
+      "background_music": "2006",
+      "next_picture": 112
+    },
+    "112": {
+      "id": 112,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_Activity_HuoMa2.S1_Activity_HuoMa2'",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 4,
+      "background_music": "2006",
+      "next_picture": 113
+    },
+    "113": {
+      "id": 113,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_Activity_HuoMa3.S1_Activity_HuoMa3'",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 4,
+      "background_music": "2006",
+      "next_picture": 114
+    },
+    "114": {
+      "id": 114,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/S1_Activity_HuoMa4.S1_Activity_HuoMa4'",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "background_music": "2006"
+    },
+    "201": {
+      "id": 201,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_01.s2_task_01'",
+      "text": "好厉害的马戏表演！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "background_music": "100",
+      "next_picture": 202
+    },
+    "202": {
+      "id": 202,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_02.s2_task_02'",
+      "text": "等我长大了，我也要变成超级厉害的魔法师！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "next_picture": 203
+    },
+    "203": {
+      "id": 203,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_03.s2_task_03'",
+      "text": "你好，我叫希洛。很高兴认识你！既然你的脚下的咕噜老是转个不停，我那就叫你小轱辘好了。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 4,
+      "next_picture": 204
+    },
+    "204": {
+      "id": 204,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_04.s2_task_04'",
+      "text": "让人心跳加速的大炮飞人！没想到你也喜欢这个节目！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 4,
+      "next_picture": 205
+    },
+    "205": {
+      "id": 205,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_05.s2_task_05'",
+      "text": "加油，小轱辘，就快到终点了！你是最厉害的！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 4,
+      "next_picture": 206
+    },
+    "206": {
+      "id": 206,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_06.s2_task_06'",
+      "text": "哈哈！我们是最厉害的搭档！总有一天，我们也会创造出整个大陆最棒的马戏团。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "next_picture": 207
+    },
+    "207": {
+      "id": 207,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/s2_task_07.s2_task_07'",
+      "text": "小轱辘，等我学会最厉害的魔法，就回来找你！",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "background_music": "104"
+    },
+    "1001": {
+      "id": 1001,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr1.quanfarr1'",
+      "text": "许多年前，法尔是一只商店街的小狗。它和它的主人弗雷姆，相识于附近终日忙碌的码头。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 15,
+      "background_music": "51",
+      "next_picture": 1002
+    },
+    "1002": {
+      "id": 1002,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr2.quanfarr2'",
+      "text": "作为辛苦的码头小子，每天下班，弗雷姆都能等到可爱的法尔，和它一起玩耍。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 7,
+      "next_picture": 1003
+    },
+    "1003": {
+      "id": 1003,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr3.quanfarr3'",
+      "text": "玩到累了，一洛一犬便会躺倒在岸边。弗雷姆时常看着远山，轻轻告诉法尔外面的世界。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 7,
+      "next_picture": 1004
+    },
+    "1004": {
+      "id": 1004,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr4.quanfarr4'",
+      "text": "渐渐地，法尔将弗雷姆视作了最亲密的主人；在弗雷姆眼中，法尔亦是世界上最可爱的小狗。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 9,
+      "next_picture": 1005
+    },
+    "1005": {
+      "id": 1005,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr5.quanfarr5'",
+      "text": "直到有一天，弗雷姆像往常一样出海，却再也没有回来。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 14,
+      "next_picture": 1006
+    },
+    "1006": {
+      "id": 1006,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr6.quanfarr6'",
+      "text": "得知真相的镇民告诉了法尔噩耗，可它却并不相信。于是它从一个个天黑，等到一个个天亮。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 17,
+      "next_picture": 1007
+    },
+    "1007": {
+      "id": 1007,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr7.quanfarr7'",
+      "text": "往日码头逐渐废弃，水手也不再往来。只有法尔固执地守在月牙湖畔，遥遥无期地等待主人的归来。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 16,
+      "next_picture": 1008
+    },
+    "1008": {
+      "id": 1008,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/quanfarr8.quanfarr8'",
+      "text": "后来，附近的洛克们决定为弗雷姆和法尔修建一座纪念碑。他们以此铭记法尔的衷心守候，还有，被这个故事感动的心……",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 26
+    },
+    "1011": {
+      "id": 1011,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan1.niaoatlan1'",
+      "text": "百年前，当信仰者们纷纷涌入这座台地的时刻。作为台地原住民的阿特岚，尚未做好接纳他们的准备。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 12,
+      "background_music": "44",
+      "next_picture": 1012
+    },
+    "1012": {
+      "id": 1012,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan2.niaoatlan2'",
+      "text": "一直以来，信仰者们想要取悦这位冷面的霜翼领主。但却纷纷被阿特岚率性的行径，无言拒绝。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1013
+    },
+    "1013": {
+      "id": 1013,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan3.niaoatlan3'",
+      "text": "直到，风雪呼啸扑向村落的那天……阿特岚振翅而起，奋力将砸向人们的积雪扫入山崖之下。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 17,
+      "next_picture": 1014
+    },
+    "1014": {
+      "id": 1014,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan4.niaoatlan4'",
+      "text": "信仰者们将那搏击风雪的强韧身姿，视作一场充满力量的「神舞」。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 14,
+      "next_picture": 1015
+    },
+    "1015": {
+      "id": 1015,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan5.niaoatlan5'",
+      "text": "人们的感激与崇拜，化作了村落的「星霜花塔」。这是信仰者们，对阿特岚阁下无私守护的敬意。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 18,
+      "next_picture": 1016
+    },
+    "1016": {
+      "id": 1016,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan6.niaoatlan6'",
+      "text": "而后，一场舞姿笨拙的舞会，成为了台地新的仪式。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 12,
+      "next_picture": 1017
+    },
+    "1017": {
+      "id": 1017,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan7.niaoatlan7'",
+      "text": "当误会成为传说，当事鸟阿特岚却哭笑不得——它不过做了举爪之劳而已。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 20,
+      "next_picture": 1018
+    },
+    "1018": {
+      "id": 1018,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/niaoatlan8.niaoatlan8'",
+      "text": "但它似乎也明白了洛克的可爱之处。这是即便性格如阿特岚这般冰冷，也能感受到的善良与温暖。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 14
+    },
+    "1021": {
+      "id": 1021,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan1.maofumorgan1'",
+      "text": "几年前，风眠省流传着一个离奇的传闻，有一个无处不在的黑影在暗中观察着每一个洛克……",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 15,
+      "background_music": "54",
+      "next_picture": 1022
+    },
+    "1022": {
+      "id": 1022,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan2.maofumorgan2'",
+      "text": "那道黑影从不伤人，像风一样掠过村落，又总在被察觉的瞬间迅速离开。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 12,
+      "next_picture": 1023
+    },
+    "1023": {
+      "id": 1023,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan3.maofumorgan3'",
+      "text": "黑影像是在寻找什么，渐渐地，它不再出现在城镇里。传言也随着时光淡去，成了镇民们饭后的旧话。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 12,
+      "next_picture": 1024
+    },
+    "1024": {
+      "id": 1024,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan4.maofumorgan4'",
+      "text": "人们不知道的是，黑影已潜入峡谷最深处的秘地之中。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1025
+    },
+    "1025": {
+      "id": 1025,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan5.maofumorgan5'",
+      "text": "而这名神秘的黑影，则是昔日鼎鼎大名的密探——芙摩甘。在峡谷深处，她找到了苦寻已久的遗物。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 12,
+      "next_picture": 1026
+    },
+    "1026": {
+      "id": 1026,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan6.maofumorgan6'",
+      "text": "如今，镇子里依旧对黑影的去处众说纷纭。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1027
+    },
+    "1027": {
+      "id": 1027,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/maofumorgan7.maofumorgan7'",
+      "text": "而可爱的芙摩甘，此时正安然守护着好友的宝物。假以时日，它坚信这那个家伙，会再次降临。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11
+    },
+    "1031": {
+      "id": 1031,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya1.xuearya1'",
+      "text": "在很小的时候，艾莉亚便感觉到自己的与众不同。比起风雪中的其他精灵，它显然更加聪明、更富有情感。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 15,
+      "background_music": "86",
+      "next_picture": 1032
+    },
+    "1032": {
+      "id": 1032,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya2.xuearya2'",
+      "text": "艾莉亚喜欢耍弄独特的玩偶戏法。在戏法变幻之间，它希望能给大家带去欢乐。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 15,
+      "next_picture": 1033
+    },
+    "1033": {
+      "id": 1033,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya3.xuearya3'",
+      "text": "但忙碌的旅人们，却好像从未理解过它的好意。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 1,
+      "auto_play_time": 7,
+      "next_picture": 1034
+    },
+    "1034": {
+      "id": 1034,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya4.xuearya4'",
+      "text": "当友善不被理解，小小的孤单，也萦绕着艾莉亚。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 8,
+      "next_picture": 1035
+    },
+    "1035": {
+      "id": 1035,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya5.xuearya5'",
+      "text": "好在，一阵寒风，引来了一群懵懂的学院孩子们。「哇啊！」，他们被突然出现的身影吓了一跳。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 13,
+      "background_music": "70",
+      "next_picture": 1036
+    },
+    "1036": {
+      "id": 1036,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya6.xuearya6'",
+      "text": "艾莉亚再一次鼓起勇气，轻轻施动了奇异的魔法。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 14,
+      "next_picture": 1037
+    },
+    "1037": {
+      "id": 1037,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya7.xuearya7'",
+      "text": "而这一次，孩子们的眼睛却亮了起来。「太棒啦！」「这是你的能力吧！」",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 13,
+      "next_picture": 1038
+    },
+    "1038": {
+      "id": 1038,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/xuearya8.xuearya8'",
+      "text": "篝火映衬着欢笑，艾莉亚的戏法，终于收获了懂得欣赏的观众。而艾莉亚，也拥有了新的朋友。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 15
+    },
+    "1041": {
+      "id": 1041,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack1.stoneblack1'",
+      "text": "在孩子们的眼中，布莱克先生不仅是一块石头，还是信仰者村落坚实的保护者。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 17,
+      "background_music": "58",
+      "next_picture": 1042
+    },
+    "1042": {
+      "id": 1042,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack2.stoneblack2'",
+      "text": "无论时光如何轮转，布莱克始终忠诚地守护着神山的草木与晨昏。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 13,
+      "next_picture": 1043
+    },
+    "1043": {
+      "id": 1043,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack3.stoneblack3'",
+      "text": "「神山不容任何人的破坏」，布莱克谨记着记忆石爷爷的忠告。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 14,
+      "next_picture": 1044
+    },
+    "1044": {
+      "id": 1044,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack4.stoneblack4'",
+      "text": "它高举双拳，将心怀不轨的闯入者一次次打出神山的地界。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 17,
+      "next_picture": 1045
+    },
+    "1045": {
+      "id": 1045,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack5.stoneblack5'",
+      "text": "那些在布莱克手中吃瘪的家伙们散布谣言，将它歪曲成了凶猛恶兽，但关于这一切，布莱克并不在乎。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 8,
+      "next_picture": 1046
+    },
+    "1046": {
+      "id": 1046,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack6.stoneblack6'",
+      "text": "也许，布莱克先生永远无法表露自己的感受，但它总在以自己的方式保护着大家。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 9,
+      "next_picture": 1047
+    },
+    "1047": {
+      "id": 1047,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/stoneblack7.stoneblack7'",
+      "text": "它岩石般坚韧的心中，有的只是全力守护大家与神山的火焰。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11
+    },
+    "1071": {
+      "id": 1071,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct1.guodoct1'",
+      "text": "蹦蹦家族以毒闻名，可多特偏要化毒为药，它执针走遍荒野，只为疗愈众生。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "background_music": "23",
+      "next_picture": 1072
+    },
+    "1072": {
+      "id": 1072,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct2.guodoct2'",
+      "text": "面对广袤的世界，多特十分渴望发挥自己的才能。然而，它的初次出诊，却进行得并不顺利。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1073
+    },
+    "1073": {
+      "id": 1073,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct3.guodoct3'",
+      "text": "慌乱之中，一位年迈的洛克不慎摔倒。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 5,
+      "next_picture": 1074
+    },
+    "1074": {
+      "id": 1074,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct4.guodoct4'",
+      "text": "来不及顾及什么，面对痛苦的老人，多特本能地为老人进行了治疗。治疗结束后，多特便默默离开了。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 16,
+      "next_picture": 1075
+    },
+    "1075": {
+      "id": 1075,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct5.guodoct5'",
+      "text": "语言不通的医生又该如何治病呢？多特陷入了短暂的低落之中。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1076
+    },
+    "1076": {
+      "id": 1076,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct6.guodoct6'",
+      "text": "但很快，多特神奇善良的行径，就被附近的洛克们所传颂。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1077
+    },
+    "1077": {
+      "id": 1077,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct7.guodoct7'",
+      "text": "在老人善意的回馈下，它再也不需要漫游山野了。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11,
+      "next_picture": 1078
+    },
+    "1078": {
+      "id": 1078,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/Taskpetleader/guodoct8.guodoct8'",
+      "text": "而是成为了晨曦山的守望者，大家逐渐信赖的——「多特医生」。",
+      "mask_effect_type": 1,
+      "picture_switch_type": 2,
+      "auto_play_time": 11
+    },
+    "2001": {
+      "id": 2001,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/lingfengzhen.lingfengzhen'",
+      "text": "它们，聆听风的消息。风起时，它们不知疲倦地，围绕轴心舞蹈。风止时，它们静默地等待，坐看日升月落。",
+      "auto_play_time": 10,
+      "background_music": "59",
+      "next_picture": 2002
+    },
+    "2002": {
+      "id": 2002,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/lingfengzhen.lingfengzhen'",
+      "text": "你总说，那是在向天空轻轻招手。那就，去和它们打个招呼吧——在长满青苔的棚顶下，抬头便可看见它们的手掌。",
+      "auto_play_time": 10,
+      "next_picture": 2003
+    },
+    "2003": {
+      "id": 2003,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/lingfengzhen.lingfengzhen'",
+      "text": "当你找不到方向的时候，就看看远方，也许风会带你去向注定的目的地。",
+      "auto_play_time": 10
+    },
+    "2006": {
+      "id": 2006,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/xueshan.xueshan'",
+      "text": "那里有着最纯净的色彩，是比云彩还冷的地方。",
+      "auto_play_time": 10,
+      "background_music": "85",
+      "next_picture": 2007
+    },
+    "2007": {
+      "id": 2007,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/xueshan.xueshan'",
+      "text": "在所有白色中间，在洞穴之中，闪闪发光的花，在等着你的到来。",
+      "auto_play_time": 10,
+      "next_picture": 2008
+    },
+    "2008": {
+      "id": 2008,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/xueshan.xueshan'",
+      "text": "当你找不到方向的时候，就看看远方，也许那份凉意会带你去向注定的目的地。",
+      "auto_play_time": 10
+    },
+    "2010": {
+      "id": 2010,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/pubu.pubu'",
+      "text": "是上天落下的甘霖，由高到低奔走喧闹。",
+      "auto_play_time": 10,
+      "background_music": "67",
+      "next_picture": 2011
+    },
+    "2011": {
+      "id": 2011,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/pubu.pubu'",
+      "text": "穿过那低处的水帘，便可得到一方幽僻之所。",
+      "auto_play_time": 10,
+      "next_picture": 2012
+    },
+    "2012": {
+      "id": 2012,
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask/pubu.pubu'",
+      "text": "当你找不到方向的时候，就看看远方，也许流水会带你去向注定的目的地。",
+      "auto_play_time": 10
+    }
+  }
+}

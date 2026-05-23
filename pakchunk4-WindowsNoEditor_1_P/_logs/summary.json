@@ -1,0 +1,61 @@
+{
+  "pak": "pakchunk4-WindowsNoEditor_1_P",
+  "source": "D:\\FModel\\Output\\Exports\\pak_split_scriptc_data\\pakchunk4-WindowsNoEditor_1_P\\NRC\\Content\\ScriptC\\Data",
+  "output": "D:\\code\\Roco-Kingdom-World-Data-2026-05-24-pak-split\\pakchunk4-WindowsNoEditor_1_P",
+  "Bin": {
+    "BinConf": {
+      "input": 1,
+      "ok": 1,
+      "fail": 0
+    },
+    "md5": {
+      "input": 1,
+      "ok": 1,
+      "fail": 0
+    },
+    "BinLocalize": {
+      "languages": {
+        "dev_CN": {
+          "input": 2,
+          "ok": 2,
+          "fail": 0,
+          "missing_schema": 0
+        },
+        "zh_Hans": {
+          "input": 2,
+          "ok": 2,
+          "fail": 0,
+          "missing_schema": 0
+        }
+      },
+      "input": 4,
+      "ok": 4,
+      "fail": 0
+    },
+    "BinDataCompressed": {
+      "input": 25,
+      "ok": 25,
+      "fail": 0,
+      "missing_schema": 0
+    },
+    "BinData": {
+      "input": 0,
+      "ok": 0,
+      "fail": 0,
+      "missing_schema": 0
+    }
+  },
+  "Config": {
+    "md5": {
+      "input": 0,
+      "ok": 0,
+      "fail": 0
+    }
+  },
+  "PB": {
+    "proto_out": {
+      "input": 1,
+      "ok": 72
+    }
+  }
+}

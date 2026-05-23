@@ -1,0 +1,67 @@
+{
+  "Name": "NPC_REFRESH_BONUS_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "event_prepose_condition",
+      "Type": "EStruct",
+      "Offset": 4,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 2,
+      "Struct": {
+        "Name": "NPC_REFRESH_BONUS_CONF.event_prepose_condition",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "condition_type",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+          },
+          {
+            "Name": "condition_param1",
+            "Type": "EUint32",
+            "Offset": 4,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          },
+          {
+            "Name": "condition_param2",
+            "Type": "EUint32",
+            "Offset": 8,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          }
+        ]
+      }
+    },
+    {
+      "Name": "event_type",
+      "Type": "EInt32",
+      "Offset": 8,
+      "Size": 4
+    },
+    {
+      "Name": "bonus_type",
+      "Type": "EInt32",
+      "Offset": 12,
+      "Size": 4
+    },
+    {
+      "Name": "bonus_id",
+      "Type": "EUint32",
+      "Offset": 16,
+      "Size": 4
+    }
+  ]
+}

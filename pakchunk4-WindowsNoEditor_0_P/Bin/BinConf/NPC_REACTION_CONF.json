@@ -1,0 +1,53 @@
+{
+  "Name": "NPC_REACTION_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "pet_base_id",
+      "Type": "EUint32",
+      "Offset": 4,
+      "Size": 4
+    },
+    {
+      "Name": "pet_name",
+      "Type": "ELocalizedString",
+      "Offset": 8,
+      "Size": 4
+    },
+    {
+      "Name": "npc_group_id",
+      "Type": "EUint32",
+      "Offset": 12,
+      "Size": 4
+    },
+    {
+      "Name": "reaction_conf",
+      "Type": "EStruct",
+      "Offset": 16,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 3,
+      "Struct": {
+        "Name": "NPC_REACTION_CONF.reaction_conf",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "npc_anim",
+            "Type": "EUint32",
+            "Offset": 0,
+            "Size": 4,
+            "CompressedSize": 4,
+            "DynamicArray": true
+          }
+        ]
+      }
+    }
+  ]
+}

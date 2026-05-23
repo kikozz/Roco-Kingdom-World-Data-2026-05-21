@@ -1,0 +1,87 @@
+{
+  "RocoDataRows": {
+    "1001": {
+      "id": 1001
+    },
+    "1002": {
+      "id": 1002,
+      "exchange_time": "2026-05-21 04:00:01",
+      "need_exchange_goods_type": 2,
+      "need_exchange_goods_id": 18,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 4000,
+      "exchange_mail_id": 6000002
+    },
+    "1003": {
+      "id": 1003,
+      "exchange_time": "2026-07-16 04:00:01",
+      "need_exchange_goods_type": 1,
+      "need_exchange_goods_id": 320038,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 1000,
+      "exchange_mail_id": 200004
+    },
+    "1004": {
+      "id": 1004,
+      "exchange_time": "2026-05-21 04:00:01",
+      "need_exchange_goods_type": 1,
+      "need_exchange_goods_id": 280002,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 80000,
+      "exchange_mail_id": 6000001
+    },
+    "1005": {
+      "id": 1005,
+      "exchange_time": "2026-07-10 04:00:01",
+      "need_exchange_goods_type": 2,
+      "need_exchange_goods_id": 51,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 1600,
+      "exchange_mail_id": 200005
+    },
+    "1006": {
+      "id": 1006,
+      "exchange_time": "2026-06-12 04:00:01",
+      "need_exchange_goods_type": 1,
+      "need_exchange_goods_id": 320037,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 1000,
+      "exchange_mail_id": 80077
+    },
+    "1007": {
+      "id": 1007,
+      "exchange_time": "2026-07-16 04:00:01",
+      "need_exchange_goods_type": 2,
+      "need_exchange_goods_id": 74,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 4000,
+      "exchange_mail_id": 6000004
+    },
+    "1008": {
+      "id": 1008,
+      "exchange_time": "2026-07-16 04:00:01",
+      "need_exchange_goods_type": 1,
+      "need_exchange_goods_id": 280005,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 80000,
+      "exchange_mail_id": 6000003
+    },
+    "1009": {
+      "id": 1009,
+      "exchange_time": "2026-07-16 04:00:01",
+      "need_exchange_goods_type": 1,
+      "need_exchange_goods_id": 320020,
+      "exchange_goods_type": 2,
+      "exchange_goods_id": 1,
+      "exchange_rate": 1000,
+      "exchange_mail_id": 80080
+    }
+  }
+}

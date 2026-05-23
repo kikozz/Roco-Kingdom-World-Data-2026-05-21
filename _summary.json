@@ -1,0 +1,215 @@
+[
+  {
+    "pak": "pakchunk4-WindowsNoEditor",
+    "source": "D:\\FModel\\Output\\Exports\\pak_split_scriptc_data\\pakchunk4-WindowsNoEditor\\NRC\\Content\\ScriptC\\Data",
+    "output": "D:\\code\\Roco-Kingdom-World-Data-2026-05-24-pak-split\\pakchunk4-WindowsNoEditor",
+    "Bin": {
+      "BinConf": {
+        "input": 675,
+        "ok": 675,
+        "fail": 0
+      },
+      "md5": {
+        "input": 1,
+        "ok": 1,
+        "fail": 0
+      },
+      "BinLocalize": {
+        "languages": {
+          "dev_CN": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "en_US": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "pt_PT": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "zh_CN": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "zh_HK": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "zh_MO": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "zh_TW": {
+            "input": 13,
+            "ok": 13,
+            "fail": 0,
+            "missing_schema": 0
+          }
+        },
+        "input": 91,
+        "ok": 91,
+        "fail": 0
+      },
+      "BinDataCompressed": {
+        "input": 675,
+        "ok": 675,
+        "fail": 0,
+        "missing_schema": 0
+      },
+      "BinData": {
+        "input": 3,
+        "ok": 3,
+        "fail": 0,
+        "missing_schema": 0
+      }
+    },
+    "Config": {
+      "md5": {
+        "input": 1,
+        "ok": 1,
+        "fail": 0
+      }
+    },
+    "PB": {
+      "proto_out": {
+        "input": 1,
+        "ok": 66
+      }
+    }
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor_0_P",
+    "source": "D:\\FModel\\Output\\Exports\\pak_split_scriptc_data\\pakchunk4-WindowsNoEditor_0_P\\NRC\\Content\\ScriptC\\Data",
+    "output": "D:\\code\\Roco-Kingdom-World-Data-2026-05-24-pak-split\\pakchunk4-WindowsNoEditor_0_P",
+    "Bin": {
+      "BinConf": {
+        "input": 392,
+        "ok": 392,
+        "fail": 0
+      },
+      "md5": {
+        "input": 1,
+        "ok": 1,
+        "fail": 0
+      },
+      "BinLocalize": {
+        "languages": {
+          "dev_CN": {
+            "input": 234,
+            "ok": 234,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "zh_Hans": {
+            "input": 235,
+            "ok": 235,
+            "fail": 0,
+            "missing_schema": 0
+          }
+        },
+        "input": 469,
+        "ok": 469,
+        "fail": 0
+      },
+      "BinDataCompressed": {
+        "input": 564,
+        "ok": 564,
+        "fail": 0,
+        "missing_schema": 0
+      },
+      "BinData": {
+        "input": 0,
+        "ok": 0,
+        "fail": 0,
+        "missing_schema": 0
+      }
+    },
+    "Config": {
+      "md5": {
+        "input": 0,
+        "ok": 0,
+        "fail": 0
+      }
+    },
+    "PB": {
+      "proto_out": {
+        "input": 1,
+        "ok": 72
+      }
+    }
+  },
+  {
+    "pak": "pakchunk4-WindowsNoEditor_1_P",
+    "source": "D:\\FModel\\Output\\Exports\\pak_split_scriptc_data\\pakchunk4-WindowsNoEditor_1_P\\NRC\\Content\\ScriptC\\Data",
+    "output": "D:\\code\\Roco-Kingdom-World-Data-2026-05-24-pak-split\\pakchunk4-WindowsNoEditor_1_P",
+    "Bin": {
+      "BinConf": {
+        "input": 1,
+        "ok": 1,
+        "fail": 0
+      },
+      "md5": {
+        "input": 1,
+        "ok": 1,
+        "fail": 0
+      },
+      "BinLocalize": {
+        "languages": {
+          "dev_CN": {
+            "input": 2,
+            "ok": 2,
+            "fail": 0,
+            "missing_schema": 0
+          },
+          "zh_Hans": {
+            "input": 2,
+            "ok": 2,
+            "fail": 0,
+            "missing_schema": 0
+          }
+        },
+        "input": 4,
+        "ok": 4,
+        "fail": 0
+      },
+      "BinDataCompressed": {
+        "input": 25,
+        "ok": 25,
+        "fail": 0,
+        "missing_schema": 0
+      },
+      "BinData": {
+        "input": 0,
+        "ok": 0,
+        "fail": 0,
+        "missing_schema": 0
+      }
+    },
+    "Config": {
+      "md5": {
+        "input": 0,
+        "ok": 0,
+        "fail": 0
+      }
+    },
+    "PB": {
+      "proto_out": {
+        "input": 1,
+        "ok": 72
+      }
+    }
+  }
+]

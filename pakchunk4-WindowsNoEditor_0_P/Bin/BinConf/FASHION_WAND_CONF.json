@@ -1,0 +1,101 @@
+{
+  "Name": "FASHION_WAND_CONF",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EInt32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "WandName",
+      "Type": "EString",
+      "Offset": 4,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "editor_name",
+      "Type": "EString",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "magic_name",
+      "Type": "ELocalizedString",
+      "Offset": 12,
+      "Size": 4
+    },
+    {
+      "Name": "launch_item",
+      "Type": "EBool",
+      "Offset": 16,
+      "Size": 1
+    },
+    {
+      "Name": "magic_icon",
+      "Type": "EString",
+      "Offset": 17,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "WandMesh",
+      "Type": "EString",
+      "Offset": 21,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "wand_tips_text",
+      "Type": "ELocalizedString",
+      "Offset": 25,
+      "Size": 4
+    },
+    {
+      "Name": "wand_video_male",
+      "Type": "EString",
+      "Offset": 29,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "wand_video_female",
+      "Type": "EString",
+      "Offset": 33,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "magic_list",
+      "Type": "EInt32",
+      "Offset": 37,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 7
+    },
+    {
+      "Name": "magic_dress_text",
+      "Type": "EString",
+      "Offset": 41,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "magic_btn_icon",
+      "Type": "EString",
+      "Offset": 45,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "wand_source",
+      "Type": "EInt32",
+      "Offset": 49,
+      "Size": 4
+    }
+  ]
+}

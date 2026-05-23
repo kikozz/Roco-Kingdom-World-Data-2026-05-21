@@ -1,0 +1,46 @@
+{
+  "RocoDataRows": {
+    "bp_buy_level_goods_shop_id": {
+      "id": 1,
+      "key": "bp_buy_level_goods_shop_id",
+      "num": 900001,
+      "is_loc": 2
+    },
+    "bp_quick_buy_level_unit": {
+      "id": 2,
+      "key": "bp_quick_buy_level_unit",
+      "num": 5,
+      "is_loc": 2
+    },
+    "max_bp_exp_per_week": {
+      "id": 3,
+      "key": "max_bp_exp_per_week",
+      "num": 20000,
+      "is_loc": 2
+    },
+    "BP_close_protect": {
+      "id": 4,
+      "key": "BP_close_protect",
+      "num": 48,
+      "is_loc": 2
+    },
+    "BP_max_level_protect": {
+      "id": 5,
+      "key": "BP_max_level_protect",
+      "num": 100,
+      "is_loc": 2
+    },
+    "EUT_DIAMOND_USE_COUPON": {
+      "id": 6,
+      "key": "EUT_DIAMOND_USE_COUPON",
+      "num": 90000000,
+      "is_loc": 2
+    },
+    "buy_num_limit": {
+      "id": 7,
+      "key": "buy_num_limit",
+      "num": 999,
+      "is_loc": 2
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "RocoDataRows": {
+    "4400001": {
+      "id": 4400001,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+      "goods_type": 1,
+      "goods_id": 1002142,
+      "goods_count": 1,
+      "package_id1": 10501,
+      "package_id2": 10502,
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet6.img_FashionPetPhoto_Pet6'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet6_Empty.img_FashionPetPhoto_Pet6_Empty'",
+          "base_ids": [
+            3141
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet7.img_FashionPetPhoto_Pet7'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet7_Empty.img_FashionPetPhoto_Pet7_Empty'",
+          "base_ids": [
+            3350
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet5.img_FashionPetPhoto_Pet5'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet5_Empty.img_FashionPetPhoto_Pet5_Empty'",
+          "base_ids": [
+            3063
+          ]
+        }
+      ]
+    },
+    "4400002": {
+      "id": 4400002,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+      "goods_type": 1,
+      "goods_id": 1002145,
+      "goods_count": 1,
+      "package_id1": 10701,
+      "package_id2": 10702,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo2.img_FashionPetPhoto_Photo2'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet3.img_FashionPetPhoto_Pet3'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet3_Empty.img_FashionPetPhoto_Pet3_Empty'",
+          "base_ids": [
+            3439,
+            3441
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet4.img_FashionPetPhoto_Pet4'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet4_Empty.img_FashionPetPhoto_Pet4_Empty'",
+          "base_ids": [
+            3192
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet1.img_FashionPetPhoto_Pet1'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet1_Empty.img_FashionPetPhoto_Pet1_Empty'",
+          "base_ids": [
+            3123
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet2.img_FashionPetPhoto_Pet2'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet2_Empty.img_FashionPetPhoto_Pet2_Empty'",
+          "base_ids": [
+            3405,
+            3482
+          ]
+        }
+      ]
+    },
+    "4400003": {
+      "id": 4400003,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+      "goods_type": 1,
+      "goods_id": 1002146,
+      "goods_count": 1,
+      "package_id1": 10901,
+      "package_id2": 10902,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo3.img_FashionPetPhoto_Photo3'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet8.img_FashionPetPhoto_Pet8'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet8_Empty.img_FashionPetPhoto_Pet8_Empty'",
+          "base_ids": [
+            3368
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet9.img_FashionPetPhoto_Pet9'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet9_Empty.img_FashionPetPhoto_Pet9_Empty'",
+          "base_ids": [
+            3120
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet10.img_FashionPetPhoto_Pet10'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet10_Empty.img_FashionPetPhoto_Pet10_Empty'",
+          "base_ids": [
+            3380
+          ]
+        }
+      ]
+    },
+    "4400004": {
+      "id": 4400004,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+      "goods_type": 1,
+      "goods_id": 1002143,
+      "goods_count": 1,
+      "package_id1": 10601,
+      "package_id2": 10602,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo4.img_FashionPetPhoto_Photo4'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet12.img_FashionPetPhoto_Pet12'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet12_Empty.img_FashionPetPhoto_Pet12_Empty'",
+          "base_ids": [
+            3035
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet14.img_FashionPetPhoto_Pet14'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet14_Empty.img_FashionPetPhoto_Pet14_Empty'",
+          "base_ids": [
+            3031
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet11.img_FashionPetPhoto_Pet11'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet11_Empty.img_FashionPetPhoto_Pet11_Empty'",
+          "base_ids": [
+            3252
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet13.img_FashionPetPhoto_Pet13'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet13_Empty.img_FashionPetPhoto_Pet13_Empty'",
+          "base_ids": [
+            3278
+          ]
+        }
+      ]
+    },
+    "4400005": {
+      "id": 4400005,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：{0}/{1}",
+      "goods_type": 1,
+      "goods_id": 1002149,
+      "goods_count": 1,
+      "package_id1": 11301,
+      "package_id2": 11302,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo5.img_FashionPetPhoto_Photo5'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet15.img_FashionPetPhoto_Pet15'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet15_Empty.img_FashionPetPhoto_Pet15_Empty'",
+          "base_ids": [
+            3216
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet17.img_FashionPetPhoto_Pet17'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet17_Empty.img_FashionPetPhoto_Pet17_Empty'",
+          "base_ids": [
+            3332,
+            3477
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet16.img_FashionPetPhoto_Pet16'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet16_Empty.img_FashionPetPhoto_Pet16_Empty'",
+          "base_ids": [
+            3619
+          ]
+        }
+      ]
+    },
+    "4400006": {
+      "id": 4400006,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：{0}/{1}",
+      "goods_type": 1,
+      "goods_id": 1002150,
+      "goods_count": 1,
+      "package_id1": 11201,
+      "package_id2": 11202,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo6.img_FashionPetPhoto_Photo6'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet21.img_FashionPetPhoto_Pet21'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet21_Empty.img_FashionPetPhoto_Pet21_Empty'",
+          "base_ids": [
+            3684
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet19.img_FashionPetPhoto_Pet19'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet19_Empty.img_FashionPetPhoto_Pet19_Empty'",
+          "base_ids": [
+            3709
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet20.img_FashionPetPhoto_Pet20'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet20_Empty.img_FashionPetPhoto_Pet20_Empty'",
+          "base_ids": [
+            3678
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet18.img_FashionPetPhoto_Pet18'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet18_Empty.img_FashionPetPhoto_Pet18_Empty'",
+          "base_ids": [
+            3489
+          ]
+        }
+      ]
+    },
+    "4400007": {
+      "id": 4400007,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：{0}/{1}",
+      "goods_type": 1,
+      "goods_id": 1002148,
+      "goods_count": 1,
+      "package_id1": 11101,
+      "package_id2": 11102,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo7.img_FashionPetPhoto_Photo7'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet23.img_FashionPetPhoto_Pet23'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet23_Empty.img_FashionPetPhoto_Pet23_Empty'",
+          "base_ids": [
+            3147
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet22.img_FashionPetPhoto_Pet22'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet22_Empty.img_FashionPetPhoto_Pet22_Empty'",
+          "base_ids": [
+            3241
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet24.img_FashionPetPhoto_Pet24'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet24_Empty.img_FashionPetPhoto_Pet24_Empty'",
+          "base_ids": [
+            3256
+          ]
+        }
+      ]
+    },
+    "4400008": {
+      "id": 4400008,
+      "part_name": "完成全部精灵拍照\n获得精灵合影",
+      "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：{0}/{1}",
+      "goods_type": 1,
+      "goods_id": 1002147,
+      "goods_count": 1,
+      "package_id1": 11001,
+      "package_id2": 11002,
+      "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo8.img_FashionPetPhoto_Photo8'",
+      "condition_group": [
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet26.img_FashionPetPhoto_Pet26'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet26_Empty.img_FashionPetPhoto_Pet26_Empty'",
+          "base_ids": [
+            3530
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet25.img_FashionPetPhoto_Pet25'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet25_Empty.img_FashionPetPhoto_Pet25_Empty'",
+          "base_ids": [
+            3100
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet27.img_FashionPetPhoto_Pet27'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet27_Empty.img_FashionPetPhoto_Pet27_Empty'",
+          "base_ids": [
+            3042,
+            3294,
+            3295,
+            3296
+          ]
+        },
+        {
+          "condition_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet28.img_FashionPetPhoto_Pet28'",
+          "unfinish_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Pet28_Empty.img_FashionPetPhoto_Pet28_Empty'",
+          "base_ids": [
+            3521
+          ]
+        }
+      ]
+    }
+  }
+}

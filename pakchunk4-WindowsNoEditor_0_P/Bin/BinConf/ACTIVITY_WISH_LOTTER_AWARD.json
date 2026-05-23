@@ -1,0 +1,85 @@
+{
+  "Name": "ACTIVITY_WISH_LOTTER_AWARD",
+  "Type": "EStruct",
+  "UniqueKey": "id",
+  "Properties": [
+    {
+      "Name": "id",
+      "Type": "EUint32",
+      "Offset": 0,
+      "Size": 4
+    },
+    {
+      "Name": "start_time",
+      "Type": "EString",
+      "Offset": 4,
+      "Size": 4,
+      "CompressedSize": 4
+    },
+    {
+      "Name": "condition_group",
+      "Type": "EStruct",
+      "Offset": 8,
+      "Size": 4,
+      "CompressedSize": 4,
+      "ArrayDim": 4,
+      "Struct": {
+        "Name": "ACTIVITY_WISH_LOTTER_AWARD.condition_group",
+        "Type": "EStruct",
+        "Properties": [
+          {
+            "Name": "goods_type",
+            "Type": "EInt32",
+            "Offset": 0,
+            "Size": 4
+          },
+          {
+            "Name": "goods_id",
+            "Type": "EUint32",
+            "Offset": 4,
+            "Size": 4
+          },
+          {
+            "Name": "goods_count",
+            "Type": "EUint32",
+            "Offset": 8,
+            "Size": 4
+          },
+          {
+            "Name": "goods_num",
+            "Type": "EUint32",
+            "Offset": 12,
+            "Size": 4
+          },
+          {
+            "Name": "goods_name",
+            "Type": "EString",
+            "Offset": 16,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "goods_tag",
+            "Type": "EString",
+            "Offset": 20,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "goods_describe",
+            "Type": "EString",
+            "Offset": 24,
+            "Size": 4,
+            "CompressedSize": 4
+          },
+          {
+            "Name": "goods_level",
+            "Type": "EUint32",
+            "Offset": 28,
+            "Size": 4
+          }
+        ]
+      }
+    }
+  ]
+}

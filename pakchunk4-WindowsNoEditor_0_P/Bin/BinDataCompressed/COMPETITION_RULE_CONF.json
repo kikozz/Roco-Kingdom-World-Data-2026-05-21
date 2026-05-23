@@ -1,0 +1,79 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "show_max": 5,
+      "next_round_prob": 2000
+    },
+    "2": {
+      "id": 2,
+      "show_max": 5,
+      "next_round_prob": 2000
+    },
+    "3": {
+      "id": 3,
+      "show_max": 5,
+      "next_round_prob": 2000
+    },
+    "4": {
+      "id": 4,
+      "show_max": 5,
+      "next_round_prob": 2500
+    },
+    "5": {
+      "id": 5,
+      "show_max": 5,
+      "next_round_prob": 2800
+    },
+    "6": {
+      "id": 6,
+      "show_max": 5,
+      "next_round_prob": 3000
+    },
+    "7": {
+      "id": 7,
+      "show_max": 5,
+      "next_round_prob": 3400
+    },
+    "8": {
+      "id": 8,
+      "show_max": 5,
+      "next_round_prob": 3750
+    },
+    "9": {
+      "id": 9,
+      "show_max": 5,
+      "next_round_prob": 4000
+    },
+    "10": {
+      "id": 10,
+      "show_max": 5,
+      "next_round_prob": 4200
+    },
+    "11": {
+      "id": 11,
+      "show_max": 5,
+      "next_round_prob": 4200
+    },
+    "12": {
+      "id": 12,
+      "show_max": 5,
+      "next_round_prob": 4200
+    },
+    "13": {
+      "id": 13,
+      "show_max": 5,
+      "next_round_prob": 4200
+    },
+    "14": {
+      "id": 14,
+      "show_max": 5,
+      "next_round_prob": 4200
+    },
+    "15": {
+      "id": 15,
+      "show_max": 5,
+      "next_round_prob": 4200
+    }
+  }
+}
